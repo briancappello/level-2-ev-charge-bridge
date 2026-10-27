@@ -1,0 +1,887 @@
+                                                                                                                                                    For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+What is a Cable Gland?
+A cable gland, commonly known as a cable connector or fitting,
+is a device designed to attach and secure the end of a cable
+to electrical equipment. Cable glands provide strain relief and
+typically seal out dust, dirt and even liquids.
+                                                                                                                             Pressure Dome
+Cable glands are generally used throughout a number of
+industries in conjunction with cable and wiring used in electrical
+instrumentation and automation systems. They may be used
+on all types of electrical power, control, instrumentation, data
+and telecommunications cables. A key function of cable glands
+is to seal and terminate electrical equipment to ensure that the                                                                                                                                Sealing Sleeve
+characteristics of the enclosure which the cable enters can be
+maintained.
+                                                                                                                                                                                            Pressure Fingers
+Typical Cable Gland Construction Materials:
+• Plastic
+• Brass
+                                                                                                                          Pressure Dome
+• Aluminium                                                                                                                   Thread
+• Stainless steel                                                                                                                                                                               External Thread
+Although cable glands are often called “connectors,” a technical
+distinction can be made in the terminology, which differentiates
+them from quick-disconnect, conducting electrical connectors.
+The distinction is often not made.                                                                                                                                                                  Washer
+                                                                                                                             Hex Nut
+                                                                                                                            (Locknut)
+
+
+
+                                          Assembling with hex nut on non threaded enclosure
+              CAP
+
+
+
+
+            BODY
+                                                                                                                                                                                  HEX NUT             H
+  ENCLOSURE                                                                        H                           e
+  H                               e                                                                                   H                         e
+                                               H                           e
+
+        H = e / Right                                H = e / Wrong                           H = e / Wrong                   H = e / Right                                  Relevant Hex Nut
+                                           Assembling with hex nut on threaded enclosure                                                                                    Thickness (mm)
+                                                                                                                                                                           Brass        ±0.5          Plastic
+                                                                                                                                                                            M12         2.8               –
+                                                                                                                                                                        PG7 to PG9      2.8               –
+                                                                                                                                                                            M16             3             –
+                                                                                                                                                                       PG11 to PG16         3             –
+                                                                                                                                                                            M20         3.5               –
+                                                                                                 H           e
+        H               e                              H                  e                                                       H             e
+
+
+        H = e / Right                                 H = e / Wrong                            H = e / Wrong                    H = e / Right                              PG21         3.5               –
+                                                                                                                                                                            M25             4             –
+ • The engaged thread length “e” must be equal or longer than relevant hex nut thickness “H”                                                                               PG29             4             –
+ • The thread dimensions and tolerances on threaded enclosures must coincide with the relevant
+                                                                                                                                                                        M32 to M50          5        M12 to M16
+   thread standard.
+                                                                                                                                                                       PG36 to PG42         5       PG7 to PG11
+ • The gland body must be mounted to the enclosure.
+ • The body or the hex nut must be tightened according to the recommended torque.                                                                                      NPT 3/8 to 1/2       5             –
+ • It is recommended that a double wrench be used for non-threaded enclosures.                                                                                             PG48         5.5               –
+ • For cable assembly, the cap must be tightened according to the recommended torque.                                                                                       M63             6        M29 to M40
+ • During cable assembly or disassembly, the gland body must be kept fixed. Utilize a double                                                                           NPT 3/4 to 1in       6
+                                                                                                                                                                                                     PG13.5 to
+   wrench for this purpose.                                                                                                                                                                           PG16
+                                                                                                                                                                             –              7        M32 to M40
+                                                                    NPT Thread Application                                                                                   –              7       NPT 3/8 to 1'
+                                                                                                                                                                             –              7      PG21 to PG29
+                                                                                                                                                                             –              8        M50 to M63
+                                                                                                                                                                             –              8      PG36 to PG48
+                        Complete                       Engagement
+
+                        thread length                  length
+
+                                                                            Conical thread
+                                                                          Lock nut
+                                                                     Enclosure
+                                        TIGHTENED HEX NUT              LOOSE HEX NUT              LOOSE CABLE GLAND       SAFE APPLICATION
+                                                                                                                          BAD APPEARANCE
+
+www.automationdirect.com                                                                                                                                       Wiring Solutions                  tWIR-141
+                                                                                                                 For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Standard Series Plastic Euro
+                                     Metric Thread Cable Glands
+Material                                                 Attachment Thread
+• Body: PA 6 (Polyamide 6)                                • EN 60423
+• Cap: PA 6 ( Polyamide 6)                               Body
+• Seal: CR (Chloroprene Rubber)                           • Manufactured according to
+                                                            the requirements of EN 50262
+                                                         Approvals
+Flammability                                              • UL Recognized or Listed File # E199260 *
+• V2 (According to UL 94)
+                                                          • CSA File # 190896
+                                                          • CE
+Protection Class
+• IP68 - 5 Bar [72.5 psi]
+
+
+Operating Temperature
+• Permanent: -20 to +100°C [-4 to +212°F]                  *Note: To obtain the most current agency
+                                                             approval information, see the Agency
+• Intermittent: -30 to +150°C [-22 to +302°F)
+                                                         Compliance & Certifications Checklist section
+                                                            on the specific part number’s web page.
+
+
+                                                    Plastic Euro Metric Thread Cable Glands
+                                                                                      Clamping           Recommended                            Dimensions
+                                                                         Thread                         Tightening Torque                         mm [in]
+    Light Gray        Price            Black          Price      Qty                   Range
+                                                                          Size
+                                                                                       mm [in]        N·m [lb·ft] Tolerance       SW       TL        H        D       TD
+                                                                                        3.0 - 6.5        2.0            ±0.5      15.0      8.0     22.0     17.1     12.0
+ BM-ENX-1S-W          $3.25         BM-ENX-2S-W       $3.25       5    M12 x 1.5mm
+                                                                                      [0.12 - 0.26]     [1.48]         [±0.37]   [0.59]   [0.31]   [0.87]   [0.67]   [0.47]
+                                                                                        4.0 - 8.0         2.5           ±0.5      19.0      8.0     25.0     21.6     16.0
+ BM-ENX-11-W          $3.25         BM-ENX-21-W       $3.25       5    M16 x 1.5mm
+                                                                                      [0.16 - 0.31]     [1.84]         [±0.37]   [0.75]   [0.31]   [0.98]   [0.85]   [0.63]
+                                                                                        6.0 -12.0         5.0          ±0.5       24.0     10.0     29.0     27.7     20.0
+ BM-ENX-12-W          $4.50         BM-ENX-22-W       $4.50       5    M20 x 1.5mm
+                                                                                      [0.24 - 0.47]     [3.69]        [±0.37]    [0.94]   [0.39]   [1.14]   [1.09]   [0.79]
+                                                                                       11.0 - 17.0       5.0            ±1.0      29.0      8.0     34.0     32.5     25.0
+ BM-ENX-13-W          $5.75         BM-ENX-23-W       $5.75       5    M25 x 1.5mm
+                                                                                      [0.43 - 0.67]     [3.69]         [±0.74]   [1.14]   [0.31]   [1.34]   [1.28]   [0.98]
+                                                                                       15.0 - 21.0       6.0            ±1.0      36.0     10.0     41.0     41.0     32.0
+ BM-ENX-14-W          $12.50        BM-ENX-24-W       $12.50      5    M32 x 1.5mm
+                                                                                      [0.59 - 0.86]     [4.43]         [±0.74]   [1.42]   [0.39]   [1.61]   [1.61]   [1.26]
+                                                                                       19.0 - 28.0       5.0            ±1.0      46.0     10.0     45.5     52.4     40.0
+ BM-ENX-15-W          $9.25         BM-ENX-25-W       $9.25       2    M40 x 1.5mm
+                                                                                      [0.74 - 1.10]     [3.69]         [±0.74]   [1.81]   [0.39]   [1.79]   [2.06]   [1.57]
+                                                                                       30.0 - 38.0        22            ±2.0      60.0     18.0     49.0     67.7     50.0
+ BM-ENX-16-W          $18.50        BM-ENX-26-W       $18.50      2    M50 x 1.5mm
+                                                                                      [1.18 - 1.50]     [16.23]        [±1.48]   [2.36]   [0.71]   [1.93]   [2.67]   [1.97]
+                                                                                       34.0 - 44.0        23            ±2.5      65.0     18.0     49.0     72.2     63.0
+ BM-ENX-17-W          $19.00        BM-ENX-27-W       $19.00      2    M63 x 1.5mm
+                                                                                      [1.34 - 1.73]     [16.96]        [±1.84]   [2.56]   [0.71]   [1.93]   [2.84]   [2.48]
+Note: Hex nut and washer included.
+
+
+                               D
+                                                          UL Part # Cross Reference
+                                                              UL Part Number      ADC Part Number
+                                                                 BM-EN-1S            BM-ENX-1S-W
+                                                                 BM-EN-11            BM-ENX-11-W
+                                                                 BM-EN-12            BM-ENX-12-W
+                                                                 BM-EN-13            BM-ENX-13-W
+                                                                 BM-EN-14            BM-ENX-14-W
+                                                                 BM-EN-15            BM-ENX-15-W
+                                               H                 BM-EN-16            BM-ENX-16-W
+                                                                 BM-EN-17            BM-ENX-17-W
+        SW                                                       BM-EN-2S            BM-ENX-2S-W
+                                                                 BM-EN-21            BM-ENX-21-W
+                                               TL                BM-EN-22            BM-ENX-22-W
+                               TD                                BM-EN-23            BM-ENX-23-W
+                                                                 BM-EN-24            BM-ENX-24-W
+                                                                 BM-EN-25            BM-ENX-25-W
+   See our website: www.AutomationDirect.com
+                                                                 BM-EN-26            BM-ENX-26-W
+       for complete engineering drawings
+                                                                 BM-EN-27            BM-ENX-27-W
+
+www.automationdirect.com                                                                                                    Wiring Solutions                tWIR-142
+                                                                                                             For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Standard Series Plastic
+                                     PG Thread Cable Glands
+Material                                              Attachment Thread
+• Body: PA 6 (Polyamide 6)                             • DIN 40430
+• Cap: PA 6 ( Polyamide 6)                            Body
+• Seal: CR (Chloroprene Rubber)                        • Manufactured according to
+                                                         the requirements of EN 50262
+                                                      Approvals
+Flammability                                           • UL Recognized or Listed File # E199260 *
+• V2 (According to UL 94)
+                                                       • CSA File # 190896
+                                                       • CE
+Protection Class
+• IP68 - 5 Bar [72.5 psi]
+
+
+Operating Temperature                                   *Note: To obtain the most current agency
+• Permanent: -20 to +100°C [-4 to +212°F]
+                                                          approval information, see the Agency
+• Intermittent: -30 to +150°C [-22 to +302°F]         Compliance & Certifications Checklist section
+                                                         on the specific part number’s web page.
+
+
+                                                     Plastic PG Thread Cable Glands
+                                                                       Clamping           Recommended
+                                                             Thread                                                             Dimensions – mm [in]
+  Light Gray      Price         Black       Price     Qty               Range            Tightening Torque
+                                                              Size
+                                                                        mm [in]        N·m [lb·ft]   Tolerance    SW            TL        H         D       TD
+                                                                         3.0 - 6.5         2.0         ±0.5       15.0           8.0     23.0      17.2     12.4
+ BMX-11-W         $3.25      BMX-21-W       $3.25     5       PG7
+                                                                       [0.12 - 0.26]      [1.48]      [±0.37]    [0.59]        [0.31]   [0.91]    [0.68]   [0.49]
+                                                                         4.0 - 8.0         2.5         ±0.5       19.0           8.0     26.5      21.9     15.1
+ BMX-12-W         $3.25      BMX-22-W       $3.25     5       PG9
+                                                                       [0.16 - 0.31]      [1.84]      [±0.37]    [0.75]        [0.31]   [1.04]    [0.86]   [0.59]
+                                                                         5.0 - 10.0        2.5         ±0.5       22.0           8.0     22.0      25.2     18.5
+ BMX-13-W         $3.25      BMX-23-W       $3.25     5      PG11
+                                                                       [0.20 - 0.39]      [1.84]      [±0.37]    [0.87]        [0.31]   [0.87]    [0.99]   [0.73]
+                                                                         6.0 -12.0         5.0         ±0.5       24.0          10.0     29.5      27.7     20.3
+ BMX-14-W         $4.50      BMX-24-W       $4.50     5      PG13.5
+                                                                       [0.24 - 0.47]      [3.69]      [±0.37]    [0.94]        [0.39]   [1.16]    [1.09]   [0.80]
+                                                                        10.0 - 14.0        5.5         ±0.5       27.0          10.0     32.5      31.0     22.5
+ BMX-15-W         $5.25      BMX-25-W       $5.25     5      PG16
+                                                                       [0.39 - 0.55]      [4.06]      [±0.37]    [1.06]        [0.39]   [1.28]    [1.22]   [0.89]
+                                                                        13.0 - 18.0        5.5         ±0.5       33.0          11.0     35.0      37.2     28.1
+ BMX-16-W         $6.25      BMX-26-W       $5.75     5      PG21
+                                                                       [0.51 - 0.71]      [4.06]      [±0.37]    [1.30]        [0.43]   [1.38]    [1.46]   [1.11]
+                                                                        18.0 - 25.0        7.5         ±0.5       42.0          11.0     42.0      47.2     37.0
+ BMX-17-W         $13.00     BMX-27-W       $13.00    5      PG29
+                                                                       [0.71 - 0.98]      [5.53]      [±0.37]    [1.65]        [0.43]   [1.65]    [1.86]   [1.46]
+                                                                        22.0 - 32.0       15.0         ±0.5       53.0          13.0     52.0      60.0     46.8
+ BMX-18-W         $27.00     BMX-28-W       $27.00    2      PG36
+                                                                       [0.87 - 1.26]     [11.06]      [±0.37]    [2.09]        [0.51]   [2.05]    [2.36]   [1.84]
+                                                                        30.0 - 38.0       18.0         ±1.0       60.0          13.0     54.5      67.7     54.0
+ BMX-19-W         $18.50     BMX-29-W       $18.50    2      PG42
+                                                                       [1.18 - 1.50]     [13.28]      [±0.74]    [2.36]        [0.51]   [2.15]    [2.67]   [2.13]
+                                                                        34.0 - 44.0       20.0         ±1.0       65.0          14.0     54.5      72.2     59.0
+ BMX-20-W         $19.00     BMX-30-W       $19.00    2      PG48
+                                                                       [1.34 - 1.73]     [14.75]      [±0.74]    [2.56]        [0.55]   [2.15]    [2.84]   [2.32]
+Note: Hex nut and washer included.
+
+                                                                                                                          D
+
+
+               UL Part # Cross Reference
+ UL Part Number     ADC Part Number     UL Part Number ADC Part Number
+     BS-11                BMX-11-W          BS-21           BMX-21-W
+     BS-12                BMX-12-W          BS-22           BMX-22-W
+     BS-13                BMX-13-W          BS-23           BMX-23-W
+     BS-14                BMX-14-W          BS-24           BMX-24-W                                                                          H
+     BS-15                BMX-15-W          BS-25           BMX-25-W
+     BS-16                BMX-16-W          BS-26           BMX-26-W                                 SW
+
+     BS-17                BMX-17-W          BS-27           BMX-27-W
+     BS-18                BMX-18-W          BS-28           BMX-28-W                                                                       TL
+
+     BS-19                BMX-19-W          BS-29           BMX-29-W                                                      TD
+
+     BS-20                BMX-20-W          BS-30           BMX-30-W
+                                                                                               See our website: www.AutomationDirect.com
+                                                                                                   for complete Engineering drawings
+
+www.automationdirect.com                                                                                                  Wiring Solutions                 tWIR-143
+                                                                                                            For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Standard Series Plastic
+                                     NPT Thread Cable Glands
+Material                                                Body
+• Body: PA 6 (Polyamide 6)                               • Manufactured according to
+• Cap: PA 6 ( Polyamide 6)                                 the requirements of EN 50262
+• Seal: CR (Chloroprene Rubber)                         Approvals
+                                                         • UL Recognized or Listed File # E199260 *
+                                                         • CSA File # 190896
+Flammability                                             • CE
+• V2 (According to UL 94)
+
+
+Protection Class
+• IP68 - 5 Bar [72.5 psi]
+Operating Temperature
+• Permanent: -20 to +100°C [-4 to +212°F]                  *Note: To obtain the most current agency
+• Intermittent: -30 to +150°C [-22 to +302°F]                approval information, see the Agency
+                                                         Compliance & Certifications Checklist section
+Attachment Thread                                           on the specific part number’s web page.
+• ANSI B 1.20.1
+
+
+
+
+                                                    Plastic NPT Thread Cable Glands
+                                                                               Clamping          Recommended                              Dimensions
+                                                                   Thread                       Tightening Torque                           mm [in]
+   Light Gray       Price            Black      Price      Qty                  Range
+                                                                    Size
+                                                                                mm [in]       N·m [lb·ft]    Tolerance      SW       TL        H        D       TD
+                                                                                5.0 - 10.0        2.5           ±0.5        22.0     15.0     29.0     25.1     17.1
+ BSPAX-11-W         $5.75       BSPAX-21-W      $5.75       5     NPT 3/8in
+                                                                              [0.20 - 0.39]      [1.84]        [±0.37]     [0.87]   [0.59]   [1.14]   [0.99]   [0.67]
+                                                                                6.0 -12.0         4.0           ±0.5        23.9     15.0     30.5     27.7     21.3
+ BSPBX-12-W         $7.50       BSPBX-22-W      $7.50       5     NPT 1/2in
+                                                                              [0.24 - 0.47]      [2.95]        [±0.37]     [0.94]   [0.59]   [1.20]   [1.09]   [0.84]
+                                                                               10.0 - 14.0        5.0           ±0.5        27.0     15.0     32.1     31.0     21.3
+ BSPCX-12-W         $10.00      BSPCX-22-W      $10.00      5     NPT 1/2in
+                                                                              [0.39 - 0.55]      [3.69]        [±0.37]     [1.06]   [0.59]   [1.26]   [1.22]   [0.84]
+                                                                               13.0 - 18.0        5.5           ±0.5        33.0     15.0     35.4     37.2     26.7
+ BSPDX-13-W         $11.50      BSPDX-23-W      $11.50      5     NPT 3/4in
+                                                                              [0.51 - 0.71]      [4.06]        [±0.37]     [1.30]   [0.59]   [1.39]   [1.46]   [1.05]
+                                                                               18.0 - 25.0        7.5           ±0.5        41.9     18.0     40.5     47.5     33.4
+  BSPX-14-W         $23.50      BSPX-24-W       $23.50      5      NPT 1in
+                                                                              [0.71 - 0.98]     [5.53]         [±0.37]     [1.65]   [0.71]   [1.59]   [1.87]   [1.31]
+Note: Hex nut and washer included.
+
+
+
+
+ UL Part # Cross Reference                                                                          D
+
+
+   UL Part Number           ADC Part Number
+       BSPA-11                BSPAX-11-W
+      BSPB-12                 BSPBX-12-W
+      BSPC-12                 BSPCX-12-W
+      BSPD-13                 BSPDX-13-W
+       BSP-14                 BSPX-14-W
+                                                                                                                     H
+       BSPA-21                BSPAX-21-W
+      BSPB-22                 BSPBX-22-W
+                                                                              SW
+      BSPC-22                 BSPCX-22-W
+      BSPD-23                 BSPDX-23-W
+                                                                                                                     TL
+       BSP-24                 BSPX-24-W
+                                                                                                   TD
+
+
+
+                                                                              See our website: www.AutomationDirect.com
+                                                                                  for complete Engineering drawings
+
+
+
+
+www.automationdirect.com                                                                                                  Wiring Solutions              tWIR-144
+                                                                                                         For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Protection Series Plastic Metric
+                                     Thread Cable Glands
+Material                                          Attachment Thread
+• Body: PA 6 (Polyamide 6)                         • EN 60423
+• Cap: PA 6 ( Polyamide 6)                        Body
+• Seal: CR (Chloroprene Rubber)                    • Manufactured according to
+                                                     the requirements of EN 50262
+• Locknut: PA 6 (Polyamide 6), 30% glass fiber
+  reinforced                                      Approvals
+                                                   • UL Recognized or Listed File # E199260 *
+                                                   • CSA File # 190896
+Flammability
+                                                   • CE
+• V2 (According to UL 94)
+
+
+Protection Class
+• IP68 - 5 Bar [72.5 psi]
+
+                                                    *Note: To obtain the most current agency
+Operating Temperature                                 approval information, see the Agency
+• Permanent: -20 to +100°C [-4 to +212°F]         Compliance & Certifications Checklist section
+  Intermittent: -30 to +150°C [-22 to +302°F]        on the specific part number’s web page.
+
+
+
+
+                        Cable Protection Series Plastic Metric Thread Strain Relief Cable Glands
+                                                                                    Clamping               Recommended                          Dimensions
+                                                                    Thread                                Tightening Torque                       mm [in]
+    Light Gray        Price            Black     Price    Qty                        Range
+                                                                     Size
+                                                                                     mm [in]           N·m [lb·ft]     Tolerance   SW      TL       H        D   TD
+                                                                                     3.0 - 6.5             2.0           ±0.5       15.0 8.0 56.0 17.1 12.0
+ BMSPX-1S-W           $5.75        BMSPX-2S-W    $5.75     5     M12 x 1.5mm
+                                                                                   [0.12 - 0.26]          [1.48]        [±0.37]    [0.59] [0.31] [2.20] [0.67] [0.47]
+                                                                                     5.0 - 10.0            2.5           ±0.5       22.0 10.0 81.5 25.0 16.0
+ BMSPX-11-W           $6.25        BMSPX-21-W    $6.25     5     M16 x 1.5mm
+                                                                                   [0.20 - 0.39]          [1.84]        [±0.37]    [0.87] [0.39] [3.21] [0.98] [0.63]
+                                                                                    10.0 - 14.0            5.5           ±0.5       27.0 10.0 106.5 30.8 20.0
+ BMSPX-13-W           $11.50       BMSPX-23-W    $11.50    5     M20 x 1.5mm
+                                                                                   [0.39 - 0.55]          [4.06]        [±0.37]    [1.06] [0.39] [4.19] [1.21] [0.79]
+                                                                                    13.0 - 18.0            8.0           ±0.5       33.0 10.0 117.0 37.8 25.0
+ BMSPX-15-W           $16.50       BMSPX-25-W    $15.50    5     M25 x 1.5mm
+                                                                                   [0.51 - 0.71]         [5.90]         [±0.37]    [1.30] [0.39] [4.61] [1.49] [0.98]
+Note: Hex nut and washer included.
+                                                                                                   D
+
+
+
+ UL Part # Cross Reference
+   UL Part Number           ADC Part Number
+      BMSP-1S                 BMSPX-1S-W
+      BMSP-11                 BMSPX-11-W
+      BMSP-13                 BMSPX-13-W
+      BMSP-15                 BMSPX-15-W
+      BMSP-2S                 BMSPX-2S-W
+      BMSP-21                 BMSPX-21-W
+      BMSP-23                 BMSPX-23-W                                                                          H
+      BMSP-25                 BMSPX-25-W
+
+
+
+
+                                                                             SW
+
+
+                                                                                                                  TL
+
+                                                                                               TD
+                                                 See our website: www.AutomationDirect.com
+                                                     for complete Engineering drawings
+
+www.automationdirect.com                                                                                               Wiring Solutions                 tWIR-145
+                                                                                                                      For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Protection Series Plastic PG
+                                     Thread Cable Glands
+Material                                                 Attachment Thread
+• Body: PA 6 (Polyamide 6)                                • EN 60423
+• Cap: PA 6 ( Polyamide 6)                               Body
+• Seal: CR (Chloroprene Rubber)                           • Manufactured according to
+                                                            the requirements of EN 50262
+• Locknut: PA 6 (Polyamide 6), 30% glass fiber
+  reinforced                                             Approvals
+                                                          • UL Recognized or Listed File # E199260 *
+                                                          • CSA File # 190896
+Flammability
+                                                          • CE
+• V2 (According to UL 94)
+
+
+Protection Class
+• IP68 - 5 Bar [72.5 psi]
+
+                                                             *Note: To obtain the most current agency
+Operating Temperature                                          approval information, see the Agency
+• Permanent: -20 to +100°C [-4 to +212°F]                  Compliance & Certifications Checklist section
+• Intermittent: -30 to +150°C [-22 to +302°F]                 on the specific part number’s web page.
+
+
+
+                              Cable Protection Series Plastic PG Thread Strain Relief Cable Glands
+                                                                                        Clamping              Recommended                              Dimensions
+                                                                          Thread                             Tightening Torque                           mm [in]
+   Light Gray         Price            Black             Price     Qty                   Range
+                                                                           Size
+                                                                                         mm [in]        N·m [lb·ft]        Tolerance     SW       TL        H        D       TD
+                                                                                          3.0 - 6.5           2.0             ±0.5       15.0      8.0     56.0     12.4     12.4
+ BSSPX-11-W           $4.50        BSSPX-21-W           $4.50       5       PG7
+                                                                                        [0.12 - 0.26]        [1.48]          [±0.37]    [0.59]   [0.31]   [2.20]   [0.49]   [0.49]
+                                                                                          4.0 - 8.0           2.5            ±0.5        19.0      8.0     69.0     15.1     15.1
+ BSSPX-12-W           $5.00        BSSPX-22-W           $5.00       5       PG9
+                                                                                        [0.16 - 0.31]        [1.84]         [±0.37]     [0.75]   [0.31]   [2.72]   [0.59]   [0.59]
+                                                                                          5.0 - 10.0          2.5             ±0.5       22.0      8.0     82.5     18.5     18.5
+ BSSPX-13-W           $5.75        BSSPX-23-W           $5.50       5      PG11
+                                                                                        [0.20 - 0.39]        [1.84]          [±0.37]    [0.87]   [0.31]   [3.25]   [0.73]   [0.73]
+                                                                                          6.0 -12.0           5.0             ±0.5       24.0      9.0     94.0     27.8     20.3
+ BSSPX-14-W           $6.25        BSSPX-24-W           $6.25       5     PG13.5
+                                                                                        [0.24 - 0.47]        [3.69]          [±0.37]    [0.94]   [0.35]   [3.70]   [1.09]   [0.80]
+                                                                                         10.0 - 14.0          5.5             ±0.5       27.0     10.0    106.0     31.1     22.5
+ BSSPX-15-W           $10.50       BSSPX-25-W           $10.50      5      PG16
+                                                                                        [0.39 - 0.55]        [4.06]          [±0.37]    [1.06]   [0.39]   [4.17]   [1.22]   [0.89]
+                                                                                         13.0 - 18.0          5.5            ±0.5        33.0     11.0    117.0     37.8     28.1
+ BSSPX-16-W           $13.50       BSSPX-26-W           $13.50      5      PG21
+                                                                                        [0.51 - 0.71]       [4.06]          [±0.37]     [1.30]   [0.43]   [4.61]   [1.49]   [1.11]
+Note: Hex nut and washer included.
+
+                                                                                              D
+
+ UL Part # Cross Reference
+   UL Part Number           ADC Part Number
+       BSSP-11                 BSSPX-11-W
+      BSSP-12                  BSSPX-12-W
+      BSSP-13                  BSSPX-13-W
+      BSSP-14                  BSSPX-14-W
+      BSSP-15                  BSSPX-15-W
+      BSSP-16                  BSSPX-16-W
+      BSSP-21                  BSSPX-11-W
+                                                                                                        H
+      BSSP-22                  BSSPX-12-W
+      BSSP-23                  BSSPX-13-W
+      BSSP-24                  BSSPX-14-W
+      BSSP-25                  BSSPX-15-W
+      BSSP-26                  BSSPX-16-W
+                                                                         SW
+
+
+                                                                                                        TL
+
+                                            See our website: www.AutomationDirect.com        TD
+                                                for complete Engineering drawings
+
+www.automationdirect.com                                                                                                         Wiring Solutions                  tWIR-146
+                                                                                                                For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Protection Series Plastic NPT
+                                     Thread Cable Glands
+ Material                                             Attachment Thread
+  • Body: PA 6 (Polyamide 6)                           • ANSI B 1.20.1
+  • Cap: PA 6 ( Polyamide 6)                          Body
+  • Seal: CR (Chloroprene Rubber)                      • Manufactured according to
+                                                         the requirements of EN 50262
+  • Locknut: PA 6 (Polyamide 6), 30% glass fiber
+    reinforced                                        Approvals
+                                                       • Recognized or Listed File # E199260 *
+                                                       • CSA File # 190896
+ Flammability
+                                                       • CE
+  • V2 (According to UL 94)
+
+
+ Protection Class
+  • IP68 - 5 Bar [72.5 psi]
+                                                        *Note: To obtain the most current agency
+ Operating Temperature                                    approval information, see the Agency
+  • Permanent: -20 to +100°C [-4 to +212°F]           Compliance & Certifications Checklist section
+                                                         on the specific part number’s web page.
+  • Intermittent: -30 to +150°C [-22 to +302°F]
+
+
+
+
+                                      Cable Protection Series Plastic NPT Thread Cable Glands
+                                                                                     Clamping           Recommended                              Dimensions
+                                                                       Thread                          Tightening Torque                           mm [in]
+    Light Gray          Price           Black          Price    Qty                   Range
+                                                                        Size
+                                                                                      mm [in]       N·m [lb·ft]      Tolerance     SW       TL        H         D       TD
+                                                                                      5.0 - 10.0        2.5             ±0.5       22.0     15.0     80.4      25.3     17.1
+ BNSPAX-11-W           $7.50         BNSPAX-21-W      $7.50      5    NPT 3/8in
+                                                                                    [0.20 - 0.39]      [1.84]          [±0.37]    [0.87]   [0.59]   [3.17]    [1.00]   [0.67]
+                                                                                      6.0 -12.0         4.0             ±0.5       24.0     15.0     94.7      27.6     21.3
+ BNSPBX-12-W           $10.50        BNSPBX-22-W      $10.50     5    NPT 1/2in
+                                                                                    [0.24 - 0.47]      [2.95]          [±0.37]    [0.94]   [0.59]   [3.73]    [1.09]   [0.84]
+                                                                                     13.0 - 18.0        5.5             ±0.5       33.0     15.0    117.4      37.8     26.1
+ BNSPDX-13-W           $16.50        BNSPDX-23-W      $16.50     5    NPT 3/4in
+                                                                                    [0.51 - 0.71]      [4.06]          [±0.37]    [1.30]   [0.59]   [4.62]    [1.49]   [1.03]
+Note: Hex nut and washer included.
+
+                                                                                                       D
+
+
+
+
+ UL Part # Cross Reference
+   UL Part Number         ADC Part Number
+      BNSPA-11                BNSPAX-11-W
+      BNSPB-12                BNSPBX-12-W
+      BNSPD-13                BNSPDX-13-W
+      BNSPA-21                BNSPAX-21-W
+      BNSPB-22                BNSPBX-22-W
+      BNSPD-23                BNSPDX-23-W
+                                                                                                                      H
+
+
+
+
+                                                                                    SW
+
+
+                                                                                                                      TL
+
+                                                                                                      TD
+                                        See our website: www.AutomationDirect.com
+                                            for complete Engineering drawings
+
+
+
+www.automationdirect.com                                                                                                   Wiring Solutions                  tWIR-147
+                                                                                                            For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                     Brass Metric Thread Cable Glands
+Material                                             Attachment Thread
+• Body: Brass nickel-plated                           • EN 60423
+• Cap: Brass nickel-plated                           Body
+• Seal: CR (Chloroprene Rubber)                       • Manufactured according to
+                                                        the requirements of EN 50262
+• Clamp insert: PA 6 (Polyamide 6)
+• O-ring: NBR                                        Approvals
+                                                      • UL Recognized or Listed File # E199260 *
+                                                      • CSA File # 190896
+Flammability                                          • CE
+• V2 (According to UL 94)
+
+
+Protection Class
+• IP68 - 5 Bar (72.5 psi)
+                                                          *Note: To obtain the most current agency
+                                                            approval information, see the Agency
+Operating Temperature                                   Compliance & Certifications Checklist section
+• Permanent: -20 to +100°C [-4 to +212°F]                  on the specific part number’s web page.
+• Intermittent: -40 to +150°C [-40 to +302°F]
+
+
+
+
+                                                Brass Metric Thread Cable Glands
+                                                                           Recommended                                Dimensions
+                                       Thread      Clamping Range         Tightening Torque                             mm [in]
+Part Number       Price      Qty
+                                        Size           mm [in]
+                                                                       N·m [lb·ft]    Tolerance    SW1      SW2       TL        H        D       TD
+                                                        3.0 - 6.5          5.0          ±0.5        14.0     14.0      6.0     21.5     15.5     12.0
+BMBCX-ES          $13.50      5      M12 x 1.5mm
+                                                      [0.12 - 0.26]       [3.69]       [±0.37]     [0.55]   [0.55]   [0.24]   [0.85]   [0.61]   [0.47]
+                                                        5.0 - 10.0         9.0           ±0.5       17.0     18.0      7.0     23.0     18.9     16.0
+BMBCX-E1          $18.00      5      M16 x 1.5mm
+                                                      [0.20 - 0.39]       [6.64]        [±0.37]    [0.67]   [0.71]   [0.28]   [0.91]   [0.74]   [0.63]
+                                                        6.0 -12.0          11.0          ±1.0       22.0     22.0      8.0     25.0     26.8     20.0
+BMBCX-E2          $24.50      5      M20 x 1.5mm
+                                                      [0.24 - 0.47]       [8.11]        [±0.74]    [0.87]   [0.87]   [0.31]   [0.98]   [1.06]   [0.79]
+                                                       11.0 - 17.0         14.0          ±1.0       24.0     27.0      8.0     28.0     26.8     25.0
+BMBCX-E3          $28.50      5      M25 x 1.5mm
+                                                      [0.43 - 0.67]      [10.33]        [±0.74]    [0.94]   [1.06]   [0.31]   [1.10]   [1.06]   [0.98]
+                                                       15.0 - 21.0        15.0           ±1.0       30.0     34.0      9.0     33.0     37.5     32.0
+BMBCX-E4          $46.50      5      M32 x 1.5mm
+                                                      [0.59 - 0.86]      [11.06]        [±0.74]    [1.18]   [1.34]   [0.35]   [1.30]   [1.48]   [1.26]
+                                                       19.0 - 28.0        17.0           ±1.0       40.0     43.0      9.0     38.0     48.5     40.0
+BMBCX-E5          $30.50      2      M40 x 1.5mm
+                                                      [0.74 - 1.10]      [12.54]        [±0.74]    [1.57]   [1.69]   [0.35]   [1.50]   [1.91]   [1.57]
+                                                       27.0 - 38.0         30.0          ±1.5       50.0     55.0      9.0     48.0     61.0     50.0
+BMBCX-E6          $56.00      2      M50 x 1.5mm
+                                                      [1.06 - 1.50]      [22.13]        [±1.11]    [1.97]   [2.17]   [0.35]   [1.89]   [2.40]   [1.97]
+                                                       34.0 - 44.0         55.0          ±2.0       64.0     68.0     14.0     54.0     75.0     63.0
+BMBCX-E7         $103.00      2      M63 x 1.5mm
+                                                      [1.34 - 1.73]      [40.57]        [±1.48]    [2.52]   [2.68]   [0.55]   [2.13]   [2.95]   [2.48]
+Note: Hex nut and washer included.
+
+                                                                                              D
+
+ UL Part # Cross Reference
+   UL Part Number           ADC Part Number
+      BMBC-ES                 BMBCX-ES
+      BMBC-E1                  BMBCX-E1
+      BMBC-E2                  BMBCX-E2                                 SW1
+
+      BMBC-E3                  BMBCX-E3                                                                         H
+      BMBC-E4                  BMBCX-E4                                 SW2
+
+      BMBC-E5                  BMBCX-E5
+      BMBC-E6                  BMBCX-E6
+      BMBC-E7                  BMBCX-E7                                                                        TL
+
+
+                                                                                              TD
+
+
+                                                See our website: www.AutomationDirect.com
+                                                    for complete Engineering drawings
+
+www.automationdirect.com                                                                                                   Wiring Solutions              tWIR-148
+                                                                                                                  For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                      Brass PG Thread Cable Glands
+Material                                                 Attachment Thread
+• Body: Brass nickel-plated                               • DIN 40430
+• Cap: Brass nickel-plated                               Body
+• Seal: CR (Chloroprene Rubber)                           • Manufactured according to
+                                                            the requirements of EN 50262
+• Clamp insert: PA 6 (Polyamide 6)
+• O-ring: NBR                                            Approvals
+                                                          • UL Recognized or Listed File # E199260 *
+                                                          • CSA File # 190896
+Flammability                                              • CE
+• V2 (According to UL 94)
+
+
+Protection Class
+• IP68 - 5 Bar (72.5 psi)
+                                                              *Note: To obtain the most current agency
+                                                                approval information, see the Agency
+Operating Temperature                                       Compliance & Certifications Checklist section
+• Permanent: -20 to +100°C [-4 to +212°F]                      on the specific part number’s web page.
+• Intermittent: -40 to +150°C [-40 to +302°F]
+
+
+                                                Brass PG Thread Cable Glands
+                                                                         Recommended                                  Dimensions
+                                       Thread   Clamping Range          Tightening Torque                               mm [in]
+ Part Number         Price      Qty
+                                        Size        mm [in]
+                                                                    N·m [lb·ft]    Tolerance     SW1     SW2           TL       H        D       TD
+                                                    3.0 - 6.5            5.0          ±0.5       14.0     14.0         6.0     22.0     15.5     12.5
+ BSBCX-01            $13.50      5      PG7
+                                                  [0.12 - 0.26]         [3.69]       [±0.37]    [0.55]   [0.55]      [0.24]   [0.87]   [0.61]   [0.49]
+                                                    4.0 - 8.0            5.5          ±0.5       17.0     17.0         6.0     23.5     18.9     15.2
+ BSBCX-02            $15.50      5      PG9
+                                                  [0.16 - 0.31]         [4.06]       [±0.37]    [0.67]   [0.67]      [0.24]   [0.93]   [0.74]   [0.60]
+                                                    5.0 - 10.0          7.0          ±0.5        20.0     20.0         6.0     26.0     22.0     18.6
+ BSBCX-03            $19.00      5      PG11
+                                                  [0.20 - 0.39]       [5.16]        [±0.37]     [0.79]   [0.79]      [0.24]   [1.02]   [0.87]   [0.73]
+                                                    6.0 -12.0            8.0          ±1.0       22.0     22.0         6.5     24.5     24.5     20.4
+ BSBCX-04            $22.00      5     PG13.5
+                                                  [0.24 - 0.47]         [5.90]       [±0.74]    [0.87]   [0.87]      [0.26]   [0.96]   [0.96]   [0.80]
+                                                   10.0 - 14.0           11.0         ±1.0       24.0     24.0         6.5     28.0     26.8     22.5
+ BSBCX-05            $24.50      5      PG16
+                                                  [0.39 - 0.55]         [8.11]       [±0.74]    [0.94]   [0.94]      [0.26]   [1.10]   [1.06]   [0.89]
+                                                   13.0 - 18.0         17.0           ±1.0       30.0     30.0         7.2     32.5     33.0     28.3
+ BSBCX-06            $39.00      5      PG21
+                                                  [0.51 - 0.71]       [12.54]        [±0.74]    [1.18]   [1.18]      [0.28]   [1.28]   [1.30]   [1.11]
+                                                   18.0 - 25.0         22.0           ±1.0       40.0     40.0         8.0     38.5     44.5     37.0
+ BSBCX-07            $63.00      5      PG29
+                                                  [0.71 - 0.98]       [16.23]        [±0.74]    [1.57]   [1.57]      [0.31]   [1.52]   [1.75]   [1.46]
+                                                   22.0 - 32.0         40.0           ±1.5       50.0     50.0         9.0     48.0     55.5     47.0
+ BSBCX-08            $46.50      2      PG36
+                                                  [0.87 - 1.26]       [29.50]        [±1.11]    [1.97]   [1.97]      [0.35]   [1.89]   [2.19]   [1.85]
+                                                   30.0 - 38.0          45.0          ±2.0       58.0     58.0        12.0     48.5     64.0     54.0
+ BSBCX-09            $75.00      1      PG42
+                                                  [1.18 - 1.50]       [33.19]        [±1.48]    [2.28]   [2.28]      [0.47]   [1.91]   [2.51]   [2.13]
+                                                   34.0 - 44.0         50.0           ±2.0       64.0     64.0        14.0     53.0     70.0     59.3
+ BSBCX-10            $99.00      1      PG48
+                                                  [1.34 - 1.73]       [36.88]        [±1.48]    [2.52]   [2.52]      [0.55]   [2.09]   [2.76]   [2.33]
+ Note: Hex nut and washer included.
+                                                                                        D
+
+  UL Part # Cross Reference
+    UL Part Number            ADC Part Number
+        BSBC-01                  BSBCX-01
+        BSBC-02                  BSBCX-02
+        BSBC-03                  BSBCX-03                         SW1
+        BSBC-04                  BSBCX-04
+                                                                                                              H
+        BSBC-05                  BSBCX-05
+                                                                  SW2
+        BSBC-06                  BSBCX-06
+        BSBC-07                  BSBCX-07
+        BSBC-08                  BSBCX-08
+                                                                                                          TL
+        BSBC-09                  BSBCX-09
+        BSBC-10                  BSBCX-10                                              TD
+
+                                                                  See our website: www.AutomationDirect.com
+                                                                      for complete Engineering drawings
+www.automationdirect.com                                                                                                      Wiring Solutions            tWIR-149
+                                                                                                               For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                      Brass NPT Thread Cable Glands
+ Material                                             Attachment Thread
+  • Body: Brass nickel-plated                          • ANSI B 1.20.1
+  • Cap: Brass nickel-plated                          Body
+  • Seal: CR (Chloroprene Rubber)                      • Manufactured according to
+                                                         the requirements of EN 50262
+  • Clamp insert: PA 6 (Polyamide 6)
+  • O-ring: NBR                                       Approvals
+                                                       • UL Recognized or Listed File # E199260 *
+ Flammability                                          • CSA File # 190896
+  • V2 (According to UL 94)
+                                                       • CE
+ Protection Class
+  • IP68 - 5 Bar [72.5 psi]
+ Operating Temperature
+  • Permanent: -20 to +100°C [-4 to +212°F]
+  • Intermittent: -40 to +150°C [-40 to                      *Note: To obtain the most current agency
+    +302°F)                                                    approval information, see the Agency
+                                                           Compliance & Certifications Checklist section
+                                                              on the specific part number’s web page.
+
+
+
+
+                                                   Brass NPT Thread Cable Glands
+                                                                             Recommended                                 Dimensions
+                                          Thread     Clamping Range         Tightening Torque                              mm [in]
+Part Number         Price       Qty
+                                           Size          mm [in]
+                                                                         N·m [lb·ft]      Tolerance   SW1      SW2       TL        H        D       TD
+                                                         4.0 - 8.0           6.5            ±0.5       17.0     19.0     11.5     23.0     21.0     16.8
+BNBCX-01            $27.50      5        NPT 3/8in
+                                                       [0.16 - 0.31]        [4.79]         [±0.37]    [0.67]   [0.75]   [0.45]   [0.91]   [0.83]   [0.66]
+                                                         6.0 -12.0          17.5            ±0.5       22.0     22.0     13.0     25.5     24.5     20.9
+BNBCX-02            $33.00      5        NPT 1/2in
+                                                       [0.24 - 0.47]       [12.91]         [±0.37]    [0.87]   [0.87]   [0.51]   [1.00]   [0.96]   [0.82]
+                                                        13.0 - 18.0          18.0           ±0.5       30.0     30.0     13.0     35.5     33.0     26.2
+BNBCX-03            $55.00      5        NPT 3/4in
+                                                       [0.51 - 0.71]       [13.28]         [±0.37]    [1.18]   [1.18]   [0.51]   [1.40]   [1.30]   [1.03]
+                                                        18.0 - 25.0         40.0            ±1.0       40.0     40.0     13.0     43.0     44.5     32.8
+BNBCX-04           $113.00      5        NPT 1in
+                                                       [0.71 - 0.98]       [29.50]         [±0.74]    [1.57]   [1.57]   [0.51]   [1.69]   [1.75]   [1.29]
+Note: Hex nut and washer included.
+
+
+                                                                                     D
+ UL Part # Cross Reference
+  UL Part Number         ADC Part Number
+      BNBC-01                 BNBCX-01
+      BNBC-02                 BNBCX-02
+      BNBC-03                 BNBCX-03
+      BNBC-04                 BNBCX-04                     SW1
+
+                                                                                                          H
+                                                           SW2
+
+
+
+
+                                                                                                       TL
+
+
+                                                                                     TD
+
+                                                              See our website: www.AutomationDirect.com
+                                                                  for complete Engineering drawings
+
+
+
+
+www.automationdirect.com                                                                                                   Wiring Solutions                 tWIR-150
+                                                                                                             For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                             Cable Glands
+                             Replacement Hex Nuts
+                  Replacement Hex Nuts for Plastic Cable Glands
+          Light                                                  Thread               Dimensions – mm [in]
+Type                 Price     Black       Price      Qty
+          Gray                                                    Size             SW            D              H
+         BML-1S      $2.00   BML-2S     $2.00          5       M12 x 1.5mm      18.0 [0.71] 19.5 [0.77]     5.0 [0.20]
+         BML-11      $2.00   BML-21     $2.00          5       M16 x 1.5mm      22.0 [0.87] 24.2 [0.95]     5.0 [0.20]
+         BML-12      $2.00   BML-22     $2.00          5       M20 x 1.5mm      26.0 [1.02] 28.6 [1.13]     6.0 [0.24]
+         BML-13      $2.00   BML-23     $2.00          5       M25 x 1.5mm      32.0 [1.26] 35.0 [1.38]     6.0 [0.24]
+Metric
+         BML-14      $2.00   BML-24     $2.00          5       M32 x 1.5mm      41.0 [1.61] 46.1 [1.81]     7.0 [0.28]
+         BML-15      $2.00   BML-25     $2.00          2       M40 x 1.5mm      50.0 [1.97] 55.3 [2.18]     7.0 [0.28]
+         BML-16      $2.00   BML-26     $2.00          2       M50 x 1.5mm      60.0 [2.36] 66.1 [2.60]     8.0 [0.31]
+         BML-17      $2.75   BML-27     $2.75          2       M63 x 1.5mm      75.0 [2.95] 82.5 [3.25]     8.0 [0.31]
+         BL-11       $2.00    BL-21     $2.00          5          PG 7          19.0 [0.75] 21.0 [0.83]     5.0 [0.20]
+         BL-12       $2.00    BL-22     $2.00          5          PG 9          22.0 [0.87] 24.0 [0.94]     5.0 [0.20]
+         BL-13       $2.00    BL-23     $2.00          5          PG11          24.0 [0.94] 26.0 [1.02]     5.0 [0.20]
+         BL-14       $2.00    BL-24     $2.00          5         PG13.5         27.0 [1.06] 29.0 [1.14]     6.0 [0.24]
+         BL-15       $2.00    BL-25     $2.00          5          PG16          30.0 [1.18] 33.0 [1.30]     6.0 [0.24]
+PG                                                                                                                                                   SW
+         BL-16       $2.00    BL-26     $2.00          5          PG21          36.0 [1.42] 39.0 [1.54]     7.0 [0.28]
+         BL-17       $2.00    BL-27     $2.00          5          PG29          46.0 [1.81] 50.0 [1.97]     7.0 [0.28]
+         BL-18       $2.00    BL-28     $2.00          2          PG36          60.0 [2.36] 66.0 [2.60]     8.0 [0.31]
+         BL-19       $2.25    BL-29     $2.25          2          PG42          65.0 [2.56] 73.0 [2.87]     8.0 [0.31]
+         BL-20       $2.75    BL-30     $2.75          2          PG48          70.0 [2.78] 78.0 [3.07]     8.0 [0.31]
+         BPL-11      $2.00   BPL-21     $2.00          5        NPT 3/8in       22.0 [0.87] 25.0 [0.98]     7.0 [0.28]
+                                                                                                                                                                H
+         BPL-12      $2.00   BPL-22     $2.00          5        NPT 1/2in       27.0 [1.06] 30.5 [1.20]     7.0 [0.28]
+NPT                                                                                                                                              D
+         BPL-13      $2.75   BPL-23     $2.75          5        NPT 3/4in       33.0 [1.30] 37.5 [1.48]     7.0 [0.28]
+         BPL-14      $5.00   BPL-24     $5.00          5         NPT 1in        41.0 [1.61] 46.5 [1.83]     7.0 [0.28]
+
+
+
+             Replacement Hex Nuts for Brass Cable Glands
+                                                    Thread                 Dimensions – mm [in]
+Type      Part Number        Price     Qty
+                                                     Size            SW              D               H
+           BMBL-01           $2.75     5        M12 x 1.5mm       15.0 [0.59]    16.6 [0.65]   2.8 [0.11]
+           BMBL-02           $3.25     5        M16 x 1.5mm       19.0 [0.75]    21.0 [0.83]   3.0 [0.12]
+           BMBL-03           $4.50     5        M20 x 1.5mm       24.0 [0.94]    26.5 [1.04]   3.5 [0.14]
+           BMBL-04           $5.75     5        M25 x 1.5mm       30.0 [1.18]    33.0 [1.30]   4.0 [0.16]
+Metric
+           BMBL-05           $7.50     5        M32 x 1.5mm       36.0 [1.42]    39.5 [1.56]   5.0 [0.20]
+           BMBL-06           $6.25     2        M40 x 1.5mm       46.0 [1.81]    51.0 [2.01]   5.0 [0.20]
+           BMBL-07           $16.00    2        M50 x 1.5mm       60.0 [2.36]    66.0 [2.60]   5.0 [0.20]
+           BMBL-08           $18.00    2        M63 x 1.5mm       70.0 [2.76]    77.0 [3.03]   6.0 [0.24]
+            BSL-01           $2.75     5             PG 7         15.0 [0.59]    16.6 [0.65]   2.8 [0.11]
+            BSL-02           $2.75     5             PG 9         18.0 [0.71]    20.0 [0.79]   2.8 [0.11]
+            BSL-03           $2.75     5            PG11          21.0 [0.83]    23.5 [0.93]   3.0 [0.12]
+            BSL-04           $3.25     5            PG13.5        23.0 [0.91]    25.5 [1.00]   3.0 [0.12]
+                                                                                                                                                       D
+            BSL-05           $3.25     5            PG16          26.0 [1.02]    29.0 [1.14]   3.0 [0.12]
+PG
+            BSL-06           $6.25     5            PG21          32.0 [1.26]    35.5 [1.40]   3.5 [0.14]
+            BSL-07           $3.50     2            PG29          41.0 [1.61]    45.0 [1.77]   4.0 [0.16]                              H
+
+            BSL-08           $5.75     2            PG36          51.0 [2.01]    56.0 [2.20]   5.0 [0.20]
+            BSL-09           $3.50     1            PG42          60.0 [2.36]    66.0 [2.60]   5.0 [0.20]
+            BSL-10           $5.00     1            PG48          64.0 [2.52]    70.5 [2.78]   5.5 [0.22]
+           BNLN-01           $8.00     5           NPT 3/8in      24.0 [0.94]    26.5 [1.04]   5.0 [0.20]                                                  SW
+
+           BNLN-02           $10.00    5           NPT 1/2in      24.0 [0.94]    26.5 [1.04]   5.0 [0.20]
+NPT
+           BNLN-03           $14.50    5           NPT 3/4in      34.0 [1.34]    37.5 [1.48]   6.0 [0.24]
+           BNLN-04           $16.00    5           NPT 1in        42.0 [1.65]    46.4 [1.83]   6.0 [0.24]                    See our website: www.AutomationDirect.com
+                                                                                                                                 for complete Engineering drawings
+
+www.automationdirect.com                                                                                                 Wiring Solutions             tWIR-157
+

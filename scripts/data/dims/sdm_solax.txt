@@ -1,0 +1,343 @@
+                                                                             1.5 2T by time relay for SDM230-2T                               *For SDM230-Pulse:
+   SDM230 Series                                                                                                                              Total kWh→ Import kWh→Export kWh→ Resettable kWh→
+   Single Phase Two Wire Multifunction Din Rail Meter
+                                                                             The unit has a time relay inside which can monitor if there
+                                                                                                                                              total kVArh→Import kVArh→ Export kVArh→resettable
+                                                                             is external 230V signal input. If there is 230V signal input,    kVArh → Max. Power Demand→ Voltage →Current→W                                             Max. power demand
+                                                                             the meter switches Tariff 2 measurement, otherwise it will       Var →VA→ Power Factor→Frequency →Pulse Constant              13                           Example: 6938W
+                                                                             measure as Tariff 1.                                             Display No:1,4~7,10~21.
+
+
+
+                                                                             2.Operation                                                      *For SDM230-2T:
+                                                                                                                                              Total kWh→ T1 total kWh→ T2 total kWh→Import kWh→                                         Voltage
+                                                                                                                                              Export kWh →resettable kWh→Total kVArh→T1 total              14                           Example: 229.8V
+                                                                             2.1 LCD Display                                                  kVArh→T2 total kVArh→Import kVArh→ Export kVArh→
+                                                                                                                                              resettable kVArh→Max. Power Demand→ Voltage →
+                                                                                                                                              Current→W→ Var →VA→ Power Factor → Frequency → Pulse
+                                                                                     2     3         4             5         6                Constant → Modbus ID →Baud Rate → Continuous Running Time
+                                                                                                                                              Display No: 1~24.
+
+                                                                                                                                                                                                                                        Current
+                                                                                                                                                                                                           15                           Example: 30.156A
+                                                                                                                                              *For SDM230-Mbus:
+                                                                                                                                              Total kWh→ Import kWh→Export kWh→ Resettable
+                                                                                 1                                                            kWh→Total kVArh→Import kVArh→ Export kVArh→
+                                                                                                                                              Resettable kVArh→ Max. Power Demand→ Voltage →
+                                                                                                                                              Current→W→ Var →VA→ Power Factor → Frequency →
+                                                                                                                                              Pulse Constant→ Mbus Primary Address→Mbus Secondary                                       Active power
+                                                                                                                                              Address→ Baud Rate→Continuous Running Time                   16                           Example: 4700W
+                                                UserManual V1.6                 8                                                        7   Display No:1,4~7,10~24.
+
+
+
+     Warnings                                                                                                                                 *For SDM230-Std:
+     Important Safety Information is contained in the                                       9         10      11       12         13          Total kWh→ Import kWh→Export kWh→ Resettable                                           Reactive power
+     Maintenance section. Familiarize yourself with this                                                                                      kWh→Total kVArh→Import kVArh→ Export kVArh→                 17                         Example: 1030Var
+     information before attempting installation or other                                                                                      Resettable kVArh→ Pulse Constant→ Modbus ID→
+     procedures.                                                                                                                              Baud Rate →Continuous Running Time
+                                                                                                                                              Display No:1,4~7,10~12, 21~24.
+                   Risk of Danger: These instructions contain
+          !        important safety information. Read them before              NO.       Descriptions
+                   starting installation or servicing of the equipment.         1        7 digits used to display measured values
+                   Caution: Risk of Electric Shock                              2        Total value
+                                                                                                                                                                                                                                     Apparent power
+                                                                                3        Tariff information                                                                                                18                        Example: 4811VA
+                                                                                4        Import information, Export information
+                                                                                5        Max. Demand for Power or Current.
+                                                                                                                                                                         Total active energy
+                                                                                                                                                 1
+1.Introduction                                                                  6        Pulse output 1and Pulse output2                                                 Example:70.00kWh
+                                                                                7        Measurement units
+This document provides operating, maintenance and                               8        PF = power factor Hz = frequency                                                                                                            Power factor
+installation instructions of SDM230 series made by                                                                                                                                                        19                         Example: 1.000
+Eastron Electronic Co., Ltd. The SDM230 series
+                                                                                9        Bar display of Power
+measure and display the characteristics of single phase                        10        Communication indicatior
+two wire (1p2w) network. The SDM230 series covers 5                                      Lock symbol                                                                     T1 active energy
+                                                                               13
+models:SDM230-Modbus,SDM230-Pulse,SDM230-                                                                                                        2                       Example: 10.00kWh
+Mbus, SDM230-2T and SDM230-Std.                                                                                                                                          (for SDM230-2T only)
+.
+The bi-directional measurement makes the meter                                                                                                                                                                                       Frequency
+                                                                                                                                                                                                           20                        Example: 49.99Hz
+suitable for active and reactive energy and power                            2.2 Initialization Display
+monitoring applications, and also perfect for solar PV
+measurements. With RS485 Modbus and M-bus port,                                                                                                                          T2 active energy
+the meter is easy to remote communication with other                                                                                            3                        Example: 10.00kWh
+AMR/SCADA systems.                                                                                                                                                       (for SDM230-2T only)
+                                                                                                         All display segments light up,
+                                                                                                                                                                                                                                     Pulse 2 constant
+                                                                                                         display check.                                                                                    21                        Example: 1000
+                                       Communi-                   Multi
+  Model         Measurements           cation   Pulse Outputs     Tariffs
+                                                                                                                                                                         Import(input) active energy
+              U, I, P, Q, S, PF, Hz,              1:                                                                                             4                       Example: 50.00kWh
+SDM230-       Dmd, kWh, kVArh, RS485              congurable
+                                                                   NO                                    Software version (please check
+Modbus        Import, Export         Modbus       2:                                                                                                                                                                                 Modbus address
+                                                  1000imp/kwh                                            the real software version on the                                                                                            Example: 001
+                                                                                                         product as the nal).                                                                             22                        Mbus primary address
+                                               1:                                                                                                                                                                                    Example:001
+              U, I, P, Q, S, PF, Hz,
+ SDM230-      Dmd, kWh, kVArh, M-bus           congurable
+                                     EN13757-3 2:                  NO
+ Mbus         Import, Export
+                                               1000imp/kwh                                                                                                               Export(output) active energy
+                                                                                                                                                 5                       Example: 20.00kWh
+                                                  1:
+              U, I, P, Q, S, PF, Hz,
+SDM230-                                           congurable
+              Dmd, kWh, kVArh,
+              NO                                                   NO                                    Modbus ID or Mbus Primary Address                                                                                           High and Low bit of MBUS
+Pulse                                             2:
+              Import, Export                                                                                                                                                                                                         Secondary address
+                                                  1000imp/kwh
+                                                                                                                                                                                                                                     (Default 00 00 00 01)
+                                                                                                                                                                                                                                     Example: if the Secondary
+                                                  1:                                                                                                                                                                                 address high bit is 0000,
+              U, I, P, Q, S, PF, Hz,                                                                                                                                                                      22-1
+                                                  congurable   2 Tariffs
+SDM230-       Dmd, kWh, kVArh, RS485                                                                                                                                     Resettable total energy                                     low bit is 0001,that means
+2T            Import, Export         Modbus       2:          (time relay)                                                                       6                                                                                   the integral Secondary
+                                                  1000imp/kwh
+                                                                                                                                                                                                                                     address is 00 00 00 01
+                                                                                                                                                                                                                                     (for SDM230-Mbus only)
+                                                  1:                                                     Mbus Secondary Address (High)
+SDM230-       kWh, kVArh,              RS485      congurable                                            (for SDM230-Mbus only)
+              Import, Export                      2:               NO
+Std                                    Modbus
+                                                  1000imp/kwh
+
+                                                                                                                                                                         Total reactive energy
+                                                                                                                                                7                        Example: 10.00kVArh
+
+                                                                                                                                                                                                                                     Baud rate
+                                                                                                         Mbus Secondary Address (Low)                                                                      23                        Example: 9600
+1.1 Key Characteristics                                                                                  (for SDM230-Mbus only)
+·Bi-directional measure and display
+·Multi-function measurements
+                                                                                                                                                                         T1 reactive energy
+·Two Pulse outputs                                                                                                                               8                       Example: 2.00kVArh
+·RS485 Modbus / M-bus                                                                                                                                                    (for SDM230-2T only)
+·100A direct connection
+                                                                                                                                                                                                           24                        Continuous running time
+·Two module size (35mm)                                                                                  Baud rate.                                                                                                                  (since last time reset)
+·Password protected set-up
+·Backlighted LCD
+·2 tariff dual power source
+                                                                                                                                                                         T2 reactive energy
+                                                                                                                                                 9                       Example: 2.00kVArh
+                                                                                                                                                                         (for SDM230-2T only)
+1.2 Pulse output
+                                                                                                         Total kWh.
+The meter provides two pulse outputs. Both pulse outputs
+are passive type.                                                                                                                                                                                         2.4 Set-up Mode
+Pulse output 1 can be set to generate pulses to represent
+total / import/export kWh or kVArh.                                                                                                                                      Import(input)reactive energy     To get into Set-up Mode, the user needs to press the “Enter”
+The pulse constant can be set to generate 1 pulse per:                                                                                          10                       Example: 5.00kVArh               button       for 3 seconds.
+0.001/0.01/0.1/1kWh/kVArh (default is 0.001 export kWh).
+Pulse width: 200/100/60ms
+Pulse output 2 is non-congurable. It is xed up with active                 2.3 Scroll display by Buttons
+kWh (Imp). The constant is 1000imp/kWh.
+                                                                             After initialization and self-checking program, the meter
+                                                                             display the measured values. The default page is total                                                                                                  The setting is done correctly
+                                                                                                                                                                         Export(output)reactive energy
+                                                                             kWh. If the user wants to check other information, he              11                       Example: 5.00kVArh
+1.3 RS485 Serial – Modbus RTU                                                needs to press the scroll button on the front panel.
+RS485 serial port with Modbus RTU protocol to provide                        The display order by scroll button :
+a means of remotely monitoring and controlling the
+Unit.Set-up screens are provided for setting up the
+                                                                                                                                                                                                                                     The entering information is
+RS485 port.
+                                                                             *For SDM230-Modbus:                                                                                                                                     wrong. The operation fails.
+                                                                                                                                                12                       Resettable total energy
+                                                                             Total kWh→ Import kWh→Export kWh→ Resettable kWh→
+                                                                             Total kVArh→Import kVArh→ Export kVArh→Resettable kVArh
+1.4 Mbus for SDM230-Mbus                                                     → Max. Power Demand→ Voltage →Current→W→ Var →
+This unit has an M-BUS serial port with M-BUS protocol                       VA→ Power Factor→Frequency →Pulse Constant→ Modbus ID
+to provide a means of remotely monitoring and controlling                    → Baud Rate →Continuous Running Time
+the unit set-up screens are provided for setting up the                      Display No:1,4~7,10~24.
+M-bus port.
+                                                                                                                                           O U T P U T
+                                                                                                                                                                               ATTENTION: Pulse output must be fed
+                                                                                                                                                                               as shown in the wiring diagram below.
+                                                                                                                                                                                                                         6.Wiring diagram
+                         Password
+                         To get into Set-up mode,                                           Automatic Scroll Time Interval                                                     Scrupulously respect polarities and the
+                         it asks a password                       9                         Default: 0 S                                                                       connection mode. Opto-coupler with
+ 1
+                         conrmation.                                                       Option: 0 ~ 30S                                                                    potential-free SPST-NO Contact.           6.1 SDM230-V1
+                         Default password: 1000                                                                                                                                Contact range:5~27VDC Max. current
+                                                                                                                                                                               Input:27mA DC.
+                                                                                                                                      R                                                                                                       100A
+                                                                                                                                            U imp                                                                               L-in                                                      L-out
+                         Address
+                         For Modbus:                                                        Press the “Enter” button, the
+                         Default ID is 001                                                  red part ash.Press the “Scroll”
+                         Range: 001~247                                                     button to change the option.
+ 2                       For Mbus:                               9-1                        After choosing the new
+                                                                                                                                                                                                                                                      1                    2
+                         Primary address ID                                                 “Scrl” option, the user needs to          3.5 RS485 output for Modbus RTU
+                         Default ID is 001                                                  press the “Enter” button to
+                         Range:001~250                                                                                                *Not for SDM230-Pulse or SDM230-Mbus
+                                                                                            conrm the setting.
+                                                                                                                                      The meter provides a RS485 port for remote communication.
+                          Press the “Enter” button, the                                                                               Modbus RTU is the protocol applied. For Modbus RTU, the
+                          rst digit ash.Press the “Scroll”                                Backlit lasting time set-up               following RS485 communication parameters can be
+                          button to change the value. After                                 Default: 60 min                           congured from the set-up menu.
+2-1                       choosing the new address value,        10                         Option: 0(off)/ 5/ 10/ 20/ 30/ 60         Baud rate: 1200, 2400, 4800, 9600 bps
+                          the user needs to press the “Enter”                               Long press “Enter” button to              Parity: NONE/ODD/EVEN
+                          button to conrm the setting.                                     enter set-up mode.                        Stop bits: 1 or 2
+                                                                                                                                      Modbus Address: 1 to 247
+                                                                                                                                                                                                                                                 5    6    7       8       9     10
+
+                                                                                            Press the “Enter” button, the
+                         High bit of Mbus Secondary
+                                                                                            red part ash.Press the “Scroll”          3.6 Mbus
+                                                                                            button to change the option.              *For SDM230-Mbus only
+                         address(Default 00 00)
+                                                                10-1                        After choosing the new
+                         (for SDM230-Mbus only)                                                                                       The meter provides a Mbus Port for remote communication.                                                        3                    4
+                                                                                            “Scrl” option, the user needs to
+                                                                                            press the “Enter” button to               the meter adopts EN1434-3 Mbus communication protocol.
+2-2                                                                                         conrm the setting.                       The communication parameters can be congured via the                                        N-in                                                      N-out
+                         Low bit of Mbus Secondary                                                                                    SET-UP mode.
+                         address(Default 00 01)                                                                                       Baudrate: 300,600,1200,2400,4800,9600 bps
+                         Example: if the Secondary                                                                                    Parity: NONE/ODD/EVEN
+                         address high bit is 0000,low                                       Clear                                     Stop bits: 1 or 2
+                         bit is 0001,that means the                                                                                   Primary address: 001~250
+                         integral Secondary address              11
+                                                                                            Long press “Enter” to enter
+                                                                                                                                                                                                                         6.2 SDM230-V2
+                         is 00 00 00 01                                                                                               Secondary address: 00000001~99999999
+                                                                                            clear interface.
+                         (for SDM230-Mbus only)
+                                                                                                                                                                                                                                              100A
+                                                                                                                                                                                                                                L-in                                                      N-in
+
+      Press the “Enter” button, the red part ash.                                                                                    3.7 Mechanics
+      Press the “Scroll” button to change the option.
+2-3   After choosing the new value, the user needs to                                                                                 Din rail dimensions                                      36x99x63 (WxHxD)
+      press the “Enter” button to conrm the setting.                                       Clear Max demand of active power
+                                                                                                                                                                                               Per DIN 43880                                          1                    2
+                                                                11-1                        Long press “Enter” button to
+                                                                                            conrm the operation.                     Mounting                                                 DIN rail 35mm
+                         Baud rate for Modbus                                                                                         Sealing                                                  IP51 (indoor)
+                         Default value: 2400bps                                                                                       Material                                                 self-extinguishing
+                         Range: 1200, 2400,                                                                                                                                                    UL94V-1
+                                 4800, 9600bps.
+ 3                       Baud rate for Mbus:
+                         Default value: 2400bps
+                         Range:300, 600,1200, 2400,                                         Clear the resettable energy
+                                                                 12                         Long press the Enter button
+                                 4800, 9600bps.
+                                                                                            to conrm the operation.                  4.Dimensions
+                         Press the “Enter” button, the
+                         red digit ash.Press the “Scroll”
+                                                                                                                                                                                                                                                 5    6    7       8       9     10
+                         button to change the value. After
+3-1                      choosing the new baud rate,                                                                                                                           m
+                         the user needs to press the                                                                                                                       45m
+                         “Enter” button to conrm the
+                         setting.
+                                                                                            Password                                                                                                                                                  3                    4
+                                                                 13                         Default: 1000
+                                                                                                                                                                                                                                  L-out                                                      N-out
+                         Parity
+ 4                       Default: None
+                         Option：None, Even, Odd                                                                                                 63 mm
+                                                                                            Press the “Enter” button, the
+                                                                                            red part ash.Press the “Scroll”
+                                                                                            button to change the option.                                                                                                 6.3 Denitions of other terminals
+                                                                13-1                        After choosing the new “Scrl”                                                                         m
+                                                                                            option, the user needs to press                                                                   35m
+                                                                                                                                                        36                                           m
+                         Press the “Enter” button, the red                                                                                                   m                                   99m
+                                                                                            the “Enter” button to conrm                                         m
+                         part ash. Press the “Scroll” button
+                         to change the option. After
+                                                                                            the setting.                                                                                                                    SDM230-2T
+4-1                      choosing the new parity, the
+                         user needs to press the “Enter”                                                                                                                                                                        230V/2T                        5       6         7    8      9     10
+                         button to conrm the setting.
+                                                                                                                                                                                                                                15     16                      A       B        GND       1+ COM     2+
+
+
+                                                                3.Specications
+                         Pulse Output 1
+                                                                                                                                                                                                                            SDM230-Modbus/Std
+                         Default: kWh                           3.1 General Specications                                             5.Installation and sealing
+5                        Option:kWh / KVArh /
+                                                                Voltage AC (Un)                      230V                                                                                                                        5        6      7    8        9       10
+                         Imp. kWh / Exp.kWh /
+                         Imp.kVArh / Exp.kVArh                  Voltage Range                        176~276V AC
+                                                                Base Current (Ib/Iref)               10A                                                                                                                         A        B     GND       1+ COM           2+
+
+                                                                Max. Current (Imax)                  100A                                                            35
+                                                                                                                                                                          mm
+                                                                Mini Current (Imin)                  0.5A
+                         Press the “Enter” button, the          Starting current                     0.4% of Ib/Iref                                                                                                        SDM230-Mbus
+                         red part ash.Press the “Scroll”       Power consumption                    ＜2W/10VA
+                         button to change the option.           Frequency                            50Hz(for MID version)                                                                                                       5        6      7    8        9       10
+5-1                      After choosing the new pulse
+                                                                                                     50 Hz(default),60Hz optional
+                         output option, the user needs
+                         to press the “Enter” button to         AC voltage withstand                 4KV for 1 minute                                                                                                           Mbus1 Mbus2 GND           1+ COM           2+
+
+
+                         conrm the setting.                    Impulse voltage withstand            6KV-1.2uS waveform
+                                                                Over current withstand               30Imax for 0.01s
+                                                                Pulse 1 output rate                  congurable, default 1000i/kWh                                                                                         SDM230-Pulse
+                                                                Pulse 2 output rate                  non-congurable,1000i/kWh
+                                                                Display                              LCD with backlit                                                                                                            5        6      7    8        9       10
+                         Pulse Constant                         Max. Reading                         999999.9kWh
+ 6                       Default: 1000
+                                                                                                                                                                                                                                                          1+ COM           2+
+                         Option: 1000 / 100 / 10 / 1
+
+
+                                                                3.2 Accuracy
+                         Press the “Enter” button, the
+                         red part ash.Press the “Scroll”       Voltage                              0.5% of range max.
+                         button to change the option. After     Current                              0.5% of nominal                      DIN Rail
+                         choosing the new pulse constant        Frequency                            0.2% of mid-frequency
+6-1                                                             Active power                         1% of range maximum
+                         option, the user needs to press
+                         the “Enter” button to conrm           Reactive power                       1% of range maximum
+                         the setting.                           Apparent power                       1% of range maximum
+                                                                Active energy                        Class 1 IEC62053-21
+                                                                                                     Class B EN50470-3
+                                                                Reactive energy                      1%of range maximum
+                         Pulse duration
+ 7                       Default: 100mS
+                         Option: 200 / 100 / 60mS
+                                                                3.3 Environment
+                                                                Operating temperature              -25 C to +55 C
+                         Press the “Enter” button, the          Storage/transportation temperature -40 C to +70 C
+                         red part ash.Press the “Scroll”       Reference temperature              23 C ± 2 C
+                         button to change the option. After     Relative humidity                  0 to 95%,
+7-1                      choosing the new pulse duration                                           non-condensing
+                         option, the user needs to press        Installation category              CAT II
+                         the “Enter” button to conrm           Mechanical Environment             M1
+                         the setting.                           Electromagnetic environment        E2
+                                                                Degree of pollution                2
+                                                                *Maximum operating and storage temperatures are in the                    Declaration of Conformity(for the MID
+                         Demand Integration Time                context of typical daily and seasonal variataion.                         approved version meter only)
+ 8                       Default: 15 minutes
+                         Option: off(0) / 5 / 10 /                                                                                                                                                                          Zhejiang Eastron Electronic Co.,Ltd.
+                                 15 / 30 / 60                                                                                           We Zhejiang Eastron Electronic Co.,Ltd.                                             Add: No.1369 , Chengnan Rd. Jiaxing,
+                                                                3.4 Pulse Output                                                        Declare under our sole responsibility as the manufacturer                                 Zhejiang, China
+                                                                                                                                        that the poly phase multifuntion electrical energy meter                            Tel: 86 573 83698881/83698882
+                         Press the “Enter” button, the          The pulse output 1 can be set to generate pulses to represent                                                                                               Fax: 86 573 83698883
+                                                                                                                                        “SDM230 Series” correspond to the production model                                  Email: sales@eastrongroup.com
+                         red part ash.Press the “Scroll”       total kWh, total kVArh,import kWh, export kWh,import kVArh,
+                                                                export kVArh.                                                           described in the EU-type examination certicate and to                              Web: www.eastrongroup.com
+                         button to change the option.
+8-1                      After choosing the new DIT option,     Constant can be set to 1000/100/10/1 impulse per kWh or KVArh.          the requirements of the Directive 2014/32/EU EU type
+                         the user needs to press the            Pulse width 200/100/60mS.                                               examination certicate number 0120/SGS0206.
+                         “Enter” button to conrm the
+                         setting.
+                                                                                                                                        Identication number of the NB0120
+                                                                                                                                                                                                                                                                                           MID
+

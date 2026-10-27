@@ -1,0 +1,287 @@
+DATASHEET - FAZ-C2/2
+
+                                    Miniature circuit breaker (MCB), 2A, 2p, C-Char, AC
+
+                                    Part no.                    FAZ-C2/2
+                                    Catalog No.                 278748
+                                    Eaton Catalog No.           FAZ-C2/2
+                                    EL-Nummer                   0001695163
+                                    (Norway)
+Similar to illustration
+
+
+
+Technical data
+Electrical
+Standards                                                                                                   IEC/EN 60947-2
+                                                                                                            IEC/EN 60898
+
+Rated operational voltage                                                        Ue              V
+
+                                                                                 Ue              V AC       240/415
+
+                                                                                                 V DC       60 (per pole)
+
+Rated voltage according to UL                                                    Un              V AC       480Y/277
+
+Rated switching capacity acc. to IEC/EN 60947-2                                  Icu             kA         15
+
+Breaking capacity according to UL                                                                kA         10 (UL1077)
+
+Max operational voltage according to IEC/EN 60947-2                                              V AC       440
+
+Rated switching capacity according to IEC/EN 60947-2 (max operational voltage)   Icu             kA         10
+
+Rated service short-circuit breaking capacity according to IEC/EN 60947-2 (max   Ics                        7,5 kA
+operational voltage)
+
+Rated voltage according to IEC/EN 60898-1                                        Un              V AC       415
+
+Rated switching capacity according to IEC/EN 60898-1                             Icn             kA         10
+
+Rated service short-circuit breaking capacity according to IEC/EN 60898-1        Ics                        7,5 kA
+
+Operational switching capacity                                                                   kA         7.5
+
+Characteristic                                                                                              B, C, D, K, S, Z
+
+Max. back-up fuse                                                                                A gL/gG 125
+
+Selectivity Class                                                                                           3
+
+lifespan
+
+     Lifespan                                                                    Operations                 > 10000
+
+Direction of incoming supply                                                                                as required
+Mechanical
+Standard front dimension                                                                         mm         45
+
+Enclosure height                                                                                 mm         80
+
+Mounting width per pole                                                                          mm         17.5
+
+Mounting                                                                                                    IEC/EN 60715 top-hat rail
+
+Degree of Protection                                                                                        IP20, IP40 (when ﬁtted)
+
+Terminals top and bottom                                                                                    Twin-purpose terminals
+
+Terminal protection                                                                                         Finger and back-of-hand proof to BGV A2
+
+Terminal capacities                                                                              mm
+                                                                                                      2
+
+
+                                                                                                 mm
+                                                                                                      2     1 x 25
+
+                                                                                                 mm
+                                                                                                      2     2 x 10
+
+
+
+Thickness of busbar material                                                                     mm         0.8 … 2
+
+Mounting position                                                                                           As required
+
+
+
+Design veriﬁcation as per IEC/EN 61439
+Technical data for design veriﬁcation
+
+     Rated operational current for speciﬁed heat dissipation                     In              A          2
+
+     Heat dissipation per pole, current-dependent                                Pvid            W          0
+
+     Equipment heat dissipation, current-dependent                               Pvid            W          2.8
+
+     Static heat dissipation, non-current-dependent                              Pvs             W          0
+
+
+
+
+03/07/2019                                                                       Eaton 278748 ED2019 V53.0 EN                                         1/9
+    Heat dissipation capacity                                                         Pdiss           W          0
+
+    Operating ambient temperature min.                                                                °C         -40
+
+    Operating ambient temperature max.                                                                °C         75
+
+                                                                                                                 linear, per +1 °C, results in a 0.5% reduction of current carrying capacity
+
+IEC/EN 61439 design veriﬁcation
+
+    10.2 Strength of materials and parts
+
+        10.2.2 Corrosion resistance                                                                              Meets the product standard's requirements.
+
+        10.2.3.1 Veriﬁcation of thermal stability of enclosures                                                  Meets the product standard's requirements.
+
+        10.2.3.2 Veriﬁcation of resistance of insulating materials to normal heat                                Meets the product standard's requirements.
+
+        10.2.3.3 Veriﬁcation of resistance of insulating materials to abnormal heat                              Meets the product standard's requirements.
+        and ﬁre due to internal electric eﬀects
+
+        10.2.4 Resistance to ultra-violet (UV) radiation                                                         Meets the product standard's requirements.
+
+        10.2.5 Lifting                                                                                           Does not apply, since the entire switchgear needs to be evaluated.
+
+        10.2.6 Mechanical impact                                                                                 Does not apply, since the entire switchgear needs to be evaluated.
+
+        10.2.7 Inscriptions                                                                                      Meets the product standard's requirements.
+
+    10.3 Degree of protection of ASSEMBLIES                                                                      Does not apply, since the entire switchgear needs to be evaluated.
+
+    10.4 Clearances and creepage distances                                                                       Meets the product standard's requirements.
+
+    10.5 Protection against electric shock                                                                       Does not apply, since the entire switchgear needs to be evaluated.
+
+    10.6 Incorporation of switching devices and components                                                       Does not apply, since the entire switchgear needs to be evaluated.
+
+    10.7 Internal electrical circuits and connections                                                            Is the panel builder's responsibility.
+
+    10.8 Connections for external conductors                                                                     Is the panel builder's responsibility.
+
+    10.9 Insulation properties
+
+        10.9.2 Power-frequency electric strength                                                                 Is the panel builder's responsibility.
+
+        10.9.3 Impulse withstand voltage                                                                         Is the panel builder's responsibility.
+
+        10.9.4 Testing of enclosures made of insulating material                                                 Is the panel builder's responsibility.
+
+    10.10 Temperature rise                                                                                       The panel builder is responsible for the temperature rise calculation. Eaton will
+                                                                                                                 provide heat dissipation data for the devices.
+
+    10.11 Short-circuit rating                                                                                   Is the panel builder's responsibility. The speciﬁcations for the switchgear must be
+                                                                                                                 observed.
+
+    10.12 Electromagnetic compatibility                                                                          Is the panel builder's responsibility. The speciﬁcations for the switchgear must be
+                                                                                                                 observed.
+
+    10.13 Mechanical function                                                                                    The device meets the requirements, provided the information in the instruction
+                                                                                                                 leaﬂet (IL) is observed.
+
+
+
+Technical data ETIM 7.0
+Circuit breakers and fuses (EG000020) / Miniature circuit breaker (MCB) (EC000042)
+
+Electric engineering, automation, process control engineering / Electrical installation, device / Miniature circuit breaker system (MCB) / Miniature circuit breaker (MCB)
+(ecl@ss10.0.1-27-14-19-01 [AAB905014])
+
+Release characteristic                                                                                           C
+
+Number of poles (total)                                                                                          2
+
+Number of protected poles                                                                                        2
+
+Rated current                                                                                         A          2
+
+Rated voltage                                                                                         V          400
+
+Rated insulation voltage Ui                                                                           V          440
+
+Rated impulse withstand voltage Uimp                                                                  kV         4
+
+Rated short-circuit breaking capacity Icn EN 60898 at 230 V                                           kA         10
+
+Rated short-circuit breaking capacity Icn EN 60898 at 400 V                                           kA         10
+
+Rated short-circuit breaking capacity Icu IEC 60947-2 at 230 V                                        kA         15
+
+Rated short-circuit breaking capacity Icu IEC 60947-2 at 400 V                                        kA         15
+
+Voltage type                                                                                                     AC
+
+Frequency                                                                                             Hz         50 - 60
+
+Current limiting class                                                                                           3
+
+Suitable for ﬂush-mounted installation                                                                           No
+
+Concurrently switching N-neutral                                                                                 No
+
+Over voltage category                                                                                            3
+
+Pollution degree                                                                                                 2
+
+Additional equipment possible                                                                                    Yes
+
+Width in number of modular spacings                                                                              2
+
+
+03/07/2019                                                                            Eaton 278748 ED2019 V53.0 EN                                                                                   2/9
+Built-in depth                                                    mm         70.5
+
+Degree of protection (IP)                                                    IP20
+
+Ambient temperature during operating                              °C         -25 - 75
+
+Connectable conductor cross section multi-wired                   mm²        1 - 25
+
+Connectable conductor cross section solid-core                    mm²        1 - 25
+
+
+
+Approvals
+Product Standards                                                            IEC/EN 60947-2; IEC/EN 60898; UL 1077; CSA-C22.2 No. 235; CE marking
+
+UL File No.                                                                  E177451
+
+UL Category Control No.                                                      QVNU2, QVNU8
+
+CSA File No.                                                                 204453
+
+CSA Class No.                                                                3215-30
+
+North America Certiﬁcation                                                   UL recognized, CSA certiﬁed
+
+Conditions of Acceptability                                                  Supplementary Protector only
+
+Suitable for                                                                 Branch Circuits; not as BCPD
+
+Current Limiting Circuit-Breaker                                             No
+
+Max. Voltage Rating                                                          480Y/277 VAC; 96 VDC
+
+Degree of Protection                                                         IEC: IP20; UL/CSA Type: -
+
+
+
+
+03/07/2019                                        Eaton 278748 ED2019 V53.0 EN                                                                      3/9
+Characteristics
+
+
+
+
+                   2
+Let-through energy I t
+According to IEC/EN 60898
+
+
+
+
+03/07/2019                  Eaton 278748 ED2019 V53.0 EN   4/9
+03/07/2019   Eaton 278748 ED2019 V53.0 EN   5/9
+03/07/2019   Eaton 278748 ED2019 V53.0 EN   6/9
+03/07/2019   Eaton 278748 ED2019 V53.0 EN   7/9
+Tripping characteristic at 30 °C:
+B, C, D to IEC/EN 60898
+
+
+
+
+03/07/2019                          Eaton 278748 ED2019 V53.0 EN   8/9
+Dimensions
+
+
+
+
+03/07/2019         Eaton Industries GmbH          9/9
+                    http://www.eaton.eu
+             © 02/2019 by Eaton Industries GmbH
+                Eaton 278748 ED2019 V53.0 EN
+

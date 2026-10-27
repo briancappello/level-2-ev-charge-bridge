@@ -1,0 +1,32 @@
+1. SDM230-Modbus RS485 100A Din Rail Single Phase Multi-function Energy ...
+   https://www.eastrongroup.com/product/single-phase-multifunction-energy-meter/rs485-100a-din-rail-single-phase-multifunction-energy-meter.html
+   The SDM230-Modbus is a RS485 100A Din Rail Single Phase Multi-function Energy Meter with RS485 Modbus/DLT645 output. It measures active energy, reactive energy, current, voltage, power, power factor, frequency, etc. The units support Max. 100A direct connection, saving the cost and avoiding the trouble to connect external CTs. Two pulse outputs and 1 communication port (RS485 Modbus/DLT645 ...
+
+2. SDM230-Modbus RS485 Din Rail Modbus Multi-functional Single Phase ETL ...
+   https://www.eastrongroup.com/product/single-phase-etl-energy-meter/rs485-din-rail-modbus-multifunctional-single-phase-etl-energy-meter.html
+   The SDM230-Modbus is a RS485 Din Rail Modbus Multi-functional Single Phase ETL Energy Meter. It measures active energy, reactive energy, current, voltage, power, power factor, frequency, etc.
+
+3. Eastron SDM230M Single-Phase AC 230V 100A Meter
+   https://io-solar.com/en/shop/energy-monitoring-system/eastron-sdm230m-single-phase-ac-230v-100a-meter/
+   Eastron SDM230M Single-Phase AC 230V 100A Meter designed for precise monitoring of electricity consumption up to 100A with Modbus RS485 communication.
+
+4. Eastron SDM230 Electricity Meter Series | NRG Instruments
+   https://nrginstruments.com/collections/sdm230-series
+   Discover the Eastron SDM230 electricity meter series for reliable and precise energy measurement in residential and commercial applications.
+
+5. SDM230M Modbus/Pulse/MBus/2T Single-Phase Electric Meter | Eastron Europe
+   https://www.eastroneurope.com/products/view/sdm230modbus
+   An advanced single-phase and multi-function electric meter, SDM230M, measures up to 100A direct load. It comes with a highly visible backlit display.
+
+6. SDM230 Tension Meter by EASTRON - Radwell International
+   https://www.radwell.com/Buy/EASTRON/EASTRON/SDM230%20
+   SDM230 EASTRON from MODBUS MID V2 ELECTRICITY METER, SINGLE PHASE, RS485 RTU, 100A KWH MAINS DIN RAIL SMART METER ENERGY MONITOR Test Equipment 2-Year Warranty -
+
+7. SDM230 Modbus RS485 Single-Phase Energy Meter, Power Consumption ...
+   https://bigamart.com/product/eastron-sdm230-modbus-mid-v2-electricity-meter-single-phase-rs485-rtu-100a-kwh-mains-din-rail-smart-meter-energy-monitor-with-pulse-meter-backlit-lcd-display-mid-certified-calibrated/
+   SDM230 Modbus RS485 Single-Phase Energy Meter, Power Consumption Monitor, 100 Ampere kWh, DIN Rail Power Meter: Suitable for power monitors use. Eastron item with the listed product details.
+
+8. EASTRON SDM230-Modbus Single-Phase Energy Meter solar PV 100A ... - eBay
+   https://www.ebay.com/itm/405662540569
+   This item may be a floor model or store return that has been used. See the seller's listing for full details and description of any imperfections. See all condition definitions Brand EASTRON Tariff Single Number of Phases 1 Features Bi-Directional Metering, Digital Meters, Smart Meter MPN SDM230-modbus
+

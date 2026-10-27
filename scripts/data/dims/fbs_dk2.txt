@@ -1,0 +1,12 @@
+# Loading https://www.digikey.com/en/products/detail/phoenix-contact/3005950/2525736
+https://www.digikey.com/en/products/detail/phoenix-contact/3005950/2525736?__cf_chl_tk=HWW5PDO8UqYYa5mU8hTuMKz7ztz2EMc2tN9nNeL7EQc-1793122846-1.0.1.1-z8X.Zaws.qEsq.EzHGv84cV9y9nREJGErQ_0XnLtsDI
+
+www.digikey.com
+Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+
+Verification successful. Waiting for www.digikey.com to respond
+Ray ID: a5137cde7979520c
+Performance and Security by Cloudflare
+Privacy

@@ -1,0 +1,931 @@
+                                                                For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+Eaton Quality at AutomationDirect Prices
+                                                                      FAZ Series
+                                                                      Supplementary
+    1, 2 and                                                          Protectors
+     3-pole                                                           FAZ Supplementary Protectors are UL
+    models                                                            1077 recognized for applications where
+                                                                      branch circuit protection is not required
+                                                                      or is already provided. They are thermal
+                                                                      magnetic and protect against short
+                                                                      circuit (see ratings chart) and overload
+                                                                      conditions.
+                                                                      These DIN-rail mounted supplementary
+                                                                      protectors come in one, two and three
+                                                                      pole configurations and are available in
+                                                                      three trip curves.
+                                                                      The B curve magnetic trip point is 3 to 5
+                                                                      times the rated current and is typically
+                                                                      used for computers and electronic loads
+                                                                      with very low current loads.
+                                                                      The C curve magnetic trip point is
+                                                                      5 to 10 times the rated current and is
+                                                                      typically used for small transformers, pilot
+                                                                      devices, etc.
+                                                                      The D curve magnetic trip point is
+                                                                      10 to 20 times the rated current and is
+Third party Certification
+                                                                      typically used for transformers or with
+and marking
+ • UL recognized under UL 1077
+                                                                      very high inductive loads.
+    Category QVNU2, File E177451                                      Shunt trips are available for remotely
+ • CSA 22.2, No. 235 File 204453                                     tripping the protector with an external
+ • CE File LVD 2006/95/EC                                             voltage from a control system or alarm
+                                                            R
+
+
+
+
+                                                                      device.
+ • IEC 60898
+ • IEC 60947-2                                                        A padlocking feature is also available
+                                                                      for preventing unauthorized operation.
+Full line of field installable
+                                                                      Maintenance personnel can safely
+accessories
+ • Auxiliary switch
+                                                                      work on protected equipment without
+                                                                      electrical safety concerns.
+ • Alarm/Auxiliary Switch
+ • Shunt trip
+ • Padlock provision
+ • Busbar systems
+
+
+
+
+Trip curves
+ • B [3-5 In]
+ • C [5-10 In]
+                                         Captive Terminal
+                                             Screws
+ • D [10–20in]                                                             DIN Rail
+                                                                           Mounting
+
+                                    Operating Handle
+                                     with Trip Free
+                                        Design
+
+                                Color Coded
+                                Flag Indicator
+                                                                           Information Printed
+                                                                            on Front and Side
+                      Part Number                                               for Quick
+                                                                               Information
+
+                                       IP20 Finger
+                                    and Back-of-hand
+                                        Protection
+
+
+
+www.automationdirect.com                                                  Circuit Protection             tCPR-99
+                                                                                                 For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+                    FAZ Supplementary Protectors
+
+
+
+
+Overview
+The Eaton FAZ supplementary protectors
+are used to provide overcurrent protection
+where branch protection (for example,
+UL 489 MCCB) is already provided or
+not required. The units can be installed
+as a component within, or as a part of
+an appliance or a piece of electrical
+equipment. Supplementary protectors
+are ideal replacements for fuses that are
+applied as a supplementary protector,
+i.e. in addition to branch protection
+(if required). They are 35mm DIN-rail
+mountable, utilizing spring clips. These are
+standard protectors, recognized by UL and
+CSA under UL 1077 and CSA 22.2. They are
+CE marked in accordance with Low Voltage
+Directive (LVD) (73/23/EEC).
+
+
+Product Specification
+The FAZ supplementary protector is a           In addition, you can select a device                      wiring).
+dual-rated product for both AC and DC          that provides maximum reliability and                   • C curve magnetic trip point:
+supplies, in accordance with UL 1077           accuracy to fit various applications due                   5 to 10 times the rated current,
+and CSA 22.2 standards and is marked           to the availability of a wide range of                     typically used for small transformers, pilot
+with CE in accordance with the Low             current ratings from 0.5 to 63A in three                   devices, etc.
+Voltage Directive. With this dual standard     overcurrent characteristic curves, B, C                 • D curve magnetic trip point:
+product, you can include it in your design,    and D.                                                     10 to 20 times the rated current,
+knowing that in most cases wherever                                                                       typically used for transformers or
+your equipment is used, the product            Features and Benefits                                      devices with very high inductive loads.
+will conform to the local UL, CSA or IEC       • Dual rated for AC or DC Applications                  • Trip Free Design: Protector cannot be
+(International) requirements.                                                                            defeated by holding the handle in the “ON”
+                                               • Box terminals accept #18 to #4 wire                     position.
+The supplementary protector is designed          (1 to 25 mm2) for one wire connection or #18
+to be applied in conjunction with a branch       to #8 for two wire connection.                        • Module width of only 17.7mm per pole
+circuit protector (if branch protection        • Thermal magnetic overcurrent                          • Color coded status indicator window –
+is required) and can be a replacement            protection: three levels, categorized by B, C            Red = ON or Green = OFF
+for similarly applied fuses. Its advantage       and D curves in direct relation to                    • P20 finger protection
+over fuses is that it is resettable and          continuous rating of the device
+                                                                                                       • 35mm DIN-rail mountable, utilizing
+the device’s status is easily and clearly      • B curve magnetic trip point:                            spring clip
+identified by the position of the handle         3 to 5 times the rated current,
+                                                                                                       • Captive screws cannot be lost
+and the flag indicator.                          typically used for computers and electronic
+                                                 loads with very low inrush currents (PLC              • Suitable for reverse feed applications
+
+
+Listings
+• UL recognized under UL 1077                  • CE File LVD 2006/95/EC                                • IEC/EN 60947-2
+  Category QVNU2 File E177451                  • IEC/EN 60898
+• CSA 22.2, No. 235 File 204453
+
+
+Applications
+FAZ Supplementary protectors are               protective devices. In North America, most             ideal for providing protection in many
+recognized per UL 1077 and certified per       European Miniature Circuit Breakers are                applications, including:
+CSA C22.2 No. 235 as a Supplementary           only UL recognized and CSA certified as                 • Control power transformers (D curve)
+Protector and can be fully utilized per the    “Supplementary Protectors”, meaning they
+                                                                                                       • Relays
+NEC and CEC Codes in that capacity. For        cannot be utilized as feeder or branch
+international purposes, the entire FAZ         circuit protective devices per the local                • Contactor coils
+family is CE marked and in full conformity     electrical codes                                        • PLC I/O points
+with the applicable IEC standards for          (2008 NEC 240.10And CEC Part 1 C22.1).                  • Lighting circuits
+miniature circuit breakers, EN/IEC 60898       This commonly restricts their use to
+and IEC/EN 60947-2.                            applications where “closer” protection                  • Power supplies
+                                               is desired than that offered by a branch                • Computers
+Outside North America, they can be
+used in both residential and industrial        circuit protection device.                              • Electronic equipment
+applications as feeder and branch circuit      Eaton FAZ Supplementary Protectors are                  • Control circuits
+www.automationdirect.com                                                                                   Circuit Protection            tCPR-100
+                                                                                   For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+                FAZ Supplementary Protectors
+
+
+
+
+Supplementary Protectors Sample Applications
+
+
+
+
+                                                                                          Supplementary
+                                                                                          Protector
+
+
+
+
+                 UL489 / CSA 5.1
+                  MCCB or MCB                                      2008 NEC 430.72 Part F / 2009 CEC 14-114
+                                                                                                     Control Circuit
+                                                                                                      Transformer
+                                                                  UL1077
+              UL489 / CSA 5.1           UL508
+                   MCP                  Manual                                         480 - 120
+
+                                                                                                           UL1077
+               Per UL 508A              Motor
+                                       Controller                         Supplementary
+                                                                            Protector
+
+
+
+
+                                                                 UL1077                   UL1077                      UL1077
+
+          M                       M
+                                                                 PLC                 Contactor                      Relays
+                                                                 I/O                   Coils
+
+   Supplementary protectors are not to be used in feeder circuits or motor circuits. Use them only in applications where
+   branch protection is already provided or is not required.
+
+
+www.automationdirect.com                                                                      Circuit Protection               tCPR-101
+                                                                                                              For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                              FAZ Supplementary Protectors
+                              Selection Guide
+                                                                                       FAZ - Single-Pole Selection Guide
+                                                             Ampere        B Curve                        C Curve                           D Curve
+                                                                                            Price                           Price                              Price
+                                                             Rating      Part Number                    Part Number                       Part Number
+                                                               0.5            –               –       FAZ-C0P5-1-SP         $24.00     FAZ-D0P5-1-SP          $24.00
+                                                               1        FAZ-B1-1-SP         $24.00     FAZ-C1-1-SP          $24.00       FAZ-D1-1-SP          $24.00
+                                                               2        FAZ-B2-1-SP         $31.50     FAZ-C2-1-SP          $24.00       FAZ-D2-1-SP          $24.00
+                                                               3        FAZ-B3-1-SP         $24.00     FAZ-C3-1-SP          $24.00       FAZ-D3-1-SP          $24.00
+                                                               4        FAZ-B4-1-SP         $24.00     FAZ-C4-1-SP          $24.00       FAZ-D4-1-SP          $24.00
+                                                               5        FAZ-B5-1-SP         $24.00     FAZ-C5-1-SP          $22.00       FAZ-D5-1-SP          $24.00
+                                                               6        FAZ-B6-1-SP         $22.00     FAZ-C6-1-SP          $22.00       FAZ-D6-1-SP          $22.00
+                                                               7        FAZ-B7-1-SP         $22.00     FAZ-C7-1-SP          $22.00       FAZ-D7-1-SP          $22.00
+                                                               8        FAZ-B8-1-SP         $22.00     FAZ-C8-1-SP          $22.00       FAZ-D8-1-SP          $22.00
+                                                               10       FAZ-B10-1-SP        $22.00     FAZ-C10-1-SP         $22.00      FAZ-D10-1-SP          $22.00
+                                                               13       FAZ-B13-1-SP        $22.00     FAZ-C13-1-SP         $22.00      FAZ-D13-1-SP          $22.00
+                 Single-Pole
+                                                               15       FAZ-B15-1-SP        $22.00     FAZ-C15-1-SP         $22.00      FAZ-D15-1-SP          $22.00
+                                                               16       FAZ-B16-1-SP        $22.00     FAZ-C16-1-SP         $22.00      FAZ-D16-1-SP          $22.00
+                                                               20       FAZ-B20-1-SP        $22.00     FAZ-C20-1-SP         $22.00      FAZ-D20-1-SP          $22.00
+     Note: Eaton product part numbers will
+        contain a [.] instead of [ P ] and                     25       FAZ-B25-1-SP        $22.00     FAZ-C25-1-SP         $22.00      FAZ-D25-1-SP          $22.00
+             a [ / ] instead of a [ - ].                       30       FAZ-B30-1-SP        $24.00     FAZ-C30-1-SP         $24.00      FAZ-D30-1-SP          $24.00
+    Example: FAZ-C0P5-1-SP =FAZ-C0.5/1-SP
+                                                               32       FAZ-B32-1-SP        $24.00     FAZ-C32-1-SP         $24.00      FAZ-D32-1-SP          $24.00
+                                                               40       FAZ-B40-1-SP        $24.00     FAZ-C40-1-SP         $24.00      FAZ-D40-1-SP          $24.00
+                                                               50       FAZ-B50-1-SP        $24.00     FAZ-C50-1-SP         $24.00             –                 –
+                                                               63       FAZ-B63-1-SP        $24.00     FAZ-C63-1-SP         $24.00             –                 –
+
+
+
+
+                                                                                        FAZ - Two-Pole Selection Guide
+                                                             Ampere
+                                                                      B Curve Part Number   Price    C Curve Part Number    Price     D Curve Part Number      Price
+                                                             Rating
+                                                         0.5                  –               –         FAZ-C0P5-2          $46.00       FAZ-D0P5-2           $46.00
+                                                         1                FAZ-B1-2          $46.00       FAZ-C1-2           $46.00         FAZ-D1-2           $46.00
+                                                         2                FAZ-B2-2          $43.50       FAZ-C2-2           $46.00         FAZ-D2-2           $46.00
+                                                         3                FAZ-B3-2          $46.00       FAZ-C3-2           $46.00         FAZ-D3-2           $46.00
+                                                         4                FAZ-B4-2          $46.00       FAZ-C4-2           $46.00         FAZ-D4-2           $46.00
+                                                         5                FAZ-B5-2          $46.00       FAZ-C5-2           $46.00         FAZ-D5-2           $46.00
+                                                         6                FAZ-B6-2          $42.50       FAZ-C6-2           $42.50         FAZ-D6-2           $46.00
+                                                         7                FAZ-B7-2          $42.50       FAZ-C7-2           $46.00         FAZ-D7-2           $46.00
+                                                         8                FAZ-B8-2          $42.50       FAZ-C8-2           $46.00         FAZ-D8-2           $46.00
+                                                         10              FAZ-B10-2          $42.50      FAZ-C10-2           $42.50        FAZ-D10-2           $46.00
+                                                         13              FAZ-B13-2          $42.50      FAZ-C13-2           $42.50        FAZ-D13-2           $46.00
+                                                         15              FAZ-B15-2          $42.50      FAZ-C15-2           $42.50        FAZ-D15-2           $46.00
+                                                         16              FAZ-B16-2          $42.50      FAZ-C16-2           $42.50        FAZ-D16-2           $46.00
+                  Two-Pole                               20              FAZ-B20-2          $42.50      FAZ-C20-2           $42.50        FAZ-D20-2           $46.00
+                                                         25              FAZ-B25-2          $42.50      FAZ-C25-2           $42.50        FAZ-D25-2           $46.00
+                                                         30              FAZ-B30-2          $42.50      FAZ-C30-2           $42.50        FAZ-D30-2           $46.00
+                                                         32              FAZ-B32-2          $46.00      FAZ-C32-2           $46.00        FAZ-D32-2           $46.00
+Note: Eaton parts available for sale to North America   40              FAZ-B40-2          $46.00      FAZ-C40-2           $46.00        FAZ-D40-2           $46.00
+      locations only.                                    50              FAZ-B50-2          $46.00      FAZ-C50-2           $46.00             –                 –
+                                                         63              FAZ-B63-2          $46.00      FAZ-C63-2           $46.00             –                 –
+
+
+
+
+www.automationdirect.com                                                                                                Circuit Protection            tCPR-102
+                                                                                  For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                  FAZ Supplementary Protectors
+                  Selection Guide
+                       FAZ - Three-Pole Selection Guide
+    Ampere     B Curve                   C Curve                D Curve
+                            Price                    Price                  Price
+    Rating   Part Number               Part Number            Part Number
+0.5              –           –      FAZ-C0P5-3       $64.00   FAZ-D0P5-3    $64.00
+1            FAZ-B1-3      $64.00   FAZ-C1-3         $64.00    FAZ-D1-3     $64.00
+2            FAZ-B2-3      $64.00   FAZ-C2-3         $64.00    FAZ-D2-3     $64.00
+3            FAZ-B3-3      $64.00   FAZ-C3-3         $64.00    FAZ-D3-3     $64.00
+4            FAZ-B4-3      $64.00   FAZ-C4-3         $64.00    FAZ-D4-3     $64.00
+5            FAZ-B5-3      $64.00   FAZ-C5-3         $64.00    FAZ-D5-3     $64.00
+6            FAZ-B6-3      $64.00   FAZ-C6-3         $64.00    FAZ-D6-3     $64.00
+7            FAZ-B7-3      $64.00   FAZ-C7-3         $64.00    FAZ-D7-3     $64.00
+8            FAZ-B8-3      $64.00   FAZ-C8-3         $64.00    FAZ-D8-3     $64.00
+10           FAZ-B10-3     $64.00   FAZ-C10-3        $64.00   FAZ-D10-3     $64.00
+13           FAZ-B13-3     $64.00   FAZ-C13-3        $64.00   FAZ-D13-3     $64.00
+15           FAZ-B15-3     $64.00   FAZ-C15-3        $64.00   FAZ-D15-3     $64.00
+                                                                                                              Three-Pole
+16           FAZ-B16-3     $64.00   FAZ-C16-3        $64.00   FAZ-D16-3     $64.00
+20           FAZ-B20-3     $65.00   FAZ-C20-3        $64.00   FAZ-D20-3     $64.00
+                                                                                                Note: Eaton product part numbers will
+25           FAZ-B25-3     $64.00   FAZ-C25-3        $64.00   FAZ-D25-3     $64.00                 contain a [.] instead of [ P ] and
+30           FAZ-B30-3     $64.00   FAZ-C30-3        $64.00   FAZ-D30-3     $64.00                      a [ / ] instead of a [ - ].
+                                                                                                 Example: FAZ-C0P5-3 = FAZ-C0.5/3
+32           FAZ-B32-3     $64.00   FAZ-C32-3        $64.00   FAZ-D32-3     $64.00
+40           FAZ-B40-3     $64.00   FAZ-C40-3        $64.00   FAZ-D40-3     $64.00
+50           FAZ-B50-3     $64.00   FAZ-C50-3        $64.00       –           –
+63           FAZ-B63-3     $64.00   FAZ-C63-3        $64.00       –           –
+
+
+
+
+www.automationdirect.com                                                                    Circuit Protection              tCPR-103
+                                                                                                                                 For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                           FAZ Series Technical Specifications
+                                                      UL 1077 Supplementary Protectors – UL/CSA
+                                                                                                                 B Curve                          C Curve                         D Curve
+Short Circuit Trip Response                                                                                       3–5 I n                          5–10 I n                           10–20in
+Current Range                                                                                                     1–63A                           0.5–63A                         0.5– 40A
+                                                       1 pole                                                                              277VAC, 48 VDC
+Maximum Voltage Ratings
+                                                       2 pole / 3 pole                                                                      480Y / 277 VAC*
+UL / CSA
+                                                       2 poles in series                                                                      96 VDC Max
+Thermal Tripping                                       1 pole                                                                               1.35 I n @ 40 °C
+Characteristics                                        Multi-pole                                                                           1.45 I n @ 40 °C
+                                                                                                                        10 kA (5 kA for 40–63A)                                        5 kA
+                                                       1 pole
+Interrupting                                                                                                                                10 kA @ 48 VDC
+Ratings                                                2 pole
+(@ maximum voltage)                                                                                                     10 kA (5 kA for 40–63A)                                        5 kA
+                                                       3 pole
+                                                       2 poles in series                                                                    10 kA @ 96 VDC
+Agency Approvals                                                                                                    File E177451, UL 1077, File 204453 CSA 22.2 No. 235, CE
+Note: To obtain the most current agency approval information, see the Agency Approval Checklist section on the specific part number's web page.
+
+                                                         IEC/EN 60947-2 Miniature Circuit Breaker
+                                                                                                                 B Curve                          C Curve                         D Curve
+Short Circuit Trip Response                                                                                      3 - 5 In                         5 - 10 I n                      10 - 20in
+Current Range                                                                                                     1 - 63A                         0.5 - 63A                       0.5 - 63A
+Maximum Voltage                                        1 pole                                                                              240 VAC, 48 VDC
+Ratings -                                              2 pole / 3 pole                                                                       240/415 VAC
+IEC/EN 60947-2                                         2 poles in series                                                                        96VDC
+Thermal Tripping                                       1 pole                                                                              > 1 hour @ 1.05 I n
+Characteristics                                        Multi-pole                                                                          < 1 hour @ 1.3 I n
+Interrupt Ratings (At Max Voltage)                                                                                                                15 kA
+Operational Switching Capacity                                                                                                                    7.5 kA
+Max. Back-up Fuse                                                                                                                             125A gL/gG
+Rated impulse withstand - Uimp                                                                                                                 4000 VAC
+
+Rated insulation voltage - Ui                                                                                                                   440 VAC
+
+                                                                           General Specifications
+Selectivity Class                                                                                                            3
+Lifespan                                                                                                  >10,000 (1 operation = ON/OFF)
+Operating Temperature                                                                                      -40 to +167 °F (–40 to +75 °C)
+Storage Temperature                                                                                        -40 to +185 °F (–40 to +85 °C)
+Shock (IEC68-2-22)                                                                                                   10g - 120 ms
+Housing Material                                                                                                         Nylon
+                    1 pole                                                                                          0.28 lb (127g)
+Weight              2 pole                                                                                          0.54 lb (245g)
+                    3 pole                                                                                          0.84 lb (381g)
+                                                                        Mechanical Specifications
+Terminal Protection                                                                                   Finger and back-of-hand proof to IEC 536
+Mounting Width Per Pole                                                                                                17.5 mm
+Mounting                                                                                                  IEC/EN 60715 top-hat rail, DIN rail
+Degree of Protection                                                                                                        IP20
+Terminals Top and Bottom                                                                                       Twin-purpose terminals
+Supply Connection                                                                                                  Line or load side
+Mounting Position                                                                                                  Without limitation
+
+                                                                     Wire Size and Torque Setting
+                  Ampere Rating                                                      Conductor Size                                                           Tightening Torque
+                                                         1 wire             0.75 to 25mm2                      18 to 4 AWG
+0.5 - 63                                                                                                                                                       21.2 lb·in (2.4 N·m)
+                                                         2 wires            0.75 to 10mm2                      18 to 8 AWG
+*A circuit breaker with a 480Y/277 VAC rating can be applied in a solidly grounded circuit where the nominal voltage of any conductor to ground does not exceed the lower value of the circuit
+breaker’s rating (e.g., 277VAC) and the nominal voltage between any two conductors does not exceed its higher value (480 VAC). These ratings typically can be found on protective devices such as
+molded-case circuit breakers and self-protected “Type E” combination motor controllers.
+
+www.automationdirect.com                                                                                                                   Circuit Protection                     tCPR-104
+                                                                                                                   For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                     FAZ Series Technical Data
+                                                    Corrected values of the rated current dependent on the ambient temperature
+
+                          Influence of the Ambient Temperature on the Thermal Tripping Behavior
+  Rated                                                                         Ambient Temperature °C
+ Current
+ (Amps)     -40     -30        -20     -10          0       10          20          30    35        40           45       50        55      60            65     70      75
+  0.50     0.64    0.62       0.60     0.58     0.56       0.54        0.52      0.50    0.49      0.48         0.47     0.46      0.45    0.44          0.43   0.42    0.41
+  1.00     1.30    1.20       1.20     1.20     1.10       1.10        1.00      1.00    0.99      0.97         0.95     0.93      0.90    0.89          0.87   0.85    0.83
+  2.00     2.60    2.50       2.40     2.30     2.20       2.20        2.10      2.00    2.00      1.90         1.90     1.90      1.80    1.80          1.70   1.70    1.70
+  3.00     3.80    3.70       3.60     3.50     3.40       3.30        3.10      3.00    3.00      2.90         2.80     2.80      2.70    2.70          2.60   2.50    2.50
+  4.00     5.10    5.00       4.80     4.70     4.50       4.30        4.20      4.00    3.90      3.90         3.80     3.70      3.60    3.50          3.50   3.40    3.30
+  5.00     6.40    6.20       6.00     5.80     5.60       5.40        5.20      5.00    4.90      4.80         4.70     4.60      4.50    4.40          4.30   4.20    4.10
+  6.00     7.70    7.50       7.20     7.00     6.70       6.50        6.30      6.00    5.90      5.80         5.70     5.60      5.40    5.30          5.20   5.10    5.00
+  7.00     9.00    8.70       8.40     8.20     7.80       7.60        7.40      7.00    6.90      6.80         6.70     6.50      6.30    6.20          6.10   6.00    5.80
+  8.00     10.20   9.90       9.60     9.30     9.00       8.70        8.40      8.00    7.90      7.70         7.60     7.40      7.20    7.10          6.90   6.80    6.60
+ 10.00     13.00   12.00      12.00   12.00     11.00     11.00        10.00    10.00    9.90      9.70         9.50     9.30      9.00    8.90          8.70   8.50    8.30
+ 13.00     17.00   16.00      16.00   15.00     15.00     14.00        14.00    13.00    13.00     13.00        12.00   12.00      12.00   12.00     11.00      11.00   11.00
+ 15.00     19.00   19.00      18.00   17.00     17.00     16.00        16.00    15.00    15.00     15.00        14.00   14.00      14.00   13.00     13.00      13.00   12.00
+ 16.00     20.00   20.00      19.00   19.00     18.00     17.00        17.00    16.00    16.00     15.00        15.00   15.00      14.00   14.00     14.00      14.00   13.00
+ 20.00     26.00   25.00      24.00   23.00     22.00     22.00        21.00    20.00    20.00     19.00        19.00   19.00      18.00   18.00     17.00      17.00   17.00
+ 25.00     32.00   31.00      30.00   29.00     28.00     27.00        26.00    25.00    25.00     24.00        24.00   23.00      23.00   22.00     22.00      21.00   21.00
+ 32.00     41.00   40.00      38.00   37.00     36.00     35.00        33.00    32.00    32.00     31.00        30.00   30.00      29.00   28.00     28.00      27.00   26.00
+ 40.00     51.00   50.00      48.00   47.00     45.00     43.00        42.00    40.00    39.00     39.00        38.00   37.00      36.00   35.00     35.00      34.00   33.00
+ 50.00     64.00   62.00      60.00   58.00     56.00     54.00        52.00    50.00    49.00     48.00        47.00   46.00      45.00   44.00     43.00      42.00   41.00
+ 63.00     81.00   78.00      76.00   73.00     71.00     68.00        66.00    63.00    62.00     61.00        60.00   58.00      57.00   56.00     55.00      53.00   52.00
+                                       Influence of the mains system frequency on the tripping behavior IMA of the instantaneous release
+
+                                                         Influence of the Mains Frequency
+                           Mains Frequency ƒ (Hz)            16 2/3            50          60             100           200          300           400
+                   IMA(ƒ) IMA(50 Hz) [%]                          91           100        101             106           115          134           141
+
+                                        Load Carrying Capacity of Adjoining Supplementary Protectors
+
+
+
+
+                                                          Number of Supplementary Protectors
+www.automationdirect.com                                                                                                        Circuit Protection              tCPR-105
+                                                                                                                              For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                                   FAZ Series Technical Data
+Characteristic Curves                                          • The X axis shows the prospective short-circuit current levels.
+                                                               • The Y axis indicates the actual let-through values at those prospective fault ratings for
+                                                                 each FAZ device plotted.
+                                                                As can be interpreted from the bend in the plotted curves, each device acts to limit the damaging let-through
+                                                                                        energy (and current) at those values of short-circuit current.
+
+                        Let-through energy I²t                                                                               Let-through current I
+                        Characteristic B and C                                                                               Characteristic B and C
+
+    I2t
+
+
+
+
+                                                                                                  Let-Through Current
+   Let-Through Energy
+
+
+
+
+                         Prospective Short-Circuit Current                                                              Prospective Short-Circuit Current
+
+
+                        Let-through energy I²t                                                                              Let-through current I
+                        Characteristic D                                                                                    Characteristic D
+
+    I2t
+
+
+
+
+ Let-Through Energy                                                                             Let-Through Current
+
+
+
+
+                           Prospective Short-Circuit Current
+                                                                                                                        Prospective Short-Circuit Current
+
+
+www.automationdirect.com                                                                                                                Circuit Protection            tCPR-106
+                                                                                                                            For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                  FAZ Series Technical Data
+                                                                  Time-current characteristic
+                                                                          Type B, C and D
+
+
+                                         7200
+                                         3600        2                                                     Tripping characteristic
+                                                 1                                                            acc. to EN 60898
+
+                                         1200                                                         1   conventional non-tripping current
+                                                                                                          Int= 1.13 I N : t > 1 h
+                                          600
+                                                                                                      2   conventional tripping current
+                                                                                                          I t = 1.45 IN : t < 1 h
+                                          300
+                                                                                                          2.55 IN: t = 1- 60 s (I N < 32A)
+                                                                                                      3
+                                          120                                                                      t = 1-120 s (IN > 32A)
+                                                                                                      4   Type B: 3 I N: t > 0.1 s
+                                           60                     3
+                                                                                                      5           5 I N: t < 0.1 s
+
+                                           30                                                         6   Type C: 5 IN : t > 0.1 s
+                                                                                                      7         10 I N : t < 0.1 s
+
+                                                                                                      8   Type D:10 I N : t > 0.1 s
+                                           10
+                                                                                                      9           20 I N : t < 0.1 s
+                                            5
+
+                              t [sec]       2
+                                            1
+                                                              3
+                                           0.5
+
+                                           0.2
+                                                                                   5              7                     9
+                                           0.1
+                                          0.05
+                                                                  4       B6             C    8
+                                                                                                          D
+                                          0.02
+                                          0.01
+                                         0.005
+
+                                        0.002
+                                         0.001
+                                        0.0005
+
+                                                 1        2           3   4    5       6 7 8 9 10          15       20           30     40     50
+
+                                                                                         I / IN
+
+FAZ Supplementary Protector Dimensions
+ in [mm]
+
+
+
+
+           Please see our website www.AutomationDirect.com for complete engineering drawings. Dimensions are approximate. Not for construction purposes.
+
+
+
+www.automationdirect.com                                                                                                                     Circuit Protection     tCPR-107
+                                                                                                                      For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                    FAZ Series Accessories
+Field Mountable
+Accessories
+• Auxiliary switch
+• Alarm switch
+• Shunt trip
+• No tools required for mounting
+
+
+
+
+                                                        FAZ-XHIN11-SP                     FAZ-XAM002                                          FAZ-XAA-C12-110V
+                                                       Auxiliary Contact               Alarm/Aux Contact                                     FAZ-XAA-C110-415V
+                                                                                                                                                  Shunt Trip
+
+                                         FAZ Series Auxiliary Contacts and Shunt Trip Release
+Part Number                                                  Description                                    Contacts         Module Width          Module Weight             Price
+                                                            1 NO / 1 NC
+                                             Installs on left side of FAZ or shunt trip
+FAZ-XHIN11-SP                                                                                               (1) DPST                                                         $53.00
+                                              Maximum one per FAZ (1077) device
+                                      Switches when FAZ is tripped electrically or manually
+                                                                                                                                    0.35in             0.15 lb
+                                             Small selector screw changes mode                                                     [8.9mm]              [68g]
+                                          Two form C (one set changeover) contacts                         (2) Form C
+FAZ-XAM002                                  Installs on left side of FAZ or shunt trip                      Contacts                                                         $53.00
+                            Auxilary contacts switch when FAZ is tripped electrically or manually             SPDT
+                            Trip indicating contact switches only when FAZ is tripped electrically
+Part Number                                                  Description                                  Trip Voltage       Module Width          Module Weight             Price
+                                                                                                          110–415 VAC
+FAZ-XAA-C110-415V                                                                                                                                                            $78.00
+                                                       Allows remote trip of FAZ                          110–230 VDC            0.69in                0.28 lb
+                                                      Installs on left side of FAZ                         12–110 VAC          [17.5mm]                [127g]
+FAZ-XAA-C12-110V                                                                                                                                                             $78.00
+                                                                                                           12–60 VDC
+
+                               Auxiliary Contacts and Voltage Trips Technical Specifications
+                                                                                                                                            Wire Size                Tightening
+                            Circuit                                                                                                   (Solid and Stranded)             Torque
+Part Number                                          Electrical Characteristics          Mechanical Characteristics
+                           Diagram
+                                                                                                                                      mm²             AWG          N·m          lb·in
+                                13      21
+                                                        Rated for general use            FAZ mounting, IP40 protection,
+                                                         2A at 230/240 VAC
+FAZ-XHIN11-SP                                                                          IEC 536 protection against electric
+                                                        0.5A at 110/120 VDC                   shock, lift terminals
+                                14      22
+                                                      rated frequency 50/60 Hz
+                                       1 SPDT auxiliary contact and 1 SPDT                                                           0.5 - 2.5       18 - 14     0.8 - 1.0     7.1 - 9.0
+                                       alarm contact that can be configured
+                       See FAZ-XAM002 and                                                FAZ mounting, IP40 protection,
+                                           used as an auxiliary contact, rated
+FAZ-XAM002               diagrams on                                                   IEC 536 protection against electric
+                       dimensions page for general  use, 2A at 230/240 VAC,                   shock, lift terminals
+                                               0.5A at 110/120 VDC,
+                                             rated frequency 50/60 Hz
+                                             110–415 VAC, 110–230 VDC operating
+FAZ-XAA-C110-415V               C1            range, max inrush current 2.1A (AC) /
+                                                1A (DC), rated frequency 50/60 Hz     IEC/EN 30715 top-hat rail or DIN rail
+                                                                                       mounting, IP40 protection, IEC 536
+                                              12–110 VAC, 12 - 60 VDC operating                                                       1 - 2.5        18 - 12       2.4           21.2
+                                                                                        protection against electric shock,
+                                                range, maximum inrush current                twin-purpose terminals
+FAZ-XAA-C12-110V                C2            15A (AC) / 21A (DC), rated frequency
+                                                           50/60 Hz
+
+
+
+Allowable
+Combinations
+of Accessories                                   or                                                              or
+
+
+
+
+                                     FAZ-XHIN11-SP    FAZ-XAM002      FAZ                            FAZ-XHIN11-SP    FAZ-XAM002    FAZ-XAA-xxx      FAZ
+                                       Standard         Auxilary Supplementary                         Standard         Auxilary       Shunt    Supplementary
+                                        Auxilary         Alarm     Protector                            Auxilary         Alarm          Trip      Protector
+                                                        Switch                                                          Switch
+
+www.automationdirect.com                                                                                                           Circuit Protection              tCPR-108
+                                                                                                                        For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                    FAZ Series Accessories
+Protective Accessories
+                FAZ Series Protective Accessories                                                                                                  2
+Part Number      Description                                            Quantity           Price
+                       Lockout attachment for Eaton FAZ series
+                                                                                                                             1
+ZIS-SPE-1TE-3
+                     supplementary protectors and FAZ mini circuit
+                 breakers, suitable to prevent unauthorized activation 3 per pack         $52.00          ZIS-SPE-1TE-3
+                                                                                                                                                                          3
+                  of a de-energized circuit, accepts lock shackles up
+                             to 9/32in. (7.1mm) in diameter
+BBIP-5             Busbar protection shroud, covers up to 5 unused 10 per pack            $83.00
+                  terminals (break off unused pieces to size), for use
+BBIP-5-5                   with Eaton BBUL series busbar.              5 per pack         $51.00
+
+
+                                                                                                                             FAZ or FAZ-NA Series
+
+
+
+
+Busbar System
+                                                                                                 ZIS-SPE-1TE-3
+                                                                                               Lockout Attachment
+Without auxiliary contacts
+
+           BBUL Series Busbars for use with FAZ Series Supplementary Protectors
+                                            Description                                 Rated Operational Current                       Qty             Price
+BBUL25-1P-1M57-SP               Busbar, 1 pole, 57-position, 480 VAC                                                                    1               $70.00
+                                                                                                  100A,
+BBUL25-2P-2M56-SP               Busbar, 2 pole, 56-position, 480 VAC                                                                    1               $129.00
+                                                                                               fed from end
+BBUL25-3P-3M57-SP               Busbar, 3 pole, 57-position, 480 VAC                                                                    1               $195.00
+
+
+                                                    Busbar Accessories
+                                                                        Description                                                     Qty             Price
+BBUL-EC-1                                                                                                                               10              $19.00
+                                        Busbar end cover for use with 1-pole Eaton BBUL series busbar.
+BBUL-EC-1-2                                                                                                                             2                $7.50
+BBUL-EC-3                                                                                                                               10              $29.00
+                                   Busbar cover end for use with 2-pole and 3-pole Eaton BBUL series busbar.
+BBUL-EC-3-2                                                                                                                             2               $7.50
+BBUL-TEPA-35-1               Busbar terminal lug, connects wiring to busbar system, for use with 1-pole Eaton BBUL                      1               $22.50
+BBUL-TEPA-35-3                  series busbar, accepts 10 AWG to 1/0 AWG copper wire, 115A, 1000V AC/DC.                                3               $63.00
+BBUL-TEP-35-1                 Busbar terminal lug, connects wiring to busbar system, for use with 2-pole and 3-pole                     1               $22.50
+                             Eaton BBUL series busbar, accepts 10 AWG to 1/0 AWG copper wire, 115A, 1000V AC/
+BBUL-TEP-35-3                                                          DC.                                                              3               $63.00
+
+
+
+                     BBUL-EC-1                               BBUL-TEPA-35-1
+
+
+                     Single
+                     Phase                                                                                     Cut to
+                                                                                                               length
+                        OR
+                                                                    BBUL-TEP-35-1                                                                        L3     L1
+                                                                                                                                                                 1   L2
+
+                      Three                                                                                                              L3   L1   L2
+
+
+                                                                                          57-SP
+                                                                                                                                   L2
+                      Phase                                                                                             L3    L1
+
+                                                                                5-3P-3M L1 L2 L3
+                                                                                                              L1   L2
+
+
+                                                                           BBUL2 L1 L2 L3
+                                                                                   L3
+                                                                         L1   L2
+                                                              L2   L3
+                                                        L1
+
+
+
+                 BBUL-EC-3                                                                                                BBIP-5
+                                     Top
+                                     Side
+
+                                                                                                                    FAZ Series
+
+                                 Bottom
+                                   Side                                              May feed from
+                                                                                   Top or Bottom side
+www.automationdirect.com                                                                                                                Circuit Protection                tCPR-109
+                                                                                                                 For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                FAZ Series Accessories
+Accessories Dimensions
+in [mm]
+
+
+                                                                                      contact 4.xx in Auxilary mode         SEL                                Manual or
+                                                                                      contact 1.xx in Auxilary mode                          TRIP             Electrical Trip
+                                                                                                OFF                         ON                      OFF
+                                                                                                                                                                                  4.11
+                                                                                        1   N     1.11    4.11     1    N     1.11    4.11          1   N     1.11
+
+
+
+
+                                                                                                1.14     4.12               1.14     4.12                   1.14                4.12
+                                                                                        2   N   1.12     4.14       2   N   1.12     4.14           2   N   1.12                4.14
+
+
+
+                                                                                                                                                                                   4.11
+                                                                                                                                                               Manual Trip
+                                                                                      contact 4.xx in Alarm mode            SEL
+                                                                                      contact 1.xx in Auxilary mode                          TRIP
+                                                                                                OFF                         ON                      OFF                         4.14
+                                                                                        1   N     1.11    4.11      1   N     1.11    4.11          1   N     1.11              4.12
+
+
+
+                                                                                                1.14     4.14               1.14     4.14                   1.14                   4.11
+                                                                                        2   N   1.12     4.12       2   N   1.12     4.12           2   N   1.12
+
+
+
+
+                                                                                                                                                                                4.14
+                                                                                                                               FAZ-XAM002                    Electrical Trip
+                                                                                                                                                                                4.12
+                          FAZ-XAM002                                                                                            Diagrams
+
+
+
+
+                              FAZ-XHIN11-SP                                                                                   FAZ-XAA-C-xxx
+
+
+
+FAZ Series
+Miniature Circuit Breakers
+Connection Diagrams                                                           Busbar Connection Diagrams
+Single Pole       Two-Pole                 Three-Pole
+                                                                                    Three-Pole Busbar                       Two-Pole Busbar                             Single Pole Busbar
+     1                1   3                  1     3       5                                        L1                                     L1                                            L
+                                                                                                    L2                                     L2
+                                                                                                    L3
+
+
+
+
+     2                2   4                 2      4       6
+
+                                Please see our website www.AutomationDirect.com for complete engineering drawings.
+
+
+
+
+www.automationdirect.com                                                                                                           Circuit Protection                                  tCPR-110
+                                                                                                               For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+                     FAZ Series Accessories
+Accessories Dimensions
+in [mm]
+
+
+
+                                                                                                                                                 BBUL25-1P-1M57-SP
+
+
+
+
+                                                                                                                                                 BBUL25-2P-2M56-SP
+
+
+
+
+                                                                                                                                                 BBUL25-3P-3M57-SP
+
+
+
+
+                                                                                                                                        BBIP-5
+
+          BBUL-TEP-35-1                                              BBUL-TEPA-35-1
+
+
+
+
+                                      BBUL-EC-1                                                          BBUL-EC-3
+
+
+
+                          Please see our website www.AutomationDirect.com for complete engineering drawings.
+
+
+www.automationdirect.com                                                                                                 Circuit Protection             tCPR-111
+                                                                                                                             For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+UL 489 or UL 1077?
+What are your Circuit Protection Requirements?
+                                     An understanding of circuit types and circuit protection products is critical to ensure their proper application.
+                                                                   See NEC Sections 100, 430And 409 for definitions.
+
+The proper sizing of an overcurrent protection device is the responsibility of the customer and should be determined using the application standards of the NEC (National Electric Code),
+                                                                          CEC (Canadian Electrical Code) or other
+                                         applicable standards. Per fine print note of 2008 NEC Section 100 “A current in excess of rating may be
+                                       accommodated by certain equipment and conductors for a given set of conditions. Therefore, the rules for
+                                                               overcurrent protection are specific for particular situations.”
+
+
+                                     UL 489                                                                                            UL 1077
+                             Branch Protection                                                                          Supplementary Protection
+
+
+
+
+                                                       What You Need to Know and Look For In Specifications
+                                                                         Certifications – Standards – Acceptance
+
+                                      UL 489                                                                                            UL 1077
+                              Branch Protection                                                                          Supplementary Protection
+ • UL 489 Listed or Recognized                                                                    • UL Recognized under UL 1077
+ • CSA C22.2 No. 5                                                                                • CSA 22.2 No. 285
+ • International ratings available depending on breaker type                                      • IEC 60947-2 or IEC 898
+                                                                    Function
+                                                                           • Opens automatically on Overload and Short Circuit
+ • Opens automatically on Overload and Short Circuit when properly
+   applied within its ratings                                              • Provides additional equipment protection where branch circuit
+                                                                             protection is already provided or not required
+ • Protects wire and cable against Overload and Short Circuit
+                                                                           • Not suitable for the protection of branch circuit conductors
+                                                                   Applications
+ • Branch circuit protection in control panels, panelboards, switchboards                         • Used within appliances or other electrical equipment such as control
+   and motor control centers                                                                         circuits, control power transformers, relays, PLC I/O points and
+ • Motor overload and motor short circuit protection (UL 489 Recognized                              lighting circuits
+   motor circuit protectors) for control panels and motor control centers                         • Ideal replacement for fuses that are applied as supplementary protection
+                                                                                           Features
+ • Bolted down or DIN rail mounted                                                                • DIN rail mounted
+ • External handle mechanisms available                                                           • Field mounted accessories
+ • Field mounted accessories                                                                      • Various levels of protection (curve type)
+ • Stand alone branch circuit protection                                                          • 10 kAIC @ 240 VAC
+ • Various levels of protection (curve type)                                                      • 10 kAIC @ 277 VAC and 5 kAIC @ 480 VAC
+ • High voltage and interruption levels (up to 100 kAIC @ 480 V)                                  • 10 kAIC @ 48 VDC
+                                                                        kAIC = thousands of Amps interrupt capacity
+                                                                                           Summary
+                                                              A Supplementary Protector can’t be used for Branch Circuit Protection.
+                                  Understanding the difference between Branch Circuit Protection and Supplementary Protection helps to ensure their proper use.
+
+www.automationdirect.com                                                                                                                  Circuit Protection                tCPR-1
+                                                                                                                         For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+
+UL 1077 Supplementary Protectors and
+UL 489 Circuit Breakers Application
+Guidelines
+
+                                                                                         UL 489
+                                                                                         Breaker
+
+
+
+
+                                                                                           UL 489
+                                    UL1077                                                 Branch                                                             External
+                                                                                                   Internal Receptacle                                       Receptacle
+               Electronics
+
+
+
+                                    UL1077                                                 UL 489
+                                                                                           Branch                                                             External
+                                                                                                                                                               Motor
+                   Other
+                  Sensitive                                                                                                                                        M
+                  Devices
+                                                                                           UL 489
+                                                                                           Branch                                                             External
+                                                                                                                                                               Motor
+                                       UL 489
+                                       Branch                                                                                                                      M
+
+
+
+                    HACR                                                                 UL1077              Motor
+                                                                                                           Controller
+                                                                                                           (Circuits)
+
+
+
+                                                     Example of UL 489 and UL 1077 Application
+
+UL 489 circuit breakers
+Used for branch circuit protection, internal/external receptacles, external motors and HACR equipment (heating, air conditioning and
+refrigeration).
+UL 1077 supplementary protectors
+Used for overcurrent protection within appliances or electrical equipment, where branch circuit protection is already provided or not
+required.
+
+Note: UL 489 devices can be used in place of UL 1077; UL 1077 devices cannot be used in place of UL 489.
+
+
+
+
+www.automationdirect.com                                                                                                           Circuit Protection               tCPR-2
+

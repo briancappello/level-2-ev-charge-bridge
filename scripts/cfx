@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Run the Camoufox search/fetch helper with the repo's virtualenv (see scripts/setup.sh).
+here="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+py="$here/../.venv/bin/python"
+[[ -x "$py" ]] || { echo "Run scripts/setup.sh first to create .venv" >&2; exit 1; }
+exec "$py" "$here/cfx.py" "$@"

@@ -1,0 +1,323 @@
+Polyamide cable glands with lamellar clamping
+• For standard industrial applications.
+• Easy assembly.
+• High quality strain relief and Seal, reliable performance for standard industrial applications.
+• Up-to-date international approvals.
+Technical Details
+            Body, Cap        PA 6 (Polyamide 6)
+Material
+            Seal             CR (Chloroprene)
+                             IP 68 - 5 Bar, 30 min
+Ingress Protection Rating
+                             IP 66
+UL Environmental Rating TYPE 1, 4X acc. to UL 50E
+Flammability                 V2 according to UL94
+                                            Permanent                          Intermittent
+Operating Temperature
+                                        -20 °C to +100 °C                  -30 °C to +150 °C
+                             • Metric EN 60423
+                             • PG DIN 40430
+Thread Type                  • NPT ANSI B1.20.1
+                             • Gas ISO 228
+                             • Other thread types also available upon request.
+Cable Type                   Non armoured
+                             • Lock nuts
+                             • Dome plugs
+                             • Reducing seals
+Accessories
+                             • Flat cable seals
+                             • Multihole seals
+                             • Gaskets (Washers)
+                             • In compliance with DIN EN 62444.
+                             • We recommend the use of lock nuts and gaskets to ensure IP rating
+                             for rough surfaces or through holes.
+                             • Accessories must be ordered separately.
+Remarks                      • Some approvals do not cover all sizes.
+                             • Other colours on request:
+                               RAL 5015 (blue)
+                               RAL 9003 (white)
+                               RAL 3020 (red)
+        Approvals                    Certificate Number                      Standards
+
+
+                          134171                            DIN EN 62444
+
+
+
+
+                          115116_0_000                      CSA C22.2 No18.3-12
+
+
+                                                            UL514B
+                                                            UL50E
+                          E199260
+                                                            CSA22.2 No 18.3-12
+                                                            CSA22.2 No 94.2-15
+
+
+                          TAE00003WX                        EN 62444
+
+
+For details of approvals see, our web page.
+                                                                                                                                   Industrial Applications
+                                                                                                              D
+
+
+
+
+                                                                                                                            SW
+                                                                                                                            Cap
+
+
+                                                                                         H
+
+
+
+
+                                                                                         TL                                 SW
+                                                                                                                            Body
+
+Standard Glands
+with Thread, Polyamide
+Thread Type METRIC acc. to EN 60423
+Outer Thread    Clamping      Outer Thread       Spanner Width       Outer Ø   max. Height                    Part Number
+    Size         Range          Length        Cap            Body
+  (Male)
+
+               Ø min - max         TL        SW Cap        SW Body     D           H              RAL 7035       RAL 7001       RAL 9005
+                    mm            mm          mm             mm       mm          mm             light grey         grey          black
+                 2,0 - 5,0        8,0          15            15       17,0        25,3        BI-1S           BI-0S          BI-2S
+                 2,0 - 5,0        10,0         15            15       17,0        25,3        BM-EN-1SMR      BM-EN-0SMR     BM-EN-2SMR
+                 2,0 - 5,0        15,0         15            15       17,0        25,3        BM-EN-1SRL      BM-EN-0SRL     BM-EN-2SRL
+M12x1,5
+                 3,0 - 6,5        8,0          15            15       17,0        25,3        BM-1S           BM-0S          BM-2S
+                 3,0 - 6,5        10,0         15            15       17,0        25,3        BM-EN-1SM       BM-EN-0SM      BM-EN-2SM
+                 3,0 - 6,5        15,0         15            15       17,0        25,3        BM-EN-1SL       BM-EN-0SL      BM-EN-2SL
+                 2,0 - 6,0        8,0          19            19       21,7        27,4        BM-EN-11R       BM-EN-01R      BM-EN-21R
+                 2,0 - 6,0        10,0         19            19       21,7        27,4        BM-EN-11MR      BM-EN-01MR     BM-EN-21MR
+                 2,0 - 6,0        15,0         19            19       21,7        27,4        BM-EN-11LR      BM-EN-01LR     BM-EN-21LR
+                 3,0 - 7,0        10,0         22            22       25,0        32,2        BI-11           BI-01          BI-21
+                 3,0 - 7,0        15,0         22            22       25,0        32,2        BI-11L          BI-01L         BI-21L
+M16x1,5
+                 4,0 - 8,0        8,0          19            19       21,7        27,4        BM-EN-11        BM-EN-01       BM-EN-21
+                 4,0 - 8,0        10,0         19            19       21,7        27,4        BM-EN-11M       BM-EN-01M      BM-EN-21M
+                 4,0 - 8,0        15,0         19            19       21,7        27,4        BM-EN-11L       BM-EN-01L      BM-EN-21L
+                 5,0 - 10,0       10,0         22            22       25,0        32,2        BM-11           BM-01          BM-21
+                 5,0 - 10,0       15,0         22            22       25,0        32,2        BM-11L          BM-01L         BM-21L
+                 5,0 - 9,0        10,0         24            24       27,0        32,4        BI-12           BI-02          BI-22
+                 5,0 - 9,0        15,0         24            24       27,0        32,4        BI-12L          BI-02L         BI-22L
+                 6,0 - 12,0       10,0         24            24       27,0        32,4        BM-12           BM-02          BM-22
+                 6,0 - 12,0       15,0         24            24       27,0        32,4        BM-12L          BM-02L         BM-22L
+M20x1,5          7,0 - 12,0       10,0         27            27       30,9        31,9        BI-13           BI-03          BI-23
+                 7,0 - 12,0       15,0         27            27       30,9        31,9        BI-14           BI-04          BI-24
+                 7,0 - 13,0       10,0         25            25       27,5        34,0        BM-EN-12S       BM-EN-02S      BM-EN-22S
+                10,0 - 14,0       10,0         27            27       30,9        31,9        BM-13           BM-03          BM-23
+                10,0 - 14,0       15,0         27            27       30,9        31,9        BM-14           BM-04          BM-24
+                 9,0 - 13,0       8,0          29            29       32,5        37,7        BM-EN-13R       BM-EN-03R      BM-EN-23R
+                 9,0 - 13,0       15,0         29            29       32,5        37,7        BM-EN-13RL      BM-EN-03RL     BM-EN-23RL
+                 9,0 - 16,0       10,0         33            33       37,2        38,4        BI-15           BI-05          BI-25
+                 9,0 - 16,0       15,0         33            33       37,2        38,4        BI-16           BI-06          BI-26
+M25x1,5
+                11,0 - 17,0       8,0          29            29       32,5        37,7        BM-EN-13        BM-EN-03       BM-EN-23
+                11,0 - 17,0       15,0         29            29       32,5        37,7        BM-EN-13L       BM-EN-03L      BM-EN-23L
+                13,0 - 18,0       10,0         33            33       37,2        38,4        BM-15           BM-05          BM-25
+                13,0 - 18,0       15,0         33            33       37,2        38,4        BM-16           BM-06          BM-26
+                11,0 - 15,0       10,0         36            36       41,0        42,3        BM-EN-14R       BM-EN-04R      BM-EN-24R
+                11,0 - 15,0       15,0         36            36       41,0        42,3        BM-EN-14RL      BM-EN-04RL     BM-EN-24RL
+                12,0 - 20,0       15,0         42            42       47,1        43,3        BI-17           BI-07          BI-27
+M32x1,5
+                15,0 - 21,0       10,0         36            36       41,0        42,3        BM-EN-14        BM-EN-04       BM-EN-24
+                15,0 - 21,0       15,0         36            36       41,0        42,3        BM-EN-14L       BM-EN-04L      BM-EN-24L
+                18,0 - 25,0       15,0         42            42       47,1        43,3        BM-17           BM-07          BM-27
+                16,0 - 23,0       10,0         46            46       52,4        47,4        BM-EN-15R       BM-EN-05R      BM-EN-25R
+                16,0 - 23,0       18,0         46            46       52,4        47,4        BM-EN-15RL      BM-EN-05RL     BM-EN-25RL
+                19,0 - 28,0       10,0         46            46       52,4        47,4        BM-EN-15        BM-EN-05       BM-EN-25
+M40x1,5
+                19,0 - 28,0       18,0         46            46       52,4        47,4        BM-EN-15L       BM-EN-05L      BM-EN-25L
+                20,0 - 26,0       18,0         53            53       59,6        52,4        BI-18           BI-08          BI-28
+                22,0 - 32,0       18,0         53            53       59,6        52,4        BM-18           BM-08          BM-28
+                25,0 - 31,0       18,0         60            60       67,8        54,8        BI-19           BI-09          BI-29
+M50x1,5
+                30,0 - 38,0       18,0         60            60       67,8        54,8        BM-19           BM-09          BM-29
+                29,0 - 35,0       18,0         65            65       72,4        54,9        BI-20           BI-10          BI-30
+M63x1,5
+                34,0 - 44,0       18,0         65            65       72,4        54,9        BM-20           BM-10          BM-30
+M75x2,0         48,0 - 55,0       25,0         75            80       89,0        55,0        BM-B12          BM-B02         BM-B22
+
+
+
+
+                                                                Industrial Applications
+                                               Standard Glands with Thread, Polyamide                                   005
+Polyamide cable glands with lamellar clamping
+• For standard industrial applications.
+• Easy assembly.
+• High quality strain relief and Seal, reliable performance for standard industrial applications.
+• Up-to-date international approvals.
+Technical Details
+            Body, Cap        PA 6 (Polyamide 6)
+Material
+            Seal             CR (Chloroprene)
+                             IP 68 - 5 Bar, 30 min
+Ingress Protection Rating
+                             IP 66
+UL Environmental Rating TYPE 1, 4X acc. to UL 50E
+Flammability                 V2 according to UL94
+                                            Permanent                          Intermittent
+Operating Temperature
+                                        -20 °C to +100 °C                  -30 °C to +150 °C
+                             • Metric EN 60423
+                             • PG DIN 40430
+Thread Type                  • NPT ANSI B1.20.1
+                             • Gas ISO 228
+                             • Other thread types also available upon request.
+Cable Type                   Non armoured
+                             • Lock nuts
+                             • Dome plugs
+                             • Reducing seals
+Accessories
+                             • Flat cable seals
+                             • Multihole seals
+                             • Gaskets (Washers)
+                             • In compliance with DIN EN 62444.
+                             • We recommend the use of lock nuts and gaskets to ensure IP rating
+                             for rough surfaces or through holes.
+                             • Accessories must be ordered separately.
+Remarks                      • Some approvals do not cover all sizes.
+                             • Other colours on request:
+                               RAL 5015 (blue)
+                               RAL 9003 (white)
+                               RAL 3020 (red)
+        Approvals                    Certificate Number                      Standards
+
+
+                          134171                            DIN EN 62444
+
+
+
+
+                          115116_0_000                      CSA C22.2 No18.3-12
+
+
+                                                            UL514B
+                                                            UL50E
+                          E199260
+                                                            CSA22.2 No 18.3-12
+                                                            CSA22.2 No 94.2-15
+
+
+                          TAE00003WX                        EN 62444
+
+
+For details of approvals see, our web page.
+                                                                                                                                                 Industrial Applications
+                                                                                                                          D
+
+
+
+
+                                                                                                                                          SW
+                                                                                                                                          Cap
+
+
+                                                                                                H
+
+
+
+
+                                                                                                TL                                        SW
+                                                                                                                                          Body
+
+Standard Glands
+with Thread, Polyamide
+Thread Type NPT acc. to ANSI B1.20.1
+   Outer       Clamping     Outer Thread      Spanner Width        Outer Ø    max. Height                   Part Number
+Thread Size     Range         Length        Cap           Body
+  (Male)
+
+              Ø min-max          TL        SW Cap       SW Body      D            H           RAL 7035       RAL 7001          RAL 9005
+                  mm            mm          mm            mm        mm           mm          light grey        grey             black
+               3,0 - 7,0        15,0         22           22        25,0         32,2        BSPA-11R       BSPA-01R          BSPA-21R
+NPT 3/8"
+               5,0 - 10,0       15,0         22           22        25,0         32,2        BSPA-11        BSPA-01           BSPA-21
+               5,0 - 9,0        15,0         24           24        27,0         32,4        BSPB-12R       BSPB-02R          BSPB-22R
+               6,0 - 12,0       15,0         24           24        27,0         32,4        BSPB-12        BSPB-02           BSPB-22
+NPT 1/2"
+               7,0 - 12,0       15,0         27           27        30,9         31,9        BSPC-12R       BSPC-02R          BSPC-22R
+              10,0 - 14,0       15,0         27           27        30,9         31,9        BSPC-12        BSPC-02           BSPC-22
+               9,0 - 16,0       15,0         33           33        37,2         38,4        BSPD-13R       BSPD-03R          BSPD-23R
+NPT 3/4"
+              13,0 - 18,0       15,0         33           33        37,2         38,4        BSPD-13        BSPD-03           BSPD-23
+              12,0 - 20,0       18,0         42           42        47,1         43,3        BSP-14R        BSP-04R           BSP-24R
+NPT 1"
+              18,0 - 25,0       18,0         42           42        47,1         43,3        BSP-14         BSP-04            BSP-24
+
+Thread Type PG acc. to DIN 40430
+   Outer      Clamping      Outer Thread       Spanner Width        Outer Ø    max. Height                  Part Number
+Thread Size    Range          Length        Cap            Body
+  (Male)
+
+              Ø min-max          TL        SW Cap        SW Body      D            H           RAL 7035       RAL 7001        RAL 9005
+                  mm            mm          mm             mm        mm           mm           light grey       grey           black
+                2,0 - 5,0        8,0         15            15        17,0         25,3         BSR-11          BSR-01         BSR-21
+  PG 7
+                3,0 - 6,5        8,0         15            15        17,0         25,3         BS-11           BS-01          BS-21
+                2,0 - 6,0        8,0         19            19        21,7         27,4         BSR-12          BSR-02         BSR-22
+  PG 9
+                4,0 - 8,0        8,0         19            19        21,7         27,4         BS-12           BS-02          BS-22
+                3,0 - 7,0        8,0         22            22        25,0         32,2         BSR-13          BSR-03         BSR-23
+  PG 11
+               5,0 - 10,0        8,0         22            22        25,0         32,2         BS-13           BS-03          BS-23
+                5,0 - 9,0       10,0         24            24        27,0         32,4         BSR-14          BSR-04         BSR-24
+  PG 13,5
+               6,0 - 12,0       10,0         24            24        27,0         32,4         BS-14           BS-04          BS-24
+               7,0 - 12,0       10,0         27            27        30,9         31,9         BSR-15          BSR-05         BSR-25
+  PG 16
+              10,0 - 14,0       10,0         27            27        30,9         31,9         BS-15           BS-05          BS-25
+               9,0 - 16,0       11,0         33            33        37,2         38,4         BSR-16          BSR-06         BSR-26
+  PG 21
+              13,0 - 18,0       11,0         33            33        37,2         38,4         BS-16           BS-06          BS-26
+              12,0 - 20,0       11,0         42            42        47,1         43,3         BSR-17          BSR-07         BSR-27
+  PG 29
+              18,0 - 25,0       11,0         42            42        47,1         43,3         BS-17           BS-07          BS-27
+              20,0 - 26,0       13,0         53            53        59,6         52,4         BSR-18          BSR-08         BSR-28
+  PG 36
+              22,0 - 32,0       13,0         53            53        59,6         52,4         BS-18           BS-08          BS-28
+              25,0 - 31,0       13,0         60            60        67,8         54,8         BSR-19          BSR-09         BSR-29
+  PG 42
+              30,0 - 38,0       13,0         60            60        67,8         54,8         BS-19           BS-09          BS-29
+              29,0 - 35,0       14,0         65            65        72,4         54,9         BSR-20          BSR-10         BSR-30
+  PG 48
+              34,0 - 44,0       14,0         65            65        72,4         54,9         BS-20           BS-10          BS-30
+
+Thread Type G acc. to G ISO 228
+   Outer      Clamping      Outer Thread       Spanner Width       Outer Ø    max. Height                   Part Number
+  Thread       Range          Length        Cap            Body
+    Size
+  (Male)
+              Ø min-max          TL        SW Cap        SW Body      D            H         RAL 7035        RAL 7001         RAL 9005
+                  mm            mm          mm             mm        mm           mm         light grey        grey             black
+                2,0 - 5,0       10,0         15            15        17,0         25,3        BPFR-1S        BPFR-0S          BPFR-2S
+ G 1/4"
+                3,0 - 6,5       10,0         15            15        17,0         25,3        BPF-1S         BPF-0S           BPF-2S
+                3,0 - 7,0       11,0         22            22        25,0         32,2        BPFR-11        BPFR-01          BPFR-21
+ G 3/8"
+               5,0 - 10,0       11,0         22            22        25,0         32,2        BPF-11         BPF-01           BPF-21
+                5,0 - 9,0       10,0         24            24        27,0         32,4        BPFR-12        BPFR-02          BPFR-22
+               6,0 - 12,0       10,0         24            24        27,0         32,4        BPF-12         BPF-02           BPF-22
+ G 1/2"
+               7,0 - 12,0       11,0         27            27        30,9         31,9        BPFR-13        BPFR-03          BPFR-23
+              10,0 - 14,0       11,0         27            27        30,9         31,9        BPF-13         BPF-03           BPF-23
+               9,0 - 16,0       12,0         33            33        37,2         38,4        BPFR-14        BPFR-04          BPFR-24
+ G 3/4"
+              13,0 - 18,0       12,0         33            33        37,2         38,4        BPF-14         BPF-04           BPF-24
+              12,0 - 20,0       13,0         42            42        47,1         43,3        BPFR-15        BPFR-05          BPFR-25
+ G 1"
+              18,0 - 25,0       13,0         42            42        47,7         43,3        BPF-15         BPF-05           BPF-25
+
+
+
+
+                                                                     Industrial Applications
+                                                    Standard Glands with Thread, Polyamide                                           007
+

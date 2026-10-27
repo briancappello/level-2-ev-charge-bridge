@@ -1,0 +1,144 @@
+# RCM14-01 SYSTEM PCB Littelfuse/Western Automation | Current Sensors | DigiKey
+https://www.digikey.ca/en/products/detail/littelfuse-western-automation/RCM14-01-SYSTEM-PCB/19183153
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+FREE SHIPPING on Orders over $100 CAD!*
+Product Index
+Sensors, Transducers
+Current Sensors
+
+Littelfuse/Western Automation RCM14-01 SYSTEM PCB
+
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+RCM14-01 SYSTEM PCB
+
+
+DigiKey Part Number
+	
+5327-RCM14-01SYSTEMPCB-ND
+
+
+Manufacturer
+	
+Littelfuse/Western Automation
+
+
+Manufacturer Product Number
+	
+RCM14-01 SYSTEM PCB
+
+
+Description
+	
+RCM14-01 SYSTEM PCB ASSEMBLY, FO
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+Current Sensor 6mA 1 Channel Current Sensor Module, Single Pass Through
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Sensors, Transducers
+Current Sensors
+Number of Channels
+1
+Mfr
+Littelfuse/Western Automation
+Frequency
+50Hz/60Hz
+Packaging
+Tray
+Voltage - Supply
+10.8V ~ 13.2V
+Part Status
+Active
+Current - Supply (Max)
+14.5mA
+For Measuring
+DC
+Operating Temperature
+-40°C ~ 85°C
+Sensor Type
+Current Sensor
+Mounting Type
+Chassis Mount
+Current - Sensing
+6mA
+Package / Case
+Module, Single Pass Through
+Report Product Information Error
+Documents & Media
+Featured Product
+RCM14 Series Western Automation Residual Current Monitor
+Environmental & Export Classifications
+Moisture Sensitivity Level (MSL)
+1 (Unlimited)
+ECCN
+EAR99
+HTSUS
+9030.33.3800
+Product Questions and Answers
+Additional Resources
+Part Number Alias
+18-RCM14-01SYSTEMPCB
+90137
+18-RCM14-01SYSTEMPCB-ND
+5327-RCM14-01SYSTEMPCB
+Manufacturer Standard Package
+560
+In-Stock: 460
+Once available stock of this product has been depleted, manufacturer standard package and lead time will apply.
+Due to temporary constrained supply, DigiKey is unable to accept backorders at this time.
+QUANTITY
+Add to Cart
+Add to List
+All prices are in CAD
+Tray
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$34.56000	$34.56
+
+Note: Due to DigiKey value-add services the packaging type may change when product is purchased at quantities beneath the standard package.
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey (optional). I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Cookie Settings
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

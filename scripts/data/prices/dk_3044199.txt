@@ -1,0 +1,394 @@
+# 3044199 Phoenix Contact | Din Rail, Channel | DigiKey
+https://www.digikey.com/en/products/detail/phoenix-contact/3044199/2426230?s=N4IgTCBcDaIMwAYAsSCMBOdIC6BfIA
+
+		
+Upload a List
+0
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+Manufacturers
+Resources
+Request a Quote
+Tariff Resource Updates
+Product Index
+Connectors, Interconnects
+Terminal Blocks
+Din Rail, Channel
+Phoenix Contact 3044199
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+3044199
+
+
+DigiKey Part Number
+	
+277-3254-ND
+
+
+Manufacturer
+	
+Phoenix Contact
+
+
+Manufacturer Product Number
+	
+3044199
+
+
+Description
+	
+CONN TERM BLK FEED THRU 4-16 AWG
+
+
+Manufacturer Standard Lead Time
+	
+6 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+Terminal Block Connector 2 Position Feed Through Gray 4-16 AWG
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	3044199 Models
+In-Stock: 2,334
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Bulk
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$2.44000	$2.44
+
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Connectors, Interconnects
+Terminal Blocks
+Din Rail, Channel
+Current - IEC
+76 A
+Manufacturer
+Phoenix Contact
+Voltage - IEC
+1000V
+Series
+CLIPLINE UT
+Current - UL
+85 A
+Packaging
+Bulk
+Voltage - UL
+600V
+Part Status
+Active
+Wire Gauge or Range - AWG
+4-16 AWG
+Type
+Feed Through
+Wire Gauge or Range - mm²
+1.5-25mm²
+Number of Positions
+2
+Color
+Gray
+Number of Levels
+1
+Material - Insulation
+Polyamide (PA), Nylon
+Terminal - Width
+12.2mm
+Material Flammability Rating
+UL94 V-0
+Termination Style
+Screw
+Stripping Length
+14mm
+Report Product Information Error
+Documents & Media
+Datasheets
+3044199 Datasheet
+CAD Models
+3044199 Models
+Environmental Information
+Phoenix Contact Product Compliance
+PCN Design/Specification
+Approval 28/AUG/2026
+Featured Product
+Build with Confidence
+EDA Models
+3044199 Models
+Associated Products
+DIN Rail Channel (12)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+1206421
+Phoenix Contact
+	Associated Product	
+258
+In Stock
+	
+1 : $16.32000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+1206599
+Phoenix Contact
+	Associated Product	
+292
+In Stock
+3,950
+Factory
+	
+1 : $26.52000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Slotted Steel 78.740" (2000.00mm)
+
+1201730
+Phoenix Contact
+	Associated Product	
+14,635
+In Stock
+	
+1 : $50.26000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Slotted Steel 78.740" (2000.00mm)
+
+1201798
+Phoenix Contact
+	Associated Product	
+29
+In Stock
+	
+1 : $74.20000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Steel 78.740" (2000.00mm)
+
+1204119
+Phoenix Contact
+	Associated Product	
+29
+In Stock
+750
+Factory
+	
+1 : $28.57000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+1206434
+Phoenix Contact
+	Associated Product	
+11
+In Stock
+	
+1 : $14.48000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Steel 78.740" (2000.00mm)
+
+1201756
+Phoenix Contact
+	Associated Product	
+6
+In Stock
+	
+1 : $46.99000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Aluminum 78.740" (2000.00mm)
+
+1206586
+Phoenix Contact
+	Associated Product	
+23
+In Stock
+	
+1 : $23.92000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Steel 78.740" (2000.00mm)
+
+1201714
+Phoenix Contact
+	Associated Product	
+0
+In Stock
+3,000
+Factory
+Check Lead Time
+	
+1 : $49.98000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Steel 78.740" (2000.00mm)
+
+1204122
+Phoenix Contact
+	Associated Product	
+0
+In Stock
+Check Lead Time
+	
+1 : $57.38000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Steel 78.740" (2000.00mm)
+See All 12
+Terminal Block Jumpers (5)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+3005950
+Phoenix Contact
+	Associated Product	
+6,669
+In Stock
+	
+1 : $2.66000
+Bulk
+	
+	2 Position Terminal Block, Cross Connection Jumper Flat Pins
+
+3032169
+Phoenix Contact
+	Associated Product	
+4
+In Stock
+	
+1 : $3.46000
+Bulk
+	
+	2 Position Terminal Block, Cross Connection Jumper Flat Pins - Reducing Bridge
+
+3047099
+Phoenix Contact
+	Associated Product	
+10
+In Stock
+	
+1 : $4.74000
+Bulk
+	
+	2 Position Terminal Block, Cross Connection Jumper Flat Pins - Reducing Bridge
+
+3047073
+Phoenix Contact
+	Associated Product	
+9
+In Stock
+	
+1 : $4.74000
+Bulk
+	
+	2 Position Terminal Block, Cross Connection Jumper Flat Pins - Reducing Bridge
+
+3047072
+Phoenix Contact
+	Associated Product	
+10
+In Stock
+	
+1 : $4.96000
+Bulk
+	
+	2 Position Terminal Block, Cross Connection Jumper Reducer
+Accessories (4)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+3047206
+Phoenix Contact
+	Associated Product	
+1,956
+In Stock
+	
+1 : $0.74000
+Bulk
+	
+	Connector End Plate For CLIPLINE UT Series
+
+3047125
+Phoenix Contact
+	Associated Product	
+1
+In Stock
+	
+1 : $3.64000
+Bulk
+	
+	Connector Pick Off Terminal Block For CLIPLINE UT Series
+
+3270531
+Phoenix Contact
+	Associated Product	
+0
+In Stock
+Check Lead Time
+	
+20 : $5.95900
+Bulk
+	
+	Connector Pick Off Terminal Block For
+
+3270532
+Phoenix Contact
+	Associated Product	
+0
+In Stock
+Check Lead Time
+	
+20 : $6.20050
+Bulk
+	
+	Connector Pick Off Terminal Block For
+Terminal Block Marker Strips (1)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+3047374
+Phoenix Contact
+	Associated Product	
+0
+In Stock
+800
+Factory
+Check Lead Time
+	
+1 : $1.71000
+Bulk
+	
+	Connector Label, Snap In For CLIPLINE UT Series
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+Not Applicable
+HTSUS
+8536.69.8000
+RE
+
+[truncated at 6000 of 7856 chars; use -c to raise]

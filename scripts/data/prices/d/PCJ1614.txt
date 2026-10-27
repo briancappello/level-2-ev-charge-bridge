@@ -1,0 +1,851 @@
+# Boxes | Boxes, Enclosures, Racks | DigiKey
+https://www.digikey.com/en/products/filter/boxes/594?s=N4IgTCBcDaIAoGEBSBGAbCgLCAugXyA
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Boxes, Enclosures, Racks
+Boxes
+Dark Mode
+Share
+Boxes
+Results: 16
+Filters
+Stacked
+Scrolling
+Common Attributes
+Stocking Options
+In Stock
+Normally Stocking
+Exclude
+Tariffed Products
+Marketplace Products
+Environmental Options
+RoHS Compliant
+Media
+Datasheet
+Photo
+EDA/CAD Models
+New Products
+New at DigiKey
+New to Market
+Line Extensions
+Container Type
+Box
+Junction Box
+Height
+9.440" (239.78mm)
+17.230" (437.64mm)
+Area (L x W)
+142in² (916cm²)
+223in² (1439cm²)
+Design
+Cover Included
+Cover Included, Hinged Door
+Hinged Door
+Color
+Gray
+Light Gray
+Ratings
+-
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+IP66, NEMA 1,2,3,3R,4,4X,12,13, UL-508A
+Material Flammability Rating
+-
+UL94 V-0
+Apply All
+16
+Results
+SEARCH ENTRY
+
+PCJ1614
+
+Showing
+1 - 16
+of 16
+Sort By: Featured
+​
+Download Table
+	
+Mfr Part #
+	
+Quantity Available
+	
+Price
+	
+Tariff Status
+	
+Series
+	
+Package
+	
+Product Status
+	
+Container Type
+	
+Size / Dimension
+	
+Height
+	
+Area (L x W)
+	
+Design
+	
+Material
+	
+Color
+	
+Thickness
+	
+Features
+	
+Ratings
+	
+Material Flammability Rating
+
+
+	
+PCJ16148
+JUNCTION BOX PLAS 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+11
+Factory
+Check Lead Time
+	
+15 : $173.08067
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+-
+
+
+	
+PCJ16148H
+BOX PLAS LGT GRY 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $184.64000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148F
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+5
+Factory
+Check Lead Time
+	
+1 : $188.78000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148HF
+BOX PLAS LGT GRY 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+16
+Factory
+Check Lead Time
+	
+1 : $192.70000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CC
+BOX PLASTIC GRY 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $195.09000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CCF
+JUNCTION BOX PLAS 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+13 : $198.04385
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+-
+
+
+	
+PCJ16148NL
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+9
+Factory
+Check Lead Time
+	
+13 : $198.04385
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+9.440" (239.78mm)
+	
+142in² (916cm²)
+	
+Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+-
+	
+UL94 V-0
+
+
+	
+PCJ16148CCH
+BOX PLASTIC GRY 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $199.24000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CCHF
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $207.96000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+223in² (1439cm²)
+	
+Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13, UL-508A
+	
+UL94 V-0
+
+
+	
+PCJ16148NLF
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+5
+Factory
+Check Lead Time
+	
+1 : $212.58000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included, Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148L
+JUNCTION BOX PLAS 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+12
+Factory
+Check Lead Time
+	
+1 : $213.08000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included, Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CCNL
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+4
+Factory
+Check Lead Time
+	
+1 : $219.72000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+9.440" (239.78mm)
+	
+142in² (916cm²)
+	
+Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+-
+	
+UL94 V-0
+
+
+	
+PCJ16148LF
+JUNCTION BOX PLAS 15.04"LX9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $222.41000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included, Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CCNLF
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+7
+Factory
+Check Lead Time
+	
+1 : $229.44000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+142in² (916cm²)
+	
+Cover Included, Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+
+
+	
+PCJ16148CCL
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+Check Lead Time
+	
+1 : $229.93000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+9.440" (239.78mm)
+	
+142in² (916cm²)
+	
+Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+-
+	
+UL94 V-0
+
+
+	
+PCJ16148CCLF
+JUNCT BOX PLAS 15.04"L X 9.44"W
+Hammond Manufacturing
+	
+0
+In Stock
+17
+Factory
+Check Lead Time
+	
+1 : $240.03000
+Bulk
+	
+-
+	
+PCJ
+	
+Bulk
+	
+Active
+	
+Junction Box
+	
+15.040" L x 9.440" W (382.02mm x 239.78mm)
+	
+17.230" (437.64mm)
+	
+223in² (1439cm²)
+	
+Hinged Door
+	
+Plastic, Polycarbonate (PC)
+	
+Light Gray
+	
+-
+	
+-
+	
+IP66, NEMA 1,2,3,3R,4,4X,12,13
+	
+UL94 V-0
+Showing
+1 - 16
+of 16
+1
+Boxes
+Box products are used to contain or enclose materials or equipment in a variety of contexts; plastic or metallic boxes suitable for constructing enclosures for electronic equipment such as guitar pedals, equipment cases for transporting tools or equipment, console style enclosures convenient for constructing operator interfaces, junction boxes for enclosing cable distribution points or providing for service access, key fob style enclosures for remote control or access applications, and others.
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

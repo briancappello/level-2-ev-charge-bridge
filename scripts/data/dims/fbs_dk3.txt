@@ -1,0 +1,377 @@
+https://www.digikey.com/en/products/detail/phoenix-contact/3005950/2525736
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Connectors, Interconnects
+Terminal Blocks
+Terminal Block Accessories
+Terminal Block Jumpers
+
+Phoenix Contact 3005950
+
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+3005950
+
+
+DigiKey Part Number
+	
+277-3343-ND
+
+
+Manufacturer
+	
+Phoenix Contact
+
+
+Manufacturer Product Number
+	
+3005950
+
+
+Description
+	
+JUMPER TERM BLK 2POS FLAT PIN
+
+
+Manufacturer Standard Lead Time
+	
+6 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+2 Position Terminal Block, Cross Connection Jumper Flat Pins
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	3005950 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Connectors, Interconnects
+Terminal Blocks
+Terminal Block Accessories
+Terminal Block Jumpers
+Number of Positions
+2
+Manufacturer
+Phoenix Contact
+Pitch
+0.472" (12.00mm)
+Series
+CLIPLINE
+Style
+Flat Pins
+Packaging
+Bulk
+For Use With/Related Products
+CLIPLINE Series
+Part Status
+Active
+Contact Material
+Copper
+Type
+Terminal Block, Cross Connection
+Color
+Red
+Report Product Information Error
+Documents & Media
+Datasheets
+3005950
+Environmental Information
+Phoenix Contact Product Compliance
+CAD Models
+3005950 Models
+Associated Products
+Din Rail, Channel (12)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+3044199
+Phoenix Contact
+	For Use With	
+2,334
+In Stock
+	
+1 : $2.44000
+Bulk
+	
+	Terminal Block Connector 2 Position Feed Through Gray 4-16 AWG
+
+3044212
+Phoenix Contact
+	For Use With	
+1,304
+In Stock
+	
+1 : $5.74000
+Bulk
+	
+	Terminal Block Connector 2 Position Ground, Earth Green, Yellow 4-16 AWG
+
+3035328
+Phoenix Contact
+	For Use With	
+576
+In Stock
+11,825
+Factory
+	
+1 : $6.14000
+Bulk
+	
+	Terminal Block Connector 3 Position Feed Through Gray 4-16 AWG
+
+3044209
+Phoenix Contact
+	For Use With	
+969
+In Stock
+	
+1 : $2.44000
+Bulk
+	
+	Terminal Block Connector 2 Position Feed Through Blue 4-16 AWG
+
+3036149
+Phoenix Contact
+	For Use With	
+218
+In Stock
+13,700
+Factory
+	
+1 : $4.70000
+Bulk
+	
+	Terminal Block Connector 2 Position Feed Through Gray 4-16 AWG
+
+1329672
+Phoenix Contact
+	For Use With	
+268
+In Stock
+	
+1 : $5.39000
+Bulk
+	
+	Terminal Block Connector 2 Position Feed Through Gray 4-10 AWG
+
+3036165
+Phoenix Contact
+	For Use With	
+334
+In Stock
+	
+1 : $9.83000
+Bulk
+	
+	Terminal Block Connector 2 Position Ground, Earth Green, Yellow 4-16 AWG
+
+3212146
+Phoenix Contact
+	For Use With	
+57
+In Stock
+2,350
+Factory
+	
+1 : $4.39000
+Box
+	
+	Terminal Block Connector 2 Position Feed Through Red 4-20 AWG
+
+1329673
+Phoenix Contact
+	For Use With	
+35
+In Stock
+	
+1 : $5.39000
+Bulk
+	
+	Terminal Block Connector 2 Position Feed Through Blue 4-10 AWG
+
+3212145
+Phoenix Contact
+	For Use With	
+0
+In Stock
+Check Lead Time
+	
+1 : $4.39000
+Box
+	
+	Terminal Block Connector 2 Position Feed Through Black 4-20 AWG
+See All 12
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+Not Applicable
+HTSUS
+8536.90.4000
+REACH Status
+REACH Unaffected
+Product Questions and Answers
+Additional Resources
+Part Number Alias
+277-3343
+FBS2-12
+3005950-ND
+FBS 2-12
+Manufacturer Standard Package
+10
+In-Stock: 6,669
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Bulk
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$2.66000	$2.66
+
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+You May Also Be Interested InSee All
+10 Items
+
+3044199
+
+CONN TERM BLK FEED THRU 4-16 AWG
+
+Phoenix Contact
+
+$2.44000
+Details
+
+3047206
+
+CONN TERM BLK END PLATE GRAY
+
+Phoenix Contact
+
+$0.74000
+Details
+
+3212138
+
+CONN TERM BLK FEED THRU 4-20 AWG
+
+Phoenix Contact
+
+$4.23000
+Details
+
+3212060
+
+CONN TERM BLK END PLATE GRAY
+
+Phoenix Contact
+
+$1.13000
+Details
+
+3208760
+
+CONN TERM BLK FEED THRU 4-20 AWG
+
+Phoenix Contact
+
+$5.96000
+Details
+
+3005963
+
+JUMPER TERM BLK 2POS FLAT PIN
+
+Phoenix Contact
+
+$3.01000
+Details
+
+1206421
+
+DIN RAIL 35MMX7MM SLOT 78" STL
+
+Phoenix Contact
+
+$16.32000
+Details
+
+2903342
+
+RELAY GEN PURPOSE SPDT 11A 24V
+
+Phoenix Contact
+
+$10.96000
+Details
+
+2903334
+
+RELAY GEN PURPOSE DPDT 8A 24V
+
+Phoenix Contact
+
+$11.44000
+Details
+
+2702097
+
+PSR-MC72-2NO-1DO-24DC-SP
+
+Phoenix Contact
+
+$231.63000
+Details
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

@@ -1,0 +1,253 @@
+# 1803303 Phoenix Contact | Headers, Plugs and Sockets | DigiKey
+https://www.digikey.com/en/products/detail/phoenix-contact/1201442/260577
+
+		
+Upload a List
+Login or
+REGISTER
+Your item(s)
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+1803303
+
+
+DigiKey Part Number
+	
+277-1209-ND
+
+
+Manufacturer
+	
+Phoenix Contact
+
+
+Manufacturer Product Number
+	
+1803303
+
+
+Description
+	
+TERM BLOCK HDR 5POS 3.81MM
+
+
+Manufacturer Standard Lead Time
+	
+6 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+5 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150" (3.81mm) 90°, Right Angle Through Hole
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	1803303 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Connectors, Interconnects
+Terminal Blocks
+Headers, Plugs and Sockets
+Mounting Type
+Through Hole
+Manufacturer
+Phoenix Contact
+Current - IEC
+8A
+Series
+COMBICON MC
+Voltage - IEC
+250 V
+Packaging
+Bulk
+Current - UL
+8 A
+Part Status
+Active
+Voltage - UL
+300 V
+Type
+Header, Male Pins, Shrouded (4 Side)
+Color
+Green
+Number of Positions
+5
+Contact Mating Finish
+Tin
+Positions Per Level
+5
+Material Flammability Rating
+UL94 V-0
+Number of Levels
+1
+Housing Material
+Polybutylene Terephthalate (PBT)
+Pitch
+0.150" (3.81mm)
+Contact Tail Length
+0.134" (3.40mm)
+Header Orientation
+90°, Right Angle
+Insulation Height
+0.285" (7.25mm)
+Termination Style
+Solder
+Report Product Information Error
+Documents & Media
+Associated Products
+Environmental & Export Classifications
+Product Questions and Answers
+Additional Resources
+Substitutes (4)
+PART NUMBER	MANUFACTURER	QUANTITY AVAILABLE	DIGIKEY PART NUMBER	UNIT PRICE	SUBSTITUTE TYPE
+OQ0532500000G	Amphenol Anytek	9,193	609-3811-ND	$0.60000	Similar
+EB3-05-B	Adam Tech	3	2057-EB3-05-B-ND	$2.85000	Similar
+TBP02R1-381-05BE	Same Sky (Formerly CUI Devices)	1,788	102-6483-ND	$0.59000	Similar
+TBP02R1W-381-05BE	Same Sky (Formerly CUI Devices)	769	102-6516-ND	$0.97000	Similar
+In-Stock: 2,412
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Bulk
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$1.84000	$1.84
+
+10
+$1.49600	$14.96
+
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+You May Also Be Interested InSee All
+10 Items
+
+1803604
+
+TERM BLOCK PLUG 5POS 3.81MM
+
+Phoenix Contact
+
+$5.24000
+Details
+
+1803280
+
+TERM BLOCK HDR 3POS 3.81MM
+
+Phoenix Contact
+
+$1.11000
+Details
+
+1803293
+
+TERM BLOCK HDR 4POS 3.81MM
+
+Phoenix Contact
+
+$1.51000
+Details
+
+61306428521
+
+WR-PHD 2.54 MM DUAL BOARD STACKE
+
+Würth Elektronik
+
+$6.71000
+Details
+
+B8B-XH-A
+
+CONN HEADER VERT 8POS 2.5MM
+
+JST Sales America Inc.
+
+$0.30000
+Details
+
+1N4148W-7-F
+
+DIODE STANDARD 100V 300MA SOD123
+
+Diodes Incorporated
+
+$0.18000
+Details
+
+LTST-C150KSKT
+
+LED YELLOW CLEAR 1206 SMD
+
+Lite-On Inc.
+
+$0.19000
+Details
+
+LTV-814
+
+OPTOISOLATOR 5KV 1CH TRANS 4-DIP
+
+Lite-On Inc.
+
+$0.51000
+Details
+
+1803277
+
+TERM BLOCK HDR 2POS 3.81MM
+
+Phoenix Contact
+
+$0.73000
+Details
+
+1803358
+
+TERM BLOCK HDR 10POS 3.81MM
+
+Phoenix Contact
+
+$3.70000
+Details
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

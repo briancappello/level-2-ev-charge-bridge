@@ -1,0 +1,32 @@
+1. Modular DIN rail components Installation contactors - search.abb.com
+   https://search.abb.com/library/Download.aspx?DocumentID=2CDC103013B0202
+   Cost savings - Low power consumption of DC coils (ESB24, ESB40, ESB63) - Better logistics, because AC/DC coil supply requires less variants - Significantly reduced space compared to industrial contactors
+
+2. PDF 1SBC103001_C0202_ESB InstallationContactors - ABB
+   https://library.e.abb.com/public/40c0f27cf09628a0c12579490053d9fc/1SBC103001_C0202_ESB%20InstallationContactors_BR.pdf
+   The ESB63 contactors are used for the control of single and three-phases loads up to 63 A Due to their DC solenoid actuator, the ESB63 can be connected to AC or DC voltages.
+
+3. 1pc ABB ESB63-20N-01 Installation Contactor 24V AC/DC ... - eBay
+   https://www.ebay.com/itm/147501062674
+   Find many great new & used options and get the best deals for 1pc ABB ESB63-20N-01 Installation Contactor 24V AC/DC 1SAE351111R0120 at the best online prices at eBay! Free shipping for many products!
+
+4. ESB63-20N-01 ABB Modular Contactor 63A 2P NO 24V AC/DC Coil ...
+   https://www.cse-distributors.co.uk/products/esb63-20n-01-1sae351111r0120-abb-modular-contactor-63a-2p-no-24v-ac-dc-coil.html?name=Serialization%20and%20deserialization%20of&page=3
+   The ESB63-20N-01 (1SAE351111R0120) is an ABB 63A modular contactor featuring a 2-pole normally open configuration with 24V AC/DC coil operation. This modular contactor, also known as a lighting contactor, heating contactor, or installation contactor, delivers reliable switching performance for demanding industrial and commercial applications.
+
+5. ABB ESB63-20N-01 Installation Contactor 1SAE351111R0120 | Buy online at ...
+   https://shop.in.abb.com/1sae351111r0120/esb63-20n-01-installation-contactor.html
+   The ESB63..N installation contactors are used to control single and three-phase loads up to 63 A and can be operated by AC or DC. These contactors are made for use in household applications as well as in industrial environments. The following benefits are provided: Hum-free operation, low power consumption and integrated overvoltage protection.
+
+6. 1Pcs New ABB ESB63-20N-01 Installation Contactor 24V AC/DC ...
+   https://www.ebay.com/itm/389131097227
+   Estimated delivery dates - opens in a new window or tab include seller's handling time, origin ZIP Code, destination ZIP Code and time of acceptance and will depend on shipping service selected and receipt of cleared paymentcleared payment - opens in a new window or tab. Delivery times may vary, especially during peak periods.
+
+7. ABB ESB63-20N-01 Contactor - 63A, AC/DC 24V, Reliable Electrical ...
+   https://zayani-store.com/AC-Contactor/5115689-abb-esb-series-of-contactors-for-buildings-esb63-20n-01-rated-operating-current-63a-coil-rated-control-voltage-ac-dc-24v-1-pie.html
+   The ABB ESB Series Contactor ESB63-20N-01 is a high-performance electrical switching device designed for controlling circuits in residential, commercial, and industrial building systems. With a rated operating current of 63A and a coil control voltage of AC/DC 24V, this contactor ensures efficient, reliable, and energy-saving performance.
+
+8. Esb63-40n-01 | Abb
+   https://new.abb.com/products/1SAE351111M0140/esb63-40n-01
+   The ESB63..N installation contactors are used to control single and three-phase loads up to 63 A and can be operated by AC or DC. These contactors are made for use in household applications as well as in industrial environments.The following benefits are provided: Hum-free operation, low power consumption and integrated overvoltage protection. Various contact combinations and accessories are ...
+

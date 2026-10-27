@@ -1,0 +1,268 @@
+                                                                      Extract from the online
+                                                                      catalog
+
+UT 16-PE
+Order No.: 3044212
+
+
+
+
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+Feed-through modular terminal block, Type of connection: Screw
+connection, Screw connection, Cross section: 1.5 mm² - 25 mm²,
+AWG 16 - 4, Width: 12.2 mm, Color: green-yellow, Mounting type: NS
+35/7.5, NS 35/15
+
+                                                                       Product notes
+                                                                      WEEE/RoHS-compliant since:
+ Commercial data                                                      05/09/2005
+ GTIN (EAN)                                4017918977573
+ sales group                               A803
+ Pack                                      50 pcs.
+ Customs tariff                            85369010
+ Weight/Piece                              0.047128 KG                http://
+                                                                      www.download.phoenixcontact.com
+ Catalog page information                  Page 34 (CL-2009)          Please note that the data given
+                                                                      here has been taken from the
+                                                                      online catalog. For comprehensive
+                                                                      information and data, please refer
+                                                                      to the user documentation. The
+                                                                      General Terms and Conditions of
+                                                                      Use apply to Internet downloads.
+
+
+ Technical data
+
+ General
+ Number of levels                                    1
+ Number of connections                               2
+ Color                                               green-yellow
+
+
+
+
+PHOENIX CONTACT Inc., USA                                                                        Page 1 / 6
+http://www.phoenixcon.com                                                                      Oct 27, 2010
+UT 16-PE Order No.: 3044212
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+
+
+ Insulating material                                PA
+ Inflammability class acc. to UL 94                 V0
+
+
+ Dimensions
+ Width                                              12.2 mm
+ Length                                             55.5 mm
+ Height NS 35/7.5                                   55 mm
+ Height NS 35/15                                    62.5 mm
+
+
+ Technical data
+ Maximum load current                                                   2
+                                                    101 A (with 25 mm conductor cross section)
+ Rated surge voltage                                8 kV
+ Pollution degree                                   3
+ Surge voltage category                             III
+ Insulating material group                          I
+ Connection in acc. with standard                   IEC 60947-7-2
+ Nominal current IN                                                 2
+                                                    76 A (with 25 mm conductor cross section)
+ Open side panel                                    ja
+
+
+ Connection data
+ Conductor cross section solid min.                 1.5 mm²
+ Conductor cross section solid max.                 25 mm²
+ Conductor cross section stranded min.              1.5 mm²
+ Conductor cross section stranded max.              25 mm²
+ Conductor cross section AWG/kcmil min.             16
+ Conductor cross section AWG/kcmil max              4
+ Conductor cross section stranded, with ferrule     1 mm²
+ without plastic sleeve min.
+ Conductor cross section stranded, with ferrule     16 mm²
+ without plastic sleeve max.
+ Conductor cross section stranded, with ferrule     1 mm²
+ with plastic sleeve min.
+ Conductor cross section stranded, with ferrule     16 mm²
+ with plastic sleeve max.
+ 2 conductors with same cross section, solid min.   1 mm²
+ 2 conductors with same cross section, solid max.   6 mm²
+ 2 conductors with same cross section, stranded     1 mm²
+ min.
+
+
+
+
+PHOENIX CONTACT Inc., USA                                                                          Page 2 / 6
+http://www.phoenixcon.com                                                                        Oct 27, 2010
+UT 16-PE Order No.: 3044212
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+
+
+ 2 conductors with same cross section, stranded    6 mm²
+ max.
+ 2 conductors with same cross section, stranded,   0.75 mm²
+ TWIN ferrules with plastic sleeve, min.
+ 2 conductors with same cross section, stranded,   10 mm²
+ TWIN ferrules with plastic sleeve, max.
+ 2 conductors with same cross section, stranded,   1 mm²
+ ferrules without plastic sleeve, min.
+ 2 conductors with same cross section, stranded,   6 mm²
+ ferrules without plastic sleeve, max.
+ Type of connection                                Screw connection
+ Stripping length                                  14 mm
+ Internal cylindrical gage                         A7
+ Screw thread                                      M5
+ Tightening torque, min                            2.5 Nm
+ Tightening torque max                             3 Nm
+
+
+ Certificates / Approvals
+
+
+
+
+ Certification                                     CB, CSA, CUL, GL, UL, VDE-PZI
+
+ Certification Ex:                                 IECEx, KEMA-EX
+
+ CSA
+ AWG/kcmil                                         16-4
+
+
+ CUL
+ AWG/kcmil                                         16-4
+
+
+ UL
+ AWG/kcmil                                         16-4
+
+
+ Accessories
+
+ Item                Designation                   Description
+
+ Assembly
+ 3047206             D-UT 16                       End cover, Length: 55.5 mm, Width: 2.2 mm, Height: 54.8 mm,
+                                                   Color: gray
+
+
+
+
+PHOENIX CONTACT Inc., USA                                                                                Page 3 / 6
+http://www.phoenixcon.com                                                                              Oct 27, 2010
+UT 16-PE Order No.: 3044212
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+
+
+ 0801762        NS 35/ 7,5 CU UNPERF         DIN rail, material: Copper, unperforated, height 7.5 mm, width 35
+                2000MM                       mm, length: 2 m
+ 1207640        NS 35/ 7,5 PERF 755MM        NS 35 DIN rail, height 7.5 mm, length 755 mm
+ 1207653        NS 35/ 7,5 PERF 955MM        NS35 DIN rail, height 7.5 mm, length 955 mm
+ 1207666        NS 35/ 7,5 PERF 1155MM       NS 35 DIN rail, height 7.5 mm, length 1155 mm
+ 0801733        NS 35/ 7,5 PERF 2000MM       DIN rail, material: Steel, galvanized and passivated with a thick
+                                             layer, perforated, height 7.5 mm, width 35 mm, length: 2 m
+ 0801681        NS 35/ 7,5 UNPERF 2000MM     DIN rail, material: Steel, unperforated, height 7.5 mm, width 35
+                                             mm, length: 2 m
+ 1201756        NS 35/15 AL UNPERF 2000MM    DIN rail, deep-drawn, high profile, unperforated, 1.5 mm thick,
+                                             material: Aluminum, height 15 mm, width 35 mm, length 2 m
+ 1201895        NS 35/15 CU UNPERF 2000MM    DIN rail, material: Copper, unperforated, 1.5 mm thick, height 15
+                                             mm, width 35 mm, length: 2 m
+ 1207679        NS 35/15 PERF 755MM          NS 35 DIN rail, perforated, height 15 mm, length 755 mm
+ 1207682        NS 35/15 PERF 955MM          NS 35 DIN rail, perforated, height 15 mm, length 955 mm
+ 1207695        NS 35/15 PERF 1155MM         NS 35 DIN rail, perforated, height 15 mm, length 1155 mm
+ 1201730        NS 35/15 PERF 2000MM         DIN rail, material: Steel, perforated, height 15 mm, width 35 mm,
+                                             length: 2 m
+ 1201714        NS 35/15 UNPERF 2000MM       DIN rail, material: Steel, unperforated, height 15 mm, width 35
+                                             mm, length: 2 m
+ 1201798        NS 35/15-2,3 UNPERF 2000MM   DIN rail, material: Steel, unperforated, 2.3 mm thick, height 15
+                                             mm, width 35 mm, length: 2 m
+ 0706647        TPNS-UK                      Separating plate, Length: 80 mm, Width: 2 mm, Height: 70 mm,
+                                             Color: gray
+
+
+ Bridges
+ 3005950        FBS 2-12                     Plug-in bridge, Number of positions: 2, Color: red
+ 3047073        RB UT 16-(2,5/4)             Reducing bridge, Number of positions: 2, Color: red
+ 3047099        RB UT 16-ST(2,5/4)           Reducing bridge, Number of positions: 2, Color: red
+
+
+ Marking
+ 3047374        WS UT 16                     Warning sign for UT terminal blocks
+ 0811228        X-PEN 0,35                   Marker pen without ink cartridge, for manual labeling of markers,
+                                             labeling extremely wipe-proof, line thickness 0.35 mm
+ 1053014        ZB10,LGS:FORTL.ZAHLEN        Zack strip, 10-section, printed horizontally: with the numbers,
+                                             1-10, 11-20 etc. up to 991-1000, color: white
+ 5060883        ZB10/WH-100:UNBEDRUCKT       Zack strip, unprinted: 10-section, for individual labeling with M-
+                                             PEN, ZB-T or CMS system, large batch, sufficient for labeling
+                                             1000 terminal blocks, for a terminal width of 10.2 mm, color: White
+ 5060883        ZB10/WH-100:UNBEDRUCKT       Zack strip, unprinted: 10-section, for individual labeling with M-
+                                             PEN, ZB-T or CMS system, large batch, sufficient for labeling
+                                             1000 terminal blocks, for a terminal width of 10.2 mm, color: White
+
+
+
+
+PHOENIX CONTACT Inc., USA                                                                               Page 4 / 6
+http://www.phoenixcon.com                                                                             Oct 27, 2010
+UT 16-PE Order No.: 3044212
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+
+
+ 5060883           ZB10/WH-100:UNBEDRUCKT    Zack strip, unprinted: 10-section, for individual labeling with M-
+                                             PEN, ZB-T or CMS system, large batch, sufficient for labeling
+                                             1000 terminal blocks, for a terminal width of 10.2 mm, color: White
+ 1050525           ZB10:SO/CMS               Zack strip, 10-section, divisible, special printing, marking
+                                             according to customer requirements
+
+
+ Diagrams/Drawings
+
+ Circuit diagram
+
+
+
+
+PHOENIX CONTACT Inc., USA                                                                                 Page 5 / 6
+http://www.phoenixcon.com                                                                               Oct 27, 2010
+UT 16-PE Order No.: 3044212
+http://eshop.phoenixcontact.de/phoenix/treeViewClick.do?UID=3044212
+
+
+
+
+ Address
+
+
+
+
+PHOENIX CONTACT Inc., USA
+586 Fulling Mill Road
+Middletown, PA 17057,USA
+Phone (800) 888-7388
+Fax (717) 944-1625
+http://www.phoenixcon.com
+
+
+
+
+© 2010 Phoenix Contact
+Technical modifications reserved;
+
+
+
+
+PHOENIX CONTACT Inc., USA                                               Page 6 / 6
+http://www.phoenixcon.com                                             Oct 27, 2010
+

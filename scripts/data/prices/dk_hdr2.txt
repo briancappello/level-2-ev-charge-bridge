@@ -1,0 +1,349 @@
+# HDR-60-24 MEAN WELL USA Inc. | Industrial, DIN Rail Power Supplies | DigiKey
+https://www.digikey.com/en/products/detail/mean-well-usa-inc/HDR-60-24/7703804
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Power Supplies - External/Internal (Off-Board)
+Industrial, DIN Rail Power Supplies
+
+MEAN WELL USA Inc. HDR-60-24
+
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+HDR-60-24
+
+
+DigiKey Part Number
+	
+1866-2249-ND
+
+
+Manufacturer
+	
+MEAN WELL USA Inc.
+
+
+Manufacturer Product Number
+	
+HDR-60-24
+
+
+Description
+	
+AC/DC DIN RAIL SUPPLY 24V 60W
+
+
+Manufacturer Standard Lead Time
+	
+17 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+AC or DC DIN Rail Power Supply 1 Output 24V 2.5A
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	HDR-60-24 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Power Supplies - External/Internal (Off-Board)
+Industrial, DIN Rail Power Supplies
+Current - Output (Max)
+2.5A
+Manufacturer
+MEAN WELL USA Inc.
+Power (Watts)
+60W
+Series
+HDR-60 (60W)
+Voltage - Isolation
+4 kV
+Packaging
+Box
+Applications
+Industrial, ITE (Commercial)
+Part Status
+Active
+Efficiency
+90%
+Input Type
+AC or DC
+Operating Temperature
+-30°C ~ 70°C (With Derating)
+Number of Outputs
+1
+Features
+Adjustable Output, Universal Input
+AC Voltage - Input
+85 ~ 264 VAC
+Size / Dimension
+2.15" L x 2.07" W x 3.54" H (54.5mm x 52.5mm x 90.0mm)
+DC Voltage - Input (Min)
+120V
+Approval Agency
+CB, CE, cULus, cURus, TUV
+DC Voltage - Input (Max)
+370V
+Minimum Load Required
+No
+Voltage - Output 1
+24V
+Base Product Number
+HDR-60
+Report Product Information Error
+Documents & Media
+Datasheets
+HDR-60 Series Datasheet
+CAD Models
+HDR-60-24 Models
+Environmental Information
+Mean Well USA RoHS & PFOS Cert
+Mean Well USA REACH
+PCN Design/Specification
+label marking chg 29/DEC/2020
+Featured Product
+HDR Series DIN Rail Power Supplies
+Forum Discussions
+Connecting Mean Well Power Supplies in Series
+Associated Products
+DIN Rail Channel (4)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+TS3575SL
+American Electrical Inc.
+	Related Products	
+5,793
+In Stock
+6,300
+Factory
+	
+1 : $9.57000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+TS3515SL
+American Electrical Inc.
+	Related Products	
+846
+In Stock
+1,340
+Factory
+	
+1 : $14.35000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Slotted Steel 78.740" (2000.00mm)
+
+TS3575SOL
+American Electrical Inc.
+	Related Products	
+238
+In Stock
+1,720
+Factory
+	
+1 : $10.03000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Steel 78.740" (2000.00mm)
+
+TS3515SOL
+American Electrical Inc.
+	Related Products	
+162
+In Stock
+1,020
+Factory
+	
+1 : $13.24000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Steel 78.740" (2000.00mm)
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+1 (Unlimited)
+HTSUS
+8504.40.9520
+REACH Status
+REACH Unaffected
+Product Questions and Answers
+Additional Resources
+Part Number Alias
+5896-HDR-60-24
+HDR-60-24-ND
+1866-2249
+Manufacturer Standard Package
+60
+Substitutes (3)
+PART NUMBER	MANUFACTURER	QUANTITY AVAILABLE	DIGIKEY PART NUMBER	UNIT PRICE	SUBSTITUTE TYPE
+ECE60US24-SD	XP Power	0	1470-2709-ND	$110.34000	Similar
+LI60-20B24PR2	Mornsun America, LLC	80	2725-LI60-20B24PR2-ND	$13.89000	Similar
+RPS60-24-CU	Selec Controls USA Inc.	91	4106-RPS60-24-CU-ND	$29.50000	Similar
+In-Stock: 2,367
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Box
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$20.90000	$20.90
+
+5
+$19.90000	$99.50
+
+10
+$19.00000	$190.00
+
+25
+$18.50000	$462.50
+
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+You May Also Be Interested InSee All
+10 Items
+
+HDR-30-24
+
+AC/DC DIN RAIL SUPPLY 24V 36W
+
+MEAN WELL USA Inc.
+
+$15.40000
+Details
+
+HDR-60-5
+
+AC/DC DIN RAIL SUPPLY 5V 33W
+
+MEAN WELL USA Inc.
+
+$20.90000
+Details
+
+HDR-60-12
+
+AC/DC DIN RAIL SUPPLY 12V 54W
+
+MEAN WELL USA Inc.
+
+$20.90000
+Details
+
+3044076
+
+CONN TERM BLK FEED THRU 12-26AWG
+
+Phoenix Contact
+
+$1.00000
+Details
+
+3044092
+
+CONN TERM BLK GROUND 12-26AWG
+
+Phoenix Contact
+
+$3.63000
+Details
+
+2511120/1M
+
+DIN RAIL 35MMX7MM SLOT 39" STL
+
+Altech Corporation
+
+$4.62000
+Details
+
+TS3575SL
+
+DIN RAIL 35MMX7MM SLOT 78" STL
+
+American Electrical Inc.
+
+$9.57000
+Details
+
+3045062
+
+CONN TERM BLK FEED THRU 12-26AWG
+
+Phoenix Contact
+
+$1.06000
+Details
+
+3030187
+
+JUMPER TERM BLK 4POS FLAT PIN
+
+Phoenix Contact
+
+$1.84000
+Details
+
+3047028
+
+CONN TERM BLK END PLATE RAIL GRY
+
+Phoenix Contact
+
+$0.59000
+Details
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

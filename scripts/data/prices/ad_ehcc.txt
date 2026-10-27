@@ -1,0 +1,173 @@
+# Modular Fuse Holder: 30A, 2-pole (PN# EHCC2DU) | AutomationDirect
+https://www.automationdirect.com/adc/shopping/catalog/circuit_protection_-z-_fuses_-z-_disconnects/fuse_holders/modular_fuse_holders/ehcc2du
+
+We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.
+
+OKChange my preferences
+Login | Register
+Accounts & Orders 
+ 0
+$0.00
+|
+Direct Sales US & Canada
+|
+800-633-0405
+|
+About
+|
+Contact
+|
+Line Card
+|
+Products | Support    Ordering Tools  
+Navigation
+ > Circuit Protection / Fuses / Disconnects > Fuse Holders > Modular Fuse Holders > EHCC2DU
+
+(+3)
+
+VIDEOS
+
+
+CAD
+
+BUYING GUIDE
+ Compare Product
+EHCC2DU
+
+Edison modular fuse holder, accepts Class CC fuses, 30A, 600V, 2-pole, 18-4 AWG copper only, integral pressure plate with separate spade connection, 35mm DIN rail mount.
+
+(1) 
+Reviews
+ Category Overview
+ Shop Similar
+
+Report a page issue
+
+Due to conditions beyond our control, this product may be unavailable or subject to extended lead times.  Please see our Socomec 5705xxxx series fuse holders as comparable alternatives.
+<< Previous Item        Next Item >>
+$52.00
+
+
+FREE Delivery Wed, Oct 28
+if ordered within 1 hrs 5 mins
+66 Available
+More Detail
+
+Qty. In Cart:    
+Update
+ Add To BOM Or Favorites
+Item Shipping Weight: 0.23 lb
+Country Of Origin: CHINA
+HS Code: 8536.10
+Specs	Tech Q & A	Downloads	Compliance Info	What's in the Box	Related Items	Reviews
+EHCC2DU Specifications
+
+  Technical Specifications
+
+Product Attribute Table
+	Technical Attributes
+	Brand	Edison
+	Item	Fuse holder
+	Modular	Yes
+	Blown Fuse Indicator	No
+	Multi-Wire	No
+	Accepts Fuse Class	Class CC
+	Amperage Rating	30A
+	Voltage Rating	600V
+	Number of Poles	2
+	Conductor Size	18-4 AWG copper only
+	Conductor Connection Type	Integral pressure plate with separate spade connection
+	SCCR Rating	200kA SCCR
+	Fuse Connection Type	Clip with reinforced spring
+	Mounting	35mm DIN rail
+Search for Similar Items 
+EHCC2DU Technical Questions
+Please login to ask a product question.
+No results found
+EHCC2DU Downloads
+Documents 
+Technical Specifications      Tech Specs vs Cut Sheet Help
+      Technical Specifications
+      Product Cut Sheet
+Other Documents
+      Buying Guide
+
+Item Feedback
+Drawings
+  EHCC2DU 2D Drawing
+
+2D drawings specifically for this item.
+  EHCC2DU STP 3D Model
+
+For more info, see our 3D CAD file FAQs.
+View / Download 2D / 3D CAD
+EHCC2DU Compliance Information
+Agency Compliance & Certifications
+UL Listed File #:  E300536
+UL Recognized File #:  None
+UL Hazardous File #:  None
+UL Product iQ™
+(Search for UL file number above.)
+	View CE declarations
+	
+CSA File #:   47235
+Search CSA file numbers
+	RoHS Status:  No
+
+	EU REACH document
+Other:  None
+
+Conflict Minerals Information
+
+EHCC2DU What's in the Box
+
+
+ 
+Qty
+Description
+1
+Fuse Holder 
+EHCC2DU Related Items
+Recommended Items
+The following items are recommended for purchase with a EHCC2DU
+
+JV-L
+ Compare
+
+Bussmann multi-pole connection kit, for use with up to (4) EHM, CHM, EHCC or CHCC series fuse holders. (6) body connectors and (3) handle pins included. Includes (6) body connectors and (3) handle pins.
+
+Note: Roll pin punch or installation tool is required to install handle pins (tool not sold by AutomationDirect).
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$18.50
+Backordered
+248 more, earliest 12/17/2026
+
+More Detail / Notify Me
+Qty. in Cart: 
+Update 
+
+EB1P100M3
+ Compare
+
+Edison busbar, 100A, 600 VAC/1000 VDC, 3-pin, cut to length permitted, connects up to (3) 1-pole Edison EHM or EHCC series fuse holders. (2) EECAP1P end caps included.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$18.00
+9 Available
+More Detail
+Qty. in Cart: 
+Update 
+
+EB1P100M6
+ Compare
+
+Edison busbar, 100A, 600 VAC/1000 VDC, 6-pin, cut to length permitted, connects up to (6) 1-pole Edison EHM or EHCC series fuse holders.
+
+[truncated at 4000 of 9452 chars; use -c to raise]

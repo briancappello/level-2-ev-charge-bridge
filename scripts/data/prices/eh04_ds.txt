@@ -1,0 +1,30 @@
+# Datasheet.Directory: Sale 1SAE901901R1011 - Global Supply Chains, Offer Electronic Components, Industrial Automation, Process Automation.
+https://www.datasheet.live/search?query=1SAE901901R1011
+
+This website uses cookies to ensure you get the best experience on our website. Learn more
+DeclineAllow Cookies
+Datasheet.Directory
+Products & Industries
+Documentation
+About Us
+Contact
+Did you mean: TSP801R1011DUF
+Product Datasheet Search Results:
+3 Pages, 242 KB, Original
+ TSP801R1011DUF
+ Vishay Presicion Group
+RESISTOR, NETWORK, FILM, BUSSED, 0.5 W, THROUGH HOLE MOUNT
+BuyNow!
+.txt.html
+Product Details Search Results:
+Vishay.com/TSP801R1011DUF
+{"Temperature Coefficient Tracking":"2 ppm/Cel","Terminal Finish":"GOLD","Rated Temperature":"70 Cel","Rated Power Dissipation (P)":"0.5000 W","Operating Temperature-Max":"125 Cel","Temperature Coefficient":"25","Package Shape":"RECTANGULAR PACKAGE","Tolerance":"0.5000 %","Network Type":"BUSSED","Status":"ACTIVE","Operating Temperature-Min":"-55 Cel","Resistor Type":"FILM","Number of Functions":"1","Mounting Feature":"THROUGH HOLE MOUNT","First Element Resistance":"1010 ohm","Element Power Dissipation":"0.1...
+1453 Bytes - 10:53:38, 27 October 2026
+Documentation and Support
+
+Use our online request for specific proposed solutions or send your technical question directly to a product specialist at request:
+
+File Name	File Size (MB)	Document	MOQ	Support
+1SAE901901R1011.pdf	0.09		1	Request
+1SAE901901R1020.pdf	0.09		1	Request
+© 2026 Datasheet.Directory. All rights reserved.

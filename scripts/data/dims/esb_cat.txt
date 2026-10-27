@@ -1,0 +1,1997 @@
+—
+C ATA LO G
+
+
+Installation contactors
+Modular DIN rail components
+
+
+
+
+                                              —
+
+
+
+  • Quiet and reliable in every application
+                                              Installation contactors
+    with hum-free AC/DC coils
+
+
+                                              Modular DIN rail components
+  • Tool-free accessories
+  • Wide range from 16 to 100 A
+  • Single- and multipackaging available
+2     C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+
+—
+Available in a wide range from
+16 to 100 A and featuring tool-free
+accessories, ABB's installation
+contactors are widely used for
+switching and controlling lighting,
+heating, ventilation, EV charging
+stations, motors and pumps. Quiet
+and reliable with hum-free AC/DC
+coils, the all-new installation
+contactors offer peace of mind in
+noise-sensitive applications.
+C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                3
+
+
+
+
+                             —
+                             Table of contents
+
+
+
+
+                             Features and benefits                     5
+
+                             Overview contactors                       9
+
+                             Overview accessories                     10
+
+                             Ordering details ESB..N contactors       12
+
+                             Ordering details EN..N contactors        18
+
+                             Ordering details accessories             21
+
+                             Technical data                           22
+
+                             DC switching table                       28
+
+                             Lamp load table                          29
+
+                             Voltage code table                       30
+
+                             Index31
+4   C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+                      C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                               5
+
+
+
+—
+Installation contactors
+A wide range of contactors take noise reduction to new levels
+
+
+
+
+ABB’s hum-free installation contactor designs now offer a wider range of ratings
+from 16 A to 100 A. Widely used in buildings for switching and controlling lighting,
+heating, ventilation, EV charging stations, motor and pumps, the installation
+contactors take noise reduction to a new level. With an innovative AC / DC coil design
+that eliminates hum, a broad selection of common accessories as well as manual and
+automatic versions, installation contactors offer peace of mind in noise-sensitive
+applications.
+
+
+                               Quiet and reliable in every application
+                               ABB’s hum-free contactors feature innovative AC / DC coils. The range covers ratings from 16 A
+                               to 100 A and offers accessories to suit customer requirements in every application. An
+                               integrated indicator makes diagnostics quicker and provides reliable information about the
+Optimum interface              contactor’s status at a glance.
+
+
+
+                               Simple solution that saves time
+                               Reduce installation time and stock levels, with a universal auxiliary contact block that can be
+                               attached to the contactors by hand. Installation contactors fit easily with ABB’s System Pro M
+Easy to install                compact range, making them fully compatible with other modular DIN-rail components.
+
+
+
+
+                               Whatever you need, wherever you need it
+                               Installation contactors are available in single and multi-packs to meet different customer needs
+                               and to optimize warehousing space. Every ABB product enjoys expert local support worldwide
+Global availability            to make communication easier and delivery faster.
+6              C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Features and benefits
+
+
+
+
+                                                           Hum-free operation
+                                                           With an innovative AC / DC design that eliminates
+                                                           hum, the range meets the needs of applications
+                                                           demanding silent operation, for example hotel
+                                                           rooms and residential buildings.
+
+
+
+
+                                                           Single and multiple packaging
+                                                           The right packaging for your needs- our products
+                                                           are available in a choice of different packaging
+                                                           and delivery quantities. This allows you to ware-
+                                                           house according to your needs and save up to
+                                                           50% on your inventory.
+
+
+
+
+                                                           Wide application range
+                                                           The ESB installation contactors range meets both
+                                                           the industrial standard IEC 60947-4-1 and the
+                                                           household standard IEC 61095 as well as pollution
+                                                           degree class 3. Due to multiple certification and
+      + 10%
+                                                           inherent robustness, the contactors can be used
+                                                           in 10% more applications in both residential and
+                                                           industrial settings.
+
+
+
+
+                                                           Comprehensive solution
+                                                           ABB's ESB and EN installation contactors range
+        16 A
+                                                           offers a complete solution from 16 A to 100 A,
+                                                           offering an answer to all customer needs from
+                                                           a single supplier.
+                                                           With 16 A, 25 A and 100 A versions, tender
+                                                           specifications can be met with competitive pricing.
+
+
+       100 A
+              C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                             7
+
+
+
+—
+Installation contactors
+Features and benefits
+
+
+
+
+                                                          Save up to 15% space with group mounting
+                                                          ESB16..N, ESB/EN20..N and ESB100..N can be
+                                                          group mounted. There is no need for a distance
+                                                          piece in between contactors, saving both valuable
+                                                          space in cabinets and money.
+
+
+
+
+                                                          Built-in protective circuit
+                                                          Protect the contactor without additional
+                                                          space-demanding components against remote
+                                                          lightning strikes and overvoltages.
+
+
+
+
+                                                          Design in accordance with System Pro M
+                                                          Contactors and accessories are designed according
+                                                          to System pro M range and ABB´s modular DIN-rail
+                                                          components and fit in dedicated panels.
+
+
+
+
+                                                          EAN-code for an easy identification
+                                                          Just scan the EAN-code printed on the side of the
+                                                          devices and save up to 80% time identifying the
+                                                          product in your system. This way, handling and
+                                                          identifying your products in warehouse and
+                                                          cashier system is easy.
+8                        C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Easy installation and maintenance
+
+
+
+
+ABB´s installation contactors come with many features that make installation and
+maintenance easier. The mechanical Indicator with green and red color for status
+indication ensures a quick diagnostic of the system. Also, some specialty types
+feature a manual override functionality with a toggle switch to control independently
+from control source. Accessories can be mounted tool-free on the contactor, for
+example auxiliaries, space holders as well as security and safety covers.
+
+
+                                                                                                     Terminals IP20
+
+
+                                                       click!                                  Control with manual
+                                                                                              override functionality
+Harmonized for the same
+screwdriver
+
+
+
+
+EH-04 auxiliary contact block
+                                                                                              Easy status indication
+    - tool-free mounting                                                                             Red:        ON
+    - clip-on the left side                                                                          Green:     OFF
+
+
+                                                                                                      Field for label
+
+
+
+
+—
+Operation mode EN-versions
+
+                      Switch position O = OFF                      Switch position AUTO   Switch position I = ON
+
+
+
+
+    A1     Coil
+    A2     input
+
+
+     1     Main
+           contacts
+     2     output
+
+                                                                                           automatic return to 'AUTO'
+                              C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                    9
+
+
+
+—
+Installation contactors
+Overview contactors
+
+
+
+
+Type                                        ESB16..N          ESB20..N          ESB25..N             ESB40..N                 ESB63..N                 ESB100..N
+                                                              EN20..N           EN25..N              EN40..N
+AC-1/AC-7a (A)                              16                20                25                   40                       63                       100
+Modular Width                               1                 1                 2                    3                        3                        3/6
+Accessories
+Auxiliary contact blocks         2 NO       EH04-20N          EH04-20N          EH04-20N             EH04-20N                 EH04-20N                 EH04-20N
+                                 1 NO +     EH04-11N          EH04-11N          EH04-11N             EH04-11N                 EH04-11N                 EH04-11N
+                                 1 NC
+
+
+
+
+Distance piece           up to 40 °C        -                 -                 -                    -                        -                        -
+
+
+
+                         between 40 °C -                      -                 ESB-DIS*             ESB-DIS*                 ESB-DIS*                 -
+                         and 55 °C
+
+
+Covers                                      -                 -                 ESB-PLK24            ESB-PLK40/63             ESB-PLK40/63             -
+
+
+
+
+*If several contactors are mounted adjacently and the duty time is longer than one hour, every second contactor needs a distance piece, Type ESB-DIS (1/2 module).
+ This is not necessary at an ambient temperature ≤ 40 °C .
+10                      C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Overview accessories
+
+
+
+
+                                                                   Tool-free accessories
+                                                                   Speed up installation and maintenance time by
+                                                                   mounting accessories tool-free to the contactor.
+                                                                   Auxiliaries, security safety covers and space
+                                                                   holders are easily and quickly installed.
+
+
+
+
+                                                                   Distance pieces
+                                                                   If the ambient temperature in your control
+                                                                   cabinet exceeds 40 °C and the duty time is longer
+              > 40 °C                                              than an hour, you need to use a distance piece
+                                                                   between each second contactor for the ESB25..N
+                                                                   to ESB63..N.
+
+
+
+
+                                                                   Sealing covers
+                                                                   Protect the security of your employees/custom-
+                                                                   ers´installation with sealing covers. They are
+                                                                   available in different sizes and can be clipped on
+                                                                   easily.
+
+
+
+
+     click!
+                                                                   Auxiliary contact blocks
+                                                                   ABB´s new range of auxiliary contact blocks
+                                                                   are mounted on the left side of the contactors.
+                                                                   Simply clip them on - no tools required!
+                                                                   Valuable inventory space can be saved with the
+                                                                   new auxiliary contact block which is designed to
+                                                                   fit all contactors of the range.
+         C ATA L O G I N S TA L L AT I O N C O N TA C TO R S   11
+
+
+
+
+—
+The innovative AC/DC coil
+design eliminates hum and
+offers peace of mind in
+noise-sensitive applications
+like hotel rooms and offices.
+12                           C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+ESB16..N installation contactors
+Ordering details 16 A, AC-1 /AC-7a, AC/DC operated
+
+
+
+
+                                           The ESB16..N installation contactors are used to control single-phase loads up to 16 A and
+                                           can be operated by AC or DC voltages. These contactors are made for use in household
+                                           applications as well as in industrial environment.
+                                           ESB16..N series is providing the following benefits:
+                                           • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+           1SBC101551V0000
+                                           • Various contact combinations and accessories are available.
+                                           Main                            Width in        Rated control                                 Type           Order code        Pkg Weight
+                                           contacts                        number of       circuit                                                                        qty (1 pc.)
+ESB16..N
+                                                                           modular         voltage(1)
+                                                                           spacings
+                                                                                           V AC/DC                                                                             kg
+
+                                           Single packaging
+                                           A1             1       3            1           24                                            ESB16-20N-01   1SBE111111R0120   1    0.14
+
+                                                                                           230                                           ESB16-20N-06   1SBE111111R0620   1    0.14
+                                           A2             2       4
+
+                                           A1            R1     R3             1           24                                            ESB16-02N-01   1SBE111111R0102   1    0.14
+
+                                                                                           230                                           ESB16-02N-06   1SBE111111R0602   1    0.14
+                                           A2            R2     R4
+
+                                           A1             1     R3             1           24                                            ESB16-11N-01   1SBE111111R0111   1    0.14
+
+                                                                                           230                                           ESB16-11N-06   1SBE111111R0611   1    0.14
+                                           A2             2     R4
+
+
+                                           Multiple packaging
+                                           A1             1       3            1           24                                            ESB16-20N-01   1SBE111111M0120   12   0.14
+
+                                                                                           230                                           ESB16-20N-06   1SBE111111M0620   12   0.14
+                                           A2             2       4
+
+                                           A1            R1     R3             1           24                                            ESB16-02N-01   1SBE111111M0102   12   0.14
+
+                                                                                           230                                           ESB16-02N-06   1SBE111111M0602   12   0.14
+                                           A2            R2     R4
+
+                                           A1             1     R3             1           24                                            ESB16-11N-01   1SBE111111M0111   12   0.14
+
+                                                                                           230                                           ESB16-11N-06   1SBE111111M0611   12   0.14
+                                           A2             2     R4
+
+                                           (1)
+                                                    Other control voltages: see voltage code table and contact ABB for availability of products.
+
+
+
+
+                                                              17.8 0.7''
+
+
+
+
+                                           3.35''                                                             1.77''
+
+                                           85                                                                 45
+
+
+
+
+                                                                                                                       1SBC501727F0000
+                                                                                   6.8 0.27''
+                                                                                        43.5 1.71''
+                                                                                                58   2.28''
+
+
+
+                                           ESB16..N
+
+                                           Dimensions mm, inches
+                             C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                               13
+
+
+
+—
+ESB20..N installation contactors
+Ordering details 20 A, AC-1 /AC-7a, AC/DC operated
+
+
+
+
+                                           The ESB20..N installation contactors are used to control single-phase loads up to 20 A and
+                                           can be operated by AC or DC voltages. These contactors are made for use in household
+                                           applications as well as in industrial environment.
+                                           ESB20..N series is providing the following benefits:
+                                           • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+
+           1SBC101552V0000
+                                           • Various contact combinations and accessories are available.
+                                           Main                            Width in       Rated control                                  Type           Order code        Pkg Weight
+                                           contacts                        number of      circuit                                                                         qty (1 pc.)
+ESB20..N
+                                                                           modular        voltage(1)
+                                                                           spacings
+                                                                                          V AC/DC                                                                               kg
+
+                                           Single packaging
+                                           A1             1       3            1           24                                            ESB20-20N-01   1SBE121111R0120   1         0.14
+
+                                                                                           230                                           ESB20-20N-06   1SBE121111R0620   1         0.14
+                                           A2             2       4
+
+                                           A1            R1     R3             1           24                                            ESB20-02N-01   1SBE121111R0102   1         0.14
+
+                                                                                           230                                           ESB20-02N-06   1SBE121111R0602   1         0.14
+                                           A2            R2     R4
+
+                                           A1             1     R3             1           24                                            ESB20-11N-01   1SBE121111R0111   1         0.14
+
+                                                                                           230                                           ESB20-11N-06   1SBE121111R0611   1         0.14
+                                           A2             2     R4
+
+
+                                           Multiple packaging
+                                           A1             1       3            1           24                                            ESB20-20N-01   1SBE121111M0120   12        0.14
+
+                                                                                           230                                           ESB20-20N-06   1SBE121111M0620   12        0.14
+                                           A2             2       4
+
+                                           A1            R1     R3             1           24                                            ESB20-02N-01   1SBE121111M0102   12        0.14
+
+                                                                                           230                                           ESB20-02N-06   1SBE121111M0602   12        0.14
+                                           A2            R2     R4
+
+                                           A1             1     R3             1           24                                            ESB20-11N-01   1SBE121111M0111   12        0.14
+
+                                                                                           230                                           ESB20-11N-06   1SBE121111M0611   12        0.14
+                                           A2             2     R4
+
+                                           (1)
+                                                    Other control voltages: see voltage code table and contact ABB for availability of products.
+
+
+
+
+                                                              17.8 0.7''
+
+
+
+
+                                           3.35''                                                             1.77''
+
+                                           85                                                                 45
+
+
+
+
+                                                                                                                       1SBC501727F0000
+                                                                                   6.8 0.27''
+                                                                                        43.5 1.71''
+                                                                                                58   2.28''
+
+
+                                           ESB20..N
+
+                                           Dimensions mm, inches
+14                           C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+ESB25..N installation contactors
+Ordering details 25 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                           The ESB25..N installation contactors are used to control single and three-phases loads up to
+                                           25 A and can be operated by AC or DC voltages. These contactors are made for use in house-
+                                           hold applications as well as in industrial environment.
+                                           ESB25..N series is providing the following benefits:
+                                           • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+
+           2CDC221007V0017
+                                           • Various contact combinations and accessories are available.
+                                           Main contacts                                            Width in                   Rated                              Type           Order code        Pkg Weight
+                                                                                                    number of                  control                                                             qty (1 pc.)
+ESB25..N
+                                                                                                    modular                    circuit
+                                                                                                    spacings                   voltage(1)
+                                                                                                                               V AC/DC                                                                 kg
+
+                                           Single packaging
+                                            A1                  1           3         5    7 (13)                 2            24                                 ESB25-40N-01   1SAE231111R0140   1   0.245
+
+                                                                                                                               230 ... 240                        ESB25-40N-06   1SAE231111R0640   1   0.235
+                                            A2                  2           4         6    8 (14)
+
+                                            A1                 R1          R3        R5   R7                      2            24                                 ESB25-04N-01   1SAE231111R0104   1   0.245
+
+                                                                                                                               230 ... 240                        ESB25-04N-06   1SAE231111R0604   1   0.235
+                                            A2                 R2          R4        R6   R8
+
+                                            A1             1          R3        R5        7                       2            24                                 ESB25-22N-01   1SAE231111R0122   1   0.245
+
+                                                                                                                               230 ... 240                        ESB25-22N-06   1SAE231111R0622   1   0.235
+                                            A2             2          R4        R6        8
+
+                                            A1             1          R3              5    7                      2            24                                 ESB25-31N-01   1SAE231111R0131   1   0.245
+
+                                                                                                                               230 ... 240                        ESB25-31N-06   1SAE231111R0631   1   0.235
+                                            A2             2          R4             6     8
+
+                                            A1                 R1          R3         5   R7                      2            24                                 ESB25-13N-01   1SAE231111R0113   1   0.245
+
+                                                                                                                               230 ... 240                        ESB25-13N-06   1SAE231111R0613   1   0.235
+                                            A2                 R2          R4         6   R8
+
+
+
+                                           Multiple packaging
+                                            A1                  1           3         5    7 (13)                 2            24                                 ESB25-40N-01   1SAE231111M0140   6   0.245
+
+                                                                                                                               230 ... 240                        ESB25-40N-06   1SAE231111M0640   6   0.235
+                                            A2                  2           4         6    8 (14)
+
+                                            A1                 R1          R3        R5   R7                      2            24                                 ESB25-04N-01   1SAE231111M0104   6   0.245
+
+                                                                                                                               230 ... 240                        ESB25-04N-06   1SAE231111M0604   6   0.235
+                                            A2                 R2          R4        R6   R8
+
+                                            A1             1          R3        R5        7                       2            24                                 ESB25-22N-01   1SAE231111M0122   6   0.245
+
+                                                                                                                               230 ... 240                        ESB25-22N-06   1SAE231111M0622   6   0.235
+                                            A2             2          R4        R6        8
+
+                                            A1             1          R3              5    7                      2            24                                 ESB25-31N-01   1SAE231111M0131   6   0.245
+
+                                                                                                                               230 ... 240                        ESB25-31N-06   1SAE231111M0631   6   0.235
+                                            A2             2          R4             6     8
+
+                                            A1                 R1          R3         5   R7                      2            24                                 ESB25-13N-01   1SAE231111M0113   6   0.245
+
+                                                                                                                               230 ... 240                        ESB25-13N-06   1SAE231111M0613   6   0.235
+                                            A2                 R2          R4         6   R8
+
+                                           (1)
+                                                       Other control voltages: see voltage code table and contact ABB for availability of products.
+                                                                    36 1.42''
+
+
+
+
+                                           85 3.35''                                                                                45 1.77''
+
+
+
+
+                                                                                                                                                2CDC222001F0017
+                                                                                                    6.8     0.27''
+                                                                                                          43.5    1.71''
+                                                                                                                 58   2.28''
+
+
+                                             ESB25..N
+
+                                             Dimensions mm, inches
+                              C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                                                       15
+
+
+
+—
+ESB40..N installation contactors
+Ordering details 40 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                            The ESB40..N installation contactors are used to control single and three-phases loads up
+                                            to 40 A and can be operated by AC or DC voltages. These contactors are made for use in
+                                            household applications as well as in industrial environment.
+                                            ESB40..N series is providing the following benefits:
+                                            • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+
+            2CDC221008V0017
+                                            • Various contact combinations and accessories are available.
+                                            Main contacts                                                Width in               Rated                              Type           Order code        Pkg Weight
+                                                                                                         number of              control                                                             qty (1 pc.)
+ESB40..N                                                                                                 modular                circuit
+                                                                                                         spacings               voltage(1)
+                                                                                                                                V AC/DC                                                                  kg
+
+                                            Single packaging
+                                            A1               1         3               5        7 (13)            3             24                                 ESB40-40N-01 1SAE341111R0140     1    0.405
+
+                                                                                                                                230                                ESB40-40N-06 1SAE341111R0640     1    0.405
+                                            A2               2             4           6        8 (14)
+
+                                            A1          R1         3           5           R7                     3             24                                 ESB40-22N-01   1SAE341111R0122   1    0.405
+
+                                                                                                                                230                                ESB40-22N-06   1SAE341111R0622   1    0.405
+                                            A2          R2         4               6       R8
+
+                                            A1          R1             3               5        7                 3             24                                 ESB40-31N-01   1SAE341111R0131   1    0.405
+
+                                                                                                                                230                                ESB40-31N-06   1SAE341111R0631   1    0.405
+                                            A2          R2             4               6        8
+
+                                            A1               1         3               5                          3             24                                 ESB40-30N-01   1SAE341111R0130   1    0.385
+
+                                                                                                                                230                                ESB40-30N-06   1SAE341111R0630   1    0.385
+                                            A2               2         4               6
+
+                                            A1               1             3                                      3             24                                 ESB40-20N-01   1SAE341111R0120   1    0.370
+
+                                                                                                                                230                                ESB40-20N-06   1SAE341111R0620   1    0.370
+                                            A2               2             4
+
+
+
+                                            Multiple packaging
+                                            A1               1         3               5        7 (13)            3             24                                 ESB40-40N-01 1SAE341111M0140     4    0.405
+
+                                                                                                                                230                                ESB40-40N-06 1SAE341111M0640     4    0.405
+                                            A2               2             4           6        8 (14)
+
+                                            A1          R1         3           5           R7                     3             24                                 ESB40-22N-01   1SAE341111M0122   4    0.405
+
+                                                                                                                                230                                ESB40-22N-06   1SAE341111M0622   4    0.405
+                                            A2          R2         4               6       R8
+
+                                            A1          R1             3               5        7                 3             24                                 ESB40-31N-01   1SAE341111M0131   4    0.405
+
+                                                                                                                                230                                ESB40-31N-06   1SAE341111M0631   4    0.405
+                                            A2          R2             4               6        8
+
+                                            A1               1         3               5                          3             24                                 ESB40-30N-01   1SAE341111M0130   4    0.385
+
+                                                                                                                                230                                ESB40-30N-06   1SAE341111M0630   4    0.385
+                                            A2               2         4               6
+
+                                            A1               1             3                                      3             24                                 ESB40-20N-01   1SAE341111M0120   4    0.370
+
+                                                                                                                                230                                ESB40-20N-06   1SAE341111M0620   4    0.370
+                                            A2               2             4
+
+                                            (1)
+                                                     Other control voltages: see voltage code table and contact ABB for availability of products.
+                                                                 54 2.13''
+
+
+
+
+                                            3.35''
+                                                                                                                                     45 1.77''
+                                            85
+
+
+
+
+                                                                                                                                                 2CDC222003F0017
+                                                                                                         6.8 0.27''
+                                                                                                             43.5 1.71''
+                                                                                                                  58   2.28''
+
+
+                                            ESB40..N
+
+                                            Dimensions mm, inches
+16                            C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+ESB63..N installation contactors
+Ordering details 63 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                            The ESB63..N installation contactors are used to control single and three-phases loads up to
+                                            63 A and can be operated by AC or DC voltages. These contactors are made for use in house-
+                                            hold applications as well as in industrial environment.
+                                            ESB63..N series is providing the following benefits:
+                                            • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+
+            2CDC221009V0017
+                                            • Various contact combinations and accessories are available.
+                                            Main contacts                                 Width in               Rated                              Type           Order code        Pkg Weight
+                                                                                          number of              control                                                             qty (1 pc.)
+ESB63..N                                                                                  modular                circuit
+                                                                                          spacings               voltage(1)
+                                                                                                                 V AC/DC                                                                 kg
+
+                                            Single packaging
+                                            A1               1        3      5   7 (13)            3             24                                 ESB63-40N-01   1SAE351111R0140   1   0.405
+
+                                                                                                                 230                                ESB63-40N-06   1SAE351111R0640   1   0.405
+                                            A2               2        4      6   8 (14)
+
+                                            A1          R1           3       5   7                 3             230                                ESB63-31N-06   1SAE351111R0631   1   0.405
+
+
+                                            A2          R2           4       6   8
+
+                                            A1               1        3      5                     3             230                                ESB63-30N-06   1SAE351111R0630   1   0.385
+
+
+                                            A2               2        4      6
+
+                                            A1               1           3                         3             24                                 ESB63-20N-01   1SAE351111R0120   1   0.37
+
+                                                                                                                 230                                ESB63-20N-06   1SAE351111R0620   1   0.37
+                                            A2               2           4
+
+
+
+                                            Multiple packaging
+                                            A1               1        3      5   7 (13)            3             24                                 ESB63-40N-01   1SAE351111M0140   4   0.405
+
+                                                                                                                 230                                ESB63-40N-06   1SAE351111M0640   4   0.405
+                                            A2               2        4      6   8 (14)
+
+                                            A1          R1           3       5   7                 3             230                                ESB63-31N-06   1SAE351111M0631   4   0.405
+
+
+                                            A2          R2           4       6   8
+
+                                            A1               1        3      5                     3             230                                ESB63-30N-06   1SAE351111M0630   4   0.385
+
+
+                                            A2               2        4      6
+
+                                            A1               1           3                         3             24                                 ESB63-20N-01   1SAE351111M0120   4   0.37
+
+                                                                                                                 230                                ESB63-20N-06   1SAE351111M0620   4   0.37
+                                            A2               2           4
+
+                                            (1)
+                                                     Other control voltages: see voltage code table and contact ABB for availability of products.
+
+
+
+
+                                                                 54 2.13''
+
+
+
+
+                                            3.35''
+                                                                                                                      45 1.77''
+                                            85
+
+
+
+
+                                                                                                                                  2CDC222003F0017
+                                                                                          6.8 0.27''
+                                                                                              43.5 1.71''
+                                                                                                   58   2.28''
+
+
+                                            ESB63..N
+
+                                            Dimensions mm, inches
+                               C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                                                                              17
+
+
+
+—
+ESB100..N installation contactors
+Ordering details 100 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                                        The ESB100..N installation contactors are used to control single and three-phases loads up
+                                                        to 100 A and can be operated by AC or DC voltages. These contactors are made for use in
+                                                        household applications as well as in industrial environment.
+                                                        ESB100..N series is providing the following benefits:
+                                                        • Hum-free operation, low power consumption and integrated overvoltage protection.
+
+
+             2CDC221010V0017
+                                                        • Various contact combinations and accessories are available.
+                                                        Main contacts                               Width in               Rated                                  Type                                         Order code   Pkg Weight
+                                                                                                    number of              control                                                                                          qty (1 pc.)
+ESB100-20N
+                                                                                                    modular                circuit
+                                                                                                    spacings               voltage
+                                                                                                                           V AC/DC                                                                                                   kg
+
+                                                        Single packaging
+                                                        A1       1         3       5     7 (13)              6             24                                     ESB100-40N-01 1SAE661111R0140                             1        0.810
+
+                                                                                                                           230                                    ESB100-40N-06 1SAE661111R0640                             1        0.810
+                                                        A2       2         4       6     8 (14)
+
+                                                        A1       1         3                                 3             24                                     ESB100-20N-01 1SAE361111R0120                             1        0.405
+
+
+
+                                      2CDC221011V0017
+                                                                                                                           230                                    ESB100-20N-06 1SAE361111R0620                             1        0.405
+                                                        A2       2         4
+
+
+
+ESB100-40N                                              Multiple packaging
+                                                        A1       1         3                                 3             24                                     ESB100-20N-01 1SAE361111M0120                             2        0.405
+
+                                                                                                                           230                                    ESB100-20N-06 1SAE361111M0620                             2        0.405
+                                                        A2       2         4
+
+
+
+
+                                                                     54   2.13''
+
+
+
+
+                                                        3.35''                                                                  1.77''
+
+                                                        85                                                                      45
+
+
+
+
+                                                                                                                                         2CDC222005F0017
+                                                                                                    6.8 0.27''
+                                                                                                        43.5 1.71''
+                                                                                                             58   2.28''
+
+
+
+
+                                                        ESB100 -20N
+
+                                                                                       108 4.25''
+
+
+
+
+                                                        3.35''                                                                                                                      1.77''
+
+                                                        85                                                                                                                          45
+
+
+
+
+                                                                                                                                                                                             2CDC222006F0017
+                                                                                                                                                           6.8 0.27''
+                                                                                                                                                               43.5 1.71''
+                                                                                                                                                                        58 2.28''
+
+
+
+                                                        ESB100 - 40N
+
+                                                        Dimensions mm, inches
+18                          C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+EN20..N installation contactors - manually/automatic operated
+Ordering details 20 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                          The EN20..N installation contactors are used to control single-phase loads up to 20 A and
+                                          can be operated by AC or DC voltages. They have a built-in toggle switch to be operated
+                                          manually or automatically. These contactors are made for use in household applications as
+                                          well as in industrial environment.
+
+
+          1SBC101553V0000
+                                          EN20..N series is providing the following benefits:
+                                          • Hum-free operation, low power consumption and integrated overvoltage protection and
+                                            manual override.
+                                          • Various contact combinations and accessories are available.
+EN20..N
+                                          Main                      Width in  Rated control                                          Type          Order code        Pkg Weight
+                                          contacts                  number of circuit voltage                                                                        qty (1 pc.)
+                                                                    modular
+                                                                    spacings
+                                                                              V AC/DC                                                                                     kg
+
+                                          Single packaging
+                                          A1       1        3           1                     24                                     EN20-20N-01   1SBE122111R0120   1    0.14
+
+                                                                                              230                                    EN20-20N-06   1SBE122111R0620   1    0.14
+                                          A2       2        4
+
+
+
+                                          Multiple packaging
+                                          A1       1        3           1                     24                                     EN20-20N-01   1SBE122111M0120   12   0.14
+
+                                                                                              230                                    EN20-20N-06   1SBE122111M0620   12   0.14
+                                          A2       2        4
+
+
+
+
+                                                       17.8 0.7''
+
+
+
+
+                                                                                                            45
+                                          3.35''
+
+                                          85                                                                1.77''
+
+
+
+
+                                                                                                                         1SBC501729F0000
+                                                                            6.8     0.27''                  2.4 2.09''
+                                                                                  43.5    1.71''
+                                                                                         58        2.28''
+
+
+
+
+                                          EN20..N
+
+                                          Dimensions mm, inches
+                            C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                                    19
+
+
+
+—
+EN25..N installation contactors - manually/automatic operated
+Ordering details 25 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                          The EN25..N installation contactors are used to control single- and three-phase loads up to
+                                          25 A and can be operated by AC or DC voltages. They have a built-in toggle switch to be
+                                          operated manually or automatically. These contactors are made for use in household appli-
+                                          cations as well as in industrial environment.
+                                          EN25..N series is providing the following benefits:
+
+
+          2CDC221003V0017
+                                          • Hum-free operation, low power consumption and integrated overvoltage protection and
+                                            manual override.
+                                          • Various contact combinations and accessories are available.
+EN25..N
+                                          Main contacts                             Width in  Rated control Type                                             Order code        Pkg Weight
+                                                                                    number of circuit voltage                                                                  qty (1 pc.)
+                                                                                    modular
+                                                                                    spacings
+                                                                                              V AC/DC                                                                               kg
+
+                                          Single packaging
+                                          A1       1       3     5   7 (13)                   2        24                                    EN25- 40N- 01   1SAE232111R0140   1    0.250
+
+                                                                                                       230 ... 240                           EN25-40N-06     1SAE232111R0640   1    0.240
+                                          A2       2       4     6   8 (14)
+
+                                          A1       1      R3     5   7                        2        24                                    EN25-31N-01     1SAE232111R0131   1    0.250
+
+                                                                                                       230 ... 240                           EN25-31N-06     1SAE232111R0631   1    0.240
+                                          A2       2      R4     6   8
+
+                                          A1       1       3     5                            2        230 ... 240                           EN25-30N-06     1SAE232111R0630   1    0.235
+
+
+
+                                          A2       2       4     6
+
+
+                                          Multiple packaging
+                                          A1       1       3     5   7 (13)                   2        24                                    EN25-40N-01     1SAE232111M0140   6    0.250
+
+                                                                                                       230 ... 240                           EN25-40N-06     1SAE232111M0640   6    0.240
+                                          A2       2       4     6   8 (14)
+
+                                          A1       1      R3     5   7                        2        24                                    EN25-31N-01     1SAE232111M0131   6    0.250
+
+                                                                                                       230 ... 240                           EN25-31N-06     1SAE232111M0631   6    0.240
+                                          A2       2      R4     6   8
+
+                                          A1       1       3     5                            2        230 ... 240                           EN25-30N-06     1SAE232111M0630   6    0.235
+
+
+
+                                          A2       2       4     6
+
+
+
+
+                                                   36   1.42''
+
+
+
+
+                                          2.87''
+                                                                                                         1.77''   3.35''
+
+                                                                                                         45
+                                          72.8                                                                    85
+
+
+
+
+                                                                                                                           2CDC222002F0017
+                                                                              6.8    0.27''
+                                                                                43.5     1.71''
+                                                                                       58     2.28''
+
+
+
+                                          EN25..N
+
+                                          Dimensions mm, inches
+20                           C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+EN40..N installation contactors - manually/automatic operated
+Ordering details 40 A, AC-1/AC-7a, AC/DC operated
+
+
+
+
+                                            The EN40..N installation contactors are used to control single- and three-phase loads up to
+                                            40 A and can be operated by AC or DC voltages. They have a built-in toggle switch to be
+                                            operated manually or automatically. These contactors are made for use in household appli-
+                                            cations as well as in industrial environment.
+                                            EN40..N series is providing the following benefits:
+
+
+           2CDC221004V0017
+                                            • Hum-free operation, low power consumption and integrated overvoltage protection and
+                                              manual override.
+                                            • Various contact combinations and accessories are available.
+EN40..N
+
+                                            Main contacts                                   Width in               Rated                              Type          Order code        Pkg Weight
+                                                                                            number of              control                                                            qty (1 pc.)
+                                                                                            modular                circuit
+                                                                                            spacings               voltage(1)
+                                                                                                                   V AC/DC                                                                kg
+
+                                            Single packaging
+                                            A1               1          3      5   7 (13)            3             24                                 EN40-40N-01 1SAE342111R0140     1   0.410
+
+                                                                                                                   230                                EN40-40N-06 1SAE342111R0640     1   0.410
+                                            A2               2          4      6   8 (14)
+
+                                            A1              R1          3      5   7                 3             24                                 EN40-31N-01   1SAE342111R0131   1   0.410
+
+                                                                                                                   230                                EN40-31N-06   1SAE342111R0631   1   0.410
+                                            A2              R2          4      6   8
+
+                                            A1              1           3      5                     3             230                                EN40-30N-06 1SAE342111R0630     1   0.410
+
+
+                                            A2              2           4      6
+
+                                            A1               1          3                            3             230                                EN40-20N-06 1SAE342111R0620     1   0.375
+
+
+                                            A2               2          4
+
+
+
+                                            Multiple packaging
+                                            A1               1          3      5   7 (13)            3             24                                 EN40-40N-01 1SAE342111M0140     4   0.410
+
+                                                                                                                   230                                EN40-40N-06 1SAE342111M0640     4   0.410
+                                            A2               2          4      6   8 (14)
+
+                                            A1              R1          3      5   7                 3             24                                 EN40-31N-01   1SAE342111M0131   4   0.410
+
+                                                                                                                   230                                EN40-31N-06   1SAE342111M0631   4   0.410
+                                            A2              R2          4      6   8
+
+                                            A1              1           3      5                     3             230                                EN40-30N-06 1SAE342111M0630     4   0.410
+
+
+                                            A2              2           4      6
+
+                                            A1               1          3                            3             230                                EN40-20N-06 1SAE342111M0620     4   0.375
+
+
+                                            A2               2          4
+
+                                            (1)
+                                                       Other control voltages: see voltage code table and contact ABB for availability of products.
+
+
+
+
+                                                                 54   2.13''
+
+
+
+
+                                           85 3.35''                                                                    45 1.77''
+
+
+
+
+                                                                                                                                    2CDC222004F0017
+                                                                                            6.8 0.27''
+                                                                                                43.5 1.71''
+                                                                                                    58    2.28''
+
+
+
+                                            EN40..N
+
+                                            Dimensions mm, inches
+                                                                C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                                21
+
+
+
+—
+Installation contactors
+Ordering details accessories
+
+
+
+                                                                              Auxiliary contact blocks
+                                                                              Suitable for                                        Auxiliary                                   Type          Order code        Pkg Weight
+                                                                                                                                  contacts                                                                    qty (1 pc.)
+                                                                                                                                                                                                                        kg
+
+                                                                              Single packaging
+
+
+                            2CDC221001V0017
+                                                                              ESB16..N, ESB20..N,                                    21                                       EH04-11N      1SAE901901R1011   1         0.040
+                                                                              ESB25..N, ESB40..N,                                                  33
+
+                                                                              ESB63..N, ESB100..N,
+EH04-20N                                                                      EN20..N, EN25..N, EN40..N
+                                                                                                                                                   34
+
+                                                                                                                                     22
+
+                                                                                                                                     23                                       EH04-20N      1SAE901901R1020   1         0.040
+                                                                                                                                                   33
+
+
+
+
+                                                                                                                                                   34
+
+                                                                                                                                     24
+
+
+
+                                                                              Multiple packaging
+                                                                              ESB16..N, ESB20..N,                                    21                                       EH04-11N      1SAE901901M1011   6         0.040
+                                                                              ESB25..N, ESB40..N,                                                  33
+
+                                                                              ESB63..N, ESB100..N,
+                                                                              EN20..N, EN25..N, EN40..N
+                                                                                                                                                   34
+
+                                                                                                                                     22
+
+                                                                                                                                     23                                       EH04-20N      1SAE901901M1020   6         0.040
+                                                                                                                                                   33
+
+
+
+
+                                                                                                                                                   34
+
+                                                                                                                                     24
+
+
+
+
+                                                                              Accessories
+                                                                              Suitable for                                        Description                                 Type          Order code        Pkg Weight
+                                                                                                                                                                                                              qty (1 pc.)
+
+                                                   SST31292
+                                                                                                                                                                                                                        kg
+
+ESB-PLK24                                                                     Sealing covers
+                                                                              ESB25..N, EN25..N                                   sealing cover                               ESB-PLK24     GHE3201903R0001   10        0.002
+                                                                              ESB40..N, ESB63..N, EN40..N                         sealing cover                               ESB-PLK40/63 GHE3401903R0001    10        0.003
+
+                                                                              Distance piece
+                                                                              ESB25..N, ESB40..N,                                                                             ESB-DIS (1)   GHE3201902R0001   10        0.002
+
+
+          2CDC221001F0012
+                                                                              ESB63..N, EN25..N, EN40..N
+                                                                              (1)
+                                                                                       If several contactors are mounted adjacently and the duty time is longer than one hour, every second contactor needs a distance
+                                                                                        piece, Type ESB-DIS (1/2 module). This is not necessary at an ambient temperature ≤ 40 °C or on Type ESB16..N, ESB/EN20..N and
+ESB-DIS                                                                                 ESB100..N.
+
+
+
+
+                                              1SBC103013F0014
+
+                                                                                                9 0.35''
+ESB-PLK40/63
+
+
+
+
+                                                                              2.72''   2.09''                                             1.77''   3.35''
+
+
+                                                                              69       53                                                 45       85
+
+
+
+
+                                                                                                                                                            2CDC222007F0017
+                                                                                                            6.8 0.27''
+                                                                                                               43.5 1.71''
+                                                                                                                    58   2.28''
+
+                                                                              EH04..N
+
+                                                                              Dimensions mm, inches
+22                         C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Technical data main circuit
+
+
+
+Main circuit – Utilization characteristics according to IEC/EN
+Contactor type                                       ESB16..N           ESB20..N/        ESB25..N/        ESB40..N/        ESB63..N         ESB100..N
+                                                                        EN20..N          EN25..N          EN40..N
+Standards                                            IEC/EN 60947-1, IEC/EN 60947-4-1, IEC/EN 61095
+Rated operational voltage Ue                         220 V DC           220 V DC         220 V DC         220 V DC         220 V DC         220 V DC
+                                                     250 V AC           250 V AC         400 V AC         400 V AC         400 V AC         400 V AC
+Rated frequency                                      DC, 50/60 Hz       DC, 50/60 Hz     DC, 50/60 Hz     DC, 50/60 Hz     DC, 50/60 Hz     DC, 50/60 Hz
+AC-1/AC-7a utilization category
+for air temperature near the
+contactor ≤ 55 °C
+     Rated operational current     NO                16 A               20 A             25 A             40 A             63 A             100 A
+     Ie AC-1/AC-7a                 NC                16 A               20 A             25 A             30 A             30 A             -
+     Rated operational            230 V
+     power AC-1                   1 phase            3.7 kW             4.6 kW           5.8 kW           9.2 kW           14.5 kW          23 kW
+                                  400 V
+                                  3 phases           –                  –                17.3 kW          27.7 kW          43.6 kW          69.3 kW
+AC-3/AC-3e/AC-7b utilization
+category for air temperature
+close to contactor ≤ 55 °C
+     Rated operational current    230 V
+     I e AC-3/AC-3e/AC-7b         1 phase            6A                 9A               9A               22 A             30 A             –
+                                  400 V
+                                  3 phases           –                  –                9A               22 A             30 A             –
+     Rated operational            230 V
+     power AC-3/AC-3e             1 phase            0.9 kW             1.3 kW           1.3 kW           3.7 kW           5 kW             –
+                                  400 V
+                                  3 phases           –                  –                4 kW             11 kW            15 kW            –
+Rated making capacity                                10 x I e/AC-3      10 x Ie/AC-3     10 x Ie/AC-3     10 x Ie/AC-3     10 x Ie/AC-3
+acc. to IEC 60947-4-1                                13 x Ie/AC-3e      13 x Ie/AC-3e    13 x Ie/AC-3e    13 x Ie/AC-3e    13 x Ie/AC-3e    –
+Rated breaking capacity                              8 x Ie/AC-3        8 x Ie/AC-3      8 x Ie/AC-3      8 x Ie/AC-3      8 x Ie/AC-3
+acc. to IEC 60947-4-1                                8.5 x Ie/AC-3e     8.5 x Ie/AC-3e   8.5 x Ie/AC-3e   8.5 x Ie/AC-3e   8.5 x Ie/AC-3e   –
+Rated short-time withstand
+current ICW at 40 °C ambient
+temp. in free air, from a cold
+state                             10 s               48 A               72 A             72 A             176 A            240 A            –
+Power loss per pole                                  0.9 W              1.4 W            2W               3W               4.5 W            6W
+Maximum electrical switching      AC-1/AC-7a         300 cycles/h       300 cycles/h     300 cycles/h     300 cycles/h     300 cycles/h     150 cycles/h
+frequency                         AC-3/AC-7b         600 cycles/h       600 cycles/h     600 cycles/h     600 cycles/h     600 cycles/h     –
+Electrical durability             AC-1/AC-7a         150,000 cycles     150,000 cycles   130,000 cycles   150,000 cycles   100,000 cycles   70,000 cycles
+                                  AC-3/AC-7b         150,000 cycles     150,000 cycles   500,000 cycles   150,000 cycles   240,000 cycles   –
+Mechanical durability                                1,000,000 cycles
+                          C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                 23
+
+
+
+—
+Installation contactors
+Technical data short circuit
+
+
+
+Short circuit protection with Fuses - Type 1 coordinated
+Fuses type                                          ESB16..N           ESB20..N/   ESB25..N/   ESB40..N/   ESB63..N   ESB100..N
+                                                                       EN20..N     EN25..N     EN40..N
+                                                    230 V              230 V       400 V       400 V       400 V      400 V
+gG coordinated up to 10kA                           20 A               20 A        35 A        63 A        80 A       125 A
+
+
+
+
+Short circuit protection with MCBs - Type 1 coordinated
+MCB          Characteristic Icu       In            ESB16..N           ESB20..N/   ESB25..N/   ESB40..N/   ESB63..N   ESB100..N
+                                                                       EN20..N     EN25..N     EN40..N
+                                                    230 V              230 V       400 V       400 V       400 V      400 V
+S200         B, C           10 kA     16 A          6 kA               6 kA        6 kA        6 kA        6 kA       6 kA
+                                      20 A          -                  6 kA        6 kA        6 kA        6 kA       6 kA
+                                      25 A          -                  -           6 kA        6 kA        6 kA       6 kA
+                                      40 A          -                  -           -           6 kA        6 kA       6 kA
+                                      63 A          -                  -           -           -           6 kA       6 kA
+S200M        B, C           15 kA     16 A          10 kA              10 kA       10 kA       10 kA       10 kA      10 kA
+                                      20 A          -                  10 kA       10 kA       10 kA       10 kA      10 kA
+                                      25 A          -                  -           10 kA       10 kA       10 kA      10 kA
+                                      40 A          -                  -           -           10 kA       10 kA      10 kA
+                                      63 A          -                  -           -           -           10 kA      10 kA
+
+
+
+Short circuit protection with RCDs - Type 1 coordinated
+RCD          Characteristic Icu       In            ESB16..N           ESB20..N/   ESB25..N/   ESB40..N/   ESB63..N   ESB100..N
+                                                                       EN20..N     EN25..N     EN40..N
+                                                    230 V              230 V       400 V       400 V       400 V      400 V
+DS201        B, C           6 kA      16 A          6 kA               6 kA        6 kA        6 kA        6 kA       6 kA
+                                      20 A          -                  6 kA        6 kA        6 kA        6 kA       6 kA
+                                      25 A          -                  -           6 kA        6 kA        6 kA       6 kA
+                                      40 A          -                  -           -           6 kA        6 kA       6 kA
+                                      63 A          -                  -           -           -           6 kA       6 kA
+DS201M       B, C           10 kA     16 A          10 kA              10 kA       10 kA       10 kA       10 kA      10 kA
+DS203NC                               20 A          -                  10 kA       10 kA       10 kA       10 kA      10 kA
+                                      25 A          -                  -           10 kA       10 kA       10 kA      10 kA
+                                      40 A          -                  -           -           10 kA       10 kA      10 kA
+                                      63 A          -                  -           -           -           10 kA      10 kA
+24                            C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Technical data main circuit and control circuit
+
+
+
+Main circuit – Utilization characteristics according to UL/CSA
+Contactor type                                           ESB16..N            ESB20..N/           ESB25..N/           ESB40..N/           ESB63..N            ESB100..N
+                                                                             EN20..N             EN25..N             EN40..N
+Standards                                                UL 60947-1, UL 60947-4-1
+General use rating          240 V                        16 A                20 A                –                   –                   –                   –
+                            480 V                        –                   –                   25 A                40 A                63 A                100 A
+Motor rating
+     Full load current      220 ... 240 V 1 phase        6.9 A               8A                  –                   –                   –                   –
+                            220 ... 240 V 3 phases       –                   –                   9.6 A               22 A                28 A                –
+                            440 ... 480 V 3 phases       –                   –                   7.6 A               21 A                21 A                –
+     Horse power rating 220 ... 240 V 1 phase            0.8 hp              1 hp                –                   –                   –                   –
+                            220 ... 240 V 3 phases       –                   –                   3 hp                7.5 hp              10 hp               –
+                            440 ... 480 V 3 phases       –                   –                   5 hp                15 hp               15 hp               –
+Short-circuit protection for contactors without
+thermal O/L relay - Motor protection excluded
+                            Fuse rating                  20 A                20 A                25 A                40 A                75 A                125 A
+                            Fuse type 480 V/5 kA         K5                  K5                  K5                  K5                  K5                  K5
+Max. electrical switching frequency
+                            for general use              300 cycles/h        300 cycles/h        300 cycles/h        300 cycles/h        300 cycles/h        150 cycles/h
+                            for motor use                600 cycles/h        600 cycles/h        600 cycles/h        600 cycles/h        600 cycles/h        –
+
+
+
+General technical data
+Contactor type                                           ESB16..N            ESB20..N/           ESB25..N/           ESB40..N/           ESB63..N            ESB100..N
+                                                                             EN20..N             EN25..N             EN40..N
+Rated insulation voltage Ui
+     acc. to IEC 60947-4-1 and VDE 0110 (Gr. C)          400 V               400 V               500 V               500 V               500 V               500 V
+Rated impulse withstand                                                                          ESB: 6 kV
+voltage Uimp                                                                 ESB: 6 kV           EN: 4 kV/6 kV with
+                                                         6 kV                EN: 6 kV            protection cover                        6 kV                6 kV
+Ambient air                           operation          -25 ... +55 °C      -25 ... +55 °C      -25 ... +55 °C      -25 ... +55 °C      -25 ... +55 °C      -25 ... +55 °C
+temperature range (1)                 storage            -40 ... +80 °C      -40 ... +80 °C      -40 ... +80 °C      -40 ... +80 °C      -40 ... +80 °C      -40 ... +80 °C
+Maximum operating altitude permissible                   2000 m              2000 m              2000 m              2000 m              2000 m              2000 m
+Vibration (sinusoidal) according
+to IEC/EN 60068-2-6 (Fc)                                 1 g/3-150 Hz        1 g/3-150 Hz        1 g/3-150 Hz        1 g/3-150 Hz        1 g/3-150 Hz
+Shock (half-sine) according
+to IEC/EN 60947-1 Annex. Q                               Category E          Category E          Category E          Category E          Category E          Category E
+Shock (half-sine) according
+to IEC/EN 60068-2-27 (Ea)                                15g/11ms            15g/11ms            15g/11ms            15g/11ms            15g/11ms            15g/11ms
+
+1) If several contactors are mounted adjacently and the duty time is longer than one hour, every second contactor needs a distance piece, Type ESB-DIS (1/2 module).
+   This is not necessary at an ambient temperature ≤ 40 °C or on Type ESB16..N, ESB/EN20..N and ESB100..N
+
+
+
+
+Magnet system characteristics
+Contactor type                                           ESB16..N            ESB20..N/           ESB25..N/           ESB40..N/           ESB63..N            ESB100..N
+                                                                             EN20..N             EN25..N             EN40..N
+Coil operating limits acc. to IEC/EN60947-4-1            0.85 ... 1.1 x UC (at θ ≤ 55 °C)
+Rated frequency                                          DC, 50/60/400 Hz
+Frequency range                                          DC, 40 ... 450 Hz
+Coil consumption            pull-in       50 Hz          2.5 VA              2.5 VA              4 VA                4.5 VA              60 VA               90 VA
+                                          60 Hz          2.5 VA              2.5 VA              4 VA                4.5 VA              60 VA               90 VA
+                                          DC             2.5 W               2.5 W               4W                  5W                  70 W                100 W
+                            holding       50 Hz          2.5 VA              2.5 VA              4 VA                4.5 VA              4.5 VA              7.5 VA
+                                          60 Hz          2.5 VA              2.5 VA              4 VA                4.5 VA              4.5 VA              7.5 VA
+                                          DC             2.5 W               2.5 W               4W                  5W                  5W                  8.5 W
+                          C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                                    25
+
+
+
+—
+Installation contactors
+Technical data main circuit and control circuit
+
+
+
+Mounting characteristics and conditions for use
+Contactor type                           ESB16..N               ESB20..N/               ESB25..N/             ESB40..N/           ESB63..N            ESB100..N
+                                                                EN20..N                 EN25..N               EN40..N
+Mounting position                        Position 1 to 5
+                                                  Pos. 2               +30°   -30°
+
+
+
+                                         Pos. 4
+                                                           Pos. 3
+
+
+                                                      Pos. 1             Pos. 1 ± 30°                Pos. 5
+
+Mounting on DIN rail                     TH35-15 (35 x 15 mm Mounting Rail) acc. to IEC 60715
+                                         TH35-7.5 (35 x 7.5 mm Mounting Rail) acc. to IEC 60715
+
+
+
+Main circuit - Connecting characteristics
+Contactor type                           ESB16..N               ESB20..N/               ESB25..N/             ESB40..N/           ESB63..N            ESB100..N
+                                                                EN20..N                 EN25..N               EN40..N
+Connecting capacity
+      Rigid                              1x 1 ... 10 mm²        1x 1 ... 10 mm²         1x 1.5 ... 10 mm²     1x 1.5 ... 25 mm² 1x 1.5 ... 25 mm²
+                                         2x 1 … 4 mm²           2x 1 … 4 mm²            2x 1.5 … 4 mm²        2x 1.5 … 10 mm² 2x 1.5 … 10 mm² 1x 10 ... 50 mm²
+      Flexible with ferrule              1x 1 ... 6 mm²         1x 1 ... 6 mm²          1 x 1.5 ... 10 mm² 1x 1.5 ... 16 mm² 1x 1.5 ... 16 mm²
+                                         2x 1 … 2.5 mm²         2x 1 … 2.5 mm²          2x 1.5 … 2.5 mm² 2x 1.5 … 10 mm² 2x 1.5 … 10 mm² 1x 10 ... 35 mm²
+      Flexible with insulated ferrule    1x 1 ... 6 mm²         1x 1 ... 6 mm²          1 x 1 .5 ... 10 mm² 1x 1.5 ... 16 mm² 1x 1.5 ... 16 mm²
+                                         2x 1 ...1.5 mm²        2x 1 ...1.5 mm²         2x 1 .5 mm²         2x 1.5 … 10 mm² 2x 1.5 … 10 mm² 1x 10 ... 35 mm²
+      Flexible                           1x 1 ... 6 mm²         1x 1 ... 6 mm²          1 x 1.5 ... 10 mm²    1x 1.5 ... 16 mm² 1x 1.5 ... 16 mm²
+                                         2x 1… 4 mm²            2x 1… 4 mm²             2x 1.5 … 4 mm²        2x 1.5 … 10 mm² 2x 1.5 … 10 mm² 1x 10 ... 35 mm²
+      Stranded acc. to UL/CSA            14-8 AWG               14-8 AWG                16-8 AWG              16-4 AWG            16-4 AWG            8-0 AWG
+Degree of protection                     IP20                   IP20                    IP20                  IP20                IP20                IP20
+Wire stripping length                    10 mm                  10 mm                   10 mm                 13 mm               13 mm               15 mm
+Tightening torque                        1.2 N·m/               1.2 N·m/                1 N·m/                2.5 N·m/            2.5 N·m/            3 N·m/
+                                         11 lb.in               11 lb.in                9 lb.in               20 lb.in            20 lb.in            27 lb.in
+Recommended screw driver                 Pozidriv 1             Pozidriv 1              Pozidriv 1            Pozidriv 2          Pozidriv 2          Pozidriv 2
+
+
+
+Control circuit - Connecting characteristics
+Contactor type                           ESB16..N               ESB20..N/               ESB25..N/             ESB40..N/           ESB63..N            ESB100..N
+                                                                EN20..N                 EN25..N               EN40..N
+Connecting capacity
+      Rigid                             1x 1 ... 4 mm²         1x 1 ... 4 mm²           1x 1 ... 4 mm²        1x 1 ... 4 mm²      1x 1 ... 4 mm²      1x 1 ... 4 mm²
+                                        2x 1 … 2.5 mm²         2x 1 … 2.5 mm²           2x 1 … 2.5 mm²        2x 1 … 2.5 mm²      2x 1 … 2.5 mm²      2x 1 … 2.5 mm²
+      Flexible with ferrule             1x 0.75 ... 2.5 mm² 1x 0.75 ... 2.5 mm² 1x 0.75 ... 2.5 mm² 1x 0.75 ... 2.5 mm² 1x 0.75 ... 2.5 mm² 1x 0.75 ... 2.5mm²
+                                        2x 0.75 ... 1 mm² 2x 0.75 ... 1 mm² 2x 0.75 ... 1 mm² 2x 0.75 ... 1 mm² 2x 0.75 ... 1 mm² 2x 0.75 ... 1 mm²
+      Flexible with insulated ferrule   1x 1 ... 2.5 mm²       1x 1 ... 2.5 mm²         1x 1 ... 2.5 mm²      1x 1 ... 2.5 mm²    1x 1 ... 2.5 mm²    1x 1 ... 2.5 mm²
+                                        2x 0.75 ... 1 mm²      2x 0.75 ... 1 mm²        2x 0.75 ... 1 mm²     2x 0.75 ... 1 mm²   2x 0.75 ... 1 mm²   2x 0.75 ... 1 mm²
+      Flexible                          1x 1 ... 4 mm²         1x 1 ... 4 mm²           1x 1 ... 4 mm²        1x 1 ... 4 mm²      1x 1 ... 4 mm²      1x 1 ... 4 mm²
+                                        2x 1 ... 2.5 mm²       2x 1 ... 2.5 mm²         2x 1 ... 2.5 mm²      2x 1 ... 2.5 mm²    2x 1 ... 2.5 mm²    2x 1 ... 2.5 mm²
+      Stranded acc. to UL/CSA           16-10 AWG              16-10 AWG                16-10 AWG             16-10 AWG           16-10 AWG           16-10 AWG
+Degree of protection                    IP20                   IP20                     IP20                  IP20                IP20                IP20
+Wire stripping length                   7 mm                   7 mm                     7 mm                  7 mm                7 mm                7 mm
+Tightening torque                       0.9 N·m/8 lb.in        0.9 N·m/8 lb.in          0.9 N·m/8 lb.in       0.9 N·m/8 lb.in     0.9 N·m/8 lb.in     0.9 N·m/8 lb.in
+Recommended screw driver                Pozidriv 1             Pozidriv 1               Pozidriv 1            Pozidriv 1          Pozidriv 1          Pozidriv 1
+26                         C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Technical data auxiliary circuit
+
+
+
+Auxiliary circuit - Utilization characteristics according to IEC/EN
+For ambient temperature Tu = 40 °C if not stated otherwise.
+Contactor type                                                                            EH04-xxN
+Standards                                                                                 IEC/EN 60947-1, IEC/EN 60947-5-1
+Rated operational voltage Ue                                                              500 V AC
+                                                                                          250 V DC
+Rated frequency                                                                           DC, 50/60 Hz
+Rated operational current Ie AC-15                           24 V      NO/NC              6 A/6 A
+                                                             120 V     NO/NC              6 A/6 A
+                                                             240 V     NO/NC              4 A/4 A
+                                                             415 V     NO/NC              3 A/3 A
+                                                             500 V     NO/NC              2 A/2 A
+Rated operational current I e DC-13                          125 V     NO/NC              0.55 A/0.55 A
+                                                             250 V     NO/NC              0.27 A/0.27 A
+Minimum switching capacity                                                                17 V/5 mA
+Short-circuit protective devices                                                          10 A, gG type fuse
+Mechanical durability                                                                     1,000,000 cycles
+Electrical durability                                        AC-15     240 V/4 A          100,000 cycles
+                                                             DC-13     125 V/0.55 A       100,000 cycles
+Maximum electrical switching frequency                       AC-15                        360 cycles/h
+                                                             DC-13                        360 cycles/h
+
+
+
+General technical data
+Contactor type                                                                            EH04-xxN
+Duty time                                                                                 100%
+Rated impulse withstand voltage Uimp acc. to IEC/EN 60947-1                               4 kV
+Rated insulation voltage Ui acc. to IEC/EN 60947-1                                        500 V
+Pollution category acc. to IEC/EN 60664                                                   2
+Overvoltage category acc. to IEC/EN 60664                                                 Up to III
+Maximum operating altitude permissible                                                    2000 m
+Ambient air temperature range                              Operation               Open   -25 °C ... +55 °C
+                                                           Storage                        -40 °C ... +80 °C
+Vibration (sinusoidal) acc. to IEC/EN 60068-2-6 (Fc)                                      5 g/3-150 Hz
+Shock (half-sine) acc. to IEC/EN 60947-1 Annex. Q                                         Category E
+Shock (half-sine) acc. to IEC/EN 60068-2-27 (Ea)                                          15 g/11 ms
+
+
+
+Auxiliary circuit - Utilization characteristics according to UL/CSA
+Contactor type                                                                            EH04-xxN
+Standards                                                                                 UL 60947-1, UL 60947-5-1
+Max. operational voltage                                                                  600 V AC
+Pilot duty                                                                                A600
+Thermal continuous test current                                                           10 A
+General use rating                                         600 V AC per pole              5A
+                          C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                              27
+
+
+
+—
+Installation contactors
+Technical data auxiliary circuit
+
+
+
+
+Mounting characteristics and conditions for use
+Contactor type                                                    EH04-xxN
+Mounting position                                                 Position 1              0°               Yes
+                                                                  Position 2              180°             Yes
+                                                                  Position 3              270°             Yes
+                                                                  Position 4              90°              Yes
+                                                                  Position 5              standing         Yes
+                                                                  Position 6              upside down      Not allowed
+Mounting on DIN rail                                              TH35-15 (35 x 15 mm Mounting Rail) acc. to IEC 60715
+                                                                  TH35-7.5 (35 x 7.5 mm Mounting Rail) acc. to IEC 60715
+
+
+
+
+Auxiliary circuit - Connecting characteristics
+Contactor type                                                     EH04-xxN
+Connecting capacity
+           Rigid                                                   1x 1 mm2 ...4 mm2
+                                                                   2x 1 mm² ... 1.5 mm²
+           Flexible with ferrule                                   1x 1 mm² ... 1.5 mm²
+           Flexible with insulated ferrule                         -
+           Flexible                                                1x 1 mm2 ... 1x 2.5 mm2
+           Stranded acc. to UL/CSA                                 AWG 18.... AWG 12
+Degree of protection                                               IP20
+Wire stripping length (upper/lower)                                17 mm (≤ 1.5mm² 7 mm) /
+                                                                   9 mm (≤ 1.5mm² 7 mm)
+Tightening torque                                                  0.9 N·m/
+                                                                   8 lb.in
+Recommended screw driver                                           Pozidriv 1
+28            C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+DC switching table
+
+
+
+Type         Rated operational          Contact      DC-1/A              DC-3/A
+             voltage                                 1-pole              1-pole
+ESB16-..N    24 V DC                   NO            16                  12
+             48 V DC                                 12                  6
+             60 V DC                                 12                  4
+             110 V DC                                4                   1.2
+             220 V DC                                0.4                 0.2
+             24 V DC                   NC            11                  5
+             48 V DC                                 6                   2
+             60 V DC                                 4                   1.5
+             110 V DC                                1.2                 0.4
+             220 V DC                                0.2                 0.1
+ESB20-..N    24 V DC                   NO            20                  15
+EN20-..N     48 V DC                                 15                  7
+             60 V DC                                 15                  5
+             110 V DC                                5                   1.5
+             220 V DC                                0.5                 0.2
+             24 V DC                   NC            14                  6
+             48 V DC                                 7                   3
+             60 V DC                                 4.5                 2
+             110 V DC                                1.5                 0.6
+             220 V DC                                0.2                 0.1
+
+
+
+Type         Rated operational          Contact      DC-1/A              DC-3/A
+             voltage                                 3 poles in series   3 poles in series
+ESB25-..N    24 V DC                    NO           24                  24
+EN25-..N     48 V DC                                 24                  24
+             60 V DC                                 24                  24
+             110 V DC                                24                  16
+             220 V DC                                13                  4
+             24 V DC                    NC           24                  19
+             48 V DC                                 22                  9.4
+             60 V DC                                 17.5                7.5
+             110 V DC                                9.5                 4.1
+             220 V DC                                3.8                 1.6
+ESB40-..N    24 V DC                    NO           40                  40
+EN40-..N     48 V DC                                 40                  40
+             60 V DC                                 40                  34
+             110 V DC                                30                  18
+             220 V DC                                15                  4.5
+ESB63-..N    24 V DC                    NO           63                  63
+             48 V DC                                 63                  47
+             60 V DC                                 60                  38
+             110 V DC                                33                  21
+             220 V DC                                17                  5
+ESB100-..N   24 V DC                    NO           100                 100
+             48 V DC                                 100                 70
+             60 V DC                                 80                  45
+             110 V DC                                50                  25
+             220 V DC                                35                  7
+                         C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                                      29
+
+
+
+—
+Installation contactors
+Lamp load table
+
+
+
+
+Please note that switching lamps is a capacitor load application where high inrush current peaks could occur. These are
+influenced by the length and cross section of the wire as well as the type of power supply unit and specifications of the lamp
+brand. For example, long cables can increase the possible number of lamps per pole. The table shows the allowed max.
+current, at 230 V AC, for one pole and considers already the startup current peaks.
+The following selection table shows the current values and the maximum switchable capacitor load for compensated lamps.
+These two limits have to be considered in the selection of contactors.
+
+                                                                               ESB16..N    ESB20..N    ESB25..N     ESB40..N    ESB63..N     ESB100..N
+                                                                                           EN20..N     EN25..N      EN40..N
+Permitted compensating capacity
+per phase Cmax [μF]                                                            45        75           100         350          500          650
+Lamp types                                                                     Maximum load of the current paths during switching of electric lamps Ie [A]
+Incandescent and halogen lamps                                                 4           6           7            20          30           45
+Mixing lamps without ballast                                                   4           6           7            20          30           45
+Fluorescent lamps with                         single lamp uncompensated 14                18          22           36          56           90
+conventional ballast                     single lamp parallel compensated 2                3           3.5          10          15           22
+                                          series compensation, duo circuit 14              18          22           36          56           90
+Fluorescent lamps with electronic
+ballast or CFL                                                                 4           6           7            20          30           45
+LED lamps                                                                      4           6           7            20          30           45
+High pressure mercury-vapor lamps      single lamp without compensation 7                  9           11           18          28           45
+                                                   single lamp with parallel
+                                                             compensation 2                3           3.5          10          15           22
+Halogen metal-vapor lamps              single lamp without compensation 7                  9           11           18          28           45
+                                                   single lamp with parallel
+                                                             compensation 2                3           3.5          10          15           22
+High pressure sodium-vapor lamps       single lamp without compensation 7                  9           11           18          28           45
+                                                   single lamp with parallel
+                                                             compensation 2                3           3.5          10          15           22
+Low pressure sodium-vapor lamps        single lamp without compensation 7                  9           11           18          28           45
+                                                   single lamp with parallel
+                                                             compensation 2                3           3.5          10          15           22
+
+
+
+Example for lamp load calculation
+
+
+
+Due to many varieties of lamps and ballasts we advice to take the current load as
+base for reference. The lamp table considers already the inrush peaks and other
+lamp parameters. Please see the following examples for a reliable project lamp
+calculation.
+
+Fluorescent lamp with conventional ballast, uncompensated
+the lamp operating current I = 1.5 A, voltage U = 230 V
+1 pole of ESB25..N can be loaded with max. 22 A,
+see lamp table => 22 A/1.5 A = 14.66 => 14 lamps
+1 pole of ESB20..N can be loaded with max. 18 A,
+see lamp table => 18 A/1.5 A = 12 lamps
+
+Please use the referring value in the table stated above
+and divide it with the current stated on the lamp.
+This will lead to the number of lamps which can be switched.
+
+Example with picture: ESB25..N used for LED lamps:
+                      7 A (= 7000 mA) / 85 mA = 82.23 => 82 lamps
+30                       C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Installation contactors
+Voltage code table
+
+
+
+                                                          Contactor type
+                                                            ESB EN
+                                                            25    25
+                                                            40    40
+                                                          A
+                                                            63                                       Packaging
+                                                            100                                       R   Single packaging
+                                                              16     20                               M Multiple packaging
+                                                          B
+                                                              20
+            N.O.  N.C.                                                                                         N.O.  N.C.
+           Main contacts                                                                                      Main contacts
+
+
+ESB     20 - 20N -             06                    1SBE           1          2      1      111     M       06     20
+
+                                                    Module width                     1     Automatic oper.
+         Rated operational
+                                                                                     2     Manually/
+         current
+                                                                                           automatic oper.
+         Ie AC-1/AC-7A
+                                                                               1   16 A
+         ESB     EN                                                            2   20 A
+         25      25                                                            3   25 A                           Coil       Rated control cicuit voltage
+         40      40                                                            4   40 A                           code       AC/DC
+         63                                                                    5   63 A                            14        12 V
+         100                                                                   6   100 A                           01        24 V
+                                                                                                                   02        42 V
+         16      20
+                                                                                                                   03        48 V
+         20
+                                                                                                                   04        110 V(1)
+                                                                                                                   05        240 V
+                                                                                                                   06        230 V(2)
+                                                                                                                   07        400 V(3)
+                                                                                                                   08        415 V(4)
+
+
+ Contactor type
+                                                                                                                  (1)
+                                                                                                                        110 V - 120 V for ESB25..N/EN25..N
+ ESB Automatic operated                                                                                           (2)
+                                                                                                                        only coil 6 available with 230 V - 240 V
+ EN   Manually/automatic                                                                                                for ESB25..N/EN25..N
+      operated                                                                                                    (3)
+                                                                                                                        only coil 7 available with 400 V - 415 V
+                                                                                                                        for ESB25..N
+                                                                                                                  (4)
+                                                                                                                        Coil 8 available for ESB40-40N and
+                                                                                                                        ESB63-40N only.
+                     C ATA L O G I N S TA L L AT I O N C O N TA C TO R S                                                          31
+
+
+
+—
+Index
+Order code classification
+
+
+
+Order code        Type             Page          Order code                Type           Page   Order code        Type           Page
+1SAE231111M0104   ESB25-04N-01 14                1SAE341111R0631           ESB40-31N-06 15       1SBE121111M0102   ESB20-02N-01 13
+1SAE231111M0113   ESB25-13N-01     14            1SAE341111R0640           ESB40-40N-06 15       1SBE121111M0111   ESB20-11N-01   13
+1SAE231111M0122   ESB25-22N-01 14                1SAE342111M0131           EN40-31N-01    20     1SBE121111M0120   ESB20-20N-01 13
+1SAE231111M0131   ESB25-31N-01     14            1SAE342111M0140           EN40-40N-01    20     1SBE121111M0602   ESB20-02N-06 13
+1SAE231111M0140   ESB25-40N-01 14                1SAE342111M0620           EN40-20N-06    20     1SBE121111M0611   ESB20-11N-06   13
+1SAE231111M0604   ESB25-04N-06 14                1SAE342111M0630           EN40-30N-06    20     1SBE121111M0620   ESB20-20N-06 13
+1SAE231111M0613   ESB25-13N-06 14                1SAE342111M0631           EN40-31N-06    20     1SBE121111R0102   ESB20-02N-01 13
+1SAE231111M0622   ESB25-22N-06 14                1SAE342111M0640           EN40-40N-06    20     1SBE121111R0111   ESB20-11N-01   13
+1SAE231111M0631   ESB25-31N-06 14                1SAE342111R0131           EN40-31N-01    20     1SBE121111R0120   ESB20-20N-01 13
+1SAE231111M0640   ESB25-40N-06 14                1SAE342111R0140           EN40-40N-01    20     1SBE121111R0602   ESB20-02N-06 13
+1SAE231111R0104   ESB25-04N-01 14                1SAE342111R0620           EN40-20N-06    20     1SBE121111R0611   ESB20-11N-06   13
+1SAE231111R0113   ESB25-13N-01     14            1SAE342111R0630           EN40-30N-06    20     1SBE121111R0620   ESB20-20N-06 13
+1SAE231111R0122   ESB25-22N-01 14                1SAE342111R0631           EN40-31N-06    20     1SBE122111M0120   EN20-20N-01    18
+1SAE231111R0131   ESB25-31N-01     14            1SAE342111R0640           EN40-40N-06    20     1SBE122111M0620   EN20-20N-06    18
+1SAE231111R0140   ESB25-40N-01 14                1SAE351111M0120           ESB63-20N-01 16       1SBE122111R0120   EN20-20N-01    18
+1SAE231111R0604   ESB25-04N-06 14                1SAE351111M0140           ESB63-40N-01 16       1SBE122111R0620   EN20-20N-06    18
+1SAE231111R0613   ESB25-13N-06 14                1SAE351111M0620           ESB63-20N-06 16       GHE3201902R0001   ESB-DIS        21
+1SAE231111R0622   ESB25-22N-06 14                1SAE351111M0630           ESB63-30N-06 16       GHE3201903R0001   ESB-PLK24      21
+1SAE231111R0631   ESB25-31N-06 14                1SAE351111M0631           ESB63-31N-06   16     GHE3401903R0001 ESB-PLK40/63 21
+1SAE231111R0640   ESB25-40N-06 14                1SAE351111M0640           ESB63-40N-06 16
+1SAE232111M0131   EN25-31N-01      19            1SAE351111R0120           ESB63-20N-01 16
+1SAE232111M0140   EN25-40N-01      19            1SAE351111R0140           ESB63-40N-01 16
+1SAE232111M0630   EN25-30N-06      19            1SAE351111R0620           ESB63-20N-06 16
+1SAE232111M0631   EN25-31N-06      19            1SAE351111R0630           ESB63-30N-06 16
+1SAE232111M0640   EN25-40N-06      19            1SAE351111R0631           ESB63-31N-06   16
+1SAE232111R0131   EN25-31N-01      19            1SAE351111R0640           ESB63-40N-06 16
+1SAE232111R0140   EN25- 40N- 01    19            1SAE361111M0120           ESB100-20N-01 17
+1SAE232111R0630   EN25-30N-06      19            1SAE361111M0620           ESB100-20N-06 17
+1SAE232111R0631   EN25-31N-06      19            1SAE361111R0120           ESB100-20N-01 17
+1SAE232111R0640   EN25-40N-06      19            1SAE361111R0620           ESB100-20N-06 17
+1SAE341111M0120   ESB40-20N-01 15                1SAE661111R0140           ESB100-40N-01 17
+1SAE341111M0122   ESB40-22N-01 15                1SAE661111R0640           ESB100-40N-06 17
+1SAE341111M0130   ESB40-30N-01 15                1SAE901901M1011           EH04-11N       21
+1SAE341111M0131   ESB40-31N-01 15                1SAE901901M1020           EH04-20N       21
+1SAE341111M0140   ESB40-40N-01 15                1SAE901901R1011           EH04-11N       21
+1SAE341111M0620   ESB40-20N-06 15                1SAE901901R1020           EH04-20N       21
+1SAE341111M0622   ESB40-22N-06 15                1SBE111111M0102           ESB16-02N-01 12
+1SAE341111M0630   ESB40-30N-06 15                1SBE111111M0111           ESB16-11N-01   12
+1SAE341111M0631   ESB40-31N-06 15                1SBE111111M0120           ESB16-20N-01 12
+1SAE341111M0640   ESB40-40N-06 15                1SBE111111M0602           ESB16-02N-06 12
+1SAE341111R0120   ESB40-20N-01 15                1SBE111111M0611           ESB16-11N-06   12
+1SAE341111R0122   ESB40-22N-01 15                1SBE111111M0620           ESB16-20N-06 12
+1SAE341111R0130   ESB40-30N-01 15                1SBE111111R0102           ESB16-02N-01 12
+1SAE341111R0131   ESB40-31N-01 15                1SBE111111R0111           ESB16-11N-01   12
+1SAE341111R0140   ESB40-40N-01 15                1SBE111111R0120           ESB16-20N-01 12
+1SAE341111R0620   ESB40-20N-06 15                1SBE111111R0602           ESB16-02N-06 12
+1SAE341111R0622   ESB40-22N-06 15                1SBE111111R0611           ESB16-11N-06   12
+1SAE341111R0630   ESB40-30N-06 15                1SBE111111R0620           ESB16-20N-06 12
+32                    C ATA L O G I N S TA L L AT I O N C O N TA C TO R S
+
+
+
+—
+Index
+Type code classification
+
+
+
+Type           Order code            Page         Type                Order code        Page   Type           Order code        Page
+ESB16-02N-01   1SBE111111M0102       12           ESB40-22N-01        1SAE341111M0122   15     EN40-20N-06    1SAE342111M0620   20
+               1SBE111111R0102       12                               1SAE341111R0122   15                    1SAE342111R0620   20
+ESB16-02N-06   1SBE111111M0602       12           ESB40-22N-06        1SAE341111M0622   15     EN40-30N-06    1SAE342111M0630   20
+               1SBE111111R0602       12                               1SAE341111R0622   15                    1SAE342111R0630   20
+ESB16-11N-01   1SBE111111M0111       12           ESB40-30N-01        1SAE341111M0130   15     EN40-31N-01    1SAE342111M0131   20
+               1SBE111111R0111       12                               1SAE341111R0130   15                    1SAE342111R0131   20
+ESB16-11N-06   1SBE111111M0611       12           ESB40-30N-06        1SAE341111M0630   15     EN40-31N-06    1SAE342111M0631   20
+               1SBE111111R0611       12                               1SAE341111R0630   15                    1SAE342111R0631   20
+ESB16-20N-01   1SBE111111M0120       12           ESB40-31N-01        1SAE341111M0131   15     EN40-40N-01    1SAE342111M0140   20
+               1SBE111111R0120       12                               1SAE341111R0131   15                    1SAE342111R0140   20
+ESB16-20N-06   1SBE111111M0620       12           ESB40-31N-06        1SAE341111M0631   15     EN40-40N-06    1SAE342111M0640   20
+               1SBE111111R0620       12                               1SAE341111R0631   15                    1SAE342111R0640   20
+ESB20-02N-01   1SBE121111M0102       13           ESB40-40N-01        1SAE341111M0140   15     EH04-11N       1SAE901901M1011   21
+               1SBE121111R0102       13                               1SAE341111R0140   15                    1SAE901901R1011   21
+ESB20-02N-06   1SBE121111M0602       13           ESB40-40N-06        1SAE341111M0640   15     EH04-20N       1SAE901901M1020   21
+               1SBE121111R0602       13                               1SAE341111R0640   15                    1SAE901901R1020   21
+ESB20-11N-01   1SBE121111M0111       13           ESB63-20N-01        1SAE351111M0120   16     ESB-DIS        GHE3201902R0001   21
+               1SBE121111R0111       13                               1SAE351111R0120   16     ESB-PLK24      GHE3201903R0001   21
+ESB20-11N-06   1SBE121111M0611       13           ESB63-20N-06        1SAE351111M0620   16     ESB-PLK40/63   GHE3401903R0001   21
+               1SBE121111R0611       13                               1SAE351111R0620   16
+ESB20-20N-01   1SBE121111M0120       13           ESB63-30N-06        1SAE351111M0630   16
+               1SBE121111R0120       13                               1SAE351111R0630   16
+ESB20-20N-06   1SBE121111M0620       13           ESB63-31N-06        1SAE351111M0631   16
+               1SBE121111R0620       13                               1SAE351111R0631   16
+ESB25-04N-01   1SAE231111M0104       14           ESB63-40N-01        1SAE351111M0140   16
+               1SAE231111R0104       14                               1SAE351111R0140   16
+ESB25-04N-06   1SAE231111M0604       14           ESB63-40N-06        1SAE351111M0640   16
+               1SAE231111R0604       14                               1SAE351111R0640   16
+ESB25-13N-01   1SAE231111M0113       14           ESB100-20N-01 1SAE361111M0120         17
+               1SAE231111R0113       14                               1SAE361111R0120   17
+ESB25-13N-06   1SAE231111M0613       14           ESB100-20N-06 1SAE361111M0620         17
+               1SAE231111R0613       14                               1SAE361111R0620   17
+ESB25-22N-01   1SAE231111M0122       14           ESB100-40N-01 1SAE661111R0140         17
+               1SAE231111R0122       14           ESB100-40N-06 1SAE661111R0640         17
+ESB25-22N-06   1SAE231111M0622       14           EN20-20N-01         1SBE122111M0120   18
+               1SAE231111R0622       14                               1SBE122111R0120   18
+ESB25-31N-01   1SAE231111M0131       14           EN20-20N-06         1SBE122111M0620   18
+               1SAE231111R0131       14                               1SBE122111R0620   18
+ESB25-31N-06   1SAE231111M0631       14           EN25-40N- 01        1SAE232111R0140   19
+               1SAE231111R0631       14           EN25-30N-06         1SAE232111M0630   19
+ESB25-40N-01   1SAE231111M0140       14                               1SAE232111R0630   19
+               1SAE231111R0140       14           EN25-31N-01         1SAE232111M0131   19
+ESB25-40N-06   1SAE231111M0640       14                               1SAE232111R0131   19
+               1SAE231111R0640       14           EN25-31N-06         1SAE232111M0631   19
+ESB40-20N-01   1SAE341111M0120       15                               1SAE232111R0631   19
+               1SAE341111R0120       15           EN25-40N-01         1SAE232111M0140   19
+ESB40-20N-06   1SAE341111M0620       15           EN25-40N-06         1SAE232111M0640   19
+               1SAE341111R0620       15                               1SAE232111R0640   19
+—
+ABB STOTZ-KONTAKT GmbH
+Electrification Products Division
+Low Voltage Products and Systems
+Eppelheimer Straße 82
+69123 Heidelberg
+Germany
+
+
+
+—
+ABB France
+Electrification Products Division
+Low Voltage Products and Systems
+3, rue Jean Perrin
+69687 Chassieu cedex
+France
+
+
+
+You can find the address of your local sales organization
+on the ABB home page
+
+
+
+
+abb.com/low-voltage
+
+
+
+
+                                                               2CDC103051C0201 Rev. I (02/2022)
+We reserve the right to make technical changes or modify
+the contents of this document without prior notice.
+ABB does not accept any responsibility whatsoever for
+potential errors or possible lack of information in this
+document.
+
+We reserve all rights in this document and in the subject
+matter and illustrations contained therein. Any reproduc-
+tion, disclosure to third parties or utilization of its
+contents – in whole or in parts – is forbidden without prior
+written consent of ABB.
+
+Copyright© 2022 ABB - All rights reserved
+

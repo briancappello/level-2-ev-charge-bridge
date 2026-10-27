@@ -1,0 +1,32 @@
+1. Eh04-11n | Abb
+   https://new.abb.com/products/1SAE901901M1011/eh04-11n
+   The EH04 are auxiliary contact blocks which can be used in combination with all the new ESB..N and EN..N installation contactors.These devices are available in 2 different contact configurations and no tool is needed for their assembling.
+
+2. ABB ESB, EN, EH04 Modular Contactors Installation Instructions
+   https://www.manuallib.com/file/abb-esb-installation-guide/
+   This document provides installation instructions for ABB ESB, EN, and EH04 modular contactors. It details specific torque values and wire cross-section specifications for various models, including ESB16-xxN through ESB100-xxNM and EH04-xxNM.
+
+3. PDF PRODUCT-DETAILS EH04-11N EH04-11N Auxiliary Contact
+   https://datasheet.lcsc.com/datasheet/pdf/d63020b54502aed439eb055d415b66d3.pdf?productCode=C5182668
+   1 piece for their assembling. ferent contact configurations and no tool is new ESB..N and EN..N installation contactors. The EH04 are auxiliary contact blocks which can be used in combination with all the EH04-11N Auxiliary Contact Drawing
+
+4. PDF Installation Contactors ESB
+   https://library.e.abb.com/public/098be6f2da992a63c12573f7002f3906/2CDC103005L0202.pdf
+   The ABB installation contactors are designed to match the modular DIN rail mounting installation devices family. They are equipped with a high degree of shock-hazard protection for use within control cabinets. The DC coil works absolutely noiseless and avoids the occurrence of vibrations as they are known from usual AC-operated coils.
+
+5. PDF EH04-11N - EU Automation
+   https://assets.euautomation.com/uploads/parts/datasheet/12/1sae901901r1011.pdf
+   Product Name Number of Auxiliary Contacts NO Standards Installation Contactors Accessories
+
+6. Eh04-11n | Abb
+   https://new.abb.com/products/it/1SAE901901R1011/eh04-11n
+   REACH - Letter of Confirmation for block contactors, contactor relays, installation contactors, mini contactors, mini contactor relays, thermal overload relays, electronic overload relays and related accessories Informazioni RoHS:
+
+7. Modular DIN rail components Installation contactors
+   https://search.abb.com/library/Download.aspx?DocumentID=2CDC103023C0201
+   ESB and EN installation contactors are designed to match the Modular DIN rail components (MDRC) for common use in dedicated panels providing high safety and finger protection.
+
+8. ABB Library
+   https://library.abb.com/
+   ABB Library is a web tool for searching for documents related to ABB products and services.
+

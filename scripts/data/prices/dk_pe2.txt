@@ -1,0 +1,262 @@
+# 3044212 Phoenix Contact | Din Rail, Channel | DigiKey
+https://www.digikey.com/en/products/detail/phoenix-contact/3044212/2426232?s=N4IgTCBcDaIMwAYAsSwEYIF0C%2BQ
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Connectors, Interconnects
+Terminal Blocks
+Din Rail, Channel
+Phoenix Contact 3044212
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+3044212
+
+
+DigiKey Part Number
+	
+277-3344-ND
+
+
+Manufacturer
+	
+Phoenix Contact
+
+
+Manufacturer Product Number
+	
+3044212
+
+
+Description
+	
+CONN TERM BLK GROUND 4-16 AWG
+
+
+Manufacturer Standard Lead Time
+	
+6 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+Terminal Block Connector 2 Position Ground, Earth Green, Yellow 4-16 AWG
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	3044212 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Connectors, Interconnects
+Terminal Blocks
+Din Rail, Channel
+Termination Style
+Screw
+Manufacturer
+Phoenix Contact
+Current - IEC
+76 A
+Series
+CLIPLINE UT
+Wire Gauge or Range - AWG
+4-16 AWG
+Packaging
+Bulk
+Wire Gauge or Range - mm²
+1.5-25mm²
+Part Status
+Active
+Color
+Green, Yellow
+Type
+Ground, Earth
+Material - Insulation
+Polyamide (PA), Nylon
+Number of Positions
+2
+Material Flammability Rating
+UL94 V-0
+Number of Levels
+1
+Stripping Length
+14mm
+Terminal - Width
+12.2mm
+Report Product Information Error
+Documents & Media
+Datasheets
+3044212 Datasheet
+CAD Models
+3044212 Models
+Environmental Information
+Phoenix Contact Product Compliance
+PCN Design/Specification
+Approval 28/AUG/2026
+Featured Product
+Build with Confidence
+Associated Products
+DIN Rail Channel (17)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+0801681
+Phoenix Contact
+	Associated Product	
+3,002
+In Stock
+6,100
+Factory
+	
+1 : $9.76000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Steel 78.740" (2000.00mm)
+
+0801733
+Phoenix Contact
+	Associated Product	
+15,595
+In Stock
+	
+1 : $13.94000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+1206421
+Phoenix Contact
+	Associated Product	
+258
+In Stock
+	
+1 : $16.32000
+Box
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+1206599
+Phoenix Contact
+	Associated Product	
+292
+In Stock
+3,950
+Factory
+	
+1 : $26.52000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Slotted Steel 78.740" (2000.00mm)
+
+1201730
+Phoenix Contact
+	Associated Product	
+14,635
+In Stock
+	
+1 : $50.26000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Slotted Steel 78.740" (2000.00mm)
+
+1201798
+Phoenix Contact
+	Associated Product	
+29
+In Stock
+	
+1 : $74.20000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Steel 78.740" (2000.00mm)
+
+0801704
+Phoenix Contact
+	Associated Product	
+17
+In Stock
+23
+Marketplace
+	
+1 : $33.85000
+Box
+5 : $14.78000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Aluminum 78.740" (2000.00mm)
+
+1204119
+Phoenix Contact
+	Associated Product	
+29
+In Stock
+750
+Factory
+	
+1 : $28.57000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Slotted Steel 78.740" (2000.00mm)
+
+1206434
+Phoenix Contact
+	Associated Product	
+11
+In Stock
+	
+1 : $14.48000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.295" H (35.00mm x 7.50mm) Unslotted Steel 78.740" (2000.00mm)
+
+1201756
+Phoenix Contact
+	Associated Product	
+6
+In Stock
+	
+1 : $46.99000
+Bulk
+	
+	Din Rail Top Hat 1.378" W x 0.591" H (35.00mm x 15.00mm) Unslotted Aluminum 78.740" (2000.00mm)
+See All 17
+Terminal Block Marker Strips (7)
+See All
+Part Number	Association Type	Quantity Available	Price	Add to Cart	Description
+
+0812120
+Phoenix Contact
+	Associated Product	
+889
+In Stock
+	
+1 : $5.50000
+Bulk
+	
+	Connector Label, Snap In For CLIPLINE Series
+
+0829144
+Phoe
+
+[truncated at 4000 of 8747 chars; use -c to raise]

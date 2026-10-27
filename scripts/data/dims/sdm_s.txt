@@ -1,0 +1,32 @@
+1. EASTRON SDM230-MODBUS USER MANUAL Pdf Download | ManualsLib
+   https://www.manualslib.com/manual/1430336/Eastron-Sdm230-Modbus.html
+   View and Download Eastron SDM230-Modbus user manual online. Single-Phase Two Module DIN rail Meters. SDM230-Modbus measuring instruments pdf manual download.
+
+2. PDF SDM230-MODBUS User Manual-EN - SolaX Power
+   https://www.solaxpower.com/uploads/file/sdm230-modbus-user-manual-en.pdf
+   This document provides operating, maintenance and installation instructions of SDM230 series made by Eastron Electronic Co., Ltd. The SDM230 series measure and display the characteristics of single phase two wire (1p2w) network.
+
+3. Eastron SDM230-Modbus Manuals | ManualsLib
+   https://www.manualslib.com/products/Eastron-Sdm230-Modbus-9049023.html
+   Manuals and User Guides for Eastron SDM230-Modbus. We have 3 Eastron SDM230-Modbus manuals available for free PDF download: User Manual
+
+4. User manual Eastron SDM230-Modbus (English - 12 pages)
+   https://www.manua.ls/eastron/sdm230-modbus/manual
+   The Eastron SDM230-Modbus is designed for ease of use and installation. It features a compact size and wiring terminals that facilitate simple installation in electrical panels or distribution boards.
+
+5. PDF 未命名 -1 - Eastron Europe
+   https://www.eastroneurope.com/images/uploads/products/manuals/SDM230_Sereis_Manual.pdf
+   1.Introduction This document provides operating, maintenance and installation instructions of SDM230 series made by Eastron Electronic Co., Ltd. The SDM230 series measure and display the characteristics of single phase two wire (1p2w) network. The SDM230 series covers 5 models:SDM230-Modbus,SDM230-PulSe,SDM230-Mbus, SDM230-2T and SDM230-Std.
+
+6. PDF Eastron SDM220M* User Manual
+   https://www.eastrongroup.com/eastrongroup/2024/08/21/eastronsdm230-modbususermanualv1.8.pdf
+   Application The energy-meters "with a white back-lighted LCD screen for prefect reading" are used to measure single-phase like residential, utility and industrial application. The unit measures and displays various important electrical parameters, and provide a communication port for remote reading and monitoring. Bi-directional energy measurement makes the unit a good choice for solar PV ...
+
+7. PDF Eastron SDM220M* User Manual
+   https://www.eastrongroup.com/eastrongroup/2026/07/28/EastronSDM230-ModbususermanualV19.pdf
+   SDM230-Modbus Single-Phase Two Module DIN rail Meters Measures kWh, kVArh, kW, kVAr, kVA, PF, Hz, dmd, V, A, etc. Bi-directional measurement IMP & EXP Two pulse outputs
+
+8. Eastron SDM230-Modbus User Manual
+   https://manuals.plus/m/719d0f32838f2bf36f8dbfcefe0d8183f1ead85036bb0fe59636a61cdd711af9
+   Eastron SDM230-Modbus User Manual Application The Eastron SDM230-Modbus is a single-phase energy meter with a blue backlit LCD, designed for residential, utility, and industrial applications. It supports bi-directional energy measurement, making it suitable for solar PV metering.
+

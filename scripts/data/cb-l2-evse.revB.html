@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>9.6 kW Level 2 EVSE on ChargeBridge — schematic &amp; BOM</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  --paper:#F6F8FA; --sheet:#FFFFFF; --ink:#18212C; --muted:#5A6878; --rule:#D3DBE3; --grid:#EEF2F5;
+  --l1:#18212C; --l2:#C3322A; --pe:#2B8540; --dc:#1E5DBA; --sig:#C97A10; --com:#7446B0; --warn:#B3261E;
+  --tag:#E9EEF3;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#10151B; --sheet:#161D25; --ink:#E4EAF0; --muted:#94A3B3; --rule:#2C3845; --grid:#1B242E;
+    --l1:#E4EAF0; --l2:#F0655B; --pe:#5CC274; --dc:#6FA3F2; --sig:#F0A640; --com:#B08BEA; --warn:#FF8A80; --tag:#212B36;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#10151B; --sheet:#161D25; --ink:#E4EAF0; --muted:#94A3B3; --rule:#2C3845; --grid:#1B242E;
+  --l1:#E4EAF0; --l2:#F0655B; --pe:#5CC274; --dc:#6FA3F2; --sig:#F0A640; --com:#B08BEA; --warn:#FF8A80; --tag:#212B36;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 16px/1.55 Barlow,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+main{max-width:1100px;margin:0 auto;padding:28px 18px 64px}
+h1,h2,h3{font-family:"Barlow Condensed","Arial Narrow",Barlow,sans-serif;font-weight:600;line-height:1.1;margin:0}
+h1{font-size:clamp(2rem,6vw,3.4rem);letter-spacing:-.01em;max-width:18ch}
+h2{font-size:1.9rem;margin:56px 0 6px}
+h3{font-size:1.3rem;margin:28px 0 6px}
+p{max-width:72ch;margin:.5em 0}
+.lede{color:var(--muted);font-size:1.08rem;margin-top:12px}
+.rating{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0;margin:28px 0 8px;border-top:3px solid var(--ink);border-bottom:1px solid var(--rule)}
+.rating div{padding:12px 14px 12px 0}
+.rating b{display:block;font-family:"Barlow Condensed",sans-serif;font-size:1.7rem;font-weight:600}
+.rating span{color:var(--muted);font-size:.9rem}
+.sheet{background:var(--sheet);border:1px solid var(--rule);margin-top:14px}
+.sheet .scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.sheet svg{display:block;min-width:820px;width:100%;height:auto}
+.titleblock{display:flex;flex-wrap:wrap;border-top:1px solid var(--rule);font-size:.88rem}
+.titleblock div{padding:8px 12px;border-right:1px solid var(--rule)}
+.titleblock div:last-child{border-right:0;margin-left:auto}
+.titleblock em{font-style:normal;color:var(--muted);margin-right:6px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin:10px 0 0;font-size:.9rem;color:var(--muted)}
+.legend i{display:inline-block;width:22px;height:0;border-top:3px solid;vertical-align:middle;margin-right:6px}
+.hint{font-size:.85rem;color:var(--muted)}
+.tablewrap{overflow-x:auto;border:1px solid var(--rule);background:var(--sheet);margin-top:14px}
+table{border-collapse:collapse;width:100%;min-width:760px;font-size:.93rem}
+th,td{text-align:left;vertical-align:top;padding:9px 12px;border-bottom:1px solid var(--rule)}
+th{font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:1rem;background:var(--grid)}
+td:first-child{font-weight:600;white-space:nowrap}
+td:nth-child(2){text-align:right;white-space:nowrap}
+tr.group td{background:var(--grid);font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:1.02rem;text-align:left}
+.pn{white-space:nowrap}
+.opt{display:inline-block;background:var(--tag);border-radius:3px;padding:0 6px;font-size:.8rem;color:var(--muted);margin-left:4px}
+.verify{color:var(--warn);font-weight:500}
+.notes{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:8px 36px}
+.notes section{border-top:1px solid var(--rule);padding-top:4px}
+.callout{border-left:4px solid var(--warn);padding:10px 16px;background:var(--sheet);margin-top:18px;max-width:80ch}
+a{color:var(--dc)}
+/* svg classes */
+svg text{font-family:Barlow,"Segoe UI",Arial,sans-serif;fill:var(--ink)}
+.t-s{font-size:12px}.t-xs{font-size:10.5px;fill:var(--muted)}.t-h{font-family:"Barlow Condensed",sans-serif;font-size:17px;font-weight:600}.t-ref{font-family:"Barlow Condensed",sans-serif;font-size:14px;font-weight:700}
+.w{fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+.wl1{stroke:var(--l1)}.wl2{stroke:var(--l2)}.wpe{stroke:var(--pe)}.wdc{stroke:var(--dc)}.w0v{stroke:var(--dc);stroke-dasharray:7 4}.wsig{stroke:var(--sig)}.wcom{stroke:var(--com)}
+.thin{fill:none;stroke:var(--ink);stroke-width:1.4}
+.mech{fill:none;stroke:var(--muted);stroke-width:1.3;stroke-dasharray:4 3}
+.box{fill:var(--sheet);stroke:var(--ink);stroke-width:1.6}
+.board{fill:var(--grid);stroke:var(--ink);stroke-width:2}
+.encl{fill:none;stroke:var(--muted);stroke-width:1.4;stroke-dasharray:10 6}
+.dot{stroke:none}
+.d1{fill:var(--l1)}.d2{fill:var(--l2)}.dpe{fill:var(--pe)}.ddc{fill:var(--dc)}
+.pin{fill:var(--sheet);stroke:var(--ink);stroke-width:1.3}
+</style>
+</head>
+<body>
+<main>
+
+<h1>9.6 kW Level 2 EVSE on the ChargeBridge eval board</h1>
+<p class="lede">Hardwired, single-phase 240 V, 40 A continuous, SAE J1772 tethered cable. The Pionix ChargeBridge EVSE module does the control pilot and safety state machine; EVerest on a Linux host does everything else.</p>
+
+<div class="rating">
+  <div><b>240 V</b><span>L1–L2 split phase, no neutral</span></div>
+  <div><b>40 A</b><span>continuous charge current</span></div>
+  <div><b>50 A</b><span>branch breaker (125% rule)</span></div>
+  <div><b>66.7%</b><span>CP duty cycle (40 A ÷ 0.6)</span></div>
+  <div><b>24 V DC</b><span>eval board VSUPPLY &amp; coils</span></div>
+</div>
+
+<div class="legend">
+  <span><i style="border-color:var(--l1)"></i>L1</span>
+  <span><i style="border-color:var(--l2)"></i>L2</span>
+  <span><i style="border-color:var(--pe)"></i>PE / ground</span>
+  <span><i style="border-color:var(--dc)"></i>+24 V</span>
+  <span><i style="border-color:var(--dc);border-top-style:dashed"></i>0 V</span>
+  <span><i style="border-color:var(--sig)"></i>Signal / sensor</span>
+  <span><i style="border-color:var(--com)"></i>Comms</span>
+</div>
+
+<h2>Sheet 1 — Power path</h2>
+<p class="hint">Scroll sideways on a phone. Off-sheet arrows continue on Sheet 2.</p>
+<div class="sheet"><div class="scroll">
+<svg viewBox="0 0 1000 560" role="img" aria-label="Power path schematic: panel breaker, terminals, meter, contactor, residual current sensor, J1772 cable, and 24 V control supply tap">
+  <!-- enclosure -->
+  <rect class="encl" x="205" y="30" width="660" height="500" rx="4"/>
+  <text class="t-xs" x="215" y="48">EVSE enclosure (NEMA 4X)</text>
+
+  <!-- service panel -->
+  <rect class="box" x="20" y="150" width="130" height="300"/>
+  <text class="t-h" x="32" y="176">Service panel</text>
+  <text class="t-ref" x="32" y="222">CB1</text>
+  <text class="t-xs" x="32" y="238">50 A 2-pole GFCI</text>
+  <!-- breaker contacts -->
+  <path class="w wl1" d="M60 280 H80"/><path class="w wl1" d="M80 280 L108 268"/><path class="w wl1" d="M108 280 H150"/>
+  <path class="w wl2" d="M60 320 H80"/><path class="w wl2" d="M80 320 L108 308"/><path class="w wl2" d="M108 320 H150"/>
+  <path class="mech" d="M94 258 V330"/>
+  <path class="thin" d="M104 264 l8 8 m0 -8 l-8 8"/><path class="thin" d="M104 304 l8 8 m0 -8 l-8 8"/>
+  <path class="w wpe" d="M60 420 H150"/>
+  <text class="t-xs" x="32" y="284">L1</text><text class="t-xs" x="32" y="324">L2</text><text class="t-xs" x="32" y="424">EGC</text>
+
+  <!-- field wiring -->
+  <path class="w wl1" d="M150 280 H240"/>
+  <path class="w wl2" d="M150 320 H240"/>
+  <path class="w wpe" d="M150 420 H240"/>
+  <text class="t-xs" x="156" y="352">6 AWG Cu</text>
+  <text class="t-xs" x="156" y="366">(or 8 THHN in conduit)</text>
+
+  <!-- TB1 -->
+  <circle class="pin" cx="244" cy="280" r="5"/><circle class="pin" cx="244" cy="320" r="5"/>
+  <rect class="box" x="234" y="404" width="20" height="100"/>
+  <text class="t-ref" x="226" y="264">TB1</text>
+  <text class="t-ref" x="262" y="520">PE bus</text>
+
+  <!-- main L1 / L2 runs -->
+  <path class="w wl1" d="M249 280 H410"/>
+  <path class="w wl2" d="M249 320 H410"/>
+
+  <!-- control tap -->
+  <circle class="dot d1" cx="300" cy="280" r="4"/>
+  <path class="w wl1" d="M300 280 V170"/>
+  <circle class="dot d2" cx="330" cy="320" r="4"/>
+  <path class="w wl2" d="M330 320 V288 a8 8 0 0 0 0 -16 V170"/>
+  <!-- fuses -->
+  <rect class="box" x="292" y="130" width="16" height="40"/><rect class="box" x="322" y="130" width="16" height="40"/>
+  <path class="thin" d="M300 130 V170"/><path class="thin" d="M330 130 V170"/>
+  <text class="t-ref" x="268" y="156">F1</text><text class="t-ref" x="344" y="156">F2</text>
+  <text class="t-xs" x="344" y="170">2 A T</text>
+  <path class="w wl1" d="M300 130 V100 H380"/>
+  <path class="w wl2" d="M330 130 V116 H380"/>
+  <rect class="box" x="380" y="70" width="130" height="64"/>
+  <text class="t-ref" x="390" y="92">PS1</text>
+  <text class="t-s" x="390" y="108">85–264 V AC in</text>
+  <text class="t-s" x="390" y="124">24 V DC / 2.5 A</text>
+  <path class="w wdc" d="M510 90 H600"/><path class="w w0v" d="M510 116 H600"/>
+  <path class="thin" d="M600 84 l10 6 l-10 6"/><path class="thin" d="M600 110 l10 6 l-10 6"/>
+  <text class="t-s" x="616" y="94">+24 V → Sheet 2 (VSUPPLY)</text>
+  <text class="t-s" x="616" y="120">0 V → Sheet 2</text>
+  <!-- PS1 PE -->
+  <path class="w wpe" d="M445 134 V160"/><path class="thin" d="M435 160 H455 M439 165 H451 M443 170 H447"/>
+
+  <!-- meter M1 -->
+  <rect class="box" x="410" y="250" width="100" height="100"/>
+  <text class="t-ref" x="420" y="272">M1</text>
+  <text class="t-s" x="420" y="290">Energy meter</text>
+  <text class="t-xs" x="420" y="306">“L” = L1, “N” = L2</text>
+  <text class="t-xs" x="420" y="320">measures 240 V</text>
+  <path class="w wl1" d="M510 280 H560"/>
+  <path class="w wl2" d="M510 320 H560"/>
+  <path class="w wcom" d="M460 350 V380 H520"/>
+  <path class="thin" d="M520 374 l10 6 l-10 6"/>
+  <text class="t-xs" x="534" y="384">RS-485 → Sheet 2</text>
+
+  <!-- contactor K1 -->
+  <text class="t-ref" x="574" y="238">K1</text>
+  <text class="t-xs" x="574" y="252">2-pole, 63 A AC-1</text>
+  <path class="w wl1" d="M560 280 H580"/><path class="w wl1" d="M580 280 L612 266"/><path class="w wl1" d="M614 280 H700"/>
+  <path class="w wl2" d="M560 320 H580"/><path class="w wl2" d="M580 320 L612 306"/><path class="w wl2" d="M614 320 H700"/>
+  <path class="thin" d="M614 272 V288"/><path class="thin" d="M614 312 V328"/>
+  <path class="mech" d="M598 262 V420"/>
+  <!-- coil -->
+  <rect class="box" x="584" y="420" width="30" height="22"/>
+  <path class="thin" d="M584 420 L614 442"/>
+  <text class="t-xs" x="620" y="428">A1/A2 coil</text>
+  <text class="t-xs" x="620" y="441">← Sheet 2 relay 1</text>
+  <!-- aux NC -->
+  <path class="thin" d="M560 470 H580 M580 470 L610 458 M602 462 V470 M610 470 H630"/>
+  <path class="mech" d="M598 442 V462"/>
+  <text class="t-xs" x="636" y="466">aux NC 21-22</text>
+  <text class="t-xs" x="636" y="479">→ Sheet 2 feedback 1</text>
+
+  <!-- RCM CT -->
+  <ellipse cx="660" cy="300" rx="14" ry="38" fill="none" stroke="var(--sig)" stroke-width="2"/>
+  <text class="t-ref" x="640" y="352">RCM1</text>
+  <text class="t-xs" x="640" y="366">core-balance CT</text>
+  <text class="t-xs" x="640" y="379">(optional)</text>
+
+  <!-- TB2 and PT1000 -->
+  <circle class="pin" cx="705" cy="280" r="5"/><circle class="pin" cx="705" cy="320" r="5"/>
+  <text class="t-ref" x="694" y="262">TB2</text>
+  <path class="w wl1" d="M710 280 H890"/>
+  <path class="w wl2" d="M710 320 H890"/>
+  <rect x="722" y="288" width="22" height="12" fill="var(--sheet)" stroke="var(--sig)" stroke-width="1.6"/>
+  <text class="t-ref" x="748" y="302">TT1</text>
+  <text class="t-xs" x="748" y="342">PT1000 on TB2 → Sheet 2</text>
+
+  <!-- PE run -->
+  <path class="w wpe" d="M254 420 H890"/>
+  <circle class="dot dpe" cx="445" cy="420" r="0"/>
+  <text class="t-xs" x="760" y="412">8 AWG PE</text>
+
+  <!-- CP -->
+  <path class="w wsig" d="M760 470 H890"/>
+  <path class="thin" d="M770 464 l-10 6 l10 6"/>
+  <text class="t-xs" x="770" y="490">CP ← Sheet 2</text>
+
+  <!-- gland / cable -->
+  <path class="thin" d="M865 262 V488" stroke-dasharray="2 3"/>
+  <text class="t-xs" x="872" y="256">M40 gland</text>
+  <!-- J1772 handle -->
+  <rect class="box" x="890" y="250" width="92" height="250" rx="14"/>
+  <text class="t-ref" x="902" y="274">X1</text>
+  <text class="t-s" x="902" y="290">J1772 cable</text>
+  <text class="t-xs" x="902" y="304">40–48 A, 25 ft</text>
+  <text class="t-s" x="918" y="284" dy="0"></text>
+  <text class="t-s" x="920" y="327">L1</text><text class="t-s" x="920" y="344">L2</text>
+  <text class="t-s" x="920" y="424">PE</text><text class="t-s" x="920" y="474">CP</text>
+  <circle class="pin" cx="906" cy="323" r="0"/>
+</svg>
+</div>
+<div class="titleblock"><div><em>Sheet</em>1 of 2</div><div><em>Title</em>Power path</div><div><em>Rev</em>B — reviewed against module datasheet v1.2</div></div>
+</div>
+
+<h2>Sheet 2 — Control &amp; signal wiring</h2>
+<p class="hint">Eval board pins are named by function. Map each to its connector and pin number in the Pionix eval board datasheet before wiring.</p>
+<div class="sheet"><div class="scroll">
+<svg viewBox="0 0 1000 640" role="img" aria-label="Control wiring schematic: ChargeBridge eval board connected to 24 V supply, emergency stop, residual current monitor, host computer, energy meter, contactor coil and feedback, temperature sensors, J1772 control pilot, and status light">
+  <!-- board -->
+  <rect class="board" x="360" y="40" width="280" height="560" rx="6"/>
+  <text class="t-h" x="378" y="68">A1 — ChargeBridge eval board</text>
+  <text class="t-xs" x="378" y="86">with EVSE ChargeBridge module (M.2)</text>
+
+  <!-- left pins -->
+  <g>
+    <circle class="pin" cx="360" cy="130" r="5"/><text class="t-s" x="372" y="134">VSUPPLY +</text>
+    <circle class="pin" cx="360" cy="160" r="5"/><text class="t-s" x="372" y="164">VSUPPLY − (GND)</text>
+    <circle class="pin" cx="360" cy="220" r="5"/><text class="t-s" x="372" y="224">Emergency stop I/O</text>
+    <circle class="pin" cx="360" cy="280" r="5"/><text class="t-s" x="372" y="284">Stop charging in</text>
+    <circle class="pin" cx="360" cy="340" r="5"/><text class="t-s" x="372" y="344">DIN 1 (spare)</text>
+    <circle class="pin" cx="360" cy="420" r="5"/><text class="t-s" x="372" y="424">Ethernet / USB-C</text>
+    <circle class="pin" cx="360" cy="500" r="5"/><text class="t-s" x="372" y="504">RS-485 A</text>
+    <circle class="pin" cx="360" cy="530" r="5"/><text class="t-s" x="372" y="534">RS-485 B</text>
+  </g>
+  <!-- right pins -->
+  <g>
+    <circle class="pin" cx="640" cy="130" r="5"/><text class="t-s" x="628" y="134" text-anchor="end">Relay driver 1 +</text>
+    <circle class="pin" cx="640" cy="160" r="5"/><text class="t-s" x="628" y="164" text-anchor="end">Relay driver 1 −</text>
+    <circle class="pin" cx="640" cy="210" r="5"/><text class="t-s" x="628" y="214" text-anchor="end">Relay feedback 1</text>
+    <circle class="pin" cx="640" cy="270" r="5"/><text class="t-s" x="628" y="274" text-anchor="end">PT1000 #1</text>
+    <circle class="pin" cx="640" cy="320" r="5"/><text class="t-s" x="628" y="324" text-anchor="end">PT1000 #2</text>
+    <circle class="pin" cx="640" cy="390" r="5"/><text class="t-s" x="628" y="394" text-anchor="end">Cable conn. CP</text>
+    <circle class="pin" cx="640" cy="420" r="5"/><text class="t-s" x="628" y="424" text-anchor="end">Cable conn. PE</text>
+    <circle class="pin" cx="640" cy="450" r="5"/><text class="t-s" x="628" y="454" text-anchor="end">Cable conn. PP</text>
+    <circle class="pin" cx="640" cy="530" r="5"/><text class="t-s" x="628" y="534" text-anchor="end">DOUT 1</text>
+  </g>
+
+  <!-- PS1 -->
+  <rect class="box" x="30" y="110" width="120" height="66"/>
+  <text class="t-ref" x="40" y="132">PS1</text><text class="t-s" x="40" y="150">24 V DC</text><text class="t-xs" x="40" y="166">from Sheet 1</text>
+  <path class="w wdc" d="M150 130 H355"/>
+  <path class="w w0v" d="M150 160 H355"/>
+  <!-- 24V bus rail down left -->
+  <circle class="dot ddc" cx="200" cy="130" r="4"/>
+  <path class="w wdc" d="M200 130 V458 H210"/>
+  
+  <!-- E-stop -->
+  <circle class="dot ddc" cx="200" cy="220" r="4"/>
+  <path class="w wsig" d="M200 220 H176 M176 220 H240"/>
+  <path class="thin" d="M240 220 H250 M250 214 L280 226 M280 220 H290"/>
+  <path class="thin" d="M268 205 V200 H282 M275 200 V214"/>
+  <path class="w wsig" d="M290 220 H355"/>
+  <text class="t-ref" x="244" y="248">S1</text><text class="t-xs" x="266" y="248">E-stop, 1 NC</text>
+
+  <!-- stop charging -->
+  <path class="w w0v" d="M240 280 H222 V296 M212 296 H232 M216 301 H228 M220 306 H224"/>
+  <path class="thin" d="M240 280 H250 M250 280 L278 268 M280 280 H290"/>
+  <path class="w wsig" d="M290 280 H355"/>
+  <text class="t-ref" x="244" y="306">S2</text><text class="t-xs" x="266" y="306">stop, 1 NO to 0 V (active-low)</text>
+
+  <!-- RCM1 -->
+  <rect class="box" x="30" y="316" width="120" height="58"/>
+  <text class="t-ref" x="40" y="336">RCM1</text><text class="t-xs" x="40" y="352">trip relay out</text><text class="t-xs" x="40" y="366">(optional)</text>
+  <circle class="dot ddc" cx="200" cy="330" r="4"/>
+  <path class="w wdc" d="M200 330 H150"/>
+  <path class="w wsig" d="M150 340 H176 V220"/>
+  <circle class="dot" cx="176" cy="220" r="4" fill="var(--sig)"/>
+  <text class="t-xs" x="40" y="390">NC trip contact in series</text>
+  <text class="t-xs" x="40" y="403">with S1 (wired-OR)</text>
+
+  <!-- Host -->
+  <rect class="box" x="30" y="396" width="150" height="72"/>
+  <text class="t-ref" x="40" y="416">U1</text><text class="t-s" x="40" y="434">Linux host</text><text class="t-xs" x="40" y="450">EVerest / BaseCamp</text><text class="t-xs" x="40" y="462">Pi 5 or homelab node</text>
+  <path class="w wcom" d="M180 420 H355"/>
+  <rect class="box" x="210" y="440" width="70" height="36"/>
+  <text class="t-ref" x="218" y="458">PS2</text><text class="t-xs" x="218" y="471">24→5 V</text>
+  <path class="w wdc" d="M245 476 V484 H105 V468"/>
+  <text class="t-xs" x="112" y="480">5 V</text>
+
+  <!-- meter RS485 -->
+  <rect class="box" x="30" y="490" width="120" height="58"/>
+  <text class="t-ref" x="40" y="510">M1</text><text class="t-s" x="40" y="526">Modbus RTU</text><text class="t-xs" x="40" y="540">addr 1, 9600 8N1</text>
+  <path class="w wcom" d="M150 500 H355"/>
+  <path class="w wcom" d="M150 530 H355"/>
+  <text class="t-xs" x="160" y="566">twisted pair; board termination on</text>
+
+  <!-- K1 coil -->
+  <path class="w wdc" d="M645 130 H790"/>
+  <path class="w w0v" d="M645 160 H790"/>
+  <rect class="box" x="790" y="118" width="46" height="54"/>
+  <path class="thin" d="M790 118 L836 172"/>
+  <text class="t-ref" x="846" y="138">K1 coil</text>
+  <text class="t-xs" x="846" y="154">A1 / A2, 24 V</text>
+  <text class="t-xs" x="846" y="168" class="t-xs">check driver current</text>
+
+  <!-- aux feedback -->
+  <path class="w wsig" d="M645 210 H760"/>
+  <path class="thin" d="M760 210 H770 M770 210 L798 198 M792 202 V210 M798 210 H808"/>
+  <path class="w wdc" d="M808 210 H900 V190"/>
+  <text class="t-xs" x="904" y="194">+24 V</text>
+  <text class="t-ref" x="770" y="236">K1 aux</text><text class="t-xs" x="820" y="236">NC 21-22 (weld detect)</text>
+
+  <!-- PT1000 -->
+  <path class="w wsig" d="M645 270 H790"/>
+  <rect x="790" y="262" width="26" height="16" fill="var(--sheet)" stroke="var(--sig)" stroke-width="1.6"/>
+  <text class="t-ref" x="824" y="274">TT1</text><text class="t-xs" x="856" y="274">output terminals</text>
+  <path class="w wsig" d="M645 320 H790"/>
+  <rect x="790" y="312" width="26" height="16" fill="var(--sheet)" stroke="var(--sig)" stroke-width="1.6"/>
+  <text class="t-ref" x="824" y="324">TT2</text><text class="t-xs" x="856" y="324">cable entry / enclosure</text>
+
+  <!-- J1772 -->
+  <path class="w wsig" d="M645 390 H880"/>
+  <path class="w wpe" d="M645 420 H880"/>
+  <rect class="box" x="880" y="370" width="100" height="70" rx="12"/>
+  <text class="t-ref" x="892" y="392">X1</text><text class="t-s" x="892" y="408">J1772 CP</text><text class="t-s" x="892" y="424">+ PE ref</text>
+  <text class="t-xs" x="700" y="382">18 AWG pilot</text>
+  <text class="t-xs" x="700" y="444">tie to PE bus, Sheet 1</text>
+  <path class="thin" d="M645 450 H670" stroke-dasharray="3 3"/>
+  <text class="t-xs" x="676" y="468">to cable latch-button wire if present, else open</text>
+
+  <!-- DOUT beacon -->
+  <path class="w wdc" d="M645 530 H790"/>
+  <circle cx="808" cy="530" r="16" fill="var(--sheet)" stroke="var(--ink)" stroke-width="1.5"/>
+  <path class="thin" d="M797 519 l22 22 m0 -22 l-22 22"/>
+  <path class="w w0v" d="M824 530 H880"/>
+  <text class="t-ref" x="790" y="566">H1</text><text class="t-xs" x="812" y="566">24 V status light (optional)</text>
+</svg>
+</div>
+<div class="titleblock"><div><em>Sheet</em>2 of 2</div><div><em>Title</em>Control &amp; signal</div><div><em>Rev</em>B — reviewed against module datasheet v1.2</div></div>
+</div>
+
+<h2>Bill of materials</h2>
+<p class="hint">Reference designators match the sheets. Part numbers are examples; <span class="verify">red</span> items need checking against the datasheet before you buy.</p>
+<div class="tablewrap">
+<table>
+<thead><tr><th>Ref</th><th>Qty</th><th>Part</th><th>Example P/N</th><th>Notes</th></tr></thead>
+<tbody>
+<tr class="group"><td colspan="5">Controller</td></tr>
+<tr><td>A1</td><td>1</td><td>ChargeBridge evaluation kit, EVSE side (board + EVSE module)</td><td class="pn">Pionix shop</td><td>9–30 V VSUPPLY, 3 relay drivers w/ feedback, 2× PT1000, RS-485, CAN, Ethernet/USB-C.</td></tr>
+<tr><td>U1</td><td>1</td><td>Linux host for EVerest / BaseCamp</td><td class="pn">Raspberry Pi 5 (4 GB) + DIN case</td><td>Or run EVerest on an existing homelab box over Ethernet and skip PS2.</td></tr>
+<tr><td>PS2</td><td>1</td><td>DC-DC 24 V → 5 V, DIN</td><td class="pn">Mean Well DDR-30G-5</td><td>Only if U1 lives in the enclosure.</td></tr>
+
+<tr class="group"><td colspan="5">Power path</td></tr>
+<tr><td>CB1</td><td>1</td><td>50 A 2-pole GFCI breaker (in panel)</td><td class="pn">Square D QO250GFI / Siemens QF250A / Eaton GFTCB250</td><td>Match your panel brand. Provides personnel ground-fault protection the eval board does not.</td></tr>
+<tr><td>W1</td><td>as req.</td><td>Branch circuit, 2 conductors + ground</td><td class="pn">6/2 NM-B w/ G, or 8 AWG THHN in conduit</td><td>No neutral needed. Size for your run length and install method.</td></tr>
+<tr><td>TB1, TB2</td><td>4</td><td>Feed-through terminal block, 16 mm²</td><td class="pn">Phoenix Contact UT 16</td><td>76 A rated. End plates + jumper not required.</td></tr>
+<tr><td>PE</td><td>1</td><td>PE terminal / ground bus bar</td><td class="pn">Phoenix UT 16-PE or bonded bar</td><td>Bond enclosure plate, PS1, cable PE, board PE here.</td></tr>
+<tr><td>M1</td><td>1</td><td>Single-phase Modbus energy meter, DIN</td><td class="pn">Eastron SDM230-Modbus</td><td>100 A direct connect, 176–276 V. Wire L1 to “L”, L2 to “N”. <span class="verify">Confirm EVerest has a register map for it or add one.</span></td></tr>
+<tr><td>K1</td><td>1</td><td>2-pole installation contactor, 63 A AC-1, 24 V AC/DC coil</td><td class="pn"><span class="verify">ABB ESB63-20N-01</span></td><td><span class="verify">Confirm coil suffix is 24 V and coil current is within the eval board relay driver rating;</span> add an interposing relay if not.</td></tr>
+<tr><td>K1 aux</td><td>1</td><td>Aux contact block, 1 NO + 1 NC</td><td class="pn">ABB EH04-11N</td><td>NC contact to relay feedback 1 for welded-contact detection.</td></tr>
+<tr><td>X1</td><td>1</td><td>SAE J1772 tethered cable, 40–48 A, 25 ft</td><td class="pn">any UL-listed 48 A replacement cable</td><td>3× 8 AWG + 18 AWG pilot. Add a wall holster.</td></tr>
+<tr><td>—</td><td>as req.</td><td>Internal power wire, 8 AWG 90 °C (black, red, green) + ferrules</td><td class="pn">MTW / THHN</td><td>Size to 75 °C terminal ampacity (50 A).</td></tr>
+
+<tr class="group"><td colspan="5">Control supply &amp; protection</td></tr>
+<tr><td>PS1</td><td>1</td><td>24 V DC DIN supply, 60 W</td><td class="pn">Mean Well HDR-60-24</td><td>Fed L1–L2 at 240 V, within its 85–264 V range.</td></tr>
+<tr><td>F1, F2</td><td>1</td><td>2-pole fuse holder + 2 A time-delay fuses</td><td class="pn">10×38 DIN holder, 2 A class CC or gG</td><td>A 2-pole 2 A MCB also works.</td></tr>
+<tr><td>RCM1</td><td>1</td><td>Residual current monitor, 6 mA DC / AC sensing, relay output <span class="opt">optional</span></td><td class="pn"><span class="verify">Western Automation RCM14 series</span></td><td>Defence in depth behind CB1. NC trip contact in series with S1 on the emergency line (wired-OR, active-low, latched until unplug).</td></tr>
+<tr><td>—</td><td>1</td><td>Type 2 surge protector, 240 V split phase <span class="opt">optional</span></td><td class="pn">any UL 1449 SPD</td><td>Upstream of TB1.</td></tr>
+
+<tr class="group"><td colspan="5">Sensors &amp; operator</td></tr>
+<tr><td>TT1, TT2</td><td>2</td><td>PT1000 sensor, 2-wire</td><td class="pn">ring-lug or adhesive PT1000</td><td>TT1 on output terminals; TT2 at cable entry. Most J1772 handles use NTC, so handle temp needs a different route.</td></tr>
+<tr><td>S1</td><td>1</td><td>22 mm emergency stop, twist-release, 1 NC</td><td class="pn">Schneider XB5AS8444</td><td>Wired to board emergency stop I/O.</td></tr>
+<tr><td>S2</td><td>1</td><td>22 mm key switch, 1 NO <span class="opt">optional</span></td><td class="pn">Schneider XB5AG21</td><td>Momentary NO to 0 V; the stop input is active-low with an internal pull-up.</td></tr>
+<tr><td>H1</td><td>1</td><td>22 mm 24 V LED indicator <span class="opt">optional</span></td><td class="pn">any 24 V DC pilot light</td><td>The board already has an RGB LED; H1 is for outside visibility.</td></tr>
+
+<tr class="group"><td colspan="5">Mechanical</td></tr>
+<tr><td>—</td><td>1</td><td>NEMA 4X polycarbonate enclosure w/ mounting plate, ≈ 16×14×7 in</td><td class="pn">Fibox ARCA 403021 or Hammond PJ series</td><td>Leave airflow room around K1 and M1.</td></tr>
+<tr><td>—</td><td>2</td><td>35 mm DIN rail</td><td class="pn">—</td><td>Eval board mounts via a DIN adapter.</td></tr>
+<tr><td>—</td><td>1 + 1</td><td>Cable glands: M40 (EV cable), M32 (supply)</td><td class="pn">nylon, IP68</td><td>Strain relief rated for the EV cable OD.</td></tr>
+<tr><td>—</td><td>as req.</td><td>18 AWG control wire, blue 24 V / white-blue 0 V, shielded twisted pair for RS-485</td><td class="pn">—</td><td>Keep CP away from the 40 A conductors.</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>Build notes</h2>
+<div class="notes">
+<section>
+<h3>Sizing</h3>
+<p>40 A is continuous, so the branch breaker and conductors are sized at 125%: a 50 A breaker with 6 AWG NM-B, or 8 AWG THHN in conduit at 75 °C. Every device in the 40 A path (terminals, meter, contactor, cable) is rated at 48 A or more.</p>
+</section>
+<section>
+<h3>Pilot setup</h3>
+<p>Set the EVSE maximum current to 40 A in EVerest. That gives a 66.7% CP duty cycle. The ChargeBridge module generates the ±12 V pilot and runs the A–F state machine; you only wire CP and its PE reference. If the tethered cable has a fifth wire from the handle latch button, land it on PP (the module supports CCS1 attached-cable button detection); otherwise leave PP open. Keep total CP capacitance under 1600 pF and do not add an external CP clamp diode.</p>
+</section>
+<section>
+<h3>Contactor</h3>
+<p>Relay driver 1 closes K1 only in state C. The NC aux contact goes to feedback 1 so the module can refuse to start, or fault, if K1 welds. Measure the coil’s pull-in current against the driver rating in the datasheet before power-up.</p>
+</section>
+<section>
+<h3>Ground-fault and ground monitoring</h3>
+<p>The eval board has no residual current measurement or ground-continuity monitor of its own. CB1 covers personnel protection; RCM1 adds in-unit detection. A UL 2231 CCID20 with auto-reclose and ground monitoring is not part of this BOM.</p>
+</section>
+</div>
+
+<div class="callout">
+<p><strong>Before energising.</strong> This is a draft for a one-off build, not a listed product. The ChargeBridge module is certified to its own standards, but the assembled charger is not UL 2594 listed. Pull a permit, have the branch circuit inspected, and check with your insurer. Bench-test the pilot and contactor at 24 V with a J1772 EV simulator before putting 240 V on it.</p>
+</div>
+
+</main>
+</body>
+</html>

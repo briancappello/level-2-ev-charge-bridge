@@ -1,0 +1,413 @@
+Product data sheet
+Specifications
+
+
+
+
+                                                Push button, Harmony XB5, plastic,
+                                                flush, green, 22mm, spring return,
+                                                unmarked, 1NO
+                                                XB5AA31
+
+
+
+                                                Product availability: Stock - Normally stocked in distribution
+                                                facility
+
+
+Main
+Range of Product                         Harmony XB5
+
+Product or Component Type                Push-button
+
+Device short name                        XB5
+
+
+
+
+                                                                                                                                      Disclaimer: This documentation is not intended as a substitute for and is not to be used for determining suitability or reliability of these products for specific user applications
+Bezel material                           Plastic
+                                         Dark grey plastic
+
+Head type                                Standard
+
+Fixing collar material                   Plastic
+
+Mounting diameter                        0.9 in (22.5 mm)
+
+Sale per indivisible quantity            1
+
+Shape of signaling unit head             Round
+
+Type of operator                         spring return
+
+Operator profile                         Green flush, unmarked
+
+Contacts type and composition            1 NO
+
+Contact operation                        Slow-break
+
+Connections - terminals                  Screw clamp terminals, <= 2 x 1.5 mm² with cable end IEC 60947-1
+                                         Screw clamp terminals, 1 x 0.22...2 x 2.5 mm² without cable end IEC 60947-1
+
+
+
+Complementary
+Height                                   1.7 in (42 mm)
+
+Width                                    1.2 in (30 mm)
+
+Depth                                    2.05 in (52 mm)
+
+Terminals description ISO n°1            (13-14)NO
+
+Net Weight                               0.082 lb(US) (0.037 kg)
+
+Resistance to high pressure              1015.3 psi (7000000 Pa) 131 °F (55 °C) 0.1 m
+washer
+Contacts usage                           Standard contacts
+
+Positive opening                         Without
+
+Operating travel                         0.1 in (2.6 mm) NO changing electrical state)
+                                         0.2 in (4.3 mm) total travel)
+
+Operating force                          3.8 N NO changing electrical state
+
+Mechanical durability                    10000000 cycles
+
+Tightening torque                        7.08…10.6 lbf.in (0.8…1.2 N.m) IEC 60947-1
+
+
+
+
+ Price is “List Price” and may be subject to a trade discount – check with your local distributor or retailer for actual price.
+
+
+
+
+  Oct 27, 2026                                                                                                                    1
+Shape of screw head                   Cross Philips no 1
+                                      Cross pozidriv No 1
+                                      Slotted flat Ø 4 mm
+                                      Slotted flat Ø 5.5 mm
+
+Contacts material                     Silver alloy (Ag/Ni)
+
+Short-circuit protection              10 A cartridge fuse gG IEC 60947-5-1
+
+[Ith] conventional free air thermal   10 A IEC 60947-5-1
+current
+[Ui] rated insulation voltage         600 V 3)IEC 60947-1
+
+[Uimp] rated impulse withstand        6 kV IEC 60947-1
+voltage
+[Ie] rated operational current        3 A 240 V, AC-15, A600 IEC 60947-5-1
+                                      6 A 120 V, AC-15, A600 IEC 60947-5-1
+                                      0.1 A 600 V, DC-13, Q600 IEC 60947-5-1
+                                      0.27 A 250 V, DC-13, Q600 IEC 60947-5-1
+                                      0.55 A 125 V, DC-13, Q600 IEC 60947-5-1
+                                      1.2 A 600 V, AC-15, A600 IEC 60947-5-1
+
+Electrical durability                 1000000 cycles AC-15, 2 A 230 V 3600 cyc/h 0.5 IEC 60947-5-1 appendix C
+                                      1000000 cycles AC-15, 3 A 120 V 3600 cyc/h 0.5 IEC 60947-5-1 appendix C
+                                      1000000 cycles AC-15, 4 A 24 V 3600 cyc/h 0.5 IEC 60947-5-1 appendix C
+                                      1000000 cycles DC-13, 0.2 A 110 V 3600 cyc/h 0.5 IEC 60947-5-1 appendix C
+                                      1000000 cycles DC-13, 0.5 A 24 V 3600 cyc/h 0.5 IEC 60947-5-1 appendix C
+
+Electrical reliability                Λ < 10exp(-6) 5 V 1 mA in clean environment IEC 60947-5-4
+                                      Λ < 10exp(-8) 17 V 5 mA in clean environment IEC 60947-5-4
+
+Device presentation                   Complete product
+
+Customizable                          No
+
+Customizable                          1
+
+GCR BRIDGE                            XB5AACUST01
+
+Compatibility code                    XB5
+
+
+
+Environment
+Protective treatment                  TH
+
+Ambient Air Temperature for           -40…158 °F (-40…70 °C)
+Storage
+Ambient Air Temperature for           -40…158 °F (-40…70 °C)
+Operation
+Overvoltage category                  Class II conforming to IEC 60536
+
+IP degree of protection               IP66 IEC 60529
+                                      IP67
+                                      IP69
+                                      IP69K
+
+Enclosure Type                        UL type 4X/13
+
+IK degree of protection               IK03 conforming to IEC 50102
+
+Standards                             UL 508
+                                      IEC 60947-5-4
+                                      CSA C22.2 No 14
+                                      JIS C8201-5-1
+                                      IEC 60947-5-1
+                                      IEC 60947-1
+                                      JIS C8201-1
+
+Product Certifications                DNV
+                                      CSA
+                                      UL Listed
+                                      LROS (Lloyds register of shipping)
+                                      BV
+
+Vibration resistance                  5 gn (f= 2…500 Hz) conforming to IEC 60068-2-6
+
+Shock resistance                      30 gn 18 ms) half sine wave acceleration IEC 60068-2-27
+                                      50 gn 11 ms) half sine wave acceleration IEC 60068-2-27
+
+
+
+
+     2                                                                                                            Oct 27, 2026
+Ordering and shipping details
+Category                       US10CS222467
+
+Discount Schedule              0CS2
+
+GTIN                           3389110903409
+
+Returnability                  Yes
+
+Country of origin              FR
+
+
+
+Packing Units
+Unit Type of Package 1         PCE
+
+Nbr. of units in pkg.          1
+
+Package 1 Height               1.378 in (3.500 cm)
+
+Package 1 Width                2.165 in (5.500 cm)
+
+Package 1 Length               3.346 in (8.500 cm)
+
+Package weight(Lbs)            1.256 oz (35.600 g)
+
+Unit Type of Package 2         S03
+
+Number of Units in Package 2   150
+
+Package 2 Height               11.8 in (30 cm)
+
+Package 2 Width                11.8 in (30 cm)
+
+Package 2 Length               15.7 in (40 cm)
+
+Package 2 Weight               12.921 lb(US) (5.861 kg)
+
+Unit Type of Package 3         P06
+
+Number of Units in Package 3   1200
+
+Package 3 Height               29.528 in (75.000 cm)
+
+Package 3 Width                31.496 in (80.000 cm)
+
+Package 3 Length               23.622 in (60.000 cm)
+
+Package 3 Weight               121.007 lb(US) (54.888 kg)
+
+
+
+Contractual warranty
+Warranty (in months)           18
+
+
+
+
+  Oct 27, 2026                                              3
+          Environmental Data
+
+Schneider Electric aims to achieve Net Zero status by 2050 through supply chain partnerships, lower impact materials, and circularity via
+our ongoing “Use Better, Use Longer, Use Again” campaign to extend product lifetimes and recyclability.
+
+
+Environmental Data explained
+
+How we assess product sustainability
+
+
+      Environmental footprint
+
+         Total lifecycle Carbon footprint                           0.5 kg CO2 eq.
+
+
+         Carbon footprint of the manufacturing phase [A1 to A3]     0.3 kg CO2 eq.
+
+
+         Carbon footprint of the distribution phase [A4]            0 kg CO2 eq.
+
+
+         Carbon footprint of the installation phase [A5]            0 kg CO2 eq.
+
+
+         Carbon footprint of the use phase [B2, B3, B4, B6]         0.1 kg CO2 eq.
+
+
+         Carbon footprint of the end-of-life phase [C1 to C4]       0.1 kg CO2 eq.
+
+
+         Environmental Disclosure                                   Product Environmental Profile
+
+
+
+  Use Better
+
+
+      Materials and Substances
+
+         Average percentage of recycled plastic content             14 %
+
+
+         Average percentage of recycled metal content               13 %
+
+
+         Packaging made with recycled cardboard                     Yes
+
+
+         Packaging without single use plastic                       Yes
+
+
+         EU RoHS Directive                                          Compliant​
+
+
+                                                                    Reference contains Substances of Very High Concern
+         REACh Regulation
+                                                                    above the threshold
+
+
+                                                                    WARNING: This product can expose you to chemicals
+                                                                    including: Lead and lead compounds, which is known to the
+         California proposition 65                                  State of California to cause cancer and birth defects or
+                                                                    other reproductive harm. For more information go to
+                                                                    www.P65Warnings.ca.gov
+
+
+
+  Use Longer
+
+
+      Lifetime extension
+
+         Repair                                                     No
+
+
+         Product repairability index                                A
+
+
+
+  Use Again
+
+
+      Repack and remanufacture
+
+         Recyclability potential, in %                              0
+
+
+         Circularity Profile                                        End of Life Information
+
+
+         Take-back                                                  No
+
+
+
+
+     4                                                                                                                     Oct 27, 2026
+                The product must be disposed on European Union markets
+   WEEE Label   following specific waste collection and never end up in
+                rubbish bins.
+
+
+
+
+Oct 27, 2026                                                              5
+ Product data sheet                                   XB5AA31
+
+Dimensions Drawings
+
+Dimensions
+
+
+
+
+e: clamping thickness: 1 to 6 mm / 0.04 to 0.24 in.
+(1) Additional row of contacts or double contact
+
+
+
+
+    6                                                           Oct 27, 2026
+ Product data sheet                                    XB5AA31
+
+Mounting and Clearance
+
+Panel Cut-out for Pushbuttons, Switches and Pilot Lights (Finished Holes, Ready for
+Installation)
+
+
+Connection by Screw Clamp Terminals or Plug-in Connectors or on Printed Circuit Board
+
+
+
+
+(1) Diameter on finished panel or support
+(2) For selector switches and Emergency stop buttons, use of an anti-rotation plate type ZB5AZ902 is recommended.
+(3) Ø22.5 mm recommended (Ø22.3 0+0.4) / Ø0.89 in. recommended (Ø0.88 in. 0+0.016)
+ Connections                                     a in mm a in in. b in mm b in in.
+
+By screw clamp terminals or plug-in connector   40        1.57     30        1.18
+
+
+By Faston connectors                            45        1.77     32        1.26
+
+
+On printed circuit board                        30        1.18     30        1.18
+
+
+
+
+Detail of Lug Recess
+
+
+
+
+(1) Diameter on finished panel or support
+(2) For selector switches and Emergency stop buttons, use of an anti-rotation plate type ZB5AZ902 is recommended.
+(3) Ø22.5 mm recommended (Ø22.3 0+0.4) / Ø0.89 in. recommended (Ø0.88 in. 0+0.016)
+
+
+
+
+  Oct 27, 2026                                                                                                      7
+Product data sheet                    XB5AA31
+
+
+Image of product / Alternate images
+
+Alternative
+
+
+
+
+   8                                            Oct 27, 2026
+Product data sheet   XB5AA31
+
+
+
+
+Oct 27, 2026                   9
+

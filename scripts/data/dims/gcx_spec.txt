@@ -1,0 +1,920 @@
+                                                                                                           For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+GCX Series 22mm Metal Pilot Devices
+Specifications
+Assembly information
+These pushbuttons and indicator lights are supplied with the appropriate contact blocks, unless otherwise indicated. Use these
+drawings as a guide to make sure there is adequate clearance behind the panel.
+
+Pushbuttons and selector switches                                                         Illuminated pushbuttons and selector switches/pilot lights
+
+
+
+
+                                                                Dimensions: mm [inches]
+
+Mounting
+                                                                                                                NOTE: Contact blocks can be
+                                                                                                                arranged up to three deep by
+                                                                                                                two wide.
+                                                                                                                             Typical
+                                                                                                                             Wiring
+
+
+                                                                                                                             4                             3
+                                                                                                                                    Normally Open
+
+                                                                                                                             2                              1
+                                                                                                                                  Normally Closed
+  This layout is suitable if all switches                    This layout is suitable if all switches are
+  are 230V or less and the same polarity.                    400V or less and different polarity.                          x1                               x2
+
+Specifications                                                                                                                         Indicator
+These specifications apply to all GCX and ECX 22mm metal
+pushbuttons and switches.
+
+                     Physical Specifications                                                             Electrical Specifications
+Standards                                                                              Rated Thermal                      A300, Q300 (Refer to E22 Series mounting/
+                         CEI EN 60947-5-1, CSA C22-2 n.14                              Current (contact block)            contact rating section for details)
+Reference
+Approvals                CSA, IMQ (where specified), UL File E189258                                                      Ui 660V according to CEI EN 60947-5-1,
+                                                                                       Rated Insulation Voltage
+                                                                                                                          300V according to CSA C22-2 n.14
+Enclosure Material       Zn + Al + Mg alloy, chromium plated                           Dielectric Strength                3 kV (1 second)
+                                                                                       Insulation Resistance              2 MΩ min. (500 VDC)
+Contacts Material        Silver                                                        Initial Contact Resistance         ≤ 25 mΩ
+                         IP40 for GCX3151-24,GCX3151-120, GCX3153-24 and               Short-Circuit Protection*          Cartridge fuses gl 10A - 500V 10,3x38l1 100 kA
+                         GCX3153-120. IP65 for all others.                             Terminal Markings                  According to CENELEC EN 50013
+Protection Degree
+                         (See Appendix of this catalog for explanation of IP ratings
+                                                                                                                          Single screw with non-loosening plate
+                         according to IEC 144 CEI 70-1.)                               Connections
+                                                                                                                          clamp,14 AWG max.
+                         Storage: -40 to +80 ºC (-40 to +176 ºF)                                                          Self-cleaning types EN01 (N.C.) EN 10 (N.O.)
+Temperature Ratings                                                                    Contacts Operation
+                         Operating: -25 to +70 ºC (-13 to +158 ºF)                                                        slow-action, positive opening
+Working Positions        All working positions are allowed                             Operation Frequency                3600 operations per hour max.
+                                                                                                                          AC15 (Control of AC electromagnetic loads)
+                         Pushbuttons, selector switches:                                                                  24 volts AC at 10 amps
+Mechanical Life          Joy stick switches: 1,000,000 operations                                                         130 volts AC at 6.5 amps
+                         Mushroom pushbuttons: 300,000 operations                      Utilization Category
+                                                                                                                          DC13 (Control of DC electromagnetic loads)
+                                                                                                                          24 volts DC at 1.5 amps
+                                                                                                                          110 volts DC at 0.5 amps
+                                                                                       *Note: Recommended, not supplied
+
+www.automationdirect.com                                                                                                        Pilot Devices               tPIL-26
+                                                                                       For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+
+GCX Series 22mm Metal Pushbuttons
+Momentary Flush Pushbuttons
+with protective metal ring
+(30mm dia. actuator)                        Momentary Pushbuttons Flush with Protective Metal Ring
+                                                                                    Drawing
+                                         Part Number        Color         Price                                   Description
+                                                                                      Link
+
+                                                                                               One N.O. contact block, 30mm dia. actuator, mounts
+                                         GCX1100             Black        $9.00       PDF
+                                                                                                                 in 22mm hole
+
+                                                                                               One N.C. contact block, 30mm dia. actuator, mounts
+                                         GCX1101             Red          $9.00       PDF
+                                                                                                                 in 22mm hole
+
+                                         GCX1102            Green         $9.00       PDF
+      GCX1102
+                                         GCX1103            Yellow        $9.00       PDF      One N.O. contact block, 30mm dia. actuator, mounts
+                                         GCX1104             Blue         $9.00       PDF                        in 22mm hole
+
+                                         GCX1105             White        $9.00       PDF
+
+Momentary Flush ON/OFF
+Pushbuttons with protective
+metal ring
+(30mm dia. actuator)                                        Momentary Pushbuttons Flush ON/OFF
+                                                                                     Drawing
+                                        Part Number         Color          Price                                   Description
+                                                                                       Link
+                                                        Red with “Off”
+                                                                                                One N.C. contact block, 30mm dia. actuator, mounts
+                                        GCX1106         symbol (O) on      $9.75      PDF
+                                                                                                                  in 22mm hole
+                                                          actuator
+                                                          Green with
+                                                                                                One N.O. contact block, 30mm dia. actuator, mounts
+                                        GCX1107         “On” symbol (I)    $9.75      PDF
+                                                                                                                   in 22mm hole
+                                                          on actuator
+
+
+     GCX1106         GCX1107
+
+
+
+Momentary Pushbuttons                             Momentary Pushbuttons with Protective Metal Ring
+with protective metal ring
+(40mm dia. actuator)
+                                                                                   Drawing
+                                      Part Number        Color        Price                                        Description
+                                                                                     Link
+                                                                                                    One N.O. contact block, 40mm dia. actuator,
+                                      GCX1120            Black       $10.00         PDF
+                                                                                                              mounts in 22mm hole
+                                                                                                    One N.C. contact block, 40mm dia. actuator,
+                                      GCX1121             Red        $10.00         PDF
+                                                                                                              mounts in 22mm hole
+                                      GCX1122            Green       $10.00         PDF
+
+                                      GCX1123            Yellow      $10.00         PDF
+                                                                                                    One N.O. contact block, 40mm dia. actuator,
+                                      GCX1124             Blue       $10.00         PDF                       mounts in 22mm hole
+
+      GCX1121                         GCX1125            White       $10.00         PDF
+
+                                      Note: Protective silicone covers are not available for this pushbutton.
+
+
+
+
+                               For accessories, see 22mm Metal Pilot Device Accessories in this section.
+
+
+www.automationdirect.com                                                                                   Pilot Devices               tPIL-27
+                                                                                                                 For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+GCX Series 22mm Metal Pushbuttons
+Momentary Extended Pushbuttons
+
+
+
+
+                                                                               GCX1113
+
+                                                         Momentary Extended Pushbuttons
+Part                             Drawing
+              Color     Price                                                                          Description
+Number                             Link
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O. contact(s), metal base, metal bezel, Operator: black, extended, 30mm,
+GCX1110       Black     $9.75      PDF
+                                            round, plastic.
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.C. contact(s), metal base, metal bezel, Operator: red, extended, 30mm,
+GCX1111        Red      $9.75      PDF
+                                            round, plastic.
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O. contact(s), metal base, metal bezel, Operator: green, extended, 30mm,
+GCX1112       Green     $9.75      PDF
+                                            round, plastic.
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O. contact(s), metal base, metal bezel, Operator: yellow, extended,
+GCX1113       Yellow    $9.75      PDF
+                                            30mm, round, plastic.
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O. contact(s), metal base, metal bezel, Operator: blue, extended, 30mm,
+GCX1114        Blue     $9.75      PDF
+                                            round, plastic.
+                                            AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O. contact(s), metal base, metal bezel, Operator: white, extended, 30mm,
+GCX1115       White     $9.75      PDF
+                                            round, plastic.
+
+
+
+Double-Headed Momentary Pushbuttons
+
+
+
+
+                        GCX1152 (with on/off symbols)                                           GCX1151-24
+
+                                                    Double-Headed Momentary Pushbuttons
+                                  Drawing
+Part Number            Price                                                                             Description
+                                    Link
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O./(1) N.C. contact(s), metal base, metal bezel, Operator: red/green,
+GCX1150                $17.50       PDF
+                                              double headed, 50mm, rectangular, plastic.
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, incandescent illuminated, (1) N.O./(1) N.C. contact(s), metal base, metal
+GCX1151-24             $25.00       PDF
+                                              bezel, Operator: red/green, double headed, 60mm, rectangular, plastic, 24 VAC/VDC, full voltage.
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, incandescent illuminated, (1) N.O./(1) N.C. contact(s), metal base, metal
+GCX1151-120            $27.00       PDF
+                                              bezel, Operator: red/green, double headed, 60mm, rectangular, plastic, 120 VAC/VDC, full voltage.
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, (1) N.O./(1) N.C. contact(s), metal base, metal bezel, Operator: red/green,
+GCX1152                $18.50       PDF
+                                              double headed, 50mm, rectangular, plastic, operator text “(I) and (0)”.
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, incandescent illuminated, (1) N.O./(1) N.C. contact(s), metal base, metal
+GCX1153-24*            $27.00       PDF
+                                              bezel, Operator: red/green, double headed, 50mm, rectangular, plastic, operator text “(I) and (0)”, 24 VAC/VDC, full voltage.
+                                              AutomationDirect pushbutton, IP65, 22mm, momentary, incandescent illuminated, (1) N.O./(1) N.C. contact(s), metal base, metal
+GCX1153-120*           $28.00       PDF
+                                              bezel, Operator: red/green, double headed, 50mm, rectangular, plastic, operator text “(I) and (0)”, 120 VAC/VDC, full voltage.
+* Note: Lamp data in 22mm Metal Pilot Accessories in this section.
+
+
+                                                         For accessories, see 22mm Metal Pilot Device Accessories in this section.
+
+www.automationdirect.com                                                                                                             Pilot Devices                tPIL-28
+                                                                                                        For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+GCX Series 22mm Metal Pushbuttons
+without Contact Block
+Momentary Flush Pushbutton Operator
+(without contact block)
+(30mm dia. actuator)
+
+ Momentary Flush Pushbuttons Operators (without contact block)
+                               Drawing
+Part Number   Color   Price                                       Description
+                                 Link
+                                           22mm metal pushbutton operator, flush, includes 30mm dia.
+GCX1100-SC    Black   $5.75     PDF        operator and support base ONLY.
+                                           Contact blocks sold separately, mounts in 22mm hole.
+                                           22mm metal pushbutton operator, flush, includes 30mm dia.
+GCX1101-SC    Red     $5.75     PDF        operator and support base ONLY.
+                                           Contact blocks sold separately, mounts in 22mm hole.                      GCX1101-SC
+                                           22mm metal pushbutton operator, flush, includes 30mm dia.
+GCX1102-SC    Green   $5.75     PDF        operator and support base ONLY.
+                                           Contact blocks sold separately, mounts in 22mm hole.
+
+
+
+Momentary Extended Pushbutton Operator
+(without contact block)
+(30mm dia. actuator)
+
+Momentary Extended Pushbutton Operators (without contact block)
+                              Drawing
+Part Number   Color   Price                                       Description
+                                Link
+                                         22mm metal pushbutton operator, extended, includes 30mm dia.
+GCX1110-SC    Black   $5.75    PDF       operator and support base ONLY.
+                                         Contact block sold separately, mounts in 22mm hole
+                                         22mm metal pushbutton operator, extended, includes 30mm dia.
+GCX1111-SC    Red     $5.75    PDF       operator and support base ONLY.
+                                         Contact block sold separately, mounts in 22mm hole                          GCX1112-SC
+                                         22mm metal pushbutton operator, extended, includes 30mm dia.
+GCX1112-SC    Green   $5.75    PDF       operator and support base ONLY.
+                                         Contact block sold separately, mounts in 22mm hole
+
+
+
+
+                                        Contact blocks are available for these products.
+
+
+
+
+                                                  ECX1042-2             ECX1030-2
+
+
+
+
+                                                For accessories, see 22mm Metal Pilot Device Accessories in this section.
+
+
+www.automationdirect.com                                                                                                    Pilot Devices          tPIL-29
+                                                                                                                           For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+Replacement Incandescent Bulbs
+                                       Replacement Incandescent Bulbs
+Part Number           Quantity         Price          Rating                                    Description
+                                                   6V@ 200 mA ,            6V replacement bulb for 22mm switches and indicators.
+ECX1900-5                   5         $11.00
+                                                     1.2 watts                        Miniature bayonet base T31/4
+                                                   24V@ 80 mA              24V replacement bulb for 22mm switches and indicators.
+ECX1902-5                   5         $11.00
+                                                     2 watts                           Miniature bayonet base T31/4
+
+ECX1904-5                   5         $23.50
+                                                   130V@20 mA            120V replacement bulb for 22mm switches and indicators.                            ECX1902-5
+                                                     2.6 watts                       Miniature bayonet base T31/4
+Note: Bulb removal tool available. Order part number HT8LAMPTOOL.
+
+
+Replacement LED Lamps
+                                               Replacement LED Lamps
+Part Number              Color         Quantity      Price        Rating                           Description
+ECX1911-2                   Red                      $20.50
+ECX1912-2                Green                       $25.50
+                                                               24V@26 mA
+ECX1913-2                Yellow                      $20.50
+                                                                0.6 watts       LED replacement lamp for miniature bayonet bases
+ECX1914-2                   Blue                     $28.00
+ECX1915-2                White                       $33.00
+                                                                                   Works with 22mm switches and indicators, but                              ECX1915-2
+                                                                                illumination will not be as even when used with the
+                                           2
+ECX1921-2                   Red                      $20.50                                     ECX 22mm indicators
+                                                                                    Note: Will not replace sealed Cutler-Hammer
+ECX1922-2                Green                       $25.50
+                                                               120V@5 mA                     monoblock LED indicators.
+ECX1923-2                Yellow                      $20.50
+                                                                0.6 watts
+ECX1924-2                   Blue                     $28.00
+ECX1925-2                White                       $33.00
+
+
+Hole plug
+                                                             Hole Plug
+Part Number                 Color      Price                                         Description
+                                                   Plastic hole plug for 22.5mm openings in panels and enclosures; supplied with
+ECX1490                     Black      $3.25
+                                                                 O-ring and mounting screw. Two plugs per package.
+                                                                                                                                                             ECX1490
+
+
+Pilot Light Replacement Lens
+                                           Pilot Light Replacement Lens
+                    Lamp
+Part Number                        Price                             Description                                   Use with
+                    Color
+PL1170PR-5           Red           $8.50       22mm metallic series pilot light replacement lens, 5/pk
+
+PL1170PV-5          Green          $8.50       22mm metallic series pilot light replacement lens, 5/pk
+
+PL1170PG-5          Yellow         $8.50       22mm metallic series pilot light replacement lens, 5/pk
+                                                                                                           Part numbers starting with
+                                                                                                                   GCX123
+PL1170PB-5           Blue          $8.50       22mm metallic series pilot light replacement lens, 5/pk                                                      PL1170PR-5
+PL1170PN-5          Clear          $8.50       22mm metallic series pilot light replacement lens, 5/pk
+
+PL1170PW-5          White          $8.50       22mm metallic series pilot light replacement lens, 5/pk
+
+
+
+
+www.automationdirect.com                                                                                                                   Pilot Devices              tPIL-43
+                                                                                                                          For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+Protective Covers for Pushbuttons
+                                         Protective Covers for Pushbuttons
+Part Number       Color       Quantity         Price                                        Description
+ECX1700-5         Black                        $9.00
+ECX1701-5          Red                         $9.00
+                                                            Silicone protective covers for use with 22mm standard-size flush pushbuttons.
+ECX1702-5         Green                        $9.00
+ECX1703-5         Yellow                       $9.00         Will not work with Cutler-Hammer pushbuttons, 22mm plastic illuminated or
+                                  5                         extended pushbuttons, or 22mm plastic pushbuttons with 40mm actuator face.
+ECX1704-5          Blue                        $9.00
+ECX1705-5         Clear                        $9.00
+                                                             Clear silicone protective covers for use with 2mm illuminated and extended                    ECX1703-5
+ECX1706-5         Clear                       $15.50                                      pushbuttons only.
+                                                          Will not work with Cutler-Hammer pushbuttons or 22mm mushroom pushbuttons.
+
+
+
+Replacement 22mm Support Base
+                                         Replacement 22mm Support Base
+                                              Drawing
+Part Number      Quantity        Price                                                       Description
+                                                Link
+                                                                                        22mm metal support base
+                                                             Note: This item is supplied as a replacement part and is not required with any
+ECX1029-2            1           $8.50          PDF
+                                                                                            switch assembly.
+                                                              Will not work with Cutler-Hammer 22mm switches sold by AutomationDirect
+                                                                                                                                                            ECX1029-2
+
+
+Replacement Contact Blocks
+                                               Replacement Contact Blocks
+                                            Drawing
+Part Number      Quantity      Price                        Contacts                                   Description
+                                              Link
+ECX1030-2           2          $8.75         PDF              Red,
+                                                         normally-closed      Replacement contact block for 22mm pushbuttons and selector
+ECX1030-5           5         $20.00         PDF             (N.C.)                                     switches.
+                                                                                    Tightening Torque, terminal screw: 0.8 N·m max
+ECX1040-2           2          $8.75         PDF             Green,                                    mounting screw: 0.5 N·m max
+                                                          normally-open         Note: Will not work with Cutler-Hammer 22mm switches.
+ECX1040-5           5         $20.00         PDF             (N.O.)
+                                                       Brown, normally-open   Replacement normally open push-push contact blocks for                        ECX1030-2
+ECX1042-2           2          $8.75         PDF              (N.O.),       22mm pushbutton and selector switches, pack of 2. Note: Will
+                                                           push-push               not work with Cutler-Hammer 22mm switches.
+Note: See electrical specifications on ECX Series 22mm Metal Pilot Devices Specifications page at beginning of this section.
+
+
+
+Replacement Keys
+                                                         Replacement Keys
+Part Number                Quantity           Price                                           Description
+                          Pkg of 2 sets                 Replacement key for GCX series key-actuated selector switches, pack of 2 sets (2 keys
+ECX1067-2
+                         (2 keys per set)
+                                              $7.75
+                                                                 each). NOTE: Will not work with Cutler-Hammer 22mm switches.                              ECX1067-2
+Note: All key-actuated 22mm metal selector switches are keyed alike.
+
+
+
+
+www.automationdirect.com                                                                                                                      Pilot Devices          tPIL-44
+                                                                                                                      For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+EMERGENCY STOP Legend Plate
+
+                                         EMERGENCY STOP Legend Plate
+ Part Number              Quantity       Price   Drawing Link                                Description
+                                                                   Oversize yellow circular EMERGENCY STOP legend plate for 22mm
+ ECX1651                        1        $3.25        PDF
+                                                                      E-stop type mushroom pushbuttons, 60mm outside diameter.
+
+                                                                                                                                                        ECX1651
+
+
+Knockout Punches
+Ruko’s knockout punch hole-cutting tool includes punch, die and draw bolt (without ball
+bearing). Use for sheet steel, stainless-steel sheets, non-ferrous and light metals, and
+plastics up to 0.16” (8 ga.) thick.
+Replacement bolts are offered in three of the most popular sizes.                                                                                       109225
+Note: Part number 109225 is recommended when punching holes for 22mm pilot devices.
+
+
+
+
+Two-Position Short Lever Operator
+                            2-Position Short Lever Replacement Operator
+                        Lamp
+Part Number                         Price                             2-Position                                   Use with
+                        Color
+                                                     22mm 2-position selector switch illuminated
+GR1172PR-5               Red        $19.50
+                                                       short lever replacement operator, 5/pk
+                                                     22mm 2-position selector switch illuminated
+GR1172PV-5              Green       $19.50
+                                                       short lever replacement operator, 5/pk              Part numbers starting with
+                                                     22mm 2-position selector switch illuminated              GCX124, GCX125
+GR1172PG-5              Yellow      $19.50
+                                                       short lever replacement operator, 5/pk                 GCX324, GCX325
+                                                                                                                                                       GR1172PR-5
+                                                     22mm 2-position selector switch illuminated
+GR1172PB-5               Blue       $19.50
+                                                       short lever replacement operator, 5/pk
+                                                     22mm 2-position selector switch illuminated
+GR1172PN-5              Clear       $19.50
+                                                       short lever replacement operator, 5/pk
+
+
+
+
+Three-Position Short Lever Operator
+                            3-Position Short Lever Replacement Operator
+                        Lamp
+Part Number                         Price                             3-Position                                   Use with
+                        Color
+                                                     22mm 3-position selector switch illuminated
+GR1288PR-5               Red        $19.50
+                                                       short lever replacement operator, 5/pk
+                                                     22mm 3-position selector switch illuminated
+GR1288PV-5              Green       $19.50
+                                                       short lever replacement operator, 5/pk
+                                                                                                           Part numbers starting with
+                                                     22mm 3-position selector switch illuminated
+GR1288PG-5             Yellow       $19.50
+                                                       short lever replacement operator, 5/pk
+                                                                                                              GCX126, GCX128                           GR1288PR-5
+                                                                                                              GCX326, GCX328
+                                                     22mm 3-position selector switch illuminated
+GR1288PB-5              Blue        $19.50
+                                                       short lever replacement operator, 5/pk
+                                                     22mm 3-position selector switch illuminated
+GR1288PN-5              Clear       $19.50
+                                                       short lever replacement operator, 5/pk
+
+
+
+
+www.automationdirect.com                                                                                                                Pilot Devices            tPIL-45
+                                                                                                             For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+Mushroom Switch Replacement Operator
+                             Mushroom Switch Replacement Operator
+              Lamp
+Part Number              Price                       Description                                        Use with
+              Color
+                                    22mm, illuminated momentary Mushroom switch        Part numbers starting with GCX1221, GCX3221
+PL1171PR-5    Red        $8.75
+                                           replacement operator, red, 5/pk                mushroom-style illuminated pushbuttons
+
+                                   22mm illuminated twist-to-release mushroom switch   Part numbers starting with GCX1226, GCX3226
+PL1298P-5     Red        $8.75                                                                                                                 PL1298P-5
+                                            replacement operator, red, 5/pk               mushroom-style illuminated pushbuttons
+
+
+
+Flush Pushbutton Replacement Operator
+                                 Flush Pushbutton Replacement Operator
+                Lamp
+Part Number               Price                               Description                                       Use with
+                Color
+GR1168PR-5       Red      $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk
+
+GR1168PV-5      Green     $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk
+
+GR1168PG-5      Yellow    $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk      Part numbers starting with
+                                                                                                            GCX119, GCX120
+GR1168PB-5      Blue      $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk         GCX319, GCX320
+                                                                                                                                              GR1168PR-5
+GR1168PN-5      Clear     $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk
+
+GR1168PW-5      White     $10.50      22mm illuminated flush pushbutton replacement operator, 5/pk
+
+
+
+
+Extended Pushbutton Replacement Operator
+                           Extended Pushbutton Replacement Operator
+               Lamp
+Part Number               Price                               Description                                        Use with
+               Color
+PL1308PR-5      Red       $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+
+PL1308PV-5     Green      $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+
+PL1308PG-5     Yellow     $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+                                                                                                         Part numbers starting with
+                                                                                                            GCX121, GCX321
+PL1308PB-5      Blue      $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+
+PL1308PN-5     Clear      $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+                                                                                                                                              PL1308PR-5
+PL1308PW-5     White      $8.50     22mm illuminated extended pushbutton, replacement operator, 5/pk
+
+
+
+
+www.automationdirect.com                                                                                                        Pilot Devices           tPIL-46
+                                                                                                For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+Legend Plates
+Aluminum legend plates for use with 22mm pilot devices. Black or red field
+with silver background. O-ring included.
+
+
+
+
+                                         ECX1670A-B04                               ECX1670A-R03
+
+                                                                Aluminum Legend Plates
+                                                     Color of        Text                          Part                     Drawing
+                         Legend                                             Background Color                       Price
+                                                      Field         Color                         Number                      Link
+                         AUTO OFF HAND                 Black        Black        Silver        ECX1670A-B46        $5.00      PDF
+                         Blank Plate                   Black          -          Silver        ECX1670A-B          $5.00      PDF
+                         Blank Plate                   Red            -          Silver        ECX1670A-R          $5.00      PDF
+                         CLAMP                         Black        Black        Silver        ECX1670A-B24        $5.00      PDF
+                         CLOSE                         Black        Black        Silver        ECX1670A-B01        $5.00      PDF
+                         DOWN                          Black        Black        Silver        ECX1670A-B02        $5.00      PDF
+                         EMERG. STOP                   Red          Red          Silver        ECX1670A-R03        $5.00      PDF
+                         EXTEND                        Black        Black        Silver        ECX1670A-B51        $5.00      PDF
+                         FEEDER OFF                    Black        Black        Silver        ECX1670A-B26        $5.00      PDF
+                         FEEDER ON                     Black        Black        Silver        ECX1670A-B25        $5.00      PDF
+                         FOR OFF REV                   Black        Black        Silver        ECX1670A-B19        $5.00      PDF
+                         FOR REV                       Black        Black        Silver        ECX1670A-B13        $5.00      PDF
+                         FORWARD                       Black        Black        Silver        ECX1670A-B04        $5.00      PDF
+                         GRIP                          Black        Black        Silver        ECX1670A-B53        $5.00      PDF
+                         HAND-AUTO                     Black        Black        Silver        ECX1670A-B14        $5.00      PDF
+                         HAND OFF AUTO                 Black        Black        Silver        ECX1670A-B20        $5.00      PDF
+                         HIGH                          Black        Black        Silver        ECX1670A-B27        $5.00      PDF
+                         HIGH LOW                      Black        Black        Silver        ECX1670A-B43        $5.00      PDF
+                         IN                            Black        Black        Silver        ECX1670A-B28        $5.00      PDF
+                         INCH                          Black        Black        Silver        ECX1670A-B29        $5.00      PDF
+                         JOG                           Black        Black        Silver        ECX1670A-B05        $5.00      PDF
+                         JOG FOR                       Black        Black        Silver        ECX1670A-B30        $5.00      PDF
+                         JOG REV                       Black        Black        Silver        ECX1670A-B31        $5.00      PDF
+                         JOG RUN                       Black        Black        Silver        ECX1670A-B15        $5.00      PDF
+                         LOW                           Black        Black        Silver        ECX1670A-B32        $5.00      PDF
+                         LOWER                         Black        Black        Silver        ECX1670A-B33        $5.00      PDF
+                         MAN AUTO                      Black        Black        Silver        ECX1670A-B44        $5.00      PDF
+                         Note: Legend plate text is 3mm in height
+                         Continued on next page
+
+
+
+
+www.automationdirect.com                                                                                        Pilot Devices              tPIL-47
+                                                                                              For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+
+
+
+
+                                                 ECX1670A-B48                       ECX1670A-R11
+
+                                     Aluminum Legend Plates (continued)
+                                       Color of      Text                          Part                    Drawing
+      Legend                                                Background Color                      Price
+                                        Field       Color                         Number                     Link
+      MAN OFF AUTO                      Black       Black        Silver        ECX1670A-B47       $5.00      PDF
+      MOTOR RUN                         Black       Black        Silver        ECX1670A-B22      $5.00       PDF
+      MOTOR STOP                        Black       Black        Silver        ECX1670A-B23      $5.00       PDF
+      OFF                               Black       Black        Silver        ECX1670A-B34      $5.00       PDF
+      OFF ON                            Black       Black        Silver        ECX1670A-B16      $5.00       PDF
+      ON                                Black       Black        Silver        ECX1670A-B06      $5.00       PDF
+      OPEN                              Black       Black        Silver        ECX1670A-B07       $5.00      PDF
+      OPEN OFF CLOSE                    Black       Black        Silver        ECX1670A-B48       $5.00      PDF
+      OPEN CLOSE                        Black       Black        Silver        ECX1670A-B17       $5.00      PDF
+      OUT                               Black       Black        Silver        ECX1670A-B35      $5.00       PDF
+      POWER ON                          Black       Black        Silver        ECX1670A-B21      $5.00       PDF
+      PULL ON PUSH OFF                  Black       Black        Silver        ECX1670A-B50      $5.00       PDF
+      RAISE                             Black       Black        Silver        ECX1670A-B36       $5.00      PDF
+      READY                             Black       Black        Silver        ECX1670A-B37      $5.00       PDF
+      RELEASE                           Black       Black        Silver        ECX1670A-B54      $5.00       PDF
+      RESET                             Black       Black        Silver        ECX1670A-B38      $5.00       PDF
+      RETRACT                           Black       Black        Silver        ECX1670A-B52      $5.00       PDF
+      REVERSE                           Black       Black        Silver        ECX1670A-B08      $5.00       PDF
+      RUN                               Black       Black        Silver        ECX1670A-B09      $5.00       PDF
+      SAFE RUN                          Black       Black        Silver        ECX1670A-B45       $5.00      PDF
+      START                             Black       Black        Silver        ECX1670A-B10       $5.00      PDF
+      STOP                              Black       Black        Silver        ECX1670A-B11      $5.00       PDF
+      STOP                               Red         Red         Silver        ECX1670A-R11      $5.00       PDF
+      TEST                              Black       Black        Silver        ECX1670A-B39      $5.00       PDF
+      TRANSFER                          Black       Black        Silver        ECX1670A-B40      $5.00       PDF
+      TRIP                              Black       Black        Silver        ECX1670A-B41      $5.00       PDF
+      UNCLAMP                           Black       Black        Silver        ECX1670A-B42       $5.00      PDF
+      UP                                Black       Black        Silver        ECX1670A-B12      $5.00       PDF
+      UP OFF DOWN                       Black       Black        Silver        ECX1670A-B49      $5.00       PDF
+      UP DOWN                           Black       Black        Silver        ECX1670A-B18      $5.00       PDF
+      Note: Legend plate text is 3mm in height
+
+
+
+
+www.automationdirect.com                                                                                      Pilot Devices              tPIL-48
+                                                                                         For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+22mm Metal Pilot Device Accessories
+
+
+
+
+                            ECX1680A-B17                                                         ECX1680A-R03
+
+
+
+
+                                                   Jumbo Aluminum Legend Plates
+                                               Color of        Text                          Part                      Drawing
+                   Legend                                             Background Color                         Price
+                                                Field         Color                         Number                       Link
+                   Blank Plate                  Black           -          Silver        ECX1680A-B           $5.50      PDF
+                   Blank Plate                   Red            -          Silver        ECX1680A-R           $5.50      PDF
+                   EMERG. STOP                   Red          Red          Silver        ECX1680A-R03         $5.50      PDF
+                   HAND OFF AUTO                Black         Black        Silver        ECX1680A-B20         $5.50      PDF
+                   JOG                          Black         Black        Silver        ECX1680A-B05         $5.50      PDF
+                   OFF ON                       Black         Black        Silver        ECX1680A-B16         $5.50      PDF
+                   OPEN CLOSE                   Black         Black        Silver        ECX1680A-B17         $5.50      PDF
+                   POWER ON                     Black         Black        Silver        ECX1680A-B21         $5.50      PDF
+                   START                        Black         Black        Silver        ECX1680A-B10         $5.50      PDF
+                   STOP                          Red          Red          Silver        ECX1680A-R11         $5.50      PDF
+                   Note: Legend plate text is 3mm in height
+
+
+
+
+www.automationdirect.com                                                                                 Pilot Devices              tPIL-49
+                                                                                        For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+E22 Series Cross-reference Tables
+
+                  Pushbutton, Indicator Light, and Selector Switch Cross Reference
+                                               Telemecanique
+  Cutler-Hammer    Allen-Bradley                                                     GE C-2000                     Siemens
+                                    XB2B (chrome bezel) XA2B (black bezel)
+                                                  Non-Illuminated Pushbuttons
+                                                                                                                3SB1000-0AB01
+                     800EPF2                        ZA2BA2
+    E22PB1A                                                                         P9XPNNG10N0                   3SB02-CBH
+                    800E3LX10                      ZA2BZ101
+                                                                                                                 3SB1400-0B
+
+                                                                                                                3SB1000-0AE01
+                     800EPF3                        ZA2BA3
+    E22PB3A                                                                         P9XPNVG10N0                   3SB02-CBH
+                    800E3LX10                      ZA2BZ101
+                                                                                                                 3SB1400-0B
+
+                                                                                                                3SB1000-0LC01
+                     800EPE4                        ZA2BL4
+    E22EB2B                                                                         P9XPNRS20N0                   3SB02-CBH
+                    800E3LX01                      ZA2BZ102
+                                                                                                                 3SB1400-0B
+
+                  ENCLSR: 800E-2P
+                      800EP-F3
+                     800E-2LX10                                                     P9CPNRSN20NO
+                                                     XALB211
+   E22ASB204          800EP-E4                                                  P9CPNVGN10NO P9EPB02              3SB02-S21
+                                         Both flush - stop is not extended
+                     800E-2LX01                                                  P9AEPN201 P9AEPN202
+                   800E-34BE208
+                    800E-34R212
+
+                                                    Illuminated Pushbuttons
+
+                                                                                                                3SB1001-OLC01
+                     800EPLE4
+                                                   ZA2BW14                                                        3SB02-CBH
+   E22TB2X4B         800E3DL3                                                     P9XPLRSDN12NADl
+                                                  ZA2BW06224                                                      3SB1400-0C
+                     800E3X01
+                                                                                                                  3SB1400-2H
+
+                                                                                                                3SB1001-0LE01
+                     800EPLE3
+                                                   ZA2B213                                                        3SB02-CBH
+   E22TB3X4A         800E3DL3                                                     P9XPLVSDN12NADl
+                                                  AZ2B206124                                                     3SB1400-0B
+                     800E3X10
+                                                                                                                 3SB1440-2H
+
+                                                                                                                3SB1001-0LD01
+                     800EPLE5
+                                                   ZA2BW15                                                        3SB02-CBH
+   E22TB9X4A         800E3DL3                                                     P9XPLASDN12NADl
+                                                  ZA2BW06124                                                     3SB1400-0B
+                     800E3X10
+                                                                                                                 3SB1400-2H
+
+                     800EPLE4                                                        P9XPLRSB                   3SB1001-0LC01
+                                                   ZA2BW14
+   E22TB2X10B        800E2RL5                                                         P9PRNVJ                     3SB02-CBH
+                                                 ZA2BW062120
+                     800E3X01                                                        P9PDNVD                     3SB1400-0C
+
+                     800EPLE3                                                        P9XPLVSD                    3SB02-UPR1P
+                                                   ZA2BW13
+   E22TB3X10A        800E2RL5                                                        P9PRNVJ                     3SB1910-0DE
+                                                 ZA2BW061120
+                     800E3X10                                                        P9PDNVD                      3SB1400-OB
+
+                     800DPLE5                                                        P9XPLASD                    3SB02-UPR1P
+                                                   ZA2BW15
+   E22TB9X10A        800E2RL5                                                         P9PRNVJ                    3SB1910-0DD
+                                                  ZA2B2061120
+                     800E3X10                                                        P9PDNVD                      3SB1400-0B
+
+
+
+
+www.automationdirect.com                                                                                Pilot Devices              tPIL-111
+                                                                                                      For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+GCX Series 22mm Metal Pilot Devices
+Features
+
+                                                                                     Secure mounting method eliminates
+   Any combination of contact blocks is                                              twisting in mounting hole
+   allowed, up to a total of six
+   (two blocks wide and three blocks deep)
+
+
+
+
+                                                                                                        Operators are protected to IP65
+
+
+
+
+                  Support base mounts into
+                  panels up to 6mm thick
+
+                                                          Chrome-plated alloy bezel is not only
+                                                          corrosion-resistant, but also attractive
+
+
+Easy installation
+
+
+
+
+                                         Six contact block maximum; two
+                                         wide by three deep
+
+
+
+To remove operator, press
+toward support base and twist
+counterclockwise.
+                                             Self-cleaning silver contacts provide
+                                             reliable, low-energy switching
+                                                                                                                                    Pressure plate wiring
+                                                                                                                                    terminals for easy, secure wiring,
+                                                                                                                                    accepting up to 14 AWG wire
+                                                       Contacts rated A300
+                                                       (Refer to E22 Series                                                                          Minimum current
+                                                       mounting/contact rating          Clear contact block for illustration purposes. Clear
+                                                                                                                                                  rating 15 mA @ 24vdc
+                                                       section for details)                contact blocks are not available for sale from
+                                                                                                        AutomationDirect.
+
+
+
+
+To install switch, place support base                    All indicators offer side wire
+against rear of panel (not shown
+here), insert the operator and twist
+                                                             entry with back screw
+clockwise until it clicks into place.                     terminals for easy wiring
+Carefully tighten the securing screws.
+Do not over-tighten.
+
+
+www.automationdirect.com                                                                                                   Pilot Devices                    tPIL-24
+                                                                                                           For the latest prices, please check AutomationDirect.com.
+1-800-633-0405
+
+GCX Series 22mm Plastic Pilot Devices
+Specifications
+Assembly information
+These pushbuttons and indicator lights are supplied with the appropriate contact blocks, unless otherwise indicated.
+Use these drawings as a guide to make sure there is adequate clearance behind the panel.
+
+Dimensions                        Pushbuttons and selector switches
+                                                                                                    Illuminated pushbuttons and selector switches/
+mm                                                                                                  indicator lights
+[inches]
+
+
+
+
+Mounting
+
+                                                                                                                 NOTE: Contact blocks can be
+                                                                                                                 arranged up to three deep by
+                                                                                                                 two wide.
+                                                                                                                                Typical Wiring
+
+
+                                                                                                                            4                            3
+                                                                                                                                  Normally Open
+
+                                                                                                                            2                            1
+     This layout is suitable if all switches are              This layout is suitable if all switches are                         Normally Closed
+     230V or less and the same polarity.                      400V or less and different polarity.
+                                                                                                                          x1                             x2
+
+Specifications                                                                                                                         Indicator
+
+These specifications apply to all the GCX and ECX 22mm plastic pushbuttons and switches.
+
+                     Physical Specifications                                                            Electrical Specifications
+Standards Reference     CEI EN 60947-5-1, CSA C22-2 n.14                             Rated Thermal                 A300, Q300 (Refer to E22 Series mounting/contact
+Approvals               UL File E189258, IMQ (where specified)                       Current (contact block)       rating section for details)
+Enclosure Material      Fiberglass reinforced thermoplastic                                                        Ui 660V according to CEI EN 60947-5-1,
+                                                                                     Rated Insulation Voltage
+                                                                                                                   300V according to CSA C22-2 n.14 and UL 508
+Contacts Material       Silver
+                                                                                     Dielectric Strength           3 kV (1 second)
+                        IP40 for GCX3151-24, GCX3151-120, GCX3153-24 and
+                        GCX3153-120. IP65 for all others.(See Appendix of this       Insulation Resistance         2 MΩ min. (500 VDC)
+Protection Degree
+                        catalog for explanation of IP ratings according to IEC 144   Initial Contact Resistance ≤ 25 mΩ
+                        CEI 70-1.)                                                   Short-Circuit Protection*     Cartridge fuses gl 10 A-500V 10, 3x38l1 100 KA
+Electric Shock                                                                       Terminal Markings             According to CENELEC EN 50013
+                        IEC 536, Class II
+Protection
+                                                                                                                   Single screw with non-loosening plate clamp,14 AWG
+                        Storage: -40 to +80 ºC (-40 to +176 ºF)                      Connections
+Temperature Ratings                                                                                                max.,Tighten to 0.8 N·m max
+                        Operating: -25 to +70 ºC (-13 to 158 ºF)
+                                                                                                                   Self-cleaning types EN01 (N.C.) EN10 (N.O.) slow-
+Working                                                                              Contacts Operation
+                        All working positions are allowed                                                          action, positive opening
+Positions
+                                                                                     Operation Frequency           3600 operations per hour max.
+                        Pushbuttons, selector switches, joy stick switches:
+                        1,000,000 operations                                                                       AC15 (Control of AC electromagnetic loads)
+Mechanical Life                                                                                                    24 volts AC at 10 amps
+                        Emergency mushrooms and push-push pushbuttons:
+                        300,000 operations                                                                         130 volts AC at 6.5 amps
+                                                                                     Utilization Category
+                                                                                                                   DC13 (Control of DC electromagnetic loads)
+                        (according to IEC 947-5-1)                                                                 24 volts DC at 1.5 amps
+Positive Opening
+                        All functions incorporating an NC contact are positive                                     110 volts DC at 0.5 amps
+Operation
+                        opening operation
+                                                                                     *Note: Recommended, not supplied
+
+
+
+www.automationdirect.com                                                                                                     Pilot Devices                   tPIL-3
+

@@ -1,0 +1,120 @@
+# Power Supplies - External/Internal (Off-Board) | DigiKey
+https://www.digikey.com/en/products/category/power-supplies-external-internal-off-board/8?s=N4IgTCBcDaIBIBEBKBaAbABhWALCAugL5A
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Power Supplies - External/Internal (Off-Board)
+Dark Mode
+Power Supplies - External/Internal (Off-Board)2 results
+Filters
+In Stock
+Normally Stocking
+Exclude Marketplace Products
++ More Filters
+SEARCH ENTRY
+
+HDR-60-24
+
+Categories
+Industrial, DIN Rail Power Supplies
+Exact Match
+
+HDR-60-24
+
+AC/DC DIN RAIL SUPPLY 24V 60W
+
+MEAN WELL USA Inc.
+
+$20.90000
+Details
+
+HDR-60-24
+
+AC/DC CONVERTER 24V 60W
+
+Moxa
+
+$102.00000
+Details
+Power Supplies - External/Internal (Off-Board) Categories
+Industrial, DIN Rail Power Supplies
+2 Items
+Related Content
+How to Increase Power Density and Simplify Cooling Using Advanced MOSFETs
+Use top-side cooled (TSC) SiC MOSFETs to increase power density and simplify cooling across automotive, data server, motor drive, and power conversion systems.
+Learn More
+DC/DC Converters Bridge 48 V Input with 12 V Industrial Loads to Boost Efficiency, Power Density
+Efficient, non-isolated, regulated DC/DC converters in a compact package bridge 48 V inputs to 12 V loads for greater power density in industrial applications.
+Learn More
+Maintaining System Availability and Data Integrity in Industrial Automation Applications
+Phoenix Contact TRIO3 capacity modules offer several key benefits for powering and protecting PLCs, IPCs, I/O, HMI panels, and other 24 VDC DIN-rail equipment.
+Learn More
+Popular Series
+New Product 
+LPP300 Series 300 W Open-Frame AC/DC Power Supplies
+SL POWER / Advanced Energy LPP300 series high-efficiency 300 W open-frame AC/DC power supplies deliver reliable performance for industrial, medical, and embedded applications.
+R Series Interchangeable Input Plugs and Cord Retainers
+GlobTek high-quality interchangeable blades and cord management retainers are designed for seamless compatibility with wall adapters.
+Q Series Interchangeable Input Plugs
+GlobTek power supply accessories feature premium interchangeable blades and retainers designed for seamless compatibility with their multi-plug wall adapters.
+Power Supply Solutions
+Qualtek power supply solutions provide certified performance and dependability
+Featured Manufacturers
+About Power Supplies - External/Internal (Off-Board)
+
+External/Internal (Off-Board) Power Supplies are standalone power conversion units meant to be mounted into an enclosure or onto a chassis rather than directly onto a board. They are designed to handle higher power levels, have greater isolation, and withstand more demanding environmental and safety requirements than typical board mount supplies. They are widely used in industrial systems, medical devices, communications equipment, embedded platforms, and infrastructure applications.
+
+Types of External/Internal (Off-Board) Power Supplies
+
+AC DC Desktop, Wall Power Adapters - Convert mains AC (120-240 VAC) to one or more regulated DC outputs to be plugged into external devices.
+AC DC Converters and DC DC Converters - Modules mounted on external chassis or into cabinets/racks. Capable of converting AC (120-240 VAC) to DC or stepping DC voltages up or down.
+LED Drivers - Constant current or constant voltage power supplies tailored for powering LED lighting systems. These incorporate dimming control and thermal protection for lighting.
+PoE Injectors - Power supplies that deliver both data and DC power through Ethernet cabling, conforming to IEEE 802.3af/at/bt standards.
+Industrial, DIN Rail Power Supplies - Ruggedized enclosed power supplies designed to withstand harsh ambient conditions while mounted in control panels or industrial cabinets.
+
+Key Advantages and Regulatory Compliance
+
+External/Internal (Off-Board) Supplies offer engineers several critical technical benefits and come with regulatory compliance important for product safety, reliability, and market access.
+
+High power capacity & voltage scaling - capable of handling higher currents and voltages, enabling wider input ranges and greater headroom for transient loads.
+Enhanced isolation and safety - more clearance, creepage, and insulation in the enclosure.
+Form factor and mounting variety - DIN-rail, open-frame, enclosed modules, plug-packs, wall adapters, etc. provide flexibility in mechanical design.
+Standards such as UL/IEC 60950-1, UL/IEC 62368-1, IEC/EN 60601-1 provide minimum design requirements for protection against electric shock, fire, and mechanical hazards.
+EMI/EMC compliance regulations like EN 55032, FCC Part 15, CISPR protect against conducted and radiated emissions preventing external interference vulnerability.
+Certification marking such as CE in Europe, UL / cUL in North America, CCC in China, and PSE in Japan ensure the supply is market ready, reducing costly requalification late in the design cycle.
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

@@ -1,0 +1,404 @@
+ESB63-20N-01                                                                                                              1/6
+
+
+
+
+PRODUCT-DETAILS
+
+
+ESB63-20N-01
+ESB63-20N-01 Installation Contactor (NO) 63
+A - 2 NO - 0 NC - 24 V - Control Circuit 400 Hz
+
+
+
+
+General Information
+Extended Product Type:        ESB63-20N-01
+
+Product ID:                   1SAE351111R0120
+
+EAN:                          4013614518935
+
+Catalog Description:          ESB63-20N-01 Installation Contactor (NO) 63 A - 2 NO - 0 NC - 24 V - Control Circuit 400
+                              Hz
+
+Long Description:             The ESB63..N installation contactors are used to control single and three-phase loads up
+                              to 63 A and can be operated by AC or DC.
+                              These contactors are made for use in household applications as well as in industrial
+                              environments.
+                              The following benefits are provided:
+                              Hum-free operation, low power consumption and integrated overvoltage protection.
+                              Various contact combinations and accessories are available.
+
+Display Name:                 ESB63-20N-01
+
+
+
+
+Ordering
+Minimum Order Quantity:       1 piece
+
+Customs Tariff Number:        85365080
+
+
+© 2026 ABB. All rights reserved.                       2026/03/03                             Subject to change without notice
+ESB63-20N-01                                                                                                2/6
+
+
+
+
+Popular Downloads
+EPLAN Data:                               9AAC404720_EPLAN
+
+Data Sheet, Technical Information:        2CDC103051C0201
+
+Instructions and Manuals:                 2CDC103043M6801
+
+CAD Dimensional Drawing:                  2CDC001079B0201
+
+
+
+
+Dimensions
+Product Net Width:                        54 mm
+
+Product Net Depth / Length:               65 mm
+
+Product Net Height:                       85 mm
+
+Product Net Weight:                       0.37 kg
+
+
+
+
+Technical
+Number of Main Contacts NO:               2
+
+Number of Main Contacts NC:               0
+
+Number of Auxiliary Contacts NO:          0
+
+Number of Auxiliary Contacts NC:          0
+
+Number of Poles:                          2P
+
+Standards:                                IEC/EN 60947-1
+                                          IEC/EN 60947-4-1
+                                          IEC/EN 61095
+                                          UL 60947-1
+                                          UL 60947-4-1
+                                          IEC 60335-2-40 A2L
+
+Rated Operational Voltage:                Main Circuit 220 V DC
+                                          Main Circuit 400 V AC
+
+Rated Frequency (f):                      Control Circuit 400 Hz
+                                          Control Circuit 50 Hz
+                                          Control Circuit 60 Hz
+                                          Control Circuit DC
+                                          Main Circuit 50 Hz
+                                          Main Circuit 60 Hz
+                                          Main Circuit DC
+
+Rated Operational Current AC-1 (I e ):    (NO) 63 A
+
+Rated Operational Current AC-3 (I e ):    (230 V) Single Phase, NO 30 A
+
+Rated Operational Current AC-7a (I e ):   (NO) 63 A
+
+Rated Operational Current AC-7b (I e ):   (230 V) Single Phase, NO 30 A
+
+Rated Operational Power AC-1 (P e ):      (230 V) Single Phase, NO 14.5 kW
+
+Rated Operational Power AC-3 (P e ):      (230 V) Single Phase, NO 5 kW
+
+Rated Operational Power AC-7a (P e ):     (230 V) Single Phase, NO 14.5 kW
+
+Rated Operational Power AC-7b (P e ):     (230 V) Single Phase, NO 5 kW
+
+Rated Breaking Capacity AC-3:             8 x Ie / AC-3
+
+Rated Making Capacity AC-3:               10 x Ie / AC-3
+
+© 2026 ABB. All rights reserved.                                   2026/03/03   Subject to change without notice
+ESB63-20N-01                                                                                                                          3/6
+
+
+Rated Short-time Withstand Current Low at 40 °C Ambient Temp, in Free Air, from a Cold State 10 s 240 A
+Voltage (I cw ):
+
+Rated Insulation Voltage (U i ):         500 V
+
+Rated Impulse Withstand Voltage (U imp ): 6 kV
+
+Electrical Durability:                   AC-1 (NO) 100000 cycle
+                                         AC-3 (NO) 240000 cycle
+                                         AC-7a (NO) 100000 cycle
+                                         AC-7b (NO) 240000 cycle
+
+Maximum Electrical Switching Frequency: (AC-1) 300 cycles per hour
+                                        (AC-3) 600 cycles per hour
+                                        (AC-7a) 300 cycles per hour
+                                        (AC-7b) 600 cycles per hour
+
+Mechanical Durability:                   Nr. Operations 1000000 cycle
+
+Coil Operating Limits:                   (acc. to IEC 60947-4-1) 0.85 ... 1.1 x Uc (at θ ≤ 55 °C)
+
+Rated Control Circuit Voltage (U c ):    24 V
+
+Coil Consumption:                        Average Holding Value 50 / 60 Hz 4.5 V·A
+                                         Average Holding Value DC 5 W
+                                         Average Pull-in Value 50 Hz 60 V·A
+                                         Average Pull-in Value 60 Hz 60 V·A
+                                         Average Pull-in Value DC 70 W
+
+Power Loss:                              at Rated Operating Conditions AC-1 per Pole 4.5 W
+
+Mounting on DIN Rail:                    TH35-15 (35 x 15 mm Mounting Rail) acc. to IEC 60715
+                                         TH35-7.5 (35 x 7.5 mm Mounting Rail) acc. to IEC 60715
+
+Connecting Capacity Main Circuit:        Flexible with Ferrule 1x 1.5 ... 16 mm²
+                                         Flexible with Ferrule 2x 1.5 ... 10 mm²
+                                         Flexible with Insulated Ferrule 1x 1.5 ... 16 mm²
+                                         Flexible with Insulated Ferrule 2x 1.5 ... 10 mm²
+                                         Flexible 2x 1.5 ... 10 mm²
+                                         Flexible 1x 1.5 ... 16 mm²
+                                         Rigid 1x 1.5 ... 25 mm²
+                                         Rigid 2x 1.5 ... 10 mm²
+
+Connecting Capacity Control Circuit:     Flexible with Ferrule 1x 0.75 ... 2.5 mm²
+                                         Flexible with Ferrule 2x 0.75 ... 1.0 mm²
+                                         Flexible with Insulated Ferrule 1x 0.75 ... 2.5 mm²
+                                         Flexible with Insulated Ferrule 2x 0.75 ... 1 mm²
+                                         Flexible 1x 1 ... 4.0 mm²
+                                         Flexible 2x 1 ... 2.5 mm²
+                                         Rigid 1x 1 ... 4 mm²
+                                         Rigid 2x 1 ... 2.5 mm²
+
+Wire Stripping Length:                   Control Circuit 7 mm
+                                         Main Circuit 13 mm
+
+Degree of Protection:                    IP20
+
+Recommended Screw Driver:                Control Circuit Pozidriv 1
+                                         Main Circuit Pozidriv 2
+
+Tightening Torque:                       Control Circuit 0.9 N·m
+                                         Main Circuit 2.5 N·m
+
+Terminal Type:                           Screw Terminals
+
+Width in Number of Modular Spacings:     3
+
+Product Name:                            Installation Contactor
+
+
+
+
+Technical UL/CSA
+Maximum Operating Voltage UL/CSA:        Main Circuit 480 V AC
+
+
+
+
+© 2026 ABB. All rights reserved.                                      2026/03/03                          Subject to change without notice
+ESB63-20N-01                                                                                                                          4/6
+
+
+General Use Rating UL/CSA:                  (acc. to UL 240 V) 63 A
+                                            (acc. to UL 480 V) 63 A
+
+Horsepower Rating UL/CSA:                   (220 ... 240 V AC) Single Phase, NO 5 Hp
+                                            (440 ... 480 V AC) Single Phase, NO 7.5 Hp
+
+Connecting Capacity Main Circuit UL/CSA:Solid 16-4 AWG
+                                        Stranded 16-4 AWG
+
+Connecting Capacity Control Circuit         Solid 16-10 AWG
+UL/CSA:                                     Stranded 16-10 AWG
+
+Tightening Torque UL/CSA:                   Control Circuit 8 in·lb
+                                            Main Circuit 20 in·lb
+
+Full Load Amps Motor Use:                   (220 ... 240 V AC) Single Phase, NO 28 A
+                                            (440 ... 480 V AC) Single Phase, NO 21 A
+
+
+
+
+Environmental
+Ambient Air Temperature:                    Operation -25 ... +55 °C
+                                            Storage -40 ... +80 °C
+
+Maximum Operating Altitude Permissible: 2000 m
+
+Resistance to Shock acc. to IEC 60068-2- 11 ms Pulse 15g
+27:
+
+Pollution Degree:                           3
+
+
+
+
+Material Compliance
+Conflict Minerals Reporting Template        9AKK108467A5658
+(CMRT):
+
+REACH Declaration:                          2CMT2021-006202
+
+RoHS Declaration:                           2CMT2021-006277
+
+RoHS Information:                           Following EU Directive 2011/65/EU and Amendment 2015/863 July 22, 2019
+
+Toxic Substances Control Act - TSCA:        2CMT2023-006525
+
+WEEE B2C / B2B:                             Business To Consumer
+
+WEEE Category:                              5. Small Equipment (No External Dimension More Than 50 cm)
+
+
+
+
+ABB EcoSolutions
+ABB EcoSolutions:                           Yes
+
+ABB Site Meeting Group Waste To Landfill No non-hazardous waste is sent to a landfill
+Target:                                  UL 2799 Zero Waste To Landfill Validation available
+
+EcoSolutions Profile:                       1SFC100125C0336
+
+End Of Life Disassembling Instructions:     1SBC100156C0266
+
+Environmental Product Declaration - EPD: 1SAC200433H0001
+
+Improved Energy Efficiency for              Product Efficiency - Product considered more energy-efficient compared to similar
+Customers:                                  product on market or older products from the same line
+
+Recyclability Rate of the Product acc. to   Design for Closing Resource Loops - Standard EN45555 - 94.1 %
+EN45555:
+
+
+
+
+© 2026 ABB. All rights reserved.                                       2026/03/03                         Subject to change without notice
+ESB63-20N-01                                                                                                                    5/6
+
+
+Certificates and Declarations
+A2L Certificate – IEC:                  1SAA920000-4601
+
+ABS Certificate:                        1SAA920000-0101
+
+CB Certificate:                         1SAA920005-2001
+
+CCC Certificate:                        2024010304659840
+                                        2024010304658955
+
+Declaration of Conformity - CE:         1SAD101100-3301
+
+Declaration of Conformity - UKCA:       1SAD201100-3301
+
+DNV Certificate:                        1SAA920000-0306
+
+RINA Certificate:                       1SAA920000-0801
+
+RMRS Certificate:                       1SAA920000-0705
+
+UL Certificate:                         E191658-19960301
+
+
+
+
+Container Information
+Package Level 1 Units:                  box 1 piece
+
+Package Level 1 Width:                  92 mm
+
+Package Level 1 Depth / Length:         57 mm
+
+Package Level 1 Height:                 69.5 mm
+
+Package Level 1 Gross Weight:           0.37 kg
+
+Package Level 1 EAN:                    4013614525247
+
+Package Level 2 Units:                  32 piece
+
+Package Level 2 Width:                  280 mm
+
+Package Level 2 Depth / Length:         395 mm
+
+Package Level 2 Height:                 210 mm
+
+Package Level 2 Gross Weight:           12.2 kg
+
+Package Level 2 EAN:                    4013614539640
+
+
+
+
+External Classifications and Standards
+Object Classification Code:             Q
+
+ETIM 7:                                 EC001653 - Installation contactor for distribution board
+
+ETIM 8:                                 EC001653 - Installation contactor for distribution board
+
+ETIM 9:                                 EC001653 - Installation contactor for distribution board
+
+eClass:                                 V11.0 : 27142308
+
+UNSPSC:                                 39121529
+
+IDEA Granular Category Code (IGCC):     4759 >> Installation contactor for distribution board
+
+E-Number (Finland):                     3707594
+
+
+
+
+Accessories
+Identifier                Description              Qty                     Type                    Unit Of Measure
+
+
+© 2026 ABB. All rights reserved.                                 2026/03/03                         Subject to change without notice
+ESB63-20N-01                                                                                                                         6/6
+
+
+1SAE901901R1011          EH04-11N Auxiliary        1                       EH04-11N                     piece
+                         Contact - 0 NO - 0 NC -
+                         Auxiliary Circuit 50 Hz
+
+1SAE901901M1011          EH04-11N Auxiliary        1                       EH04-11N                     piece
+                         Contact - 0 NO - 0 NC -
+                         Auxiliary Circuit 50 Hz
+
+1SAE901901R1020          EH04-20N Auxiliary        1                       EH04-20N                     piece
+                         Contact - 0 NO - 0 NC -
+                         Auxiliary Circuit 50 Hz
+
+1SAE901901M1020          EH04-20N Auxiliary        1                       EH04-20N                     piece
+                         Contact - 0 NO - 0 NC -
+                         Auxiliary Circuit 50 Hz
+
+GHE3401903R0001          ESB-PLK40/63 Sealing      1                       ESB-PLK40/63                 piece
+                         Cover
+
+GHE3201902R0001          ESB-DIS Distance Piece    1                       ESB-DIS                      piece
+
+
+
+
+Categories
+Products > Low Voltage Products and Systems > Control Products > Contactors > Installation Contactors
+
+Products > Low Voltage Products and Systems > Modular DIN Rail Products > Command and Signalling Devices > Installation
+Contactors
+
+
+
+
+© 2026 ABB. All rights reserved.                                  2026/03/03                             Subject to change without notice
+

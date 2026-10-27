@@ -1,0 +1,178 @@
+# Miniature Supplementary Protector: 2A, C curve (PN# FAZ-C2-2) | AutomationDirect
+https://www.automationdirect.com/adc/shopping/catalog/circuit_protection_-z-_fuses_-z-_disconnects/circuit_breakers_-a-_circuit_protectors/miniature_supplementary_protectors/faz-c2-2
+
+We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.
+
+OKChange my preferences
+Login | Register
+Accounts & Orders 
+ 0
+$0.00
+|
+Direct Sales US & Canada
+|
+800-633-0405
+|
+About
+|
+Contact
+|
+Line Card
+|
+Products | Support    Ordering Tools  
+Navigation
+ > Circuit Protection /... > Circuit Breakers & C... > Miniature Supplement... > FAZ-C2-2
+
+(+2)
+
+
+CAD
+
+BUYING GUIDE
+ Compare Product
+FAZ-C2-2
+
+Eaton miniature supplementary protector, 2A, 480Y/277 VAC/96 VDC, 2-pole, C curve, thermal magnetic, 10kA @ 480Y/277 VAC interrupting rating, 35mm DIN rail mount.
+
+(2) 
+Reviews
+ Category Overview
+ Shop Similar
+
+Report a page issue
+
+<< Previous Item        Next Item >>
+$46.00
+
+
+FREE* Delivery Wed, Oct 28
+if ordered within 1 hrs 4 mins
+94 Available
+More Detail
+
+Qty. In Cart:    
+Update
+ Add To BOM Or Favorites
+Item Shipping Weight: 0.531 lb
+Country Of Origin: ROMANIA
+HS Code: 8536.20
+Specs	Notes	Tech Q & A	Downloads	Compliance Info	What's in the Box	Related Items	Reviews
+FAZ-C2-2 Specifications
+
+  Technical Specifications
+
+Product Attribute Table
+	Technical Attributes
+	Brand	Eaton
+	Item	Supplementary protector
+	Circuit Breaker Type	Miniature
+	Circuit Type	Supplementary
+	Current-Limiting	No
+	Amperage Rating	2A
+	Voltage Rating	480Y/277 VAC/96 VDC
+	Number of Poles	2
+	Trip Curve	C curve
+	Trip Type	Thermal magnetic
+	Interrupting Rating	10kA @ 480Y/277 VAC
+	UL Rating	UL 1077 recognized
+	Mounting	35mm DIN rail
+	HACR Rated	No
+	Reverse Feed Capable	Yes
+	Manufacturer Part Number	FAZ-C2/2
+Search for Similar Items 
+FAZ-C2-2 Product Notes
+UL 1077 devices are for secondary overcurrent protection only
+
+
+FAZ-C2-2 Technical Questions
+Please login to ask a product question.
+Collapse All | Expand All
+ +  What does the "/" mean in the voltage ratings?COPY LINK
+ +  What is the watt loss?COPY LINK
+ +  Is it possible to link two of the 2-pole or 3-pole circuit breakers together so they can both be switched off at the same time?COPY LINK
+ +  Can this product be used on a 230-240 VAC circuit?COPY LINK
+ +  What is the difference between UL489 and UL 1077 protection ('Branch' vs 'Supplementary')?COPY LINK
+FAZ-C2-2 Downloads
+Documents 
+Technical Specifications      Tech Specs vs Cut Sheet Help
+      Technical Specifications
+      Product Cut Sheet
+Manuals
+      FAZ Protector Manual
+Other Documents
+      FAQ
+      Buying Guide
+
+Item Feedback
+Drawings
+  FAZ-C2-2 2D Drawing
+
+2D drawings specifically for this item.
+  FAZ-C2-2 STP 3D Model
+
+For more info, see our 3D CAD file FAQs.
+View / Download 2D / 3D CAD
+FAZ-C2-2 Compliance Information
+Agency Compliance & Certifications
+UL Listed File #:  None
+UL Recognized File #:  E177451
+UL Hazardous File #:  None
+UL Product iQ™
+(Search for UL file number above.)
+	View CE declarations
+	
+CSA File #:   204453
+Search CSA file numbers
+	RoHS Status:  Yes (See CE Doc)
+
+	EU REACH document
+Other:  None
+
+Conflict Minerals Information
+
+FAZ-C2-2 What's in the Box
+
+
+ 
+Qty
+Description
+1
+Supplementary Protector 
+FAZ-C2-2 Related Items
+Recommended Items
+The following items are recommended for purchase with a FAZ-C2-2
+
+BBUL-EC-3-2
+ Compare
+
+Eaton end cap, package of 2. For use with Eaton BBUL series 2-phase and 3-phase busbars.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$7.50
+Backordered
+Additional availability undetermined at this time.
+More Detail / Notify Me
+Qty. in Cart: 
+Update 
+FAZ-C2-2 Reviews
+Overall Rating: 5.0
+(based on 2 reviews)
+Quality
+5.0
+Ease of Use
+5.0
+Value
+5.0
+Show only reviews with comments 1 of 2 reviews
+All (1)
+5★ (1)
+Sort by: 
+On 5/19/26
+Alan
+· MIAMI, FL
+✓ Verif
+
+[truncated at 4000 of 5617 chars; use -c to raise]

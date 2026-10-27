@@ -1,0 +1,32 @@
+1. FBS 2-12 - Plug-in bridge - 3005950 | Phoenix Contact
+   https://www.phoenixcontact.com/en-us/products/jumper-fbs-2-12-3005950
+   FBS 2-12 - Plug-in bridge 3005950 3D view and CAD download Plug-in bridge, pitch: 12 mm, number of positions: 2, nominal current: 76 A, color: red
+
+2. FBS 2-16 - Plug-in bridge - 3005963 | Phoenix Contact
+   https://www.phoenixcontact.com/en-us/products/jumper-fbs-2-16-3005963
+   Plug-in bridge, pitch: 16 mm, number of positions: 2, nominal current: 101 A, length: 44 mm, color: red
+
+3. 3005950 Phoenix Contact | Terminal Block Jumpers | DigiKey
+   https://www.digikey.com/en/products/detail/phoenix-contact/3005950/2525736
+   Buy now, ships today. 3005950 - 2 Position Terminal Block, Cross Connection Jumper Flat Pins from Phoenix Contact. View datasheets, pricing and availability from DigiKey now!
+
+4. PDF FBS 2-12 - Mouser Electronics
+   https://www.mouser.com/datasheet/3/507/3/phoenix-contact-3005950-en.pdf
+   Plug-in bridge, pitch: 12 mm, number of positions: 2, color: red
+
+5. PDF FBS 2-12 - Plug-in bridge - Mouser Electronics
+   https://www.mouser.com/datasheet/3/507/7/phoenix_contact_3005950_en.pdf
+   Your advantages • The 2- to 50-pos. jumpers can bridge up to 50 terminal blocks in the two bridge shafts of the CLIPLINE complete system in one step
+
+6. Phoenix Contact Distributor | DigiKey
+   https://www.digikey.com/en/supplier-centers/phoenix-contact
+   Phoenix Contact terminal blocks, industrial controls, power relays and more available at DigiKey. DigiKey is an authorized Phoenix Contact distributor.
+
+7. Phoenix Contact 3005950 Plug-in Bridge, 2 Positions, Red, FBS 2-12, ST ...
+   https://us.rs-online.com/product/phoenix-contact/3005950/70169293/
+   Simplify your electrical connections with the PHOENIX CONTACT Plug-in Bridge. Designed for ease of use and reliability, this 2-position, red bridge ensures secure and efficient connectivity in your electrical systems.
+
+8. PDF UT 16 - Farnell
+   https://www.farnell.com/datasheets/1514100.pdf
+   Feed-through modular terminal block, Connection method: Screw connection, Cross section: 1.5 mm2 - 25 mm2, AWG 16 - 4, Width: 12.2 mm, Color: gray, Mounting type: NS 35/7.5, NS 35/15
+

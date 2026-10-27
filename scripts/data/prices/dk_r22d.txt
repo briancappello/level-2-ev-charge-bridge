@@ -1,0 +1,162 @@
+# MFR-50FRF52-2K2 YAGEO | Through Hole Resistors | DigiKey
+https://www.digikey.com/en/products/detail/yageo/MFR-50FRF52-2K2/9146561
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Resistors
+Through Hole Resistors
+
+YAGEO MFR-50FRF52-2K2
+
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+MFR-50FRF52-2K2
+
+
+DigiKey Part Number
+	
+MFR-50FRF52-2K2-ND - Tape & Reel (TR)
+
+
+Manufacturer
+	
+YAGEO
+
+
+Manufacturer Product Number
+	
+MFR-50FRF52-2K2
+
+
+Description
+	
+RES 2.2K OHM 1% 1/2W AXIAL
+
+
+Manufacturer Standard Lead Time
+	
+18 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+2.2 kOhms ±1% 0.5W, 1/2W Through Hole Resistor Axial Metal Film
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	MFR-50FRF52-2K2 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Resistors
+Through Hole Resistors
+Composition
+Metal Film
+Mfr
+YAGEO
+Temperature Coefficient
+±100ppm/°C
+Series
+MFR
+Operating Temperature
+-55°C ~ 155°C
+Packaging
+Tape & Reel (TR)
+Package / Case
+Axial
+Part Status
+Active
+Supplier Device Package
+Axial
+Resistance
+2.2 kOhms
+Size / Dimension
+0.130" Dia x 0.354" L (3.30mm x 9.00mm)
+Tolerance
+±1%
+Number of Terminations
+2
+Power (Watts)
+0.5W, 1/2W
+Report Product Information Error
+Documents & Media
+Datasheets
+MFR Series
+Featured Product
+Precision Voltage Through-Hole Resistors
+EDA Models
+MFR-50FRF52-2K2 Models
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+Not Applicable
+HTSUS
+8533.21.0090
+REACH Status
+REACH Unaffected
+Product Questions and Answers
+Additional Resources
+Manufacturer Standard Package
+2,500
+Available To Order
+Check Lead Time
+This product is not kept in stock at DigiKey. The lead time shown will apply to the manufacturer’s shipment to DigiKey. Upon receiving the product, DigiKey will ship to fill open orders.
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Tape & Reel (TR)
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+120,000
+$0.02173	$2,607.60
+
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

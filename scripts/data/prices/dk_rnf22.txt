@@ -1,0 +1,176 @@
+# RNF12FTD2K20 Stackpole Electronics Inc | Through Hole Resistors | DigiKey
+https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNF12FTD2K20/27774181?s=N4IgTCBcDaIEoDkBiBGMSAqARMBpMADCALoC%2BQA
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Resistors
+Through Hole Resistors
+Stackpole Electronics Inc RNF12FTD2K20
+Dark Mode
+Share
+RNF12FTD2K20 is available for purchase but is not normally stocked.
+AVAILABLE SUBSTITUTES:
+
+Parametric Equivalent
+
+RNF12FBD2K20
+Stackpole Electronics Inc
+In Stock: 0
+Unit Price: $0.03207
+Datasheet
+View and Compare All Substitutes
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+RNF12FTD2K20
+
+
+DigiKey Part Number
+	
+738-RNF12FTD2K20TR-ND - Tape & Reel (TR)
+
+
+Manufacturer
+	
+Stackpole Electronics Inc
+
+
+Manufacturer Product Number
+	
+RNF12FTD2K20
+
+
+Description
+	
+RES, MF, 1/2W, 2.2 KOHM, 1%, 100
+
+
+Manufacturer Standard Lead Time
+	
+17 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+2.2 kOhms ±1% 0.5W, 1/2W Through Hole Resistor Axial Flame Retardant Coating, Safety Metal Film
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	RNF12FTD2K20 Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Resistors
+Through Hole Resistors
+Features
+Flame Retardant Coating, Safety
+Mfr
+Stackpole Electronics Inc
+Temperature Coefficient
+±100ppm/°C
+Packaging
+Tape & Reel (TR)
+Operating Temperature
+-55°C ~ 155°C
+Part Status
+Active
+Package / Case
+Axial
+Resistance
+2.2 kOhms
+Supplier Device Package
+Axial
+Tolerance
+±1%
+Size / Dimension
+0.108" Dia x 0.344" L (2.75mm x 8.75mm)
+Power (Watts)
+0.5W, 1/2W
+Number of Terminations
+2
+Composition
+Metal Film
+Report Product Information Error
+Documents & Media
+Datasheets
+RNF/RNMF Datasheet
+CAD Models
+RNF12FTD2K20 Models
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+Not Applicable
+HTSUS
+8533.21.0090
+REACH Status
+REACH Unaffected
+Product Questions and Answers
+Additional Resources
+Part Number Alias
+738-RNF12FTD2K20TR
+Manufacturer Standard Package
+2,500
+Substitutes (1)
+PART NUMBER	MANUFACTURER	QUANTITY AVAILABLE	DIGIKEY PART NUMBER	UNIT PRICE	SUBSTITUTE TYPE
+RNF12FBD2K20	Stackpole Electronics Inc	0	738-RNF12FBD2K20-ND	$0.03207	Parametric Equivalent
+Available To Order
+Check Lead Time
+This product is not kept in stock at DigiKey. The lead time shown will apply to the manufacturer’s shipment to DigiKey. Upon receiving the product, DigiKey will ship to fill open orders.
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Tape & Reel (TR)
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+2,500
+$0.03516	$87.90
+
+Manufacturers Standard Package
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

@@ -1,0 +1,32 @@
+1. EV Charger RDC-DD 6mA DC Leakage Protection Residual Direct Current ...
+   https://www.ivy-evpv.com/type-b-ev-rcd/6mA-DC-RDC-DD.html
+   With a digital output of fault detection and integrated self-testing functions. The sensor can be used to build an IEC 62955 Residual Direct Current - Detecting Device (RDC-DD) together with an EV charging controller and switching devices inside EV chargers, which can meet the AC/DC residual current protection request defined in IEC 61851-1 and ...
+
+2. Pin Type Self-testing A-type RCD 6mA DC Leakage Current Protection RDC ...
+   https://www.ivy-metering.com/dc-leakage-protection/pin-type-rcd-6ma-dc.html
+   This DC RCD module detect smooth DC and half-wave DC currents.The RDC-DD/DC RCM is a compact solution designed to be PCB mounted. When a DC leakage current of 3~6mA is detected, an alarm signal is output.
+
+3. IEC62955 PCB Mount 6mA DC RCM Module Residual Current Transducer with ...
+   https://www.ivy-metering.com/dc-leakage-protection/346.html
+   It is a cost‑effective, standards‑compliant Class B residual current detection module for PCB installation. MD0630STA‑P-EV module appears to meet IEC 62955 requirements (30 mA AC + 6 mA DC detection). IVY Metering's RCD/RCM technology helps minimize the risk of electric shock while charging electric vehicles.
+
+4. EV Charging Safety Switch | Type B RCD for 6mA DC Fault Detection
+   https://www.ivy-evpv.com/type-b-ev-rcd/
+   MD36DA-P EV Charger RDC-DD 6mA DC Leakage Protection Residual Direct Current Detection Device MD36DA-P is a DC leakage current sensor with the characteristics of high sensitivity, accurate measurement, small size, and integration.
+
+5. Type EV (A+DC6mA) Residual Current Device - ETEK Electric
+   https://www.etek-china.com/rccb/type-ev-rcd-ekl6-63ev
+   EKL6-63EV Type EV RCD is a cutting-edge residual current device designed specifically for electric vehicle charging. This 63A RCD offers comprehensive protection against AC and DC residual currents, including 6mA DC leakage detection, and complies with IEC 62955 standards for the elevated level of safety in Mode 3 charging installations.
+
+6. Type Ac/a/f/b Rdc-dd Earth Fault Leakage Current Detection 6ma Dc Rcm ...
+   https://www.alibaba.com/product-detail/Type-AC-A-F-B-RDC_1600759045264.html
+   The dc rcm/rdc-dd is a compact solution designed to be pcb mounted. When a DC leakage current of 3~6mA is detected, an alarm signal is output. It can judge whether the sensor is in a normal working state in real time through the self-test function. It is primarily intended for use in EV charging stations to output alarm signal under a DC residual fault current condition. In addition to the use ...
+
+7. EVsense | Type A + DC 6mA RCD Sensors for EV Charging
+   https://evsensepower.com/
+   EVsense provides Type A + DC 6mA residual current detection sensors for AC EV chargers, wallboxes, and Mode 2 / Mode 3 charging systems.
+
+8. Power Quality, Monitoring and Metering - from 0 to 6 mA of DC residual ...
+   https://emea.socomec.com/en/p/deva
+   Designed for mode 3 chargers Multiple formats available Monitor instant DC leakage current Function RDC DD sensors (Residual Direct Current Detecting Device) according to IEC 62955 are designed to detect residual currents in AC charger mode 3. They provide accurate detection of leakage currents, ensuring the safety of equipment and individuals.
+

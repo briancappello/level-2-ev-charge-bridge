@@ -1,0 +1,158 @@
+# Current-limiting Miniature Circuit Breaker: 2A, C curve (PN# FAZ-C2-2-NA) | AutomationDirect
+https://www.automationdirect.com/adc/shopping/catalog/circuit_protection_-z-_fuses_-z-_disconnects/circuit_breakers_-a-_circuit_protectors/miniature_circuit_breakers_(mcb)/faz-c2-2-na
+
+We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.
+
+OKChange my preferences
+Login | Register
+Accounts & Orders 
+ 0
+$0.00
+|
+Direct Sales US & Canada
+|
+800-633-0405
+|
+About
+|
+Contact
+|
+Line Card
+|
+Products | Support    Ordering Tools  
+Navigation
+ > Circuit Protection /... > Circuit Breakers & C... > Miniature Circuit Br... > FAZ-C2-2-NA
+
+(+2)
+
+VIDEOS
+
+
+CAD
+
+BUYING GUIDE
+ Compare Product
+FAZ-C2-2-NA
+
+Eaton miniature circuit breaker, current-limiting, 2A, 480Y/277 VAC/96 VDC, 2-pole, C curve, thermal magnetic, 10kA @ 480Y/277 VAC interrupting rating, 35mm DIN rail mount.
+
+(7) 
+Reviews
+ Category Overview
+ Shop Similar
+
+Report a page issue
+
+<< Previous Item        Next Item >>
+$86.00
+
+
+FREE Delivery Wed, Oct 28
+if ordered within 1 hrs 4 mins
+14 Available
+More Detail
+
+Qty. In Cart:    
+Update
+ Add To BOM Or Favorites
+Item Shipping Weight: 0.577 lb
+Country Of Origin: ROMANIA
+HS Code: 8536.20
+Specs	Notes	Tech Q & A	Downloads	Compliance Info	What's in the Box	Related Items	Reviews
+FAZ-C2-2-NA Specifications
+
+  Technical Specifications
+
+Product Attribute Table
+	Technical Attributes
+	Brand	Eaton
+	Item	Circuit breaker
+	Circuit Breaker Type	Miniature
+	Circuit Type	Feeder and branch
+	Current-Limiting	Yes
+	Amperage Rating	2A
+	Voltage Rating	480Y/277 VAC/96 VDC
+	Number of Poles	2
+	Trip Curve	C curve
+	Trip Type	Thermal magnetic
+	Interrupting Rating	10kA @ 480Y/277 VAC
+	UL Rating	UL 489 listed
+	Mounting	35mm DIN rail
+	HACR Rated	Yes
+	Reverse Feed Capable	Yes
+	Manufacturer Part Number	FAZ-C2/2-NA
+Search for Similar Items 
+FAZ-C2-2-NA Product Notes
+UL 489 devices are for feeder and branch circuit overcurrent protection
+
+
+FAZ-C2-2-NA Technical Questions
+Please login to ask a product question.
+Collapse All | Expand All
+ +  For the Eaton FAZ series circuit breakers, what is the temperature rating of the terminals?COPY LINK
+ +  What does the "/" mean in the voltage ratings?COPY LINK
+ +  What are the environmental ratings for operating and storage temperatures?COPY LINK
+ +  What is the watt loss?COPY LINK
+ +  Can these be used in coordination with a Class J fuse to achieve higher than 10k SCCR?COPY LINK
+ +  What's the difference between a B-curve breaker and a C-curve breaker? COPY LINK
+ +  is there any recommended space clearance?COPY LINK
+ +  Is it possible to link two of the 2-pole or 3-pole circuit breakers together so they can both be switched off at the same time?COPY LINK
+Show More Questions
+FAZ-C2-2-NA Downloads
+Documents 
+Technical Specifications      Tech Specs vs Cut Sheet Help
+      Technical Specifications
+      Product Cut Sheet
+Inserts
+      FAZ Protector Insert
+Other Documents
+      FAQ
+      Buying Guide
+
+Item Feedback
+Drawings
+  FAZ-C2-2-NA 2D Drawing
+
+2D drawings specifically for this item.
+  FAZ-C2-2-NA STP 3D Model
+
+For more info, see our 3D CAD file FAQs.
+View / Download 2D / 3D CAD
+FAZ-C2-2-NA Compliance Information
+Agency Compliance & Certifications
+UL Listed File #:  E235139
+UL Recognized File #:  None
+UL Hazardous File #:  None
+UL Product iQ™
+(Search for UL file number above.)
+	View CE declarations
+	
+CSA File #:   204453
+Search CSA file numbers
+	RoHS Status:  Yes (See CE Doc)
+
+	EU REACH document
+Other:  None
+
+Conflict Minerals Information
+
+FAZ-C2-2-NA What's in the Box
+
+
+ 
+Qty
+Description
+1
+Insert 
+1
+Miniature Circuit Breaker 
+FAZ-C2-2-NA Related Items
+Recommended Items
+The following items are recommended for purchase with a FAZ-C2-2-NA
+
+ZNHK
+ Compare
+
+Eaton alarm/auxiliary contact, (2) SPDT contact(s), 2A @ 230VAC/0.5A @ 110VAC/VDC. For use with Eaton FAZ-NA series min
+
+[truncated at 4000 of 10508 chars; use -c to raise]

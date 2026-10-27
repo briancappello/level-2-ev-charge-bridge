@@ -1,0 +1,32 @@
+1. UT 16-PE - Protective conductor terminal block - 3044212 - Phoenix Contact
+   https://www.phoenixcontact.com/en-us/products/ground-terminal-block-ut-16-pe-3044212
+   UT 16-PE - Protective conductor terminal block 3044212 3D view and CAD download cross section
+
+2. PDF UT 16-PE - Mouser Electronics
+   https://www.mouser.com/datasheet/3/507/7/phoenix_contact_3044212_en.pdf
+   Protective conductor terminal block, number of connections: 2, connection method: Screw connection, Rated cross section: 16 mm2, cross section: 1.5 mm2 - 25 mm2, mounting type: NS 35/7,5, NS 35/15, color: green-yellow
+
+3. UT 16-PE - Protective conductor terminal block - 3044212 - Phoenix Contact
+   https://www.phoenixcontact.com/en-au/products/ground-terminal-block-ut-16-pe-3044212
+   UT 16-PE - Protective conductor terminal block 3044212 3D view and CAD download cross section
+
+4. PDF UT 16-PE - Ground terminal
+   https://docs.rs-online.com/8e0b/0900766b816f9134.pdf
+   DIN rail perforated, Standard profile, width: 35 mm, height: 15 mm, similar to EN 60715, material: Steel, Galvanized, white passivated, length: 2000 mm, color: silver
+
+5. PDF UT 16-PE - Digi-Key
+   https://media.digikey.com/PDF/Data%20Sheets/Phoenix%20Contact%20PDFs/3044212.pdf
+   Feed-through modular terminal block, Type of connection: Screw connection, Screw connection, Cross section: 1.5 mm2 - 25 mm2, AWG 16 - 4, Width: 12.2 mm, Color: green-yellow, Mounting type: NS 35/7.5, NS 35/15
+
+6. PDF UT 16-PE - SOS electronic
+   https://cdn.soselectronic.com/productdata/4d/bb/19043226/ut-16-pe-3044212.pdf
+   Marker for terminal blocks, can be ordered: by sheet, white, labeled according to customer specifications, mounting type: snap into tall marker groove, for terminal block width: 12 mm, lettering field size: 10.8 x 9.6 mm, Number of individual labels: 30
+
+7. 3044212 Datasheet (PDF) - PHOENIX CONTACT
+   https://www.alldatasheet.com/datasheet-pdf/pdf/1182319/PHOENIX/3044212.html
+   Part #: 3044212. Download. File Size: 164Kbytes. Page: 6 Pages. Description: UT 16-PE. Manufacturer: PHOENIX CONTACT.
+
+8. PDF Ground modular terminal block - UT 16-PE - 3044212
+   https://www.farnell.com/datasheets/2326079.pdf
+   Marker for terminal blocks, can be ordered: by sheet, white, labeled according to customer specifications, Mounting type: Snap into tall marker groove, for terminal block width: 12 mm, Lettering field: 10.8 x 9.6 mm
+

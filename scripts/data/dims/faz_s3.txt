@@ -1,0 +1,32 @@
+1. Eaton Download Center
+   https://ecat.eaton.com/download-center?locale=en
+   Software System overview Tender text Wiring diagram Deep Links (including Meta Data) Downloading files
+
+2. Eaton FAZ Series Instruction Leaflet - ManualsLib
+   https://www.manualslib.com/manual/2163164/Eaton-Faz-Series.html
+   View and Download Eaton FAZ Series instruction leaflet online. FAZ Series circuit tester pdf manual download. Also for: Az series, Faz-pn series.
+
+3. Eaton Moeller series xEffect - FAZ MCB - 278817 Overview | Eaton
+   https://www.eaton.com/ca/en-gb/skuPage.278817.html
+   278817 - Eaton Moeller series xEffect - FAZ MCB. Miniature circuit breaker (MCB), 1 A, 2p, characteristic: Z
+
+4. Eaton xEffect MCB Installation and Technical Data - Manuals+
+   https://manuals.plus/m/e093a540bf42ab01aeb67fbac40fb0b04928507d2c6e3de7efd1adfba96376f0
+   FAZ-DC Wiring Diagrams [Diagram Description: The FAZ-DC models require specific polarity connections. For 250V/L+ configurations, connect positive (+) and negative (-) terminals as indicated on the device housing. For 500V/L+ configurations, ensure correct series connection of poles as shown in the wiring schematic.]
+
+5. Miniature circuit breakers | Cable-In Cable-Out | Eaton
+   https://www.eaton.com/us/en-us/catalog/electrical-circuit-protection/faz-cable-in-cable-out.html
+   The finger-safe design of Eaton's miniature circuit breakers decreases the risk of electric shock, while improving personnel security during wiring and servicing. Additional safety measures include a trip-free design, the inability to defeat the breaker by holding the handle in the ON position, and a color-coded red and green indicator that provides immediate visual indication of device ...
+
+6. Eaton FAZ Miniature Circuit Breakers - Manuals+
+   https://manuals.plus/m/a2290b89d7034a77ae1eb94edb21c191f2d90e668550c3cfad1e5b55825e582f
+   Rated breaking capacities up to 15 kA according to IEC/EN 60947-2. Available in 1-pole, 1+N-pole, 2-pole, 3-pole, 3+N-pole, and 4-pole configurations. Applications The FAZ series is suitable for a wide array of electrical protection needs, ensuring safety and performance in diverse environments.
+
+7. PDF Eaton FAZ Series Supplementary Protectors - AutomationDirect
+   https://cdn.automationdirect.com/static/specs/eatonfaz.pdf
+   Features and Benefits • Dual rated for AC or DC Applications • Box terminals accept #18 to #4 wire (1 to 25 mm2) for one wire connection or #18 to #8 for two wire connection. • Thermal magnetic overcurrent protection: three levels, categorized by B, C and D curves in direct relation to continuous rating of the device
+
+8. Eaton/Moeller FAZ Miniature Circuit Breaker Family Overview
+   https://klocknermoeller.com/faz/
+   Eaton/Moeller FAZ Miniature Circuit Breaker Family Overview Available Configurations 1, 2, 3 or 4 Protected Poles 1 or 3 Protected Pole plus neutral Auxiliary contacts can be added to any breaker. FAZ-B FAZ-C FAZ-D FAZ-K Click here for the FAZ-B Summary Page Click here for the FAZ-C Summary Page Click here for the FAZ-D Summary […]
+

@@ -1,0 +1,439 @@
+# 22mm Emergency Stop Pushbutton: twist-to-release, red, IP65 (PN# GCX3131) | AutomationDirect
+https://www.automationdirect.com/adc/shopping/catalog/pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131
+
+We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.
+
+OKChange my preferences
+Login | Register
+Accounts & Orders 
+ 0
+$0.00
+|
+Direct Sales US & Canada
+|
+800-633-0405
+|
+About
+|
+Contact
+|
+Line Card
+|
+Products | Support    Ordering Tools  
+Navigation
+ > Pushbuttons / Switches / Indicators > Emergency Stop Pushbuttons > GCX3131
+
+(+7)
+
+
+CAD
+
+BUYING GUIDE
+ Compare Product
+GCX3131
+
+AutomationDirect emergency stop pushbutton, IP65, 22mm, twist-to-release, (1) N.C. contact(s), plastic base, plastic bezel, Operator: red, mushroom, 40mm, round, plastic.
+
+(24) 
+Reviews
+ Category Overview
+ Shop Similar
+
+Report a page issue
+
+<< Previous Item        Next Item >>
+$12.00
+
+
+FREE* Delivery Thu, Oct 29
+if ordered within 10 hrs 14 mins
+450 Available
+More Detail
+
+Qty. In Cart:    
+Update
+ Add To BOM Or Favorites
+Item Shipping Weight: 0.14 lb
+Country Of Origin: ITALY
+HS Code: 8536.50
+ECCN : EAR99: NLR
+Specs	Tech Q & A	Downloads	Compliance Info	What's in the Box	Related Items	Reviews
+GCX3131 Specifications
+
+  Technical Specifications
+
+Product Attribute Table
+	Technical Attributes
+	Brand	AutomationDirect
+	Item	Emergency stop pushbutton
+	IP Rating	IP65
+	Barrel Size	22mm
+	Action	Twist-to-release
+	Contact Type	(1) N.C.
+	Base Material	Plastic
+	Bezel Material	Plastic
+	Operator Color	Red
+	Operator Type	Mushroom
+	Operator Size	40mm
+	Operator Shape	Round
+	Operator Material	Plastic
+Search for Similar Items 
+GCX3131 Technical Questions
+Please login to ask a product question.
+Collapse All | Expand All
+ +  Is there a yellow background sticker or plate available as required by ISO 13850?COPY LINK
+ +  Is this item hazardous location rated for Class 1, Div 2 environments?COPY LINK
+ +  UL does not recognize IP65 as an environmental rating for UL508A control panels. This means that any panel these are used on would have to be derated to type 1 which is not acceptable for many customers. It would be great if these were rated NEMA/UL Type 4X.COPY LINK
+ +  Can you please provide the MTTFd and B10d for the pushbutton?COPY LINK
+ +  Is it possible to order only the operator?COPY LINK
+ +  The specifications for the contacts show an A300/A600/B300/B600/C600/P300/P600/Q300/Q600/R300 rating. What does that mean as far as current carrying capabilities?COPY LINK
+GCX3131 Downloads
+Documents 
+Technical Specifications      Tech Specs vs Cut Sheet Help
+      Technical Specifications
+      Product Cut Sheet
+Other Documents
+      FAQ
+      Buying Guide
+
+Item Feedback
+Drawings
+  GCX3131 2D Drawing
+
+2D drawings specifically for this item.
+  GCX3131 STP 3D Model
+
+For more info, see our 3D CAD file FAQs.
+View / Download 2D / 3D CAD
+GCX3131 Compliance Information
+Agency Compliance & Certifications
+UL Listed File #:  e189258
+UL Recognized File #:  None
+UL Hazardous File #:  None
+UL Product iQ™
+(Search for UL file number above.)
+	View CE declarations
+	
+CSA File #:   66746
+Search CSA file numbers
+	RoHS Status:  Yes (See CE Doc)
+
+	EU REACH document
+Other:  None
+
+Conflict Minerals Information
+
+GCX3131 What's in the Box
+
+
+  
+Qty
+Description
+ADC Part #
+1
+Contact block
+ECX1030-2
+1
+Mounting base
+N/A
+1
+Pushbutton, 22mm, momentary
+N/A
+GCX3131 Related Items
+Recommended Items
+The following items are recommended for purchase with a GCX3131
+
+K2BB-1/2
+ Compare
+
+Greenlee Slug-Buster knockout punch and die, 1/2in conduit. Punch, die and 7/16in draw stud included.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$64.00
+15 Available
+More Detail
+Qty. in Cart: 
+Update 
+
+ECX1030-2
+ Compare
+
+AutomationDirect contact block, replacement, 22mm, (1) N.C. contact(s). Package of 2. For use with GCX, ECX, and ECP series pushbuttons and switches.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$8.75
+607 Available
+More Detail
+Qty. in Cart: 
+Update 
+
+ECX1040-2
+ Compare
+
+AutomationDirect contact block, replacement, 22mm, (1) N.O. contact(s). Package of 2. For use with GCX, ECX, and ECP series pushbuttons and switches.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$8.75
+277 Available
+More Detail
+Qty. in Cart: 
+Update 
+
+ECX1030-5
+ Compare
+
+AutomationDirect contact block, replacement, 22mm, (1) N.C. contact(s). Package of 5. For use with GCX, ECX, and ECP series pushbuttons and switches.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$20.00
+591 Available
+More Detail
+Qty. in Cart: 
+Update 
+
+ECX1040-5
+ Compare
+
+AutomationDirect contact block, replacement, 22mm, (1) N.O. contact(s). Package of 5. For use with GCX, ECX, and ECP series pushbuttons and switches.
+
+  Specifications | Downloads | More info...
+
+  Add to BOM or Favorites
+
+$20.00
+1018 Available
+More Detail
+Qty. in Cart: 
+Update 
+GCX3131 Reviews
+Overall Rating: 4.9
+(based on 24 reviews)
+Quality
+4.9
+Ease of Use
+5.0
+Value
+5.0
+CUSTOMERS SAY
+Customers most often praise the strong build quality and reliable, expected operation, especially the smooth twist-to-reset design and clearly visible 22mm red head for safety panels. They emphasize ease of installation as a simple drop-in for 22mm shrouds/enclosures, with dependable performance that continues year after year even in humid or wet environments. Reviewers repeatedly highlight excellent value for the price, often describing it as cheaper than competitors while still working well. Typical applications include emergency-stop functions on light-to-medium duty industrial machines, control panels, and safety systems, including use with stackable contact blocks for more complex signaling.
+ AI-generated from the text of customer reviews
+Show only reviews with comments 22 of 24 reviews
+All (22)
+5★ (20)
+4★ (2)
+Sort by: 
+
+<<  1  2  3  >> 
+
+On 9/22/26
+Luke
+· Byron Center, MI
+✓ Verified
+This AutomationDirect emergency stop pushbutton is a great buy. It works well with a dual channel estop circuit, but you have to buy an additional NC red contact block. I usually add an illuminated push button for manual reset next to the estop to force the operator to acknowledge the machine power on enable.
+Quality
+Ease of Use
+Value
+On 9/21/26
+Larry
+· POMPTON PLAINS, NJ
+✓ Verified
+If you need good push button for a low price these are a good alternative. I wouldn't use them in any type of heavy duty application, but these are great for light duty.
+Quality
+Ease of Use
+Value
+On 9/14/26
+Nathaniel
+· JOHNSON CITY, TN
+✓ Verified
+This product came in on time and seems to be made decent over all construction is plastic and should hold up under normal use great buy for the price. The mounting points seem to be good and held well in the panel.
+Quality
+Ease of Use
+Value
+On 7/30/26
+Christopher
+· BELLINGHAM, MA
+✓ Verified
+These are great value for the money. I use these E-stops in plants where the operators are known to break things. Haven't had an issue with one of these yet.
+Quality
+Ease of Use
+Value
+On 7/22/26
+Jean-Marie
+· SHERRINGTON, QC
+✓ Verified
+Durable perfect for humid conditions as plastic doesn't corrode
+Quality
+Ease of Use
+Value
+On 6/11/26
+Dalton
+· ST THOMAS, ON
+✓ Verified
+quality e-stop, no issues even with operators hitting them hard. one thing to note is that it only comes with one set of contacts, but more can be ordered.
+Quality
+Ease of Use
+Value
+On 5/20/26
+Evan
+· GRAND RAPIDS, MI
+✓ Verified
+These are my go to E-Stop button. We have may of them in service and they always work great. They work great with the 22mm E-Stop legend plate.
+Quality
+Ease of Use
+Value
+On 4/8/26
+Jake
+· MENTOR, OH
+✓ Verified
+Good overall build quality and dependable function. No issues during install or operation, making it a reliable replacement or original build choice.
+Quality
+Ease of Use
+Value
+On 3/26/26
+Patrick
+· THORNTON, CO
+✓ Verified
+Very simple to install and wire. Once it's installed it's a solid fit. Worked very well for our applications mounted next to HMI panels.
+Quality
+Ease of Use
+Value
+On 1/7/26
+Chris
+· NEWARK, DE
+✓ Verified
+This has worked reliably for several years in a semi-harsh/ wet lab environment. Fits well with the associated E-stop pushbutton shroud.
+Quality
+Ease of Use
+Value
+
+<<  1  2  3  >> 
+
+AutomationDirect strives to provide a Best Customer Experience every day to every customer. We welcome all comments and feedback.
+
+
+
+Read company reviewsWrite a company review
+
+Customers who bought a GCX3131 also purchased the following items.
+
+
+1010B
+$0.45
+
+
+ECX1651
+$3.25
+
+
+1010C
+$0.35
+
+
+45-4545C
+$0.37
+
+
+ECX1030-2
+$8.75
+
+
+40-4040C
+$0.41
+
+
+ECX1040-2
+$8.75
+
+
+GCX3300
+$9.75
+
+
+ECX2052-24L
+$6.25
+
+
+GCX1300
+$12.00
+
+
+GCX1102
+$9.00
+
+
+1515C
+$0.89
+
+
+GCX3100
+$5.75
+
+
+ECX1040-5
+$20.00
+GCX3131  - 22mm Emergency Stop Pushbutton: twist-to-release, red, IP65 (PN# GCX3131)
+ 
+Sign Up
+to receive:
+FREE e-Newsletter
+sign up today! 
+Connect With Us
+Social Media Channels:
+                 
+Company Information
+About Us
+Brand Line Card
+System Integrator Program
+International Sales
+ Panel Builder Program
+Site Help
+Company Reviews
+Download Price List 
+Contact Us
+Contact Options
+1-800-633-0405
+Monday - Friday
+9 a.m. - 6 p.m. ET
+excluding holidays
+Career Opportunities
+We're a great place to work!
+Check out our job openings
+
+
+Need Training?
+Affordable Training by Interconnecting Automation
+Free Online PLC Training
+FREE Video Tutorials
+ 
+Information & News
+What's New / In The News
+E-Newsletter
+Automation Notebook
+Product Literature
+White Papers
+News, Product and Training Bulletins
+E-Books
+ 
+ 
+
+
+Copyright © 1999-2026 AutomationDirect.  ALL RIGHTS RESERVED.
+Site Map    Send Us your Feedback    Unsubscribe    Email Preferences    Legal & Business Policies    Cookie Preferences    YouTube Terms of Service    AutomationDirect Product API
+Clear login credentials
+Back to Top
+
+
+
+..

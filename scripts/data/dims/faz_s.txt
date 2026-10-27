@@ -1,0 +1,32 @@
+1. FAZ-C2/2 | Eaton FAZ supplementary protector | Eaton
+   https://www.eaton.com/us/en-us/skuPage.FAZ-C2%7b%7d2.html
+   Catalogs Circuit Protection, Miniature Circuit Breakers and Supplementary Protectors, Volume 4, Tab 1 Specifications and datasheets Eaton Specification Sheet - FAZ-C2/2
+
+2. FAZ-C2/2-NA | Eaton FAZ branch protector | Eaton
+   https://www.eaton.com/us/en-us/skuPage.FAZ-C2%7b%7d2-NA.html
+   Catalogs Circuit Protection, Miniature Circuit Breakers and Supplementary Protectors, Volume 4, Tab 1 Specifications and datasheets Eaton Specification Sheet - FAZ-C2/2-NA
+
+3. FAZ-C2-2 Datasheet | Eaton
+   https://www.datasheets.com/eaton/faz-c2-2
+   Download FAZ-C2-2 Eaton datasheet PDF, view technical specifications, and find pricing information.
+
+4. Datasheet - FAZ-C2/2
+   https://media.eecoonline.com/asset/documents/IDW_DOCUMENT_4ed44ec49fcedf4ca5f35c2a888d71c47bc55e4dda9847439cf9574a824a59f7
+   Design verification as per IEC/EN 61439 (Show features)(Hide features)
+
+5. Eaton FAZ-C2/2 Datasheet | View Eaton FAZ-C2/2 Circuit ... - Octopart
+   https://octopart.com/datasheet/part/eaton/FAZ-C2%2F2
+   View and download the latest Eaton FAZ-C2/2 Datasheet including technical specifications, product features, and more from Octopart. Download datasheet PDF files and view the best pricing for Eaton FAZ-C2/2 Circuit Breakers now!
+
+6. PDF DATASHEET - FAZ-C2Miniature circuit breaker (MCB), 2 A, 2p ...
+   https://www.electricautomationnetwork.com/PDF/PIM/ETN/EN_278748.pdf
+   Circuit breakers and fuses (EG000020) / Miniature circuit breaker (MCB) (EC000042) Electric engineering, automation, process control engineering / Electrical installation, device / Miniature circuit breaker system (MCB) / Miniature circuit breaker (MCB) (ecl@ss13-27-14-19-01 [AAB905019])
+
+7. PDF Datasheet - FAZ-C2/2-NA - ideadigitalcontent.com
+   https://www.ideadigitalcontent.com/files/10964/ID-SPE-v1-102160.pdf
+   FAZ-NA Technical data Electrical Standards UL 489, CSA C22.2 No. 5 IEC 60947-2 Rated operational voltage U e V U e V AC 277/480 Y V DC 60 Rated switching capacity acc. to IEC/EN 60947-2 kA 15 Characteristic B, C, D Selectivity Class 3 Lifespan > 20000 Direction of incoming supply as required Mechanical Standard front dimension 45 Enclosure ...
+
+8. PDF Eaton 278998
+   https://docs.rs-online.com/37b1/A700000012525674.pdf
+   Eaton 278998 Catalog Number: 278998 Eaton Moeller series xEffect - FAZ MCB. FAZ, 3-pole+N, tripping characteristic: D, rated current In: 16 A
+

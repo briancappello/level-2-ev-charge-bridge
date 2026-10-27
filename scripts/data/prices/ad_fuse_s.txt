@@ -1,0 +1,20 @@
+1. Fuse: 10/pk, Class CC, 2A (PN# HCTR2) | AutomationDirect
+   https://www.automationdirect.com/adc/shopping/catalog/circuit_protection_-z-_fuses_-z-_disconnects/fuses/current_limiting_class_cc_fuses/hctr2
+   HCTR2 - Edison fuse, HCTR series, Class CC, current-limiting, time-delay, 2A, 600 VAC, ferrule. Package of 10. Feeder/branch protection applications.
+
+2. HCTR2 | Eaton Edison HCTR fuse | Eaton
+   https://www.eaton.com/us/en-us/skuPage.HCTR2.html
+   HCTR2 Eaton Edison HCTR fuse, Current-limiting high inrush time-delay fuse, Rejection style, 2 A, Class CC, Non-indicating, 12 sec at 200%, 200 kAIC, Melamine tube, Nickel-plated brass endcaps, Standard, 10, 600 V
+
+3. PDF Edison series HCTR Class CC time-delay fuses, 0.25-30A data ... - Eaton
+   https://www.eaton.com/content/dam/eaton/products/electrical-circuit-protection/fuses/edison-series-fuses/class-cc/bus-edison-ds-hctr-1302.pdf
+   HCTR fuses can be sized according to NECTM and UL requirements and still allow the high inrush currents, with significantly more time-delay than the UL minimum value of 12 seconds at 200% for Class CC fuses. • Melamine tube with nickel-plated brass end caps.
+
+4. Class CC Current Limiting Fuses - AutomationDirect
+   https://www.automationdirect.com/adc/overview/catalog/circuit_protection_-z-_fuses_-z-_disconnects/fuses/current_limiting_class_cc_fuses
+   Class CC Current Limiting Fuses Class CC fuses interrupt overcurrents, limit peak let-through current, and limit the clearing time at rated voltage. In ratings up to 30A, the Edison HCLR series is suitable for resistive loads; HCTR series for power transformers or solenoids; and EDCC series for motor protection.
+
+5. PDF Edison HCTR Current Limiting Class CC Fuses - AutomationDirect
+   https://cdn.automationdirect.com/static/specs/efusehctr.pdf
+   Line Overview The Bussmann and Edison series of fuses, fuse blocks and fuse holders is divided into two classes:
+

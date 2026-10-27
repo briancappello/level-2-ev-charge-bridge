@@ -1,0 +1,32 @@
+1. PDF DATASHEET - FAZ-C2Miniature circuit breaker (MCB), 2 A, 2p ...
+   https://www.electricautomationnetwork.com/PDF/PIM/ETN/EN_278748.pdf
+   Circuit breakers and fuses (EG000020) / Miniature circuit breaker (MCB) (EC000042) Electric engineering, automation, process control engineering / Electrical installation, device / Miniature circuit breaker system (MCB) / Miniature circuit breaker (MCB) (ecl@ss13-27-14-19-01 [AAB905019])
+
+2. PDF DATASHEET - FAZ-C2/2 - electricautomationnetwork.com
+   https://www.electricautomationnetwork.com/PDF/PIM/ETN/DE_278748.pdf
+   DATASHEET - FAZ-C2/2 Miniature circuit breaker (MCB), 2A, 2p, C-Char, AC Similar to illustration Part no. Catalog No. Alternate Catalog No.
+
+3. 278748 | Eaton Moeller series xEffect - FAZ MCB | Eaton
+   https://www.eaton.com/gb/en-gb/skuPage.278748.html
+   278748 - Eaton Moeller series xEffect - FAZ MCB. FAZ, 2-pole, tripping characteristic: C, rated current In: 2 A
+
+4. FAZ-C2/2 | Eaton FAZ supplementary protector | Eaton
+   https://www.eaton.com/us/en-us/skuPage.FAZ-C2%7b%7d2.html
+   FAZ-C2/2 Eaton FAZ supplementary protector,UL 1077 Industrial miniature circuit breaker - supplementary protector,Medium levels of inrush current are expected,2 A,15 kAIC,Two-pole,5-10X /n,50-60 Hz,Standard terminals,C Curve
+
+5. PDF DATASHEET - FAZ-C2M/2iniature circuit breaker (MCB), 2A, 2p, C-Char, AC ...
+   https://www.ilecsys.co.uk/sites/default/files/Eaton-278748-FAZ-C2-2.pdf
+   Technical data ETIM 7.0 Circuit breakers and fuses (EG000020) / Miniature circuit breaker (MCB) (EC000042)
+
+6. Datasheet - FAZ-C2/2
+   https://media.eecoonline.com/asset/documents/IDW_DOCUMENT_4ed44ec49fcedf4ca5f35c2a888d71c47bc55e4dda9847439cf9574a824a59f7
+   Design verification as per IEC/EN 61439 (Show features)(Hide features)
+
+7. PDF DATASHEET - FAZ-C2M/2iniature circuit breaker (MCB), 2A, 2p, C-Char, AC ...
+   https://efobasen.no/mime_root/57/Eaton-DS-278748-FAZ-C2_2-20190307.pdf
+   DATASHEET - FAZ-C2M/2iniature circuit breaker (MCB), 2A, 2p, C-Char, AC Part no. FAZ-C2/2 Catalog No. 278748 Eaton Catalog No. FAZ-C2/2 EL-Nummer (Norway) 0001695163 Similar to illustration Technical data Electrical
+
+8. 278748 FAZ-C2/2 Datasheet - Eaton Corporation - MCBs | GlobalSpec
+   https://datasheets.globalspec.com/ds/eaton-corporation/278748-faz-c2-2/bc6e4feb-374b-4c46-baef-62ab41d9d7f3
+   Rated AC Voltage: 240 to 415 volts; Rated Current: 2 amps; Rated Breaking Capacity: 10000 amps; Number of Poles: 2;
+

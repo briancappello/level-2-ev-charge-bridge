@@ -1,0 +1,416 @@
+# 1SAE351111R0120 ABB - Contactor: 2-pole installation | 63A; 24VAC,24VDC; NO x2; ESB; ESB63-20N-01 | TME US
+https://www.tme.com/us/en-us/details/esb63-20n-01/contactors-installation-modular/abb/1sae351111r0120/
+
+Consent
+Details
+About
+This website uses cookies
+We use cookies and other website tracking technologies to personalise content and ads, offer social media functions, and analyse users’ activity on our website. We share information collected by cookies with our social media, advertising and analytical partners. Our partners can connect this information with other data obtained directly from you or during your use of their services. If you want to learn more about it, check the “Privacy Policy” tab.
+Accept necessary cookies
+Customize
+Allow all
+Skip to content
+Go to the footer
+
++1 500 000 products in offer
+
+7000 packages per day
+
++300 000 clients from 150 countries
+
+You have questions? Call us 678.691.2347 (Mon-Fri 8:00AM - 6:00PM EDT)
+
+Log in
+Register
+User panel
+USA
+EN-US
+/
+USD
+/
+Business
+All categories
+Quick Buy
+Favourites
+Cart
+CATALOGUE
+NEWS
+HOW TO BUY
+HELP
+ABOUT US
+CONTACT
+
+We've added a new feature that allows you to schedule a meeting with a consultant. You can find it at the following link: Book an online meeting.
+
+No surprise tariffs – what You see is what You pay
+
+Here you will find out more
+Main page
+Catalogue
+Relays and Contactors
+Contactors
+Contactors -Installation Modular
+1SAE351111R0120
+1SAE351111R0120
+Contactor: 2-pole installation; 63A; 24VAC,24VDC; NO x2; ESB
+The pictures of products are only demonstrative
+Add to Favourites
+Switch on notifications
+Compare
+Share
+Documentation EN
+Documentation PL
+Product family
+The documentation is not updated automatically
+Click here to accept preferential cookies and enable this content
+
+Manufacturer: ABB
+
+Manufacturer part number:
+1SAE351111R0120
+TME Symbol:
+ESB63-20N-01
+Product variants
+Max. operating current
+63A
+40A
+100A
+Specification
+Mark all
+Manufacturer
+ABB
+Type of contactor
+2-pole installation
+Max. operating current
+63A
+Control voltage
+24V AC, 24V DC
+Contacts configuration
+NO x2
+Mounting
+for DIN rail mounting
+Manufacturer series
+ESB
+Leads
+screw terminals
+Operating temperature
+-25...55°C
+Switched voltage
+max. 400V AC
+Body dimensions
+54x85x64.8mm
+Show similar products (349)
+Gross weight
+398.51 g
+Certificates
+EAN code
+4013614518935
+WARNING
+This product may expose you to chemicals known by the state of California to cause cancer or reproductive harm, for more information go to www.P65Warnings.ca.gov
+See other products in this category: Contactors -Installation Modular ABB, 2-pole installation ABB
+See other products from this series.: ABB ESB
+* All prices are net prices (excluding Sales tax) and do not include shipping costs, which will be added to your order. Shipping cost is available under "How to Buy". Details of special offers are available in "Promotion Terms and Conditions".
+Ask about product
+Report error
+Print the page
+1SAE351111R0120
+4 in TME stock
+4
+in TME stock
+Standard lead time from the manufacturer in weeks: 5
+Check availability
+No. of pieces (Multiplicity: 1)
+Total: 115.48 USD
+Add to cart
+Prices quoted include customs duties and tariffs
+Quantity [pcs]
+Net price [USD/pcs]
+Net value [USD]
+1+
+115.48
+115.48
+5+
+108.88
+544.40
+10+
+102.28
+1 022.80
+Ask for price for larger quantity
+See price details
+Way and cost of delivery
+Payments
+Products related to ESB63-20N-01
+TYPE OF CONTACTORS ACCESSORIES (1)
+auxiliary contacts (1)
+EH04-11N
+Accessories: auxiliary contacts; NC + NO; Leads: screw terminals
+Manufacturer part number:
+1SAE901901R1011
+Manufacturer:
+ABB
+Quantity
+[pcs]
+Net price
+[USD/pcs]
+1+
+26.12
+5+
+24.63
+10+
+23.14
+See price details
+105 in TME stock
+105
+in TME stock
+2
+in an external stock
+11/04/2026
+Check availability
+No. of pieces (Multiplicity: 1)
+Add to cart
+Total: 26.12 USD
+Others also bought
+
+AF38-30-00-12
+
+ABB
+
+Contactor: 3-pole; NO x3; 48÷130VAC,48÷130VDC; 38A; AF; W: 45mm
+
+ESB40-20N-01
+
+ABB
+
+Contactor: 2-pole installation; 40A; 24VAC,24VDC; NO x2; ESB
+
+MX-1300550001
+
+MOLEX
+
+Coupler; RJ-Lnxx; PIN: 8; Cat 5e; shielded; 8p8c; IP67; straight
+
+22.32.0.024.4340
+
+FINDER
+
+Contactor: 2-pole installation; 25A; 24VAC,24VDC; NO x2; IP20; 22
+
+RSD-500B-48
+
+MEAN WELL
+
+Converter: DC/DC; 422.4W; Uin: 16.8÷33.6VDC; Uout: 48VDC; Iout: 8.8A
+
+S201-C6
+
+ABB
+
+Circuit breaker; 230/400VAC; Inom: 6A; Poles: 1; Charact: C; 6kA
+
+L24II
+
+FIBOX
+
+Inspection windows; polycarbonate; 248x218x35mm; IP65
+
+1503-17
+
+LUMBERG
+
+Connector: Jack 3,5mm; socket; female; audio video; ways: 3; THT
+
+SEEED-317990687
+
+SEEED STUDIO
+
+Module: transceiver; ADC,GPIO,I2C,SPI,SWD,UART; -136.5dBm; 22dBm
+
+1SLM006501A1202
+
+ABB
+
+Enclosure: for modular components; IP65; grey; No.of mod: 12
+
+LMV358IDT
+
+STMicroelectronics
+
+IC: operational amplifier; 1MHz; Ch: 2; 2.7÷6VDC; SO8; 0.1mV
+
+Product available till the stock lasts
+
+TGL34-20CA-DIO
+
+DIOTEC SEMICONDUCTOR
+
+Diode: TVS; 150W; 20V; 5.2A; bidirectional; ±5%; MiniMELF plastic
+
+ESB16-02N-01
+
+ABB
+
+Contactor: 2-pole installation; 16A; 24VAC,24VDC; NC x2; ESB
+
+HM-TRP-434S
+
+HOPE MICROELECTRONICS
+
+Module: RF; FM transceiver; FSK; UART; -117dBm; 2.4÷3.6VDC; 434MHz
+
+Find out more
+
+PRODUCT OF THE WEEK
+
+Compact SiC MOSFET relays from the G3VH series by Aratas
+
+10/26/2026
+
+Components for demanding high-voltage applications.
+
+Jan Czochralski – from silicon to smartphone
+
+10/23/2026
+
+Invention penned (and discovered) with a pen.
+
+Microchip Technology at TME – analog circuits
+
+10/22/2026
+
+Amplifiers, converters, controllers, and more.
+
+NEWS
+
+Intelligent and multidimensional flowmeter Endress+Hauser
+
+10/20/2026
+
+We present a plug-and-play component for municipal installations.
+
+Axiomet meters and recorders
+
+10/20/2026
+
+Wide selection of devices for hobbyists and specialists.
+
+LED strips by Wisva Optoelectronics
+
+10/19/2026
+
+Available in IP65 versions, coated with a silicone layer.
+
+8-bit microcontrollers by Microchip Technology
+
+10/16/2026
+
+What functionality distinguishes the classic microcontrollers from the manufacturer?
+
+LED strips for interiors - how to choose power supply, brightness, and light color for the installation location?
+
+10/15/2026
+
+Practical guide to parameters and applications.
+
+Kradex enclosures and accessories – solutions for electronics and automation
+
+10/14/2026
+
+Wide selection and high availability.
+
+Eyes that always follow – get ready for Halloween with Arduino GIGA R1 WiFi
+
+10/14/2026
+
+Learn how to set up following eyes on Arduino GIGA Display Shield in time for Halloween.
+
+Overview of Display Elektronik's Offer
+
+10/13/2026
+
+We present diverse technologies and versions of displays.
+
+NEWS
+
+New range of BLOCK encapsulated transformers
+
+10/13/2026
+
+Wide selection of formats and parameters.
+
+How does a diode work? Why does it mainly conduct current in one direction?
+
+10/13/2026
+
+Construction, operating principle, and applications of diodes.
+
+Portable Halloween Arcade with the Arduino GIGA R1 WiFi and the GIGA Display Shield
+
+10/12/2026
+
+This Halloween build your own spooky Arcade with Arduino.
+
+Other products from category Contactors -Installation Modular
+
+STM-25-20
+
+ZAMEL
+
+Contactor: 2-pole installation; 25A; 230VAC; NO x2; STM; -5÷60°C
+
+This product can be purchased only from our international offer.
+
+ESB16-20N-01
+
+ABB
+
+Contactor: 2-pole installation; 16A; 24VAC,24VDC; NO x2; ESB
+
+22.32.0.024.4320
+
+FINDER
+
+Contactor: 2-pole installation; 25A; 24VAC,24VDC; NO x2; IP20; 22
+
+Sign up for the TME newsletter
+Special offers - discounts - new products. Keep up to date with the TME offer
+Newsletter Terms & Conditions
+Unsubscribe
+Subscribe
+
+JOIN US
+
+ABOUT US
+Meet us
+TME Group
+Catalogues
+Careers
+TME Education project
+Tech Master Event platform
+Project poweredby.tme.eu
+Contact
+Press Office
+SHORTCUTS
+Means and cost of transport
+Orders
+Prices
+Payments
+Sales documents
+Complaint form
+Shopping made easy
+Help
+YOUR ACCOUNT
+Your account
+Order status
+Sales history
+Favourites
+Proforma Invoices
+Offers
+Customer symbols
+Quick Buy
+TME API
+INFORMATION
+Terms of cooperation
+Website Terms of Use
+Website privacy po
+
+[truncated at 8000 of 8126 chars; use -c to raise]

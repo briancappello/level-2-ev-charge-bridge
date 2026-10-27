@@ -1,0 +1,149 @@
+UM-PRO-SKT-B108-L120-7035 - Housing set
+1456980
+https://www.phoenixcontact.com/us/products/1456980
+
+
+
+
+Please be informed that the data shown in this PDF document is generated from our online catalog. Please find the complete data in the user
+documentation. Our general terms of use for downloads are valid.
+
+
+
+
+                                            Profile housing (PA), mounting type: DIN rail mounting, dimensions on the DIN rail: width: 123.8
+                                            mm, height: 127.8 mm, depth: 39.45 mm, incl. 2 lateral elements (PA), color: black (9005), for
+                                            PCBs with width: 108 mm, length: 120 mm, PCB surface: 10690 mm2
+
+
+
+
+Commercial data
+  Item number                                                              1456980
+  Packing unit                                                             1 pc
+  Minimum order quantity                                                   1 pc
+  Product key                                                              ACHDAK
+  GTIN                                                                     4063151855185
+  Weight per piece (including packing)                                     131.1 g
+  Weight per piece (excluding packing)                                     97.19 g
+  Country of origin                                                        DE
+
+
+
+
+                                                                                                                   Mar 6, 2024, 3:03 PM   Page 1 (4)
+UM-PRO-SKT-B108-L120-7035 - Housing set
+1456980
+https://www.phoenixcontact.com/us/products/1456980
+
+
+
+
+Technical data
+
+  Notes
+       General                                       Please observe the assembly instructions available in the
+                                                     download area.
+
+
+  Product properties
+       Product type                                  Stackable housing set
+       Housing series                                UM-PRO
+       Type                                          incl. 2 lateral elements
+       Housing type                                  Profile housing
+
+
+  Dimensions
+       Width                                         123.8 mm
+       Height                                        127.8 mm
+       Depth                                         39.45 mm
+       Depth from top edge of DIN rail               32.45 mm
+       Dimensions                                    108 mm x 120 mm (PCB dimensions)
+
+     PCB design
+       PCB thickness                                 1.4 mm ... 1.8 mm
+
+
+  Material specifications
+       Color (Housing side panel)                    black (RAL 9005)
+       Color (Housing)                               light grey (RAL 7035)
+       Flammability rating according to UL 94        V0
+       Insulating material                           PA
+       Housing material                              Polyamide
+
+
+  Environmental and real-life conditions
+
+     Ambient conditions
+       Ambient temperature (operation)               -40 °C ... 105 °C (depending on power dissipation)
+       Ambient temperature (storage/transport)       -40 °C ... 55 °C
+       Ambient temperature (assembly)                -5 °C ... 100 °C
+       Relative humidity (storage/transport)         80 %
+
+
+  PCB data
+       Number of PCB holders                         3
+       Type of PCB mount                             Insertion/securing with additional elements
+       Total PCB surface                             10690 mm²
+       Thickness of the PCB                          1.4 mm ... 1.8 mm
+
+
+  Mounting
+       Mounting type                                 DIN rail mounting
+
+
+
+                                                                                          Mar 6, 2024, 3:03 PM   Page 2 (4)
+UM-PRO-SKT-B108-L120-7035 - Housing set
+1456980
+https://www.phoenixcontact.com/us/products/1456980
+
+
+
+
+       Mounting position                             parallel to the DIN rail
+
+
+  Packaging specifications
+       Type of packaging                             packed in cardboard
+       Outer packaging type                          Carton
+
+
+
+
+                                                                                Mar 6, 2024, 3:03 PM   Page 3 (4)
+UM-PRO-SKT-B108-L120-7035 - Housing set
+1456980
+https://www.phoenixcontact.com/us/products/1456980
+
+
+
+
+Classifications
+
+  ECLASS
+        ECLASS-11.0                                  27182701
+        ECLASS-13.0                                  27190301
+
+
+  ETIM
+        ETIM 9.0                                     EC001031
+
+
+
+Phoenix Contact 2024 © - all rights reserved
+https://www.phoenixcontact.com
+
+
+
+Phoenix Contact USA
+586 Fulling Mill Road
+Middletown, PA 17057, United States
+(+717) 944-1300
+info@phoenixcon.com
+
+
+
+
+                                                                Mar 6, 2024, 3:03 PM   Page 4 (4)
+

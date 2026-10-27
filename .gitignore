@@ -1,0 +1,12 @@
+# Personal claude.ai data export and the one-off script that imported it (not project files)
+/conversations/
+/conversations-000.zip
+/import_claude_chat.py
+
+# Raw browser save of the Polycase product page (text extract is in scripts/data/)
+/polycase/
+
+# Python / Camoufox environment
+/.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,227 @@
+# DDR-30G-5 MEAN WELL, Isolated DIN Rail Mount DC/DC Converter, Railway, 4:1 | Newark Electronics
+https://www.newark.com/mean-well/ddr-30g-5/dc-dc-converter-5v-6a/dp/01AH7065
+
+Important Information:
+
+Due to recent system changes, processing times may be longer than normal. We appreciate your understanding and continued partnership.
+New Deals
+Offers
+Contact Us
+Help
+Track Orders
+en español
+Select
+Login
+Register
+My Account
+0 Items
+$0.00
+All Products
+Manufacturers
+Resources
+Communities
+Bill of Materials (BOM) Upload
+Tools
+Home
+Power Supplies
+DC / DC Converters
+Isolated DIN Rail Mount DC / DC Converters
+Print Page
+DDR-30G-5
+Isolated DIN Rail Mount DC/DC Converter, Railway, 4:1, 30 W, 1 Output, 5 V, 6 A
+Image is for illustrative purposes only. Please refer to product description.
+Manufacturer
+MEAN WELL
+Manufacturer Part No
+DDR-30G-5
+Copy
+Manufacturer Standard Lead Time
+19 weeks
+Newark Part No.
+01AH7065
+Product Range
+DDR-30 Series
+Your Part Number
+Technical Datasheet
+
+Data Sheet
+
+See all Technical Docs
+Add to compare
+93 In Stock
+
+369 more incoming. You can reserve stock now
+
+Delivery in 4-6 Business Days
+(UK stock)
+Order before 8pm EST standard shipping
+
+Price shown includes applicable duties and tariffs
+Quantity	Price
+1+	$37.680
+5+	$36.340
+10+	$35.670
+25+	$35.000
+50+	$34.300
+100+	$33.600
+250+	$32.900
+5000+	$32.200
+Price for:
+Each
+Add to Cart
+Minimum: 1
+Multiple: 1
+$37.68
+Line Note
+Product Overview
+
+DDR-30G-5 is a DDR-30 series 30W DIN rail type DC-DC converter with main features including easy installation, ultra slim width (35mm), 4:1 ultra wide input voltage, 4KVDC I/O isolation, adjustable output voltage (±10%) and full protective functions. It can be used for industrial control, security control, communication system and other fields. Suitable applications are DC buck/boost regulator, increasing system insulation level and voltage drop compensation along cable. It includes short circuit, overvoltage, overload protection, input reverse polarity, input under voltage protection. Application includes industrial control system, semi-conductor fabrication equipment, factory automation, electro-mechanical, wireless network, telecom or datacom system. Approved by UL/IEC 62368-1, AS/NZS 62368.1, design refer to UL508.
+
+Input voltage range from 9 to 36VDC, output DC voltage is 5V
+Output rated current is 6A, output rated power is 30W, typical efficiency is 85%
+No minimum load required
+Cooling by air free convection
+3 years warranty
+Working temperature range from -40 to +85°C
+Dimension is (W x H x D) 35 x 90 x 54.5mm
+Technical Specifications
+Power Supply Applications
+
+Railway
+
+Output Power Max
+
+30W
+
+Output Voltage - Output 1
+
+5V
+
+Output Voltage - Output 2
+
+-
+
+Output Regulation
+
+-
+
+DC / DC Converter Output Type
+
+Fixed, Adjustable
+
+Width
+
+35mm
+
+Depth
+
+54.5mm
+
+Input Voltage DC Max
+
+36V
+
+SVHC
+
+No SVHC (04-Feb-2026)
+
+Input Ratio
+
+4:1
+
+No. of Outputs
+
+1 Output
+
+Output Current - Output 1
+
+6A
+
+Output Current - Output 2
+
+-
+
+Isolation Voltage
+
+4kV
+
+Input Voltage DC Nom
+
+24V
+
+Height
+
+90mm
+
+Input Voltage DC Min
+
+9V
+
+Product Range
+
+DDR-30 Series
+
+Technical Docs (1)
+
+DDR-30G-5 Data Sheet
+
+Legislation and Environmental
+US ECCN:
+EAR99
+EU ECCN:
+Unknown
+RoHS Compliant:
+Yes
+RoHS Phthalates Compliant:
+Yes
+SVHC:
+No SVHC (04-Feb-2026)
+Download Product Compliance Certificate
+
+Product Compliance Certificate
+
+WARNING
+Proposition 65
+Similar Products
+0 Products Found
+People Also Purchased
+0 Products Found
+People also viewed
+0 Products Found
+Customer Service
+I Need Help
+Sales 1 800 463 9275
+Technical 1 877 736 4835
+Live Agent
+Submit Feedback
+Help
+Quick Links
+Track my order
+FAQs
+Delivery Information
+Return a Product
+Our Company
+About us
+Quality Policy
+Careers
+Corporate Responsibility
+Social Media +
+Sign Up
+
+Become a Newark Insider!
+
+LinkedIn
+Twitter
+Facebook
+Terms of Use / Privacy Policy
+Terms of Use for API
+Legal and Copyright Notices
+Terms & Conditions
+Privacy Statement
+Sitemap
+Cookie Settings
+en español
+An Avnet Company© 2026 Premier Farnell Limited. All Rights Reserved.
+Cookie Settings and Privacy
+We use cookies and similar technologies to enhance site performance, analyze traffic, and personalize your experience. Some cookies are essential, while others help us improve your experience and marketing efforts. By continuing to browse or by clicking “Accept All Cookies,” you agree to the storing of cookies on your device. You can manage your preferences at any time. More Information
+Manage Preferences Accept All Cookies

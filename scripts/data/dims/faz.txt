@@ -1,0 +1,162 @@
+# Datasheet - FAZ-C2/2
+https://media.eecoonline.com/asset/documents/IDW_DOCUMENT_4ed44ec49fcedf4ca5f35c2a888d71c47bc55e4dda9847439cf9574a824a59f7
+
+Datasheet - FAZ-C2/2
+English
+German French Dutch Italian Polish Czech Russian Norwegian Bokmål
+
+
+Delivery program
+Technical data
+General
+Design verification
+ETIM
+Approvals
+Engineering/characteristics
+Dimensions
+CAD data
+Links
+ 
+	Miniature circuit breaker (MCB), 2A, 2p, C-Char, AC
+Part no. 	FAZ-C2/2
+Catalog No. 	278748
+Eaton Catalog No. 	FAZ-C2/2
+EL-Nummer (Norway) 	1695163
+
+Similar to illustration
+	 
+
+
+Delivery program
+Basic function
+	 	 	Miniature circuit-breakers
+
+Number of poles
+	 	 	2 pole
+
+Tripping characteristic
+	 	 	C
+
+Application
+	 	 	Switchgear for industrial and advanced commercial applications
+
+Rated current
+	In	A	2
+
+Rated switching capacity acc. to IEC/EN 60947-2
+	 	kA	15
+
+Product range
+	 	 	FAZ
+Technical data
+Electrical
+
+Standards
+	 	 	IEC/EN 60947-2
+IEC/EN 60898
+
+Rated operational voltage
+	Ue	V	 
+
+ 
+	Ue	V AC	240/415
+
+ 
+	 	V DC	60 (per pole)
+
+Rated switching capacity acc. to IEC/EN 60947-2
+	 	kA	15
+
+Operational switching capacity
+	 	kA	7.5
+
+Characteristic
+	 	 	B, C, D
+
+Max. back-up fuse
+	 	A gL/gG	125
+
+Selectivity Class
+	 	 	3
+
+Lifespan
+	Operations	 	> 10000
+
+Direction of incoming supply
+	 	 	as required
+Mechanical
+
+Standard front dimension
+	 	mm	45
+
+Enclosure height
+	 	mm	80
+
+Terminal protection
+	 	 	Finger and back-of-hand proof to BGV A2
+
+Mounting width per pole
+	 	mm	17.5
+
+Mounting
+	 	 	IEC/EN 60715 top-hat rail
+
+Degree of Protection
+	 	 	IP20, IP40 (when fitted)
+
+Terminals top and bottom
+	 	 	Twin-purpose terminals
+
+Terminal capacities
+	 	mm2	 
+
+ 
+	 	mm2	1 x 25
+
+ 
+	 	mm2	2 x 10
+
+Thickness of busbar material
+	 	mm	0.8 … 2
+
+Mounting position
+	 	 	As required
+Design verification as per IEC/EN 61439(Show features)(Hide features)
+Technical data ETIM 6.0(Show features)(Hide features)
+Approvals
+Product Standards	 	 	IEC/EN 60947-2; IEC/EN 60898; UL 1077; CSA-C22.2 No. 235; CE marking
+UL File No.	 	 	E177451
+UL Category Control No.	 	 	QVNU2, QVNU8
+CSA File No.	 	 	204453
+CSA Class No.	 	 	3215-30
+North America Certification	 	 	UL recognized, CSA certified
+Conditions of Acceptability	 	 	Supplementary Protector only
+Suitable for	 	 	Branch Circuits; not as BCPD
+Current Limiting Circuit-Breaker	 	 	No
+Max. Voltage Rating	 	 	480Y/277 VAC; 96 VDC
+Degree of Protection	 	 	IEC: IP20; UL/CSA Type: -
+Characteristics
+
+Let-through energy I2t
+According to IEC/EN 60898
+
+
+
+
+Tripping characteristic at 30 °C:
+B, C, D to IEC/EN 60898
+Dimensions
+CAD data
+Product-specific CAD data
+3D Preview
+Additional product information (links)
+AWA1220-1755 Circiut-breaker
+
+ 	
+	AWA1220-1755 Circiut-breaker
+10/17/2017	278748 - HPL-ED2017 V37.0 EN	 
+Eaton Industries GmbH
+http://www.eaton.eu
+© 10/2017 by Eaton Industries GmbH
+278748 - HPL-ED2017 V37.0 EN
+ Excel 

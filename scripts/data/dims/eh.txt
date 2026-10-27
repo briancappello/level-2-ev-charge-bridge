@@ -1,0 +1,176 @@
+PRODUCT-DETAILS
+
+
+EH04-11N
+EH04-11N Auxiliary Contact
+
+
+
+
+General Information
+Extended Product Type                                                                                  EH04-11N
+Product ID                                                                                    1SAE901901M1011
+Catalog Description                                                                  EH04-11N Auxiliary Contact
+                           The EH04 are auxiliary contact blocks which can be used in combination with all the
+                                                                    new ESB..N and EN..N installation contactors.
+Long Description
+                         These devices are available in 2 different contact configurations and no tool is needed
+                                                                                            for their assembling.
+
+
+
+
+Ordering
+Minimum Order Quantity                                                                                   6 piece
+Customs Tariff Number                                                                                  85369010
+
+
+
+
+Popular Downloads
+Instructions and                                                                             2CDC103043M6801
+Manuals
+
+
+
+
+Dimensions
+Product Net Width                                                                                          9 mm
+Product Net Depth /                                                                                      65 mm
+Length
+Product Net Height                                                                                       85 mm
+EH04-11N                                                                              2
+
+
+Product Net Weight                                                        0.04 kg
+
+
+
+
+Technical
+Rated Operational                                      Auxiliary Circuit 500 V AC
+Voltage
+Rated Frequency (f)                                        Auxiliary Circuit 50 Hz
+                                                           Auxiliary Circuit 60 Hz
+Rated Impulse                                               Auxiliary Circuit 4 kV
+Withstand Voltage (U imp
+)
+Rated Insulation Voltage                                                    500 V
+(U i )
+Number of Poles                                                                  2
+Degree of Protection                                                          IP20
+Tightening Torque                                       Auxiliary Circuit 0.9 N·m
+Wire Stripping Length               Auxiliary Circuit, Top Terminals (1x 1.5) 7 mm
+                             Auxiliary Circuit, Top Terminals (1x 2.5 ... 4) 17 mm
+                                  Auxiliary Circuit, Top Terminals (2x 1.5) 17 mm
+                               Auxiliary Circuit, Bottom Terminals (1x 1.5) 7 mm
+                           Auxiliary Circuit, Bottom Terminals (1x 2.5 ... 4) 9 mm
+                              Auxiliary Circuit, Bottom Terminals (2x 1.5) 9 mm
+Recommended Screw                                      Auxiliary Circuit Pozidriv 1
+Driver
+Standards                                                      IEC/EN 60947-5-1
+Number of Auxiliary                                                              1
+Contacts NO
+Number of Main                                                                   0
+Contacts NC
+Number of Main                                                                   0
+Contacts NO
+Product Name                                                    Auxiliary Contact
+Suitable For                                                            ESB16..N
+                                                                        ESB20..N
+                                                                        ESB25..N
+                                                                        ESB40..N
+                                                                        ESB63..N
+                                                                         EN20..N
+                                                                         EN25..N
+                                                                         EN40..N
+                                                                       ESB100..N
+Suitable for Product                                     Installation Contactors
+Class
+
+
+
+
+Technical UL/CSA
+Maximum Operating                                                        600 V AC
+Voltage UL/CSA
+Connecting Capacity                                          Stranded 18-12 AWG
+Auxiliary Circuit UL/CSA
+Tightening Torque                                         Auxiliary Circuit 8 in·lb
+UL/CSA
+
+
+
+
+Environmental
+Ambient Air                                               Operation -25 ... +55 °C
+Temperature                                                Storage -40 ... +80 °C
+Conventional Free-air                                        Auxiliary Circuit 6 A
+Thermal Current (I th )
+Maximum Operating                                                         2000 m
+Altitude Permissible
+Resistance to Shock acc.                                          11 ms Pulse 15g
+to IEC 60068-2-27
+EH04-11N                                                                                                                         3
+
+
+Resistance to Vibrations                                                                                     5g / 3 ... 150 Hz
+acc. to IEC 60068-2-6
+RoHS Status                                                                               Following EU Directive 2011/65/EU
+
+
+
+
+Certificates and Declarations (Document Number)
+ABS Certificate                                                                                           1SAA920000-0101
+CB Certificate                                                                                            1SAA920006-2001
+CQC Certificate                                                                                     CQC2017010304980330
+cULus Certificate                                                                                              cUL_E191658
+Declaration of                                                                                           2020980305001265
+Conformity - CCC
+Declaration of                                                                                            1SAD938506-0302
+Conformity - CE
+Declaration of                                                                                            1SAD938500-1302
+Conformity - UKCA
+DNV Certificate                                                                                          1SAA920000-0306
+EAC Certificate                                                                                           1SAA920002-2701
+Instructions and                                                                                         2CDC103043M6801
+Manuals
+RINA Certificate                                                                                          1SAA920000-0801
+RoHS Information                                                                                          1SAD938506-0302
+
+
+
+
+Container Information
+Package Level 1 Width                                                                                               92.5 mm
+Package Level 1 Depth /                                                                                            115.5 mm
+Length
+Package Level 1 Height                                                                                                77 mm
+Package Level 1 Gross                                                                                                0.34 kg
+Weight
+Package Level 1 EAN                                                                                         4013614528019
+Package Level 1 Units                                                                                                 6 piece
+
+
+
+
+Classifications
+Object Classification                                                                                                       K
+Code
+ETIM 5                                                                                    EC000041 - Auxiliary contact block
+ETIM 6                                                                                    EC000041 - Auxiliary contact block
+ETIM 7                                                                                    EC000041 - Auxiliary contact block
+eClass                                                                                                      V11.0 : 27371302
+UNSPSC                                                                                                             39121522
+
+
+
+
+Categories
+
+Low Voltage Products and Systems → Control Products → Contactors → Installation Contactors Accessories
+Low Voltage Products and Systems → Modular DIN Rail Products → Command and Signalling Devices → Installation Contactors
+Accessories
+EH04-11N   4
+

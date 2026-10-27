@@ -1,0 +1,24 @@
+1. Raspberry Pi 5 4GB (SC1111) | PiShop US - Official Reseller
+   https://www.pishop.us/product/raspberry-pi-5-4gb/
+   Upgrade your Raspberry Pi experience with the Raspberry Pi 5 4GB - Quad-core 2.4 GHz ARM Cortex-A76 CPU, dual 4K HDMI, PCIe support, and new USB 3.2 ports for demanding projects.
+
+2. Raspberry Pi 5 Starter Kit - 4GB - pishop.us
+   https://www.pishop.us/product/raspberry-pi-5-starter-kit-4gb/
+   Authorized Raspberry Pi Reseller in the US. The largest selection of Raspberry Pi boards, kits, unique accessories. PiShop.us - your one-stop American store with fast shipping!
+
+3. Buy a Raspberry Pi 5 - Raspberry Pi
+   https://www.raspberrypi.com/products/raspberry-pi-5/?variant=raspberry-pi-5-4gb
+   Will my Raspberry Pi 4 power supply work with Raspberry Pi 5? Raspberry Pi 5 is a higher-performance computer than Raspberry Pi 4, and you may have problems using an under-powered supply.
+
+4. PiShop Raspberry Pi 5 Starter Kit (1GB) - amazon.com
+   https://www.amazon.com/PiShop-Raspberry-Starter-Kit-4GB/dp/B0G94X82WV
+   PiShop Raspberry Pi5 Kit with Case & Power Supply Kickstart your project with the Raspberry Pi5 Budget Kit, a great value for makers, hobbyists, and DIYers. Choose 2GB, 4GB, 8GB, or 16GB RAM. Our Starter Kit is ideal for those who: Want to start using a Raspberry Pi Are looking to play with and learn the Raspbian OS Enjoy the simplicity of a kit that has everything they need Included The ...
+
+5. Raspberry Pi 5 4GB - PiShop
+   https://www.pishop.co.za/store/raspberry-pi-5-model-b-4gb
+   For the first time, this is a full-size Raspberry Pi computer using silicon built in-house at Raspberry Pi. The RP1 "southbridge" provides the bulk of the I/O capabilities for Raspberry Pi 5, and delivers a step change in peripheral performance and functionality.
+
+6. Raspberry Pi 5 - Raspberry Pi | DigiKey
+   https://www.digikey.com/en/product-highlight/r/raspberry-pi/raspberry-pi-5
+   Raspberry Pi 5 is built upon a 64-bit quad-core 2.4 GHz Arm® Cortex®-A76 processor, providing a 2x to 3x increase in CPU performance compared to Pi 4.
+

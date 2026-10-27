@@ -1,0 +1,1399 @@
+# Through Hole Resistors | Resistors | DigiKey
+https://www.digikey.com/en/products/filter/through-hole-resistors/53?s=N4IgTCBcDaIEoFEDKACMA6MBpFB5AEgLIoCMApKQPRgDqKAggBoCS9AMigLYCmALgIYAbFADMAloM4gAugF8gA
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Resistors
+Through Hole Resistors
+Dark Mode
+Share
+Through Hole Resistors
+Results: 142
+Filters
+Stacked
+Scrolling
+Common Attributes
+Stocking Options
+In Stock
+Normally Stocking
+Exclude
+Tariffed Products
+Marketplace Products
+Environmental Options
+RoHS Compliant
+Non-RoHS Compliant
+Media
+Datasheet
+Photo
+EDA/CAD Models
+New Products
+New at DigiKey
+New to Market
+Line Extensions
+Manufacturer
+KOA Speer Electronics, Inc.
+Lumimax Optoelectronic Technology
+Stackpole Electronics Inc
+Vishay Beyschlag/Draloric/BC Components
+Vishay Dale
+YAGEO
+Series
+CMF
+CPF
+ERC
+ERL
+FMF
+FMP
+MF
+MFR
+MFS
+Military, MIL-PRF-39017/02, RLR20
+Military, MIL-PRF-55182/05, RNC65
+Military, MIL-PRF-55182/05, RNR65
+Military, MIL-R-10509/2, RN65
+RNF
+Packaging
+Bulk
+Cut Tape (CT)
+Tape & Box (TB)
+Tape & Reel (TR)
+Product Status
+Active
+Discontinued at DigiKey
+Obsolete
+Resistance
+2.2 kOhms
+42.2 kOhms
+82.2 kOhms
+Tolerance
+±1%
+±2%
+Power (Watts)
+0.5W, 1/2W
+0.6W
+2W
+Composition
+Metal Film
+Metal Oxide Film
+Features
+-
+Automotive AEC-Q200
+Flame Proof, Moisture Resistant, Safety
+Flame Proof, Safety
+Flame Retardant Coating, Military, Moisture Resistant, Safety
+Flame Retardant Coating, Moisture Resistant, Safety
+Flame Retardant Coating, Safety
+Military, Moisture Resistant
+Military, Moisture Resistant, Weldable
+Moisture Resistant
+Temperature Coefficient
+-200/ +350ppm/°C
+±25ppm/°C
+±50ppm/°C
+±100ppm/°C
+±200ppm/°C
+Operating Temperature
+-65°C ~ 150°C
+-65°C ~ 175°C
+-65°C ~ 230°C
+-55°C ~ 155°C
+-55°C ~ 175°C
+-55°C ~ 235°C
+Supplier Device Package
+-
+Axial
+Size / Dimension
+0.075" Dia x 0.134" L (1.90mm x 3.40mm)
+0.075" Dia x 0.138" L (1.90mm x 3.50mm)
+0.090" Dia x 0.240" L (2.29mm x 6.10mm)
+0.091" Dia x 0.248" L (2.30mm x 6.30mm)
+0.093" Dia x 0.250" L (2.35mm x 6.35mm)
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+0.098" Dia x 0.256" L (2.50mm x 6.50mm)
+0.108" Dia x 0.344" L (2.75mm x 8.75mm)
+0.130" Dia x 0.354" L (3.30mm x 9.00mm)
+0.138" Dia x 0.354" L (3.50mm x 9.00mm)
+0.138" Dia x 0.375" L (3.51mm x 9.53mm)
+0.145" Dia x 0.344" L (3.68mm x 8.74mm)
+0.154" Dia x 0.354" L (3.90mm x 9.00mm)
+0.157" Dia x 0.433" L (4.00mm x 11.00mm)
+Failure Rate
+-
+M (1%)
+P (0.1%)
+R (0.01%)
+S (0.001%)
+Apply All
+142
+Results
+SEARCH ENTRY
+
+RES 2.2K OHM 1% 1/2W AXIAL metal film
+
+Showing
+1 - 25
+of 142
+Sort By: Featured
+​
+Download Table
+	
+Mfr Part #
+	
+Quantity Available
+	
+Price
+	
+Tariff Status
+	
+Series
+	
+Package
+	
+Product Status
+	
+Resistance
+	
+Tolerance
+	
+Power (Watts)
+	
+Composition
+	
+Features
+	
+Temperature Coefficient
+	
+Operating Temperature
+	
+Package / Case
+	
+Supplier Device Package
+	
+Size / Dimension
+	
+Height - Seated (Max)
+	
+Number of Terminations
+	
+Failure Rate
+
+
+	
+MFR50SFTE52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+28,416
+In Stock
+	
+1 : $0.10000
+Cut Tape (CT)
+5,000 : $0.01843
+Tape & Box (TB)
+	
+Tariff may apply if shipping to the United States
+	
+MFR
+	
+Cut Tape (CT)
+Tape & Box (TB)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+SFR25H0002201FR500
+RES 2.2K OHM 1/2W 1% AXIAL
+Vishay Beyschlag/Draloric/BC Components
+	
+3,296
+In Stock
+	
+1 : $0.18000
+Cut Tape (CT)
+5,000 : $0.04056
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+SFR25H
+	
+Tape & Reel (TR)
+Cut Tape (CT)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+-
+	
+0.098" Dia x 0.256" L (2.50mm x 6.50mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFS1/2DCT52R2201F
+RES 2.2K OHM 1% 1/2W AXIAL
+KOA Speer Electronics, Inc.
+	
+6,652
+In Stock
+	
+1 : $0.37000
+Cut Tape (CT)
+5,000 : $0.09264
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+MFS
+	
+Tape & Reel (TR)
+Cut Tape (CT)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+Automotive AEC-Q200
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.091" Dia x 0.248" L (2.30mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+RN65E2201FB14
+RES 2.2K OHM 1/2W 1% AXIAL
+Vishay Dale
+	
+2,315
+In Stock
+	
+1 : $1.43000
+Bulk
+	
+-
+	
+Military, MIL-R-10509/2, RN65
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+Flame Retardant Coating, Military, Moisture Resistant, Safety
+	
+±25ppm/°C
+	
+-65°C ~ 175°C
+	
+Axial
+	
+Axial
+	
+0.180" Dia x 0.562" L (4.57mm x 14.27mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+CMF5542K200FHEB
+RES 42.2K OHM 1/2W 1% AXIAL
+Vishay Dale
+	
+1,332
+In Stock
+	
+1 : $0.73000
+Cut Tape (CT)
+1,000 : $0.28781
+Tape & Reel (TR)
+	
+-
+	
+CMF
+	
+Tape & Reel (TR)
+Cut Tape (CT)
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.6W
+	
+Metal Film
+	
+Flame Retardant Coating, Moisture Resistant, Safety
+	
+±50ppm/°C
+	
+-55°C ~ 175°C
+	
+Axial
+	
+Axial
+	
+0.090" Dia x 0.240" L (2.29mm x 6.10mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+CPF22K2000FKE14
+RES 2.2K OHM 1% 2W AXIAL
+Vishay Dale
+	
+263
+In Stock
+	
+1 : $10.90000
+Bulk
+	
+-
+	
+CPF
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+2W
+	
+Metal Film
+	
+Flame Proof, Moisture Resistant, Safety
+	
+±100ppm/°C
+	
+-65°C ~ 230°C
+	
+Axial
+	
+Axial
+	
+0.145" Dia x 0.344" L (3.68mm x 8.74mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF1/2CCT52R4222F
+RES 42.2K OHM 1% 1/2W AXIAL
+KOA Speer Electronics, Inc.
+	
+3,865
+In Stock
+	
+1 : $0.39000
+Cut Tape (CT)
+4,000 : $0.09965
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+MF
+	
+Tape & Reel (TR)
+Cut Tape (CT)
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.138" Dia x 0.354" L (3.50mm x 9.00mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF1/2CC2201F
+RES 2.2K OHM 1% 1/2W AXIAL
+KOA Speer Electronics, Inc.
+	
+994
+In Stock
+	
+1 : $0.69000
+Bulk
+	
+Tariff may apply if shipping to the United States
+	
+MF
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.138" Dia x 0.354" L (3.50mm x 9.00mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF1/2DCT52R2201F
+RES 2.2K OHM 1% 1/2W AXIAL
+KOA Speer Electronics, Inc.
+	
+881
+In Stock
+	
+1 : $0.38000
+Cut Tape (CT)
+4,000 : $0.09658
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+MF
+	
+Tape & Reel (TR)
+Cut Tape (CT)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.138" Dia x 0.354" L (3.50mm x 9.00mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF1/2DC2201F
+RES 2.2K OHM 1% 1/2W AXIAL
+KOA Speer Electronics, Inc.
+	
+681
+In Stock
+	
+1 : $0.67000
+Bulk
+	
+Tariff may apply if shipping to the United States
+	
+MF
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.138" Dia x 0.354" L (3.50mm x 9.00mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF2W2K2FT
+RES 2.2K OHM 1% 2W AXIAL
+Lumimax Optoelectronic Technology
+	
+600
+Marketplace
+	
+1 : $0.14000
+Bulk
+	
+-
+	
+MF
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.197" Dia x 0.610" L (5.00mm x 15.50mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+CMF552K2000FKBF
+RES 2.2K OHM 1/2W 1% AXIAL
+Vishay Dale
+	
+199
+In Stock
+	
+1 : $0.40000
+Bulk
+	
+-
+	
+CMF
+	
+Bulk
+	
+Obsolete
+	
+2.2 kOhms
+	
+±1%
+	
+0.6W
+	
+Metal Film
+	
+Flame Retardant Coating, Moisture Resistant, Safety
+	
+±100ppm/°C
+	
+-55°C ~ 175°C
+	
+Axial
+	
+Axial
+	
+0.090" Dia x 0.240" L (2.29mm x 6.10mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MF2W2K2FTB
+RES 2.2K OHM 1% 2W AXIAL
+Lumimax Optoelectronic Technology
+	
+1,000
+Marketplace
+	
+1,000 : $0.04000
+Bulk
+	
+-
+	
+MF
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.197" Dia x 0.610" L (5.00mm x 15.50mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFBF52-82K2
+RES 82.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+	
+10,000 : $0.01201
+Bulk
+	
+-
+	
+MFR
+	
+Bulk
+	
+Discontinued at DigiKey
+	
+82.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFRF52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+200,000 : $0.01267
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+MFR
+	
+Tape & Reel (TR)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFBE52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+10,000 : $0.01550
+Bulk
+	
+-
+	
+MFR
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFBE52-42K2
+RES 42.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+10,000 : $0.01550
+Bulk
+	
+-
+	
+MFR
+	
+Bulk
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFBF52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+10,000 : $0.01550
+Bulk
+	
+-
+	
+MFR
+	
+Bulk
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFRE52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+5,000 : $0.01700
+Tape & Reel (TR)
+	
+-
+	
+MFR
+	
+Tape & Reel (TR)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFRE52-42K2
+RES 42.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+5,000 : $0.01700
+Tape & Reel (TR)
+	
+-
+	
+MFR
+	
+Tape & Reel (TR)
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFRF52-42K2
+RES 42.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+5,000 : $0.01700
+Tape & Reel (TR)
+	
+-
+	
+MFR
+	
+Tape & Reel (TR)
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR50SFTE52-42K2
+RES 42.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+5,000 : $0.01705
+Tape & Box (TB)
+	
+-
+	
+MFR
+	
+Tape & Box (TB)
+	
+Active
+	
+42.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±50ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+FMF50SFTF52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+140,000 : $0.01805
+Tape & Box (TB)
+	
+-
+	
+FMF
+	
+Tape & Box (TB)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+Flame Proof, Safety
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.094" Dia x 0.248" L (2.40mm x 6.30mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+RNMF12FTD2K20
+RES 2.2K OHM 1% 1/2W AXIAL
+Stackpole Electronics Inc
+	
+0
+In Stock
+Check Lead Time
+	
+5,000 : $0.02102
+Tape & Reel (TR)
+	
+Tariff may apply if shipping to the United States
+	
+RNMF (Mini)
+	
+Tape & Reel (TR)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+Flame Retardant Coating, Safety
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.093" Dia x 0.250" L (2.35mm x 6.35mm)
+	
+-
+	
+2
+	
+-
+
+
+	
+MFR-50FRF52-2K2
+RES 2.2K OHM 1% 1/2W AXIAL
+YAGEO
+	
+0
+In Stock
+Check Lead Time
+	
+120,000 : $0.02173
+Tape & Reel (TR)
+	
+-
+	
+MFR
+	
+Tape & Reel (TR)
+	
+Active
+	
+2.2 kOhms
+	
+±1%
+	
+0.5W, 1/2W
+	
+Metal Film
+	
+-
+	
+±100ppm/°C
+	
+-55°C ~ 155°C
+	
+Axial
+	
+Axial
+	
+0.130" Dia x 0.354" L (3.30mm x 9.00mm)
+	
+-
+	
+2
+	
+-
+Showing
+1 - 25
+of 142
+12345
+Through Hole Resistors
+Through-Hole Resistors are devices which oppose the flow of current. They have two wire terminals designed to be inserted and soldered to a printed circuit board (PCB) or used in a breadboard. The characteristics are resistance (ohms), tolerance (jumper, ±0.001%, ±5%, etc.), power (watts), and composition (carbon composition, carbon film, ceramic, metal element, metal film, metal foil, metal oxide film, thick film, thin film, or wirewound).
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.
