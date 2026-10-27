@@ -1,5 +1,7 @@
 # 9.6 kW Level 2 EV charger on the Pionix ChargeBridge eval board
 
+**Read the design online: https://briancappello.github.io/level-2-ev-charge-bridge/**
+
 ## Quick start
 
 You need [Git LFS](https://git-lfs.com), plus [OpenCode](https://opencode.ai) if you want to continue the design session.
