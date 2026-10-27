@@ -6,7 +6,7 @@ You need [Git LFS](https://git-lfs.com), plus [OpenCode](https://opencode.ai) if
 
 ```sh
 git lfs install
-git clone --recurse-submodules <this-repo-url> cb-l2-evse && cd cb-l2-evse
+git clone --recurse-submodules https://github.com/briancappello/level-2-ev-charge-bridge.git && cd level-2-ev-charge-bridge
 opencode session import session/cb-l2-evse.opencode-session.json --directory "$(pwd)"
 ```
 
