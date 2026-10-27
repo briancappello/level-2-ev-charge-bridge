@@ -1,8 +1,22 @@
 # 9.6 kW Level 2 EV charger on the Pionix ChargeBridge eval board
 
+## Quick start
+
+You need [Git LFS](https://git-lfs.com), plus [OpenCode](https://opencode.ai) if you want to continue the design session.
+
+```sh
+git lfs install
+git clone --recurse-submodules <this-repo-url> cb-l2-evse && cd cb-l2-evse
+opencode session import session/cb-l2-evse.opencode-session.json --directory "$(pwd)"
+```
+
+Then open `cb-l2-evse.html` in a browser, or run `opencode -s ses_f10f0b8a6ffepIrL6hYZ5qj2S1` to pick up the design session where it left off.
+
+## About
+
 Design files for a 240 V / 40 A, J1772 tethered, plug-in (NEMA 14-50) EVSE bench unit. A Pionix CB-EVAL v1.2 board with a ChargeBridge EVSE module handles the pilot and safety state machine, and EVerest runs on an external PC.
 
-Open **`cb-l2-evse.html`** in a browser. It contains:
+**`cb-l2-evse.html`** contains:
 
 - Two schematic sheets: the power path, and control wiring with board connector pin numbers
 - A BOM with vendor links and prices (read 26–27 Oct 2026, US shipping)
@@ -10,16 +24,7 @@ Open **`cb-l2-evse.html`** in a browser. It contains:
 
 > This is a bench test device for private use by someone qualified to work on 240 V equipment. It is not a listed product.
 
-## Get it
-
-Install [Git LFS](https://git-lfs.com) first (`git lfs install`), then clone with the submodule:
-
-```sh
-git clone --recurse-submodules <this-repo-url> cb-l2-evse
-cd cb-l2-evse
-```
-
-If you already cloned without it:
+## Cloned without the submodule or LFS?
 
 ```sh
 git submodule update --init
@@ -55,13 +60,7 @@ scripts/cfx search "Mean Well HDR-60-24"
 
 ## Continue the design session in OpenCode
 
-The full design conversation, including every tool call and the reasoning behind each decision, is in `session/cb-l2-evse.opencode-session.json`. To import it with this clone as its working directory:
-
-```sh
-opencode session import session/cb-l2-evse.opencode-session.json --directory "$(pwd)"
-opencode session list          # find the imported session's ID
-opencode -s <session-id>       # open it and keep going
-```
+The full design conversation, including every tool call and the reasoning behind each decision, is in `session/cb-l2-evse.opencode-session.json`. The quick start imports it with your clone as its working directory, and the import keeps the session ID `ses_f10f0b8a6ffepIrL6hYZ5qj2S1`. If a session with that ID already exists, the import stops with "Session already exists".
 
 The transcript refers to the original machine's paths: `/home/brian/gl` is the repository root, and `~/.local/bin/cfx` is `scripts/cfx`. `AGENTS.md` tells the agent this. Some tools used in the session (an MCP-driven Firefox sandbox, the original subagents) aren't part of this repo. The agent doesn't need them to pick up the work.
 
