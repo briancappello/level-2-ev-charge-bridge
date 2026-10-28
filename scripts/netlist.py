@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Minimal KiCad 9 schematic netlister (geometry based) for review purposes."""
+"""Minimal KiCad 9 schematic netlister (geometry based), kept for its S-expression parser.
+
+Don't trust its connectivity: it swaps the pins of some rotated or mirrored two-pin
+parts (it reported the CB-EVAL input zeners backwards). Use board_nets.py, which
+reads KiCad's own netlist via kicad-cli.
+"""
 import sys, os, re, math, collections
 
 def tokenize(s):

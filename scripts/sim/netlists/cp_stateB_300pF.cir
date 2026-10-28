@@ -1,0 +1,13 @@
+* Control pilot, state B, 300 pF total on CP
+Vosc osc 0 PULSE(-12 12 0 1e-06 1e-06 0.0006656666666666667 1m)
+Rs osc cp 1k
+Cmod cp 0 300p
+Ccab cp 0 1e-15
+Dev cp ev D1N4148
+Rev0 ev 0 2740
+.model D1N4148 D(IS=2.52n RS=0.568 N=1.752 BV=100 IBV=100u CJO=4p TT=20n)
+.control
+tran 50n 3m
+wrdata @WRDIR@/cp.dat v(cp)
+.endc
+.end

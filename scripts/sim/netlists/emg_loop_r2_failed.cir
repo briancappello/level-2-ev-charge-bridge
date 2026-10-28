@@ -1,0 +1,16 @@
+* EMG IN loop, J4.11 (CB-EVAL LevelShiftInput2 + R1/R2)
+V24 vp 0 24
+Rchain vp a 1000000000000.0
+R1 a emg 2200
+R2 emg 0 1000000000000.0
+R9 vp emg 100000.0
+R43 emg x 20000.0
+R76 x 0 1000000.0
+D22 0 x DZ
+Rsw2 emg 0 1000000000000.0
+.model DZ D(IS=1e-14 N=1 RS=20 BV=5.1 IBV=1m)
+.control
+op
+print v(emg) v(x) v(a)
+.endc
+.end

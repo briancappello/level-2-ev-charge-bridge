@@ -1,0 +1,19 @@
+# Run the ngspice circuit checks on every change to the simulations or the design document.
+name: Simulations
+
+on:
+  push:
+    paths: [scripts/sim/**, cb-l2-evse.html, .github/workflows/sim.yml]
+  pull_request:
+    paths: [scripts/sim/**, cb-l2-evse.html, .github/workflows/sim.yml]
+  workflow_dispatch:
+
+jobs:
+  ngspice:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install ngspice
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ngspice
+      - name: Run circuit checks
+        run: python3 scripts/sim/run.py --check

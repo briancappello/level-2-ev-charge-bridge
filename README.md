@@ -23,6 +23,7 @@ Design files for a 240 V / 40 A, J1772 tethered, plug-in (NEMA 14-50) EVSE bench
 - Two schematic sheets: the power path, and control wiring with board connector pin numbers
 - A BOM with vendor links and prices (read 26–27 Oct 2026, US shipping)
 - Build notes, plus a 10-step assembly guide with to-scale layout and wiring drawings
+- ngspice simulations of the E-stop loop, relay feedback, control pilot and PT1000 circuits
 
 > This is a bench test device for private use by someone qualified to work on 240 V equipment. It is not a listed product.
 
@@ -51,7 +52,10 @@ The build scripts need only Python 3.10+:
 ```sh
 python3 scripts/build_bom.py        # BOM table
 python3 scripts/build_assembly.py   # assembly steps and drawings
+python3 scripts/sim/run.py          # circuit simulations (needs ngspice)
 ```
+
+The simulations check the E-stop loop, the relay feedback input, the control pilot states and the PT1000 front end against pass/fail criteria. GitHub Actions runs them on every push.
 
 For web lookups (price and datasheet research), set up the Camoufox tool once (about 600 MB):
 

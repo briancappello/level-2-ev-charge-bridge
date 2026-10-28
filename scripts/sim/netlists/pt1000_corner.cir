@@ -1,0 +1,20 @@
+* PT1000_1 front end (R91, R70, R89, R90, U11 INA333 with Rg = R92)
+.param rpt=1000
+Vref ref 0 2.048
+R91 ref p 4994.99
+Rpt p m {rpt}
+R70 m 0 4994.99
+R89 ref n 4994.99
+R90 n m 825.8249999999999
+* INA333 as an ideal difference amplifier, output limited to the 0-3.3 V rails
+Bina out 0 V = max(0, min(3.3, 30.040726715145322 * (v(p) - v(n))))
+Rload out 0 100k
+.control
+foreach val 1097.347 1308.968 1385.055
+  alterparam rpt = $val
+  reset
+  op
+  print v(out)
+end
+.endc
+.end

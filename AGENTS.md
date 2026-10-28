@@ -12,8 +12,9 @@ This repository is the design for a 9.6 kW (240 V / 40 A) Level 2 J1772 EV charg
 
 ## Working rules
 
-- The BOM table and the Assembly section are generated. Edit `scripts/build_bom.py` or `scripts/build_assembly.py` and re-run them; don't hand-edit those parts of the HTML. Schematic sheets 1–2 and the build notes are hand-maintained SVG/HTML.
+- The BOM table, the Simulations section and the Assembly section are generated. Edit `scripts/build_bom.py`, `scripts/sim/run.py` or `scripts/build_assembly.py` and re-run them; don't hand-edit those parts of the HTML. `python3 scripts/sim/run.py --check` must pass before committing. Schematic sheets 1–2 and the build notes are hand-maintained SVG/HTML.
 - Keep the schematic, BOM and assembly drawings consistent with each other. A wiring change usually touches all three.
+- For CB-EVAL connectivity, use `scripts/board_nets.py` (KiCad's own netlist via kicad-cli). Don't rely on `scripts/netlist.py`; it swaps the pins of some rotated or mirrored two-pin parts.
 - Never invent prices or dimensions. Record only values read from a vendor page or datasheet, with the date for prices, and mark anything unverified.
 - Use `scripts/cfx search` / `scripts/cfx fetch` for web lookups (run `scripts/setup.sh` first). Polycase, Mouser and Home Depot block automated browsers; ask the user to save pages by hand.
 - After editing the HTML, render it (for example `chromium --headless --screenshot`) and look at the result before reporting done.
