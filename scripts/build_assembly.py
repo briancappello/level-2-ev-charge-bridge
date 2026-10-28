@@ -329,7 +329,8 @@ step(6, "Wire the control signals",
 <li><strong>Pilot:</strong> run the J1772 cable's CP conductor to J11.6. If the cable has a latch-sense conductor, land it on J11.7. Keep these runs away from the 8 AWG conductors.</li>
 <li><strong>Temperature:</strong> stick TT1 on K1's body beside terminals 2/4 and wire it to J11.2/J11.3. Stick TT2 on the J1772 cable jacket just inside the gland and wire it to J11.4/J11.5. Neither lead goes to ground.</li>
 <li><strong>Stop button:</strong> wire S2's NO contact to J4.10 and J4.9.</li>
-<li><strong>Not used:</strong> leave J4.11 (EMG IN), J11.8 (ZC) and the HV inputs J1/J6 unconnected. To fit the optional E-stop, follow Sheet 2.</li>
+<li><strong>Not used:</strong> leave J4.11 (EMG IN), J11.8 (ZC) and the HV inputs J1/J6 unconnected.</li>
+<li><strong>Optional E-stop or RCM1:</strong> wire it as Sheet 2 shows. Fit R1 between the NC loop wire and J4.11, and R2a and R2b separately, each from J4.11 to J4.9. Put each terminal's leads and wire into one ferrule (at most 1.5 mm²). Keep R2a and R2b as two separate resistors; don't solder them together into one part, or a single bad joint could take out both.</li>
 </ol>""",
      svg(6, [], ORDER + UPPER, "Control signal wiring: coil, feedback, RS-485, pilot, temperature sensors, stop button", s6_extra))
 
@@ -358,6 +359,7 @@ step(9, "Bring it up on 24 V only",
 <li>Check that the PC finds the module and that EVerest starts.</li>
 <li>Plug the J1772 handle into an EV simulator. In state B (2.74 kΩ + diode), the pilot should read +9 V and then show a 66.7% duty cycle. In state C (with 1.3 kΩ added), K1 should pull in with an audible click, feedback 1 should read closed, and TT1/TT2 should read room temperature.</li>
 <li>Press S2: K1 should drop out. Pull the handle out: the session should end.</li>
+<li>If S1 or RCM1 is fitted: start a session, then press S1. K1 should drop out, and EVerest should report an emergency stop that stays latched until you unplug. Reset S1 and repeat with RCM1's test button. This trip test is what shows the pull-downs work; repeat it after moving the unit and every few months.</li>
 <li>Unplug the J10 supply.</li>
 </ol>""")
 

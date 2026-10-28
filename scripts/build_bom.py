@@ -70,8 +70,8 @@ r("S1", 1, "22 mm E-stop, 40 mm mushroom, twist to release, 1 NC", "AutomationDi
   opt=True, notes="455 available. Replaces the $121 Schneider. Omit it and unplug the 14-50 instead if you prefer.")
 r("S1", 1, "Extra NC contact block for S1-a (2-pack)", "AutomationDirect ECX1030-2", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 8.75,
   opt=True, notes="Fits GCX. 607 available.")
-r("R1, R2", 2, "2.2 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-2K2", "Digi-Key", DK + "MFR50SFTE52-2K2", 0.10,
-  opt=True, notes="Only needed if S1 or RCM1 is fitted.")
+r("R1, R2a, R2b", 3, "2.2 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-2K2", "Digi-Key", DK + "MFR50SFTE52-2K2", 0.10,
+  opt=True, notes="Only needed if S1 or RCM1 is fitted. R2a and R2b are parallel pull-downs, so either alone still trips.")
 r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "Schneider XB5AA31", "Digi-Key", DK + "XB5AA31", 28.30,
   notes="Replaces the key switch; the stop input needs a momentary contact.")
 r("R3", 1, "3.3 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K3", "Digi-Key", DK + "MFR50SFTE52-3K3", 0.10,

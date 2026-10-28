@@ -1,0 +1,17 @@
+* EMG FMEA
+V24 vp 0 29
+Rchain vp a 0.01
+R1 a j 2200
+R2 j 0 10000.0
+Rwire j emg 0.01
+R9 vp emg 1000000000000.0
+R43 emg x 20k
+R76 x 0 1Meg
+D22 0 x DZ
+
+.model DZ D(IS=1e-14 N=1 RS=20 BV=5.1 IBV=1m)
+.control
+op
+print v(x)
+.endc
+.end

@@ -56,12 +56,14 @@ def tol_corners(nominals, tol):
 # ----------------------------------------------------------------------------------------
 # 1. Emergency input loop (J4.11): board R9/R43/R76/D22, our R1/R2 and NC contact chain
 # ----------------------------------------------------------------------------------------
-def emg_deck(vs, r, chain, sw2, r2_present=True):
-    return f"""* EMG IN loop, J4.11 (CB-EVAL LevelShiftInput2 + R1/R2)
+def emg_deck(vs, r, chain, sw2, failed=()):
+    rv = lambda k: OPEN if k in failed else r[k]
+    return f"""* EMG IN loop, J4.11 (CB-EVAL LevelShiftInput2 + R1, R2a || R2b)
 V24 vp 0 {vs}
 Rchain vp a {chain}
-R1 a emg {r['R1']}
-R2 emg 0 {r['R2'] if r2_present else OPEN}
+R1 a emg {rv('R1')}
+R2a emg 0 {rv('R2a')}
+R2b emg 0 {rv('R2b')}
 R9 vp emg {r['R9']}
 R43 emg x {r['R43']}
 R76 x 0 {r['R76']}
@@ -76,11 +78,15 @@ print v(emg) v(x) v(a)
 """
 
 def sim_emg():
-    nom = {"R1": 2200, "R2": 2200, "R9": 100e3, "R43": 20e3, "R76": 1e6}
+    nom = {"R1": 2200, "R2a": 2200, "R2b": 2200, "R9": 100e3, "R43": 20e3, "R76": 1e6}
     rows = []
     worst = {"run": (1e9, None), "trip": (-1e9, None)}
+    single = {"R2a": -1e9, "R2b": -1e9}
     for vs in SUPPLY:
         for r in tol_corners(nom, 0.01):
+            for f in single:
+                v, *_ = ngspice("emg_loop_one_pulldown_failed", emg_deck(vs, r, OPEN, OPEN, failed=(f,)))
+                single[f] = max(single[f], v["v(x)"])
             for state, chain in (("run", CLOSED), ("trip", OPEN)):
                 v, *_ = ngspice("emg_loop_corner", emg_deck(vs, r, chain, OPEN))
                 x = v["v(x)"]
@@ -93,9 +99,16 @@ def sim_emg():
     v, *_ = ngspice("emg_loop_sw2", emg_deck(24, nom, CLOSED, CLOSED))
     i_sw2 = (24 - v["v(emg)"]) / nom["R1"] + (24 - v["v(emg)"]) / nom["R9"]
     rows.append(("On-board SW2 pressed, chain closed", v["v(emg)"], v["v(x)"], "low"))
-    v, *_ = ngspice("emg_loop_r2_failed", emg_deck(24, nom, OPEN, OPEN, r2_present=False))
-    rows.append(("Chain open but R2 failed open", v["v(emg)"], v["v(x)"], "high (no trip)"))
-    nc = {"R9": 100e3, "R43": 20e3, "R76": 1e6, "R1": OPEN, "R2": OPEN}
+    v, *_ = ngspice("emg_loop_r2a_failed", emg_deck(24, nom, OPEN, OPEN, failed=("R2a",)))
+    rows.append(("Chain open, R2a failed open", v["v(emg)"], v["v(x)"], "low"))
+    v, *_ = ngspice("emg_loop_r2a_failed_closed", emg_deck(24, nom, CLOSED, OPEN, failed=("R2a",)))
+    rows.append(("Chain closed, R2a failed open", v["v(emg)"], v["v(x)"], "high"))
+    v, *_ = ngspice("emg_loop_both_failed", emg_deck(24, nom, OPEN, OPEN, failed=("R2a", "R2b")))
+    rows.append(("Chain open, both pull-downs failed open", v["v(emg)"], v["v(x)"], "high (no trip)"))
+    v, *_ = ngspice("emg_loop_r1_failed", emg_deck(24, nom, CLOSED, OPEN, failed=("R1",)))
+    rows.append(("Chain closed, R1 failed open", v["v(emg)"], v["v(x)"], "low (trips)"))
+    r1_fail = v["v(x)"]
+    nc = {"R9": 100e3, "R43": 20e3, "R76": 1e6, "R1": OPEN, "R2a": OPEN, "R2b": OPEN}
     v, *_ = ngspice("emg_loop_no_estop", emg_deck(24, nc, OPEN, OPEN))
     rows.append(("No E-stop fitted (J4.11 open)", v["v(emg)"], v["v(x)"], "high"))
     run_x, (run_vs, run_emg) = worst["run"]
@@ -104,8 +117,14 @@ def sim_emg():
           f"worst {run_x:.2f} V at the Schmitt input ({run_vs} V supply), needs ≥ {VT_HI} V", run_x >= VT_HI)
     check("E-stop loop", "Open loop reads low at every supply and ±1% corner",
           f"worst {trip_x:.2f} V ({trip_vs} V supply), needs ≤ {VT_LO} V", trip_x <= VT_LO)
-    check("E-stop loop", "J4.11 stays within the board's 30 V input rating",
-          f"{max(SUPPLY) * 2200 * 1.01 / (2200 * 0.99 + 2200 * 1.01):.1f} V max", True)
+    w1 = max(single.values())
+    check("E-stop loop", "Either pull-down alone still trips (R2a or R2b failed open), every supply and corner",
+          f"worst {w1:.2f} V, needs ≤ {VT_LO} V", w1 <= VT_LO)
+    check("E-stop loop", "R1 failed open trips (fails safe)", f"{r1_fail:.2f} V", r1_fail <= VT_LO)
+    vmax = max(SUPPLY) * 1100 * 1.01 / (2200 * 0.99 + 1100 * 1.01)
+    vmax1 = max(SUPPLY) * 2200 * 1.01 / (2200 * 0.99 + 2200 * 1.01)
+    check("E-stop loop", "J4.11 stays within the board's 30 V input rating, even with one pull-down failed",
+          f"{vmax:.1f} V normally, {vmax1:.1f} V with one failed", vmax1 <= 30)
     check("E-stop loop", "On-board SW2 short stays within R1's 0.5 W rating",
           f"{i_sw2 * 1e3:.1f} mA, {(24 / 2200) ** 2 * 2200:.2f} W in R1 at 24 V; {(29 / 2178) ** 2 * 2178:.2f} W at 29 V",
           (29 / 2178) ** 2 * 2178 <= 0.5)
@@ -317,12 +336,12 @@ def build_section(emg_rows, fb_rows, cp, pt1000):
         out.append(f'<tr><td>{html.escape(g)}</td><td>{html.escape(desc)}</td><td>{html.escape(val)}</td><td class="{"sim-pass" if ok else "sim-fail"}">{"Pass" if ok else "Fail"}</td></tr>')
     out.append('</tbody></table></div>')
 
-    out.append('<h3>E-stop loop (J4.11)</h3><p>Nominal values at 24 V. The checks above sweep 21.6–29 V and every ±1 % resistor corner.</p>')
+    out.append('<h3>E-stop loop (J4.11)</h3><p>R1 2.2 kΩ in series, R2a and R2b 2.2 kΩ each in parallel to 0 V. Nominal values at 24 V; the checks above sweep 21.6–29 V and every ±1 % resistor corner.</p>')
     out.append('<div class="tablewrap"><table class="sim-t"><thead><tr><th>Condition</th><th>J4.11</th><th>Schmitt input</th><th>Reads</th></tr></thead><tbody>')
     for lab, ve, vx, reads in emg_rows:
         out.append(f'<tr><td>{html.escape(lab)}</td><td>{ve:.2f} V</td><td>{vx:.2f} V</td><td>{html.escape(reads)}</td></tr>')
     out.append('</tbody></table></div>')
-    out.append('<p>If R2 fails open, an open E-stop loop no longer trips: the board\'s 100 kΩ pull-up wins. Check R2 in step 8 by opening the loop and confirming a trip.</p>')
+    out.append('<p>R2a and R2b are in parallel so that either one alone still trips the input. With a single pull-down, its failing open would leave the board\'s 100 kΩ pull-up in control: an open loop would read normal, and nothing would show it while the loop is closed. Now it takes both failing. The step 9 trip test checks both are working.</p>')
 
     out.append('<h3>Relay 1 feedback (J5.12)</h3><div class="tablewrap"><table class="sim-t"><thead><tr><th>Wiring</th><th>Aux contact current</th><th>Input, K1 open</th><th>Input, K1 closed</th></tr></thead><tbody>')
     for lab, ima, vhi, vlo in fb_rows:

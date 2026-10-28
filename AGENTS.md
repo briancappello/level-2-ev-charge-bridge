@@ -23,7 +23,7 @@ This repository is the design for a 9.6 kW (240 V / 40 A) Level 2 J1772 EV charg
 
 - Input: owned NEMA 14-50 cord on an existing 50 A GFCI circuit. N lands on isolated terminal TB1-5 and is never bonded to PE.
 - CB-EVAL J11 has no ground pin. CP returns through the single 0 V–PE bond (PS1 −V to PE3).
-- EMG IN (J4.11) has a 100 kΩ pull-up to 24 V. Any NC safety contact needs the R1/R2 2.2 kΩ divider to pull it low. The E-stop is optional; without it, leave J4.11 open.
+- EMG IN (J4.11) has a 100 kΩ pull-up to 24 V. Any NC safety contact needs R1 (2.2 kΩ) with two parallel 2.2 kΩ pull-downs, R2a and R2b, so either pull-down alone still trips. The Pionix board must not be modified (R9 stays fitted). The E-stop is optional; without it, leave J4.11 open.
 - Relay 1 (J5.10 / J5.9) drives K1 through a TPS27S100, limited to about 5.2 A. Keep the coil under 2 A continuous and relay PWM off. K1 aux NC 21-22 goes from +24 V to J5.12, with R3 3.3 kΩ to 0 V for wetting current.
 - The meter's N reference comes from F1/F2 terminal 4. L2 doesn't pass through the meter.
 
