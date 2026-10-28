@@ -24,11 +24,11 @@ This repository is the design for a 9.6 kW (240 V / 40 A) Level 2 J1772 EV charg
 - Input: owned NEMA 14-50 cord on an existing 50 A GFCI circuit. N lands on isolated terminal TB1-5 and is never bonded to PE.
 - CB-EVAL J11 has no ground pin. CP returns through the single 0 V–PE bond (PS1 −V to PE3).
 - EMG IN (J4.11) has a 100 kΩ pull-up to 24 V. Any NC safety contact needs R1 (2.2 kΩ) with two parallel 2.2 kΩ pull-downs, R2a and R2b, so either pull-down alone still trips. The Pionix board must not be modified (R9 stays fitted). The E-stop S1 is fitted in the right wall: S1-a in K1's coil circuit, S1-b in the J4.11 loop.
-- Relay 1 (J5.10 / J5.9) drives K1 through a TPS27S100, limited to about 5.2 A. Keep the coil under 2 A continuous and relay PWM off. K1 aux NC 21-22 goes from +24 V to J5.12, with R3 3.3 kΩ to 0 V for wetting current.
+- Relay 1 (J5.10 / J5.9) drives K1 through a TPS27S100, limited to about 5.2 A. Keep the coil under 2 A continuous and relay PWM off. K1 is a Finder 22.64.0.024.4310 (24 V AC/DC coil, 250 mA, 20.4–26.4 V, so PS1 must stay at or below 26.4 V) with a Finder 022.65 aux module. Aux NC 21-22 goes from +24 V to J5.12, with R3a ∥ R3b (3.9 kΩ each) to 0 V so the contact carries its 10 mA minimum load.
 - The meter's N reference comes from F1/F2 terminal 4. L2 doesn't pass through the meter.
 - RCM1 (RCM14-04, 20 mA AC / 56 mA DC) sits on the J1772 cable's L1 and L2 only. It runs from PS2 (12 V) and holds K2 energised; K2's 11–14 contact is in series with S1-b, so a fault, S3 test press, lost 12 V or open K2 coil trips J4.11.
 - H1 is wired through K1's aux NO 33-34, not a GPIO, so it shows real contactor state.
-- The design has no optional parts. Every BOM row is required.
+- The design has no optional parts. Every BOM row is required, and every vendor is US-based.
 
 ## Session history
 

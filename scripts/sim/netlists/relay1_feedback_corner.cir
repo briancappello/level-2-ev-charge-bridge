@@ -1,9 +1,9 @@
 * Relay 1 feedback, J5.12 (CB-EVAL LevelShiftInput7 + R3 + K1 aux 21-22)
-Vs vp 0 29.0
+Vs vp 0 26.4
 Rsrc vp s 0.001
 Vam s s2 0
 Raux s2 fb 0.05
-R3 fb 0 3333.0
+R3 fb 0 1969.5
 R68 fb x 20000.0
 R97 x 0 1000000.0
 D32 0 x DZ

@@ -17,7 +17,7 @@ NGSPICE = shutil.which("ngspice")
 
 VT_HI = 2.08   # 74LVC1G17 VT+ max at 3.3 V: input is guaranteed to read high above this
 VT_LO = 1.01   # 74LVC1G17 VT- min at 3.3 V: input is guaranteed to read low below this
-SUPPLY = (21.6, 24.0, 29.0)  # HDR-60-24 adjustment range and nominal
+SUPPLY = (21.6, 24.0, 26.4)  # PS1 range: HDR-60-24 minimum, nominal, and the K1 coil maximum (Finder 22.64: 20.4-26.4 V)
 CLOSED, OPEN = 0.05, 1e12    # contact resistance models (ohms)
 
 ZENER = ".model DZ D(IS=1e-14 N=1 RS=20 BV=5.1 IBV=1m)"            # MM3Z5V1 (only its clamp matters)
@@ -126,8 +126,8 @@ def sim_emg():
     check("E-stop loop", "J4.11 stays within the board's 30 V input rating, even with one pull-down failed",
           f"{vmax:.1f} V normally, {vmax1:.1f} V with one failed", vmax1 <= 30)
     check("E-stop loop", "On-board SW2 short stays within R1's 0.5 W rating",
-          f"{i_sw2 * 1e3:.1f} mA, {(24 / 2200) ** 2 * 2200:.2f} W in R1 at 24 V; {(29 / 2178) ** 2 * 2178:.2f} W at 29 V",
-          (29 / 2178) ** 2 * 2178 <= 0.5)
+          f"{i_sw2 * 1e3:.1f} mA, {(24 / 2200) ** 2 * 2200:.2f} W in R1 at 24 V; {(max(SUPPLY) / 2178) ** 2 * 2178:.2f} W at {max(SUPPLY)} V",
+          (max(SUPPLY) / 2178) ** 2 * 2178 <= 0.5)
     check("E-stop loop", "No-E-stop configuration reads normal (high)", f"{rows[-1][2]:.2f} V", rows[-1][2] >= VT_HI)
     return rows
 
@@ -215,18 +215,22 @@ print v(fb) v(x) v(s) i(vam)
 .end
 """
 
+R3_EACH = 3900  # R3a || R3b
+
 def sim_fb():
     rows = []
     lo_i, hi_p = 1e9, 0
     for vs in SUPPLY:
-        for r3 in (3300 * 0.99, 3300 * 1.01):
+        for each in (R3_EACH * 0.99, R3_EACH * 1.01):
+            r3 = each / 2
             v, *_ = ngspice("relay1_feedback_corner", fb_deck(vs, 0.001, CLOSED, r3))
             i = v["i(vam)"]
-            lo_i = min(lo_i, i); hi_p = max(hi_p, v["v(fb)"] ** 2 / r3)
+            lo_i = min(lo_i, i); hi_p = max(hi_p, v["v(fb)"] ** 2 / each)
     configs = [
-        ("+24 V through aux, with R3 (this design)", 24, 0.001, 3300),
+        ("+24 V through aux, with R3a ∥ R3b (this design)", 24, 0.001, R3_EACH / 2),
+        ("+24 V through aux, one of R3a/R3b failed open", 24, 0.001, R3_EACH),
         ("+24 V through aux, no R3", 24, 0.001, OPEN),
-        ("Board FB OUT (3.3 V via 330 Ω), with R3", 3.3, 330, 3300),
+        ("Board FB OUT (3.3 V via 330 Ω), with R3a ∥ R3b", 3.3, 330, R3_EACH / 2),
         ("Board FB OUT (3.3 V via 330 Ω), no R3", 3.3, 330, OPEN),
     ]
     for label, sv, sr, r3 in configs:
@@ -234,11 +238,11 @@ def sim_fb():
         i_aux = v["i(vam)"]
         v2, *_ = ngspice("relay1_feedback_aux_open", fb_deck(sv, sr, OPEN, r3))
         rows.append((label, i_aux * 1e3, v["v(x)"], v2["v(x)"]))
-    check("Relay feedback", "Aux contact current ≥ 5 mA (EH04-11N minimum) at every supply and R3 corner",
-          f"{lo_i * 1e3:.1f} mA minimum (21.6 V, R3 +1%)", lo_i >= 5e-3)
+    check("Relay feedback", "Aux contact current ≥ 10 mA (Finder 022.65 minimum load, 10 V / 10 mA) at every supply and corner",
+          f"{lo_i * 1e3:.1f} mA minimum (21.6 V, R3a/R3b +1%)", lo_i >= 10e-3)
     check("Relay feedback", "K1 open (aux closed) reads high", f"{rows[0][2]:.2f} V", rows[0][2] >= VT_HI)
     check("Relay feedback", "K1 closed (aux open) reads low", f"{rows[0][3]:.3f} V", rows[0][3] <= VT_LO)
-    check("Relay feedback", "R3 dissipation within its 0.5 W rating", f"{hi_p:.3f} W at 29 V", hi_p <= 0.5 * 0.6)
+    check("Relay feedback", "R3a and R3b each within 60 % of their 0.5 W rating", f"{hi_p:.3f} W each at {max(SUPPLY)} V", hi_p <= 0.5 * 0.6)
     return rows
 
 # ----------------------------------------------------------------------------------------
@@ -399,7 +403,7 @@ def build_section(emg_rows, rcm_rows, fb_rows, cp, pt1000):
         out.append(f'<tr><td>{html.escape(g)}</td><td>{html.escape(desc)}</td><td>{html.escape(val)}</td><td class="{"sim-pass" if ok else "sim-fail"}">{"Pass" if ok else "Fail"}</td></tr>')
     out.append('</tbody></table></div>')
 
-    out.append('<h3>E-stop loop (J4.11)</h3><p>R1 2.2 kΩ in series, R2a and R2b 2.2 kΩ each in parallel to 0 V. Nominal values at 24 V; the checks above sweep 21.6–29 V and every ±1 % resistor corner.</p>')
+    out.append('<h3>E-stop loop (J4.11)</h3><p>R1 2.2 kΩ in series, R2a and R2b 2.2 kΩ each in parallel to 0 V. Nominal values at 24 V; the checks above sweep 21.6–26.4 V and every ±1 % resistor corner.</p>')
     out.append('<div class="tablewrap"><table class="sim-t"><thead><tr><th>Condition</th><th>J4.11</th><th>Schmitt input</th><th>Reads</th></tr></thead><tbody>')
     for lab, ve, vx, reads in emg_rows:
         out.append(f'<tr><td>{html.escape(lab)}</td><td>{ve:.2f} V</td><td>{vx:.2f} V</td><td>{html.escape(reads)}</td></tr>')
@@ -407,7 +411,7 @@ def build_section(emg_rows, rcm_rows, fb_rows, cp, pt1000):
     out.append('<p>R2a and R2b are in parallel so that either one alone still trips the input. With a single pull-down, its failing open would leave the board\'s 100 kΩ pull-up in control: an open loop would read normal, and nothing would show it while the loop is closed. Now it takes both failing. The step 10 trip test checks both are working.</p>')
 
     out.append('<h3>RCM1 and K2 (E-stop loop)</h3><p>RCM1 holds K2 energised through its open-drain output, and K2\'s 11–14 contact sits in series with S1-b. '
-               'Checked at 21.6–29 V on the 24 V side and 11.76–12.24 V from PS2. RCM1\'s output on-resistance isn\'t published; 2 Ω is assumed.</p>')
+               'Checked at 21.6–26.4 V on the 24 V side and 11.76–12.24 V from PS2. RCM1\'s output on-resistance isn\'t published; 2 Ω is assumed.</p>')
     out.append('<div class="tablewrap"><table class="sim-t"><thead><tr><th>Condition</th><th>Schmitt input (worst)</th><th>Reads</th></tr></thead><tbody>')
     for lab, vx, want, ok in rcm_rows:
         out.append(f'<tr><td>{html.escape(lab)}</td><td>{vx:.2f} V</td><td>{want}</td></tr>')
@@ -416,7 +420,7 @@ def build_section(emg_rows, rcm_rows, fb_rows, cp, pt1000):
     out.append('<h3>Relay 1 feedback (J5.12)</h3><div class="tablewrap"><table class="sim-t"><thead><tr><th>Wiring</th><th>Aux contact current</th><th>Input, K1 open</th><th>Input, K1 closed</th></tr></thead><tbody>')
     for lab, ima, vhi, vlo in fb_rows:
         out.append(f'<tr><td>{html.escape(lab)}</td><td>{(f"{ima:.2f} mA" if ima >= 0.1 else f"{ima*1e3:.1f} µA")}</td><td>{vhi:.2f} V</td><td>{vlo:.3f} V</td></tr>')
-    out.append('</tbody></table></div><p>Only the +24 V source with R3 puts the 5 mA minimum through the EH04-11N contact. Without R3, K1 closed would leave J5.12 floating, held low only by the board\'s 1 MΩ.</p>')
+    out.append('</tbody></table></div><p>Only the +24 V source with R3a ∥ R3b puts the 10 mA minimum through the Finder 022.65 contact. If one of the pair fails open, the input still reads correctly, but contact current falls below the minimum, so the contact may become unreliable over time. Without R3, K1 closed would leave J5.12 held low only by the board\'s 1 MΩ.</p>')
 
     colors = {"A": "var(--muted)", "B": "var(--dc)", "C": "var(--pe)", "D": "var(--l2)"}
     ser = [(decimate([(t * 1e3 - 2.0, v) for t, v in waves[(st, 1600e-12)] if 1.95e-3 <= t <= 3e-3]), colors[st], f"State {st}", False) for st in STATES]
@@ -441,7 +445,7 @@ def build_section(emg_rows, rcm_rows, fb_rows, cp, pt1000):
                f'0.1 % resistor tolerance alone gives up to ±{worst:.1f} °C error without calibration. INA333 offset and gain error aren\'t modelled.</p>')
     out.append(f'<div class="sheet"><div class="scroll">{svg3}</div></div>')
     out.append('<p class="hint">Not simulated: the K1 coil drive. TI publishes a PSpice model of the TPS27S100 (SLVMC96A), '
-               'but the ESB63\'s electronic AC/DC coil isn\'t a plain inductor, so measure its inrush on the bench instead.</p>')
+               'but the Finder 22.64\'s AC/DC coil has its own electronics and isn\'t a plain inductor, so measure its inrush on the bench instead.</p>')
     return "\n".join(out)
 
 CSS = """

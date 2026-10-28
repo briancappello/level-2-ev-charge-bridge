@@ -1,5 +1,5 @@
 * E-stop loop with K2 (driven by RCM1) in series with S1-b
-V24 vp 0 29.0
+V24 vp 0 26.4
 Rs1b vp a 1000000000000.0
 Wk2 a b Vam CSWK2
 R1 b emg 2200

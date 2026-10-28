@@ -41,14 +41,14 @@ term("M1.3", x + 9, m["y"] + 93); term("M1.4", x + 27, m["y"] + 93)
 for n, dx in zip(range(5, 11), (3, 9, 15, 21, 27, 33)):
     term(f"M1.{n}", x + dx, m["y"] + 79)
 x = 190.0
-x = comp("AUX", x, "L", 9, 85, "", "", kind="dev")
-a = C["AUX"]
-term("AUX.21", a["x"] + 4.5, a["y"] + 7); term("AUX.33", a["x"] + 4.5, a["y"] + 15)
-term("AUX.34", a["x"] + 4.5, a["y"] + 70); term("AUX.22", a["x"] + 4.5, a["y"] + 78)
-x0 = x; x = comp("K1", x, "L", 54, 85, "K1", "ESB63-20N", kind="dev")
+x0 = x; x = comp("K1", x, "L", 53.5, 95.8, "K1", "Finder 22.64", kind="dev")   # 4-pole, poles 1-2 and 3-4 used
 k = C["K1"]
-for nm, dx in (("A1", 9), ("1", 27), ("3", 45)): term(f"K1.{nm}", x0 + dx, k["y"] + 7)
-for nm, dx in (("A2", 9), ("2", 27), ("4", 45)): term(f"K1.{nm}", x0 + dx, k["y"] + 78)
+for nm, dx in (("A1", 5), ("1", 15), ("3", 26), ("5", 37), ("7", 48)): term(f"K1.{nm}", x0 + dx, k["y"] + 7)
+for nm, dx in (("A2", 5), ("2", 15), ("4", 26), ("6", 37), ("8", 48)): term(f"K1.{nm}", x0 + dx, k["y"] + k["h"] - 7)
+x = comp("AUX", x, "L", 8.8, 90, "", "", kind="dev")                       # Finder 022.65: NC 21-22, NO 33-34
+a = C["AUX"]
+term("AUX.21", a["x"] + 4.4, a["y"] + 7); term("AUX.33", a["x"] + 4.4, a["y"] + 14)
+term("AUX.34", a["x"] + 4.4, a["y"] + 76); term("AUX.22", a["x"] + 4.4, a["y"] + 83)
 x = comp("clampL2", x, "L", 9.5, 50.5, "", kind="clamp")
 # RCM1 support parts on the right end of the lower rail (clear of the wire lanes at x 258-290)
 x = 294.0
@@ -63,7 +63,7 @@ term("K2.A1", x0 + 3.1, k2["y"] + 6); term("K2.A2", x0 + 3.1, k2["y"] + 13)
 term("K2.11", x0 + 3.1, k2["y"] + k2["h"] - 20); term("K2.12", x0 + 3.1, k2["y"] + k2["h"] - 13); term("K2.14", x0 + 3.1, k2["y"] + k2["h"] - 6)
 x = comp("clampL4", x, "L", 9.5, 50.5, "", kind="clamp")
 # RCM14-04: 46.7 x 32.5 mm seen from the front with its 14 mm aperture vertical, J1772 L1/L2 pass through it
-C["RCM1"] = dict(x=226 - 46.7 / 2, y=299.5, w=46.7, h=32.5, label="RCM1", sub="RCM14-04", kind="rcm")
+C["RCM1"] = dict(x=210 - 46.7 / 2, y=299.5, w=46.7, h=32.5, label="RCM1", sub="RCM14-04", kind="rcm")
 for n, dx in ((4, 34.4), (3, 36.9), (2, 39.4), (1, 41.9)):   # JST XH, 2.5 mm pitch, pin 4 nearest the aperture
     T[f"RCM.{n}"] = (C["RCM1"]["x"] + dx, C["RCM1"]["y"])
 
@@ -97,7 +97,7 @@ for n in range(1, 13):
 T["RJ45"] = (BX + 120, BY + 46)
 
 # ---- wall features --------------------------------------------------------
-GL = {"G1": (85.0, "M40", 40.0, "14-50 cord"), "G2": (226.0, "M40", 40.0, "J1772 cable"),
+GL = {"G1": (85.0, "M40", 40.0, "14-50 cord"), "G2": (210.0, "M40", 40.0, "J1772 cable"),
       "G3": (350.0, "M20", 20.0, "Ethernet")}
 S2_POS = (W, RAIL["U"])
 S1_POS = (W, 175.0)        # E-stop, 80 mm below S2 on the right wall
@@ -127,9 +127,9 @@ wire(4, "pe", AWG8, [P("PE1.t"), (P("PE1.t")[0], 214), (P("PE2.t")[0], 214), P("
 wire(4, "l1", AWG8, [P("TB1-1.t"), (P("TB1-1.t")[0], 180), (P("M1.1")[0], 180), P("M1.1")], "")
 wire(4, "l1", AWG8, [P("M1.2"), (P("M1.2")[0], 186), (P("K1.1")[0], 186), P("K1.1")], "")
 wire(4, "l2", AWG8, [P("TB1-3.t"), (P("TB1-3.t")[0], 192), (P("K1.3")[0], 192), P("K1.3")], "")
-wire(4, "l1", AWG8, [(223, H), (223, 291), (P("K1.2")[0], 291), P("K1.2")], "L1", (212, 343))
-wire(4, "l2", AWG8, [(229, H), (229, 291), (P("K1.4")[0], 291), P("K1.4")], "L2", (231, 343))
-wire(4, "pe", AWG8, [(214, H), (214, 340), (196, 340), (196, 300), (P("PE2.b")[0], 300), P("PE2.b")], "PE", (176, 299))
+wire(4, "l1", AWG8, [(207, H), (207, 297), (P("K1.2")[0], 297), P("K1.2")], "L1", (196, 343))
+wire(4, "l2", AWG8, [(213, H), (213, 297), (P("K1.4")[0], 297), P("K1.4")], "L2", (215, 343))
+wire(4, "pe", AWG8, [(198, H), (198, 340), (181, 340), (181, 303), (P("PE2.b")[0], 303), P("PE2.b")], "PE", (160, 302))
 
 # step 5: control supply (18 AWG)
 wire(5, "l1", AWG18, [P("TB1-2.t"), (P("TB1-2.t")[0], 170), (14, 170), (14, 42), (P("F.1")[0], 42), P("F.1")])
@@ -143,7 +143,7 @@ wire(5, "pe", AWG18, [P("PS1.-V2"), (P("PS1.-V2")[0], 48), (67, 48), (67, 210), 
 
 # step 6: control signals
 wire(7, "dc", AWG18, [P("J5.10"), (P("J5.10")[0], 28), (340, 28), (340, S1T["a.1"][1]), S1T["a.1"]], "coil+ via S1-a", (300, 27))
-wire(7, "dc", AWG18, [S1T["a.2"], (330, S1T["a.2"][1]), (330, 197), (P("K1.A1")[0], 197), P("K1.A1")])
+wire(7, "dc", AWG18, [S1T["a.2"], (330, S1T["a.2"][1]), (330, 178), (P("K1.A1")[0], 178), P("K1.A1")])
 wire(7, "dc", AWG18, [P("PS1.+V2"), (P("PS1.+V2")[0], 50), (107, 50), (107, 4), (346, 4), (346, S1T["b.1"][1]), S1T["b.1"]])
 wire(7, "sig", AWG18, [S1T["b.2"], (338, S1T["b.2"][1]), (338, P("K2.11")[1]), P("K2.11")], "S1-b to K2", (339, 228))
 wire(7, "sig", AWG18, [P("K2.14"), (344, P("K2.14")[1]), (344, 8), (P("J4.11")[0], 8), (P("J4.11")[0], 20)], "K2 to R1", (300, 7))
@@ -152,13 +152,13 @@ wire(7, "dc", AWG18, [P("PS1.+V1"), (P("PS1.+V1")[0], 44), (127, 44), (127, 166)
 wire(7, "z", AWG18, [P("PS1.-V1"), (P("PS1.-V1")[0], 40), (129.5, 40), (129.5, 162), (300, 162), (300, 293), (P("PS2.-Vin")[0], 293), P("PS2.-Vin")])
 wire(7, "dc", 2.0, [T["RCM.4"], (T["RCM.4"][0] + 3, 295), (292, 295), (292, 198), (318, 198), (318, 203)], "RCM1 harness", (247, 294))
 wire(7, "sig", 1.8, [(W - S3_BODY[0], S3_POS[1]), (342, S3_POS[1]), (342, 196), (P("K2.A1")[0], 196), (P("K2.A1")[0], 200)], "S3 pair", (343, 243))
-wire(7, "sig", AWG18, [P("AUX.34"), (186, P("AUX.34")[1]), (186, 170), (350, 170), (350, H1_POS[1] + 4), (W - H1_BODY[0], H1_POS[1] + 4)], "H1 via aux 33-34", (300, 169))
+wire(7, "sig", AWG18, [P("AUX.34"), (256, P("AUX.34")[1]), (256, 170), (350, 170), (350, H1_POS[1] + 4), (W - H1_BODY[0], H1_POS[1] + 4)], "H1 via aux 33-34", (300, 169))
 wire(7, "z", AWG18, [(W - H1_BODY[0], H1_POS[1] - 4), (348, H1_POS[1] - 4), (348, 2), (P("J5.5")[0], 2), P("J5.5")])
 wire(6, "dc", AWG18, [P("PS1.+V2"), (P("PS1.+V2")[0], 32), (278, 32), (278, 201), (P("AUX.21")[0], 201), P("AUX.21")])
 wire(6, "sig", AWG18, [P("AUX.22"), (P("AUX.22")[0], 300), (282, 300), (282, 20), (P("J5.12")[0], 20), P("J5.12")])
 wire(6, "com", 1.8, [((P("M1.5")[0] + P("M1.6")[0]) / 2, P("M1.5")[1]), ((P("M1.5")[0] + P("M1.6")[0]) / 2, 322), (290, 322), (290, 16),
                      ((P("J4.8")[0] + P("J4.7")[0]) / 2, 16), ((P("J4.8")[0] + P("J4.7")[0]) / 2, P("J4.7")[1])], "RS-485 pair", (165, 320))
-wire(6, "sig", AWG18, [(238, H), (238, 338), (258, 338), (258, 160), (P("J11.6")[0], 160), P("J11.6")], "CP", (238, 159))
+wire(6, "sig", AWG18, [(224, H), (224, 338), (258, 338), (258, 160), (P("J11.6")[0], 160), P("J11.6")], "CP", (238, 159))
 wire(6, "sig", AWG18, [(C["K1"]["x"] + 36, 262), (262, 262), (262, 156), ((P("J11.2")[0] + P("J11.3")[0]) / 2, 156),
                        ((P("J11.2")[0] + P("J11.3")[0]) / 2, P("J11.2")[1])])
 wire(6, "sig", AWG18, [(100, 280.5), (136.5, 280.5), (136.5, 152), ((P("J11.4")[0] + P("J11.5")[0]) / 2, 152),
@@ -242,7 +242,7 @@ def draw_terms(ids):
                         out.append(f'<text class="as-t" x="{r(tx+5)}" y="{r(ty+1.8)}">{html.escape(lab)}</text>')
                         continue
                 if cid == "AUX":
-                    out.append(f'<text class="as-t" x="{r(tx-5)}" y="{r(ty+1.8)}" text-anchor="end">{html.escape(lab)}</text>')
+                    out.append(f'<text class="as-t" x="{r(tx+5)}" y="{r(ty+1.8)}">{html.escape(lab)}</text>')
                     continue
                 out.append(f'<text class="as-t" x="{r(tx)}" y="{r(ty+dy)}" text-anchor="middle">{html.escape(lab)}</text>')
     return "".join(out)
@@ -277,7 +277,7 @@ def frame(extra_h=0):
              f'<text class="as-t" x="115" y="{H+45}">100 mm</text>')
     return "".join(s)
 
-ORDER = ["clampL1", "PE1", "PE2", "PE3", "TB1-1", "TB1-2", "TB1-3", "TB1-4", "TB1-5", "endcov", "M1", "AUX", "K1", "clampL2", "clampL3", "PS2", "K2", "clampL4"]
+ORDER = ["clampL1", "PE1", "PE2", "PE3", "TB1-1", "TB1-2", "TB1-3", "TB1-4", "TB1-5", "endcov", "M1", "K1", "AUX", "clampL2", "clampL3", "PS2", "K2", "clampL4"]
 UPPER = ["clampU1", "F12", "PS1", "UMPRO", "A1", "clampU2"]
 
 def svg(step, comps_new, comps_old, title, extra=""):
@@ -317,7 +317,7 @@ for gid, (gx, size, dia, lab) in GL.items():
 step(1, "Prepare the enclosure",
      """<ol>
 <li>Hold a DR-62 rail across the base on the mounting bosses. Rail centre lines are drawn 150 mm apart, at 95 mm and 245 mm from the top inside wall. <span class="verify">Check that the ZH-161407 base has bosses for both rails before drilling anything. If it only has centred bosses, use the ZX-1614K internal panel and screw both rails to it.</span></li>
-<li>Drill the bottom wall for the glands: two M40 holes (about 40.5 mm) and one M20 hole (about 20.5 mm). Put the centres 40 mm out from the base and at 85 mm, 226 mm and 350 mm from the left inside wall. The M40 lock nuts are 50 mm across, so keep the centres at least 55 mm apart.</li>
+<li>Drill the bottom wall for the glands: two M40 holes (about 40.5 mm) and one M20 hole (about 20.5 mm). Put the centres 40 mm out from the base and at 85 mm, 210 mm and 350 mm from the left inside wall. The M40 lock nuts are 50 mm across, so keep the centres at least 55 mm apart.</li>
 <li>Drill four 22.5 mm holes in the right wall, all 100 mm out from the base. Measured from the top inside wall: H1 (pilot light) at 40 mm, S2 (stop) at 95 mm, S1 (E-stop) at 175 mm, and S3 (RCM1 test) at 245 mm. Each needs 40–45 mm behind the wall; S1 needs 45 mm with its two contact blocks side by side. Mirror them onto the left wall if that's the side that will face you.</li>
 <li>Fit the glands, H1, S2, S1 and S3, then fit both rails. Clip S1's second NC block (ECX1030) beside the first, not behind it. The drill sizes are the usual thread size plus 0.5 mm; Bimed doesn't publish a clearance hole size.</li>
 </ol>""",
@@ -329,7 +329,7 @@ step(2, "Fit the lower (power) rail",
 <li>Snap parts onto the lower rail from left to right: an end clamp, three UT 16-PE terminals (PE1–PE3), five UT 16 terminals (TB1-1 to TB1-5), then an end cover on the open side of TB1-5.</li>
 <li>Plug one FBS 2-12 bridge into TB1-1/TB1-2 and another into TB1-3/TB1-4. TB1-5 (N) stays unbridged and isolated.</li>
 <li>Leave a gap of about 11 mm, then snap on M1, the SDM230 meter.</li>
-<li>Clip the EH04-11N aux contact onto the left side of K1, then snap K1 on with the aux on the left, followed by an end clamp.</li>
+<li>Clip the 022.65 aux module onto the right side of K1 (Finder 22.64), then snap K1 on with the aux to its right, followed by an end clamp. Only K1's first two poles (1-2 and 3-4) are used.</li>
 <li>Leave the next 30 mm of rail clear for wiring. Then fit an end clamp, PS2 (the DDR-15G-12, input terminals at the bottom), K2 (the Finder 38.51 relay) and a final end clamp. The rail is used up to about 337 of its 375 mm.</li>
 </ol>""",
      svg(2, ORDER, [], "Lower rail populated: PE terminals, TB1, meter, contactor with aux, 12 V supply and relay K2"))
@@ -339,7 +339,7 @@ step(3, "Fit the upper (control) rail",
      """<ol>
 <li>Screw the CB-EVAL board into the UM-PRO housing base with the board's J4/J5 edge toward the top. <span class="verify">Check which way Phoenix's drawing puts the 120 mm board side relative to the rail; it's drawn here with 120 mm along the rail.</span> Cut the right side element for the RJ45 jack, and the left one for the J10 24 V jack, which you'll need in step 10.</li>
 <li>Snap parts onto the upper rail from left to right: an end clamp, F1/F2 (the 2-pole FAZ), PS1, the board housing, then an end clamp.</li>
-<li>Switch F1/F2 off and leave it off until step 11.</li>
+<li>Switch F1/F2 off and leave it off until step 11. Leave PS1 at its factory 24 V setting; don't turn it above 26.4 V, the top of K1's coil range.</li>
 </ol>""",
      svg(3, UPPER, ORDER, "Upper rail populated: breaker, 24 V supply, board in housing"))
 
@@ -368,8 +368,9 @@ step(5, "Wire the 24 V supply (18 AWG)",
 
 # Step 6
 r3 = P("J5.12"), P("J5.9")
-s6_extra = (f'<rect class="as-res" x="{r(r3[0][0])}" y="{r(r3[0][1]-11)}" width="{r(r3[1][0]-r3[0][0])}" height="4" rx="1"/>'
-            f'<text class="as-t" x="{r((r3[0][0]+r3[1][0])/2)}" y="{r(r3[0][1]-13)}" text-anchor="middle">R3</text>')
+s6_extra = (f'<rect class="as-res" x="{r(r3[0][0])}" y="{r(r3[0][1]-11)}" width="{r(r3[1][0]-r3[0][0])}" height="2.6" rx=".8"/>'
+            f'<rect class="as-res" x="{r(r3[0][0])}" y="{r(r3[0][1]-7)}" width="{r(r3[1][0]-r3[0][0])}" height="2.6" rx=".8"/>'
+            f'<text class="as-t" x="{r((r3[0][0]+r3[1][0])/2)}" y="{r(r3[0][1]-13)}" text-anchor="middle">R3a, R3b</text>')
 tt = C["K1"]
 s6_extra += (f'<rect x="{r(tt["x"]+33)}" y="258" width="7" height="8" fill="var(--sheet)" stroke="var(--sig)" stroke-width="1"/>'
              f'<text class="as-t" x="{r(tt["x"]+44)}" y="265">TT1</text>'
@@ -377,7 +378,7 @@ s6_extra += (f'<rect x="{r(tt["x"]+33)}" y="258" width="7" height="8" fill="var(
              f'<text class="as-t" x="82" y="292">TT2</text>')
 step(6, "Wire the control signals",
      """<ol>
-<li><strong>Weld detection:</strong> run PS1's second +V terminal to aux 21, and aux 22 to J5.12. Put R3 (3.3 kΩ) across J5.12 and J5.9, sharing each screw with the wire in a twin ferrule.</li>
+<li><strong>Weld detection:</strong> run PS1's second +V terminal to aux 21, and aux 22 to J5.12. Fit R3a and R3b (3.9 kΩ each) side by side across J5.12 and J5.9, crimping both resistor leads and the wire at J5.12 into one ferrule. Together they draw over 10 mA, the 022.65 contact's minimum load.</li>
 <li><strong>Meter:</strong> run the Belden 9841 pair from M1 terminals 5 (A) and 6 (B) to J4.8 (A) and J4.7 (B). Tie the shield to M1 terminal 7 at the meter end only.</li>
 <li><strong>Pilot:</strong> run the J1772 cable's CP conductor to J11.6. If the cable has a latch-sense conductor, land it on J11.7. Keep these runs away from the 8 AWG conductors.</li>
 <li><strong>Temperature:</strong> stick TT1 on K1's body beside terminals 2/4 and wire it to J11.2/J11.3. Stick TT2 on TB1-3's housing, the incoming L2 terminal, and wire it to J11.4/J11.5. Neither lead goes to ground.</li>
@@ -394,7 +395,7 @@ s7_extra = (f'<rect class="as-res" x="{r(j411[0]-2)}" y="20" width="4" height="1
             f'<rect class="as-res" x="{r(j411[0])}" y="{r(j411[1]-6)}" width="{r(j49[0]-j411[0])}" height="2.2" rx=".6"/>'
             f'<rect class="as-res" x="{r(j411[0])}" y="{r(j411[1]-10)}" width="{r(j49[0]-j411[0])}" height="2.2" rx=".6"/>'
             f'<text class="as-t" x="{r(j49[0]+2)}" y="{r(j411[1]-6)}">R2a, R2b</text>'
-            f'<path class="as-wire" stroke="var(--dc)" stroke-width="1.3" d="M{r(P("AUX.21")[0]-1.5)} {r(P("AUX.21")[1])} V{r(P("AUX.33")[1])}"/>'
+            f'<path class="as-wire" stroke="var(--dc)" stroke-width="1.3" d="M{r(P("AUX.21")[0]+1.5)} {r(P("AUX.21")[1])} V{r(P("AUX.33")[1])}"/>'
             f'<text class="as-t" x="{r(C["K2"]["x"]+3.1)}" y="{r(C["K2"]["y"]-3)}" text-anchor="middle">K2</text>')
 step(7, "Wire the safety and status circuits",
      """<ol>
@@ -452,7 +453,7 @@ step(11, "First run on 240 V",
 
 parts = ['<h2 id="assembly">Assembly</h2>',
          '<p class="hint">Drawings are to scale at 1 mm per unit, looking into the enclosure base with the cover open. '
-         'Part outlines come from manufacturer datasheets. Screw positions on K1, the aux contact, the meter, PS2 and K2 are approximate, '
+         'Part outlines come from manufacturer datasheets. Screw positions on K1, its aux module, the meter, PS2 and K2 are approximate, '
          'so check them against the labels on your parts. Parts and wires added in each step are drawn in colour; earlier ones are grey.</p>']
 for n, title, text_html, svg_html in STEPS:
     parts.append(f'<section class="as-step"><h3>Step {n}: {html.escape(title)}</h3><div class="as-body">{text_html}</div>')

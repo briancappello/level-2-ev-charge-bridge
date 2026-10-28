@@ -1,5 +1,5 @@
 * EMG IN loop, J4.11 (CB-EVAL LevelShiftInput2 + R1, R2a || R2b)
-V24 vp 0 29.0
+V24 vp 0 26.4
 Rchain vp a 1000000000000.0
 R1 a emg 2222.0
 R2a emg 0 2222.0

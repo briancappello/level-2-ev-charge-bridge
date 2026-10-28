@@ -24,9 +24,9 @@ r("U1", 1, "x86 PC running EVerest", "", "owned", "", 0.0, owned=True,
 
 g("Controller")
 r("—", 1, "DIN-rail housing set for the 108 × 120 mm board", "Phoenix UM-PRO-SKT-B108-L120-7035 (1456980)",
-  "WSU Industrials (DE)", "https://wsu-industrials.com/en/phoenix-contact-1456980-housing-set-um-pro-skt-b108-l120-7035", 11.49, cur="EUR",
-  notes="Includes German VAT. US shipping not confirmed. Neff Automation (US) lists it without a price.",
-  alt=[("Neff Automation", "https://shop.neffautomation.com/products/1456980")])
+  "Neff Automation (IN)", "https://shop.neffautomation.com/products/1456980", None,
+  notes="Phoenix distributor in Indiana; price on request. The only US source found. WSU Industrials (Germany) lists it at €11.49 for reference.",
+  alt=[("WSU Industrials (DE)", "https://wsu-industrials.com/en/phoenix-contact-1456980-housing-set-um-pro-skt-b108-l120-7035")])
 g("Power path")
 r("TB1", 5, "Feed-through terminal, 16 mm², 76 A", "Phoenix UT 16 (3044199)", "Digi-Key", "https://www.digikey.com/en/products/detail/phoenix-contact/3044199/2426230", 2.44,
   notes="TB1-1 to TB1-5: L1, L1 tap, L2, L2 tap, N (isolated). 2,334 in stock.")
@@ -36,25 +36,27 @@ r("—", 1, "End cover for UT 16", "Phoenix D-UT 16 (3047206)", "Digi-Key", DK +
 r("—", 4, "End clamp", "Phoenix E/UK (1201442)", "Digi-Key", DK + "1201442", 1.53)
 r("PE1–PE3", 3, "Ground terminal, green-yellow", "Phoenix UT 16-PE (3044212)", "Digi-Key", "https://www.digikey.com/en/products/detail/phoenix-contact/3044212/2435394", None,
   notes="Cord G, J1772 PE, and the 0 V bond. Correct part number is 3044212. Price not shown when fetched.")
-r("M1", 1, "Single-phase Modbus energy meter, 100 A", "SDM230-Modbus (non-MID)", "Amazon", "https://www.amazon.com/SDM230-Single-Energy-Bi-Directional-Function/dp/B0DKFF2Z83", 41.00,
-  notes="Third-party seller shipping from overseas (Nov 5–13). Genuine Eastron not confirmed.")
-r("K1", 1, "Installation contactor, 2 NO, 63 A AC-1, 24 V AC/DC coil", "ABB ESB63-20N-01 (1SAE351111R0120)", "TME (US site)",
-  "https://www.tme.com/us/en-us/details/esb63-20n-01/contactors-installation-modular/abb/1sae351111r0120/", 115.48,
-  notes="4 in stock; customs and tariffs included. Ships from Poland.")
-r("K1 aux", 1, "Aux contact, 1 NO + 1 NC", "ABB EH04-11N (1SAE901901R1011)", "TME (US site)",
-  "https://www.tme.com/us/en-us/details/eh04-11n/contactors-installation-modular/abb/1sae901901r1011/", 26.12,
-  notes="NC 21-22 for weld detection, NO 33-34 for H1. 105 in stock. Minimum load 17 V / 5 mA (reseller data).")
+r("M1", 1, "Single-phase Modbus energy meter, 100 A", "Eastron SDM230-Modbus", "Radwell (NJ)", "https://www.radwell.com/Buy/EASTRON/EASTRON/SDM230%20", 135.34,
+  notes="New, genuine Eastron, US warehouse; listed as 'call for availability'. EVerest has a built-in SDM230 profile (GenericPowermeter). No US-located eBay or Amazon seller found; the $41 Amazon listing ships from overseas.",
+  alt=[("Amazon (overseas)", "https://www.amazon.com/SDM230-Single-Energy-Bi-Directional-Function/dp/B0DKFF2Z83")])
+r("K1", 1, "Modular contactor, 4 NO, 63 A, 24 V AC/DC coil (2 poles used)", "Finder 22.64.0.024.4310", "Digi-Key",
+  "https://www.digikey.com/en/products/detail/finder-relays-inc/22-64-0-024-4310/10055799", 97.08,
+  notes="53.5 mm wide. Coil 250 mA (6 W), operating range 20.4–26.4 V. Out of stock; Digi-Key expects it on 9 Nov. US alternative: ABB ESB63-20N-01 at Radwell, $266.85 new.",
+  alt=[("ABB at Radwell", "https://www.radwell.com/Buy/ASEA%20BROWN%20BOVERI/ASEA%20BROWN%20BOVERI/1SAE351111R0120")])
+r("K1 aux", 1, "Aux module for 22.44/22.64, 1 NO + 1 NC, mechanically linked", "Finder 022.65", "Digi-Key", DK + "022.65", 32.19,
+  notes="Clips on K1's right side. NC 21-22 for weld detection, NO 33-34 for H1. Mechanically linked per EN 60947-5-1 Annex L. Minimum load 10 V / 10 mA.")
 r("X1", 1, "J1772 tethered cable, 48 A, 25 ft", "Inteset 48 A replacement cable", "Amazon", "https://www.amazon.com/Inteset-Charger-Replacement-Original-Chargers/dp/B0FV116C88", 219.95,
   notes="Only 2 left. Listing doesn't say whether it has a latch sense wire. Alternative: Phoenix Contact cable at OpenEVSE, $229.00, 3–4 week backorder.",
   alt=[("OpenEVSE", "https://store.openevse.com/products/j1772-cable-48a-ultra-flexible")])
 r("—", 1, "J1772 wall holster", "", "EVSE Adapters", "https://www.evseadapters.com/products/j1772-plug-holder", 9.95)
 r("—", "15 ft", "8 AWG stranded THHN, black / red / green", "THN8 cut to length", "Wire & Cable Your Way", "https://www.wireandcableyourway.com/8-awg-thhn-building-wire", 0.87, n=15,
   notes="Price per ft; $20 minimum order. Red not confirmed in stock.")
-r("—", 1, "Ferrule kit to 10 mm² with ratchet crimper", "LUNEY 1250 pc", "Amazon", "https://www.amazon.com/dp/B0B23V7ZQJ", 13.98)
+r("—", 1, "Ferrule kit to 10 mm² with ratchet crimper", "LUNEY 1250 pc", "Amazon", "https://www.amazon.com/dp/B0B23V7ZQJ", 13.98,
+  notes="Fulfilled from Amazon's US warehouses.")
 
 g("Control supply and protection")
 r("PS1", 1, "24 V DC DIN supply, 60 W", "Mean Well HDR-60-24", "Digi-Key", "https://www.digikey.com/en/products/detail/mean-well-usa-inc/HDR-60-24/7703804", 20.90,
-  notes="No earth terminal (class II input). 2,367 in stock.")
+  notes="No earth terminal (class II input). Keep its output at or below 26.4 V, the top of K1's coil range. 2,367 in stock.")
 r("F1, F2", 1, "2-pole 2 A C-curve supplementary protector", "Eaton FAZ-C2/2", "AutomationDirect", AD + "circuit_protection_-z-_fuses_-z-_disconnects/circuit_breakers_-a-_circuit_protectors/miniature_supplementary_protectors/faz-c2-2", 46.00,
   notes="94 available. UL 489 version FAZ-C2/2-NA costs $86.00.")
 r("RCM1", 1, "Residual current monitor, UL 2231 CCID20 (20 mA AC / 56 mA DC), 14 mm aperture", "Western Automation / Littelfuse RCM14-04", "Digi-Key", DK + "RCM14-04", 36.38,
@@ -83,8 +85,8 @@ r("R1, R2a, R2b", 3, "2.2 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-2K2", "Di
   notes="R1 in series to J4.11; R2a and R2b are parallel pull-downs, so either alone still trips.")
 r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "Schneider XB5AA31", "Digi-Key", DK + "XB5AA31", 28.30,
   notes="Replaces the key switch; the stop input needs a momentary contact.")
-r("R3", 1, "3.3 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K3", "Digi-Key", DK + "MFR50SFTE52-3K3", 0.10,
-  notes="7.3 mA through the aux contact, above its 5 mA minimum.")
+r("R3a, R3b", 2, "3.9 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K9", "Digi-Key", DK + "MFR50SFTE52-3K9", 0.10,
+  notes="In parallel across J5.12 and J5.9: 11.8 mA minimum through the aux contact, above the 022.65's 10 mA minimum. 0.18 W each at 26.4 V.")
 r("H1", 1, "22 mm LED pilot light, 24 V AC/DC, green", "AutomationDirect ECX2052-24L", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/indicating_lights/ecx2052-24l", 6.25,
   notes="1,230 available. Wired through K1's aux NO 33-34, so it lights whenever K1 is closed. No software needed.")
 
@@ -129,7 +131,7 @@ for kind, d in G:
     rows.append(f'<tr><td>{html.escape(d["ref"])}</td><td>{d["qty"]}</td><td>{part}</td><td>{links}</td>'
                 f'<td class="num">{unit_s}</td><td class="num">{ext_s}</td><td>{html.escape(d["notes"])}</td></tr>')
 ship = 200 * FX
-rows.append(f'<tr class="total"><td colspan="5">Total</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the PE terminals, the DR-62 rail kits, the 18 AWG offcuts and the tie mounts.</td></tr>')
+rows.append(f'<tr class="total"><td colspan="5">Total</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the board housing (quote), the PE terminals, the DR-62 rail kits, the 18 AWG offcuts and the tie mounts.</td></tr>')
 if opt_total:
     rows.append(f'<tr class="total"><td colspan="5">Optional parts</td><td class="num">{money(opt_total)}</td><td></td></tr>')
 table = ('<div class="tablewrap">\n<table class="bom">\n<thead><tr><th>Ref</th><th>Qty</th><th>Part</th><th>Buy at</th>'
@@ -138,9 +140,8 @@ table = ('<div class="tablewrap">\n<table class="bom">\n<thead><tr><th>Ref</th><
 p = str(Path(__file__).resolve().parent.parent / "cb-l2-evse.html")
 s = open(p).read()
 a = s.index('<h2>Bill of materials</h2>'); b = s.index('<h2>Build notes</h2>')
-intro = ('<h2>Bill of materials</h2>\n<p class="hint">Prices were read from each vendor page on 26 Oct 2026, for quantity 1 '
-         'shipped to the US, before tax and shipping. Euro prices are converted at the ECB rate of $1.1188. Stock changes daily; '
-         'check before ordering.</p>\n')
+intro = ('<h2>Bill of materials</h2>\n<p class="hint">Every vendor is US-based. Prices were read from each vendor page on 26–28 Oct 2026, '
+         'for quantity 1 shipped to the US, before tax and shipping. Stock changes daily; check before ordering.</p>\n')
 s = s[:a] + intro + table + "\n\n" + s[b:]
 css = ('table.bom{min-width:1040px}\ntable.bom td:nth-child(2){text-align:right}\n.num{text-align:right;white-space:nowrap}\n'
        '.mpn,.fx{color:var(--muted);font-size:.85rem}\na.alt{font-size:.85rem}\n'
