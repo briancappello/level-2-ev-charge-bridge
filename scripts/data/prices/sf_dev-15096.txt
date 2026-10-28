@@ -1,0 +1,155 @@
+# SparkFun Serial Basic Breakout - CH340C and USB-C - SparkFun Electronics
+https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340c-and-usb-c.html
+
+Skip to Content
+Close Cookie Bar
+We use cookies to improve our services, make personal offers, and enhance your experience. If you do not accept optional cookies below, your experience may be affected. If you want to know more, please, read the Cookie Policy
+ACCEPT ALL COOKIES
+CUSTOMIZE SETTINGS
+DENY ALL
+Professional
+EDU
+Distributor
+Customer Support
+SHOP
+DOCUMENTATION
+NEWS
+Today’s Deals
+Community
+SIGN IN
+My Cart
+Search
+Search entire store. Use arrow keys to navigate autocomplete results, enter to select, escape to close.
+Search
+Featured
+Featured submenu
+GPS / GNSS
+GPS / GNSS submenu
+Sensors
+Sensors submenu
+Development Boards
+Development Boards submenu
+IoT & Wireless
+IoT & Wireless submenu
+Components
+Components submenu
+Kits
+Kits submenu
+All Categories
+HOME  DEVELOPMENT BOARDS  PROGRAMMERS  SERIAL  UART
+Skip to the end of the images gallery
+Previous
+Next
+Skip to the beginning of the images gallery
+Share:
+SparkFun Serial Basic Breakout - CH340C and USB-C
+SKU: DEV-15096
+
+The modern alternative to FTDI! This USB-to-Serial adapter features the CH340C chip, a reversible USB-C connector, and up to 1.5A power delivery.
+
+$10.50
+Qty
+-
++
+Add to Cart
+IN STOCK
+STOCK/DISCOUNTS
+ADD TO WISH LIST
+COMPARE
+HELPFUL DOCUMENTATION
+
+HOOKUP GUIDE
+
+SCHEMATIC
+
+DATASHEET (CH340C)
+
+Overview
+Recommended Products
+Features & Specs
+Documentation
+Reviews
+Product Overview
+
+The SparkFun Serial Basic Breakout - USB-C is the latest evolution of our easy-to-use USB-to-Serial adapters. Built around the CH340C IC, this board upgrades you to the modern USB-C connector, effectively future-proofing your toolkit. It works with both 5V and 3.3V systems and, thanks to the CH340C architecture, installs automatically on most operating systems without requiring additional drivers.
+
+The USB-C Advantage
+
+We’ve finally solved the universally frustrating dilemma of plugging in a USB cable correctly: the connector is fully reversible. But beyond convenience, this upgrade packs a punch for your projects. Leveraging the USB-C standard, this board can deliver up to 1.5A of power at 5V (that's up to three times more than previous USB generations) making it ideal for power-hungry applications without requiring a separate power supply.
+
+Standard Pinout & Alignment
+
+We designed the pinout to mimic the common DTR/RXI/TXO/VCC/CTS/GND configuration found on hundreds of FTDI derivatives.
+
+Easy Alignment: We've labeled the pins BLK (Black) and GRN (Green) to match the standard colored wires on FTDI cables and compatible targets, ensuring you never plug it in backwards.
+Auto-Reset: The board breaks out the DTR pin, allowing it to automatically reset compatible boards (such as the Arduino Pro Mini) when a new sketch is uploaded.
+Voltage Flexibility
+
+The board is capable of working with both 5V and 3.3V systems via a jumper located on the rear of the board:
+
+3.3V Default: Out of the box, the board is configured to output 3.3V on the VCC pin and use 3.3V logic signals.
+5V Selectable: By cutting the default trace and bridging the 5V pad, you can switch the board to output 5V on VCC and use 5V logic signals.
+Need a USB Cable?
+
+This is a carousel. Use Next and Previous buttons to navigate, or jump to a slide with the slide dots.
+
+Add to Cart
+USB-C to USB-C Cable - 1m (Flexible Silicone)
+$10.95
+Features & Specs
+
+Documentation
+
+Schematic
+Eagle Files
+Hookup Guide
+Fritzing Part
+Datasheet (CH340C)
+Drivers
+Windows
+Linux
+Mac
+GitHub Hardware Repo
+
+WARNING: This product may contain chemicals known to the State of California to cause cancer and birth defects or other reproductive harm. See link below for more information.
+WWW.P65WARNINGS.CA.GOV
+Customer Reviews
+ 
+Sign up to receive weekly product releases, special offers and more.
+Subscribe
+ABOUT SPARKFUN
+Read Our Story
+Press & Media
+SparkFun Education
+Job Openings
+PARTNER WITH US
+See Our Partners
+Become a Distributor
+Receive Volume Discounts
+Join Our Affiliate Program
+SUPPORT
+Customer Support
+Purchase Orders & Payment Terms
+Technical Support Forum
+Returns & Exchanges
+FAQs
+Contact Us
+SITE INFORMATION
+Terms Of Service
+Privacy Policy
+Site Map
+SUBSCRIBE
+
+Sign up to receive weekly product releases, special offers and more.
+
+First Name:
+Email:*
+VIEW OUR SOCIAL CHANNELS
+YouTube
+Instagram
+GitHub
+Facebook
+Twitter
+TikTok
+
+SparkFun Electronics ® / 6333 Dry Creek Parkway, Niwot, CO 80503

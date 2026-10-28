@@ -1,0 +1,258 @@
+# Loading https://www.digikey.com/en/products/detail/sullins-connector-solutions/GRPB071VWVN-RC/1786443?s=N4IgTCBcDaIOICUAKAhADAdgIwDUDqOAcgLQIDCIAugL5A
+https://www.digikey.com/en/products/detail/sullins-connector-solutions/GRPB071VWVN-RC/1786443?s=N4IgTCBcDaIOICUAKAhADAdgIwDUDqOAcgLQIDCIAugL5A&__cf_chl_tk=NjUV5Y_qNmqi1v8uqeumLg..llB5R5i4jRCMXi.eexM-1793225686-1.0.1.1-kv3yxNN64p77eYEhTDv2H2TiThQTwIXt8rodG_6BZ.Q
+
+		
+Upload a List
+Login or
+REGISTER
+Your item(s)
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+GRPB071VWVN-RC
+
+
+DigiKey Part Number
+	
+S9014E-07-ND
+
+
+Manufacturer
+	
+Sullins Connector Solutions
+
+
+Manufacturer Product Number
+	
+GRPB071VWVN-RC
+
+
+Description
+	
+CONN HEADER VERT 7POS 1.27MM
+
+
+Manufacturer Standard Lead Time
+	
+11 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+Connector Header Through Hole 7 position 0.050" (1.27mm)
+
+
+Datasheet
+	 Datasheet
+
+EDA/CAD Models
+	GRPB071VWVN-RC Models
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Connectors, Interconnects
+Rectangular Connectors
+Headers, Male Pins
+Contact Length - Mating
+0.118" (3.00mm)
+Mfr
+Sullins Connector Solutions
+Contact Length - Post
+0.091" (2.30mm)
+Packaging
+Bulk
+Overall Contact Length
+0.248" (6.30mm)
+Part Status
+Active
+Insulation Height
+0.039" (1.00mm)
+Connector Type
+Header
+Contact Shape
+Square
+Contact Type
+Male Pin
+Contact Finish - Mating
+Gold
+Pitch - Mating
+0.050" (1.27mm)
+Contact Finish Thickness - Mating
+Flash
+Number of Positions
+7
+Contact Finish - Post
+Gold
+Number of Rows
+1
+Contact Material
+Brass
+Number of Positions Loaded
+All
+Insulation Material
+Polyamide (PA9T), Nylon 9T
+Style
+Board to Board or Cable
+Operating Temperature
+-40°C ~ 105°C
+Shrouding
+Unshrouded
+Material Flammability Rating
+UL94 V-0
+Mounting Type
+Through Hole
+Current Rating (Amps)
+1A
+Termination
+Solder
+Contact Finish Thickness - Post
+Flash
+Fastening Type
+Push-Pull
+Base Product Number
+GRPB071
+Report Product Information Error
+Documents & Media
+Associated Products
+Environmental & Export Classifications
+Product Questions and Answers
+Additional Resources
+In-Stock: 5,668
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Bulk
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$0.55000	$0.55
+
+10
+$0.47100	$4.71
+
+100
+$0.40040	$40.04
+
+500
+$0.35730	$178.65
+
+1,000
+$0.34024	$340.24
+
+5,000
+$0.30371	$1,518.55
+
+10,000
+$0.28922	$2,892.20
+
+Manufacturers Standard Package
+You May Also Be Interested InSee All
+8 Items
+
+GRPB091VWVN-RC
+
+CONN HEADER VERT 9POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.70000
+Details
+
+GRPB021VWVN-RC
+
+CONN HEADER VERT 2POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.14000
+Details
+
+GRPB052VWVN-RC
+
+CONN HEADER VERT 10POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.69000
+Details
+
+EMI5208MUTAG
+
+FILTER RC(PI) 100 OHMS ESD SMD
+
+onsemi
+
+$0.58000
+Details
+
+GRPB081VWVN-RC
+
+CONN HEADER VERT 8POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.54000
+Details
+
+GRPB051VWVN-RC
+
+CONN HEADER VERT 5POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.35000
+Details
+
+GRPB041VWVN-RC
+
+CONN HEADER VERT 4POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.28000
+Details
+
+GRPB031VWVN-RC
+
+CONN HEADER VERT 3POS 1.27MM
+
+Sullins Connector Solutions
+
+$0.22000
+Details
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

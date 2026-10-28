@@ -1,0 +1,117 @@
+# Loading https://www.supplyhouse.com/Shelly-EM-GEN3-Gen3-Energy-Monitor-with-50A-Current-Transformer
+https://www.supplyhouse.com/Shelly-EM-GEN3-Gen3-Energy-Monitor-with-50A-Current-Transformer?__cf_chl_tk=rBVEOVqls8aE9LZlY4OLaVjH2qua9IBQ6Gxu7SgZ2Oo-1793226155-1.0.1.1-G3m_apJDSZJPBafOu.F_eXBANRSwMvVNul2oySRv3aE
+
+Skip to accessibility statement
+Free shipping on orders over $99
+●
+Your Zip:80909
+ORDER STATUS
+CONTACT & SUPPORT
+Live Chat: Online Now
+SIGN IN
+0
+CART
+Plumbing
+Heating
+HVAC
+Electrical
+PEX
+Fittings
+Valves
+Tools
+Resources
+Our Team
+Hover image to zoom
+HomeElectrical SuppliesElectrical ControlsSmart Home ControlsSmart Energy Monitors
+Gen3 Energy Monitor with 50A Current Transformer
+Brand:
+Shelly
+SKU:
+EM-GEN3
+(0)
+Q&A:
+(0)
+–
++
+$69.99 each
+ADD TO CART
+In Stock
+Get 5 Tue, Nov 3
+MANUALS (1)
+User Guide
+Free Shipping On orders over $99
+Easy Returns No restocking fee for 90 days
+Product Highlights
+–
+Plastic
+50 Amps
+Charcoal gray, White
+110-240V
+Description
+–
+KEY FEATURES
+Wi-Fi and Bluetooth connectivity
+Single phase, two channels measurment
+Up to 2 current transformers connection (contactless metering)
+Dry contact switch for contactor control
+Shelly chip with 8 MB memory
+Local data logs stored on device for up to 10 days in 1-minute intervals
+Smart schedules
+Real-time clock
+Supports scripting, webhooks, MQTT, WebSocket, HTTP, RPC protocols
+Wide integration into smart automation systems
+
+PRODUCT FEATURES
+Wi-Fi and Bluetooth connectivity: Connect Shelly EM Gen3 to your Wi-Fi network. No HUB required! Quick inclusion via Bluetooth or use it as a Bluetooth gateway.
+Current transformers connection: Connect up to 2 current transformers. No need for extra wiring!
+Dry contact switch: For contactor control of heavier loads
+Local data storage: Data logs stored on device for up to 10 days in 1-minute intervals. When connected to the cloud, data logs go back to 365 days.
+Smart Scenes: Set custom scenes by combining Shelly EM Gen3 with your other Shelly devices to control energy use.
+Scripting: Fully supports scripting, allowing you local control and custom functionalities.
+Hide Description
+Specs
+–
+Humidity Range:
+
+30% to 70% RH
+
+Features:
+
+Bluetooth
+
+Wifi
+
+Material:
+
+Plastic
+
+Amperage:
+
+50
+
+Product Type:
+
+Energy Meter
+
+Color:
+
+Charcoal gray
+
+White
+
+Voltage:
+
+110-240V
+
+Contact
+Question? Call or text 888-757-4774
++
+Free Shipping
+On orders over $99
+We offer flexible shipping and scheduling options, up-to-date delivery estimates, and free ground shipping on any order over $99 to make sure your order gets to you on-time, for less.
+Shipping Policy
+Easy Returns
+Returning items is as simple as 1-2-3
+Ordered the wrong product? Item damaged in transit? Our 3-step process makes returning products easy – even up to a year after purchase – with no restocking fees on returns made within 90 days.
+Return Policy
+More Buying Options

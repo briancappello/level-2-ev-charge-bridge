@@ -33,13 +33,12 @@ for i, (nm, sub) in enumerate([("TB1-1", "L1"), ("TB1-2", "L1 tap"), ("TB1-3", "
     x0 = x; x = comp(nm, x, "L", 12.2, 55.5, nm.replace("TB1-", ""), sub, kind="ut")
     term(f"{nm}.t", x0 + 6.1, RAIL["L"] - 20.75); term(f"{nm}.b", x0 + 6.1, RAIL["L"] + 20.75)
 x = comp("endcov", x, "L", 2.2, 55.5, "", kind="cover")
-x = 140.0
-comp("M1", x, "L", 36, 100, "M1", "SDM230", kind="dev")
+# M1, Shelly EM Gen3 (37 x 42 x 16 mm, not DIN-mount): on the base just below the free stretch of the lower rail,
+# held by two adhesive tie mounts. Terminals O, I, IB, IA, L, N along its top edge (positions approximate).
+C["M1"] = dict(x=139.0, y=264.5, w=42, h=37, label="M1", sub="EM Gen3", kind="dev")
 m = C["M1"]
-term("M1.1", x + 9, m["y"] + 7); term("M1.2", x + 27, m["y"] + 7)
-term("M1.3", x + 9, m["y"] + 93); term("M1.4", x + 27, m["y"] + 93)
-for n, dx in zip(range(5, 11), (3, 9, 15, 21, 27, 33)):
-    term(f"M1.{n}", x + dx, m["y"] + 79)
+for nm, dx in (("O", 5), ("I", 11), ("IB", 17), ("IA", 24), ("L", 31), ("N", 37)):
+    term(f"M1.{nm}", m["x"] + dx, m["y"] + 4)
 x = 190.0
 x0 = x; x = comp("K1", x, "L", 53.5, 95.8, "K1", "Finder 22.64", kind="dev")   # 4-pole, poles 1-2 and 3-4 used
 k = C["K1"]
@@ -101,7 +100,7 @@ GL = {"G1": (85.0, "M40", 40.0, "14-50 cord"), "G2": (210.0, "M40", 40.0, "J1772
       "G3": (350.0, "M20", 20.0, "Ethernet")}
 S2_POS = (W, RAIL["U"])
 S1_POS = (W, 175.0)        # E-stop, 80 mm below S2 on the right wall
-S2_BODY = (43, 30)          # depth behind wall, width (Schneider XB5AA31: 43 mm behind panel, 30 mm body)
+S2_BODY = (45, 30)          # AutomationDirect GCX1100, one contact layer (same as S3)
 S1_BODY = (45, 30)          # AutomationDirect GCX3131 with two contact blocks side by side: 45 mm behind panel
 H1_POS = (W, 40.0)         # pilot light, above S2
 S3_POS = (W, 245.0)        # RCM1 test button, below S1
@@ -124,19 +123,21 @@ wire(4, "l1", AWG8, [(g1 - 1, H), (g1 - 1, 320), (P("TB1-1.b")[0], 320), P("TB1-
 wire(4, "l2", AWG8, [(g1 + 2, H), (g1 + 2, 313), (P("TB1-3.b")[0], 313), P("TB1-3.b")], "L2")
 wire(4, "n", AWG8, [(g1 + 5, H), (g1 + 5, 306), (P("TB1-5.b")[0], 306), P("TB1-5.b")], "N")
 wire(4, "pe", AWG8, [P("PE1.t"), (P("PE1.t")[0], 214), (P("PE2.t")[0], 214), P("PE2.t")], "")
-wire(4, "l1", AWG8, [P("TB1-1.t"), (P("TB1-1.t")[0], 180), (P("M1.1")[0], 180), P("M1.1")], "")
-wire(4, "l1", AWG8, [P("M1.2"), (P("M1.2")[0], 186), (P("K1.1")[0], 186), P("K1.1")], "")
+wire(4, "l1", AWG8, [P("TB1-1.t"), (P("TB1-1.t")[0], 180), (P("K1.1")[0], 180), P("K1.1")], "")
+CT_POS = (118.0, 180.0)    # M1's CT clipped on the TB1-1 to K1 L1 run
+wire(4, "sig", 1.2, [(CT_POS[0], CT_POS[1] + 6), (CT_POS[0], 196), (P("M1.IA")[0], 196), P("M1.IA")], "M1 CT lead", (136, 204))
 wire(4, "l2", AWG8, [P("TB1-3.t"), (P("TB1-3.t")[0], 192), (P("K1.3")[0], 192), P("K1.3")], "")
 wire(4, "l1", AWG8, [(207, H), (207, 297), (P("K1.2")[0], 297), P("K1.2")], "L1", (196, 343))
 wire(4, "l2", AWG8, [(213, H), (213, 297), (P("K1.4")[0], 297), P("K1.4")], "L2", (215, 343))
-wire(4, "pe", AWG8, [(198, H), (198, 340), (181, 340), (181, 303), (P("PE2.b")[0], 303), P("PE2.b")], "PE", (160, 302))
+wire(4, "pe", AWG8, [(198, H), (198, 340), (184, 340), (184, 303), (P("PE2.b")[0], 303), P("PE2.b")], "PE", (160, 311))
 
 # step 5: control supply (18 AWG)
 wire(5, "l1", AWG18, [P("TB1-2.t"), (P("TB1-2.t")[0], 170), (14, 170), (14, 42), (P("F.1")[0], 42), P("F.1")])
 wire(5, "l2", AWG18, [P("TB1-4.t"), (P("TB1-4.t")[0], 174), (9, 174), (9, 36), (P("F.3")[0], 36), P("F.3")])
 wire(5, "l1", AWG18, [P("F.2"), (P("F.2")[0], 146), (P("PS1.L")[0], 146), P("PS1.L")])
 wire(5, "l2", AWG18, [P("F.4"), (P("F.4")[0], 150), (P("PS1.N")[0], 150), P("PS1.N")])
-wire(5, "l2", AWG18, [P("F.4"), (P("F.4")[0] + 2, 154), (133.5, 154), (133.5, 302), (P("M1.3")[0], 302), P("M1.3")], "M1 N ref")
+wire(5, "l2", AWG18, [P("F.4"), (P("F.4")[0] + 2, 154), (133.5, 154), (133.5, 170), (P("M1.N")[0], 170), P("M1.N")], "", None)
+wire(5, "l1", AWG18, [P("F.2"), (P("F.2")[0] - 2, 158), (131.5, 158), (131.5, 174), (P("M1.L")[0], 174), P("M1.L")], "M1 L, N", (139, 214))
 wire(5, "dc", AWG18, [P("PS1.+V1"), (P("PS1.+V1")[0], 44), (127, 44), (127, 166), (P("J7.11")[0], 166), P("J7.11")], "+24 V")
 wire(5, "z", AWG18, [P("PS1.-V1"), (P("PS1.-V1")[0], 40), (129.5, 40), (129.5, 162), (P("J7.12")[0], 162), P("J7.12")], "0 V")
 wire(5, "pe", AWG18, [P("PS1.-V2"), (P("PS1.-V2")[0], 48), (67, 48), (67, 210), (P("PE3.t")[0], 210), P("PE3.t")], "0 V–PE bond")
@@ -156,8 +157,6 @@ wire(7, "sig", AWG18, [P("AUX.34"), (256, P("AUX.34")[1]), (256, 170), (350, 170
 wire(7, "z", AWG18, [(W - H1_BODY[0], H1_POS[1] - 4), (348, H1_POS[1] - 4), (348, 2), (P("J5.5")[0], 2), P("J5.5")])
 wire(6, "dc", AWG18, [P("PS1.+V2"), (P("PS1.+V2")[0], 32), (278, 32), (278, 201), (P("AUX.21")[0], 201), P("AUX.21")])
 wire(6, "sig", AWG18, [P("AUX.22"), (P("AUX.22")[0], 300), (282, 300), (282, 20), (P("J5.12")[0], 20), P("J5.12")])
-wire(6, "com", 1.8, [((P("M1.5")[0] + P("M1.6")[0]) / 2, P("M1.5")[1]), ((P("M1.5")[0] + P("M1.6")[0]) / 2, 322), (290, 322), (290, 16),
-                     ((P("J4.8")[0] + P("J4.7")[0]) / 2, 16), ((P("J4.8")[0] + P("J4.7")[0]) / 2, P("J4.7")[1])], "RS-485 pair", (165, 320))
 wire(6, "sig", AWG18, [(224, H), (224, 338), (258, 338), (258, 160), (P("J11.6")[0], 160), P("J11.6")], "CP", (238, 159))
 wire(6, "sig", AWG18, [(C["K1"]["x"] + 36, 262), (262, 262), (262, 156), ((P("J11.2")[0] + P("J11.3")[0]) / 2, 156),
                        ((P("J11.2")[0] + P("J11.3")[0]) / 2, P("J11.2")[1])])
@@ -217,7 +216,10 @@ def draw_comp(cid, state):
         if c["sub"]:
             out.append(f'<text class="as-t as-sub" transform="translate({r(x+w/2+1.5)} {r(RAIL["L"]+15)}) rotate(-90)">{html.escape(c["sub"])}</text>')
     elif k == "dev":
-        if c["label"]:
+        if cid == "M1":
+            out.append(f'<text class="as-lbl" x="{r(x+w/2)}" y="{r(y+h/2+5)}" text-anchor="middle">{html.escape(c["label"])}</text>')
+            out.append(f'<text class="as-t" x="{r(x+w/2)}" y="{r(y+h/2+12)}" text-anchor="middle">{html.escape(c["sub"])}</text>')
+        elif c["label"]:
             out.append(f'<text class="as-lbl" x="{r(x+w/2)}" y="{r(y+h/2-1)}" text-anchor="middle">{html.escape(c["label"])}</text>')
             out.append(f'<text class="as-t" x="{r(x+w/2)}" y="{r(y+h/2+7)}" text-anchor="middle">{html.escape(c["sub"])}</text>')
     return "".join(out)
@@ -230,10 +232,10 @@ def draw_terms(ids):
         for name, (tx, ty) in T.items():
             if name.startswith(pref[cid]):
                 lab = name.split(".", 1)[1].replace("-V1", "−V").replace("-V2", "−V").replace("+V1", "+V").replace("+V2", "+V")
-                rad = 1.6 if (cid == "M1" and lab in "5678910" and len(lab) <= 2 and lab not in ("1", "2", "3", "4")) else 2.8
+                rad = 1.5 if cid == "M1" else 2.8
                 out.append(f'<circle class="as-screw" cx="{r(tx)}" cy="{r(ty)}" r="{rad}"/>')
                 dy = -4.5 if ty < C[cid]["y"] + C[cid]["h"] / 2 else 8
-                if cid == "M1" and rad < 2: dy = -3
+                if cid == "M1": dy = 6.5
                 if cid in ("PS2", "K2"):
                     lab = {"+Vo": "+12", "-Vo": "0", "-Vin": "−in", "+Vin": "+in"}.get(lab, lab)
                     rad = 1.7
@@ -297,6 +299,10 @@ def svg(step, comps_new, comps_old, title, extra=""):
     if step >= 4:
         body.append('<path class="as-bridge" d="M{a} {y} H{b} M{c} {y} H{d}"/>'.format(
             a=r(P("TB1-1.t")[0]), b=r(P("TB1-2.t")[0]), c=r(P("TB1-3.t")[0]), d=r(P("TB1-4.t")[0]), y=r(RAIL["L"] - 8)))
+    if step >= 4:
+        stroke = "var(--sig)" if step == 4 else "var(--rule)"
+        body.append(f'<rect x="{r(CT_POS[0]-5)}" y="{r(CT_POS[1]-6)}" width="10" height="12" rx="3" fill="none" stroke="{stroke}" stroke-width="1.2"/>'
+                    f'<text class="as-t" x="{r(CT_POS[0])}" y="{r(CT_POS[1]-8)}" text-anchor="middle">CT</text>')
     body.append(extra)
     return (f'<svg class="as-svg" viewBox="-12 -14 {W+48} {H+66}" role="img" aria-label="{html.escape(title)}">'
             + "".join(body) + "</svg>")
@@ -304,6 +310,17 @@ def svg(step, comps_new, comps_old, title, extra=""):
 STEPS = []
 def step(n, title, text_html, svg_html=None):
     STEPS.append((n, title, text_html, svg_html))
+
+# Step 0
+step(0, "Flash M1 with ESPHome (on the bench)",
+     """<ol>
+<li>Do this before M1 is wired in, with nothing on its L, N or CT terminals. Its programming socket isn't isolated from mains, so never connect the adapter to an installed meter.</li>
+<li>Make the programming lead: solder a short bridge between pins 6 (GPIO0) and 7 (GND) of the 7-pin 1.27 mm header strip, which holds the chip in its bootloader. Cut four jumper wires in half and solder a cut end to each of pins 2, 3, 4 and 7. Pins 1 and 5 stay unused.</li>
+<li>Plug the female ends onto the SparkFun adapter (left at its factory 3.3 V setting): pin 2 (M1 TX) to RXI, pin 3 (M1 RX) to TXO, pin 4 (+3.3 V) to VCC, pin 7 (GND) to GND.</li>
+<li>Find M1's 7-pin socket; pin 1 is in the corner nearest the case edge (see the ESPHome device page's PCB photo). <span class="verify">Shelly doesn't document whether it can be reached through the case's side slot or whether the case must be opened, and the 1.27 mm pitch is what larger Shelly Gen2/Gen3 units use. Check both on your unit before soldering the strip.</span> Push the strip in, then plug the adapter into the PC.</li>
+<li>Keep the stock firmware first: <code>esptool --chip esp32c3 read_flash 0 0x800000 m1-stock.bin</code>. If esptool reports secure boot or flash encryption enabled, stop: that unit can't run ESPHome, so return it.</li>
+<li>Copy <code>esphome/secrets.example.yaml</code> to <code>esphome/secrets.yaml</code> and fill it in. Then run <code>esphome run esphome/m1-shelly-em-gen3.yaml</code> and choose the adapter's serial port. When the upload finishes, unplug the adapter and pull the strip out. Later updates go over Wi-Fi with the same command.</li>
+</ol>""")
 
 # Step 1
 s1_extra = ""
@@ -328,11 +345,11 @@ step(2, "Fit the lower (power) rail",
      """<ol>
 <li>Snap parts onto the lower rail from left to right: an end clamp, three UT 16-PE terminals (PE1–PE3), five UT 16 terminals (TB1-1 to TB1-5), then an end cover on the open side of TB1-5.</li>
 <li>Plug one FBS 2-12 bridge into TB1-1/TB1-2 and another into TB1-3/TB1-4. TB1-5 (N) stays unbridged and isolated.</li>
-<li>Leave a gap of about 11 mm, then snap on M1, the SDM230 meter.</li>
+<li>Leave the next 60 mm of rail empty. Below it, fix M1 (the Shelly EM Gen3) to the base with two adhesive cable-tie mounts and a tie around its body, terminals up, its top edge just under the rail.</li>
 <li>Clip the 022.65 aux module onto the right side of K1 (Finder 22.64), then snap K1 on with the aux to its right, followed by an end clamp. Only K1's first two poles (1-2 and 3-4) are used.</li>
 <li>Leave the next 30 mm of rail clear for wiring. Then fit an end clamp, PS2 (the DDR-15G-12, input terminals at the bottom), K2 (the Finder 38.51 relay) and a final end clamp. The rail is used up to about 337 of its 375 mm.</li>
 </ol>""",
-     svg(2, ORDER, [], "Lower rail populated: PE terminals, TB1, meter, contactor with aux, 12 V supply and relay K2"))
+     svg(2, ORDER, [], "Lower rail populated: PE terminals, TB1, contactor with aux, 12 V supply and relay K2, with the meter on the base below the rail"))
 
 # Step 3
 step(3, "Fit the upper (control) rail",
@@ -348,23 +365,24 @@ step(4, "Wire the power path (8 AWG)",
      """<ol>
 <li>Pass the 14-50 cord through the left M40 gland. Land G on PE1, L1 on TB1-1, L2 on TB1-3 and N on TB1-5, all on the bottom screws. N stops at TB1-5 and is never connected to PE.</li>
 <li>Run an 8 AWG green jumper from the top of PE1 to the top of PE2.</li>
-<li>Run 8 AWG black from TB1-1 (top) to M1 terminal 1, and from M1 terminal 2 to K1 terminal 1. Run 8 AWG red from TB1-3 (top) to K1 terminal 3. L2 doesn't pass through the meter.</li>
+<li>Run 8 AWG black from TB1-1 (top) to K1 terminal 1, and 8 AWG red from TB1-3 (top) to K1 terminal 3.</li>
+<li>Clip M1's 50 A clamp around the black TB1-1 to K1 run, with its K→L arrow pointing toward K1. Plug its lead into M1's IA socket. That run carries only the EV current, because the 24 V tap comes off TB1-2.</li>
 <li>Pass the J1772 cable through the right M40 gland. Thread only its L1 and L2 through RCM1's 14 mm hole, then land L1 on K1 terminal 2 and L2 on K1 terminal 4. Route PE around RCM1, never through it, to PE2 (bottom). The pilot and sensor conductors also go around it.</li>
 <li>Fix RCM1 to the base just above the gland with two adhesive cable-tie mounts and ties through its flange holes, with its connector toward the right.</li>
 <li>Crimp ferrules on every stranded end and tighten each screw to the torque on its datasheet. Tighten the glands last, once the conductors are dressed.</li>
 </ol>""",
-     svg(4, ["RCM1"], ORDER + UPPER, "Power wiring: cord to TB1, through meter and contactor, J1772 L1/L2 through RCM1 to K1"))
+     svg(4, ["RCM1"], ORDER + UPPER, "Power wiring: cord to TB1, TB1 to the contactor with M1's clamp on L1, J1772 L1/L2 through RCM1 to K1"))
 
 # Step 5
 step(5, "Wire the 24 V supply (18 AWG)",
      """<ol>
 <li>Run 18 AWG black from TB1-2 (top) to F1/F2 terminal 1, and 18 AWG red from TB1-4 (top) to terminal 3. The bridges make these taps of L1 and L2.</li>
 <li>Run black from F1/F2 terminal 2 to PS1 L, and red from terminal 4 to PS1 N. PS1 has no earth terminal.</li>
-<li>Run a second red from F1/F2 terminal 4 to M1 terminal 3, the meter's voltage reference. This keeps the meter's sense lead behind the 2 A breaker.</li>
+<li>Run a second black from F1/F2 terminal 2 to M1 L, and a second red from terminal 4 to M1 N. M1 runs from, and measures, the 240 V between L1 and L2, behind the 2 A breaker its datasheet asks for.</li>
 <li>Run 18 AWG blue from PS1 +V to J7.11 and blue/white from PS1 −V to J7.12.</li>
 <li>Run 18 AWG green from PS1's second −V terminal to PE3 (top). This is the single 0 V–PE bond the control pilot needs.</li>
 </ol>""",
-     svg(5, [], ORDER + UPPER + ["RCM1"], "Control supply wiring: taps through F1/F2 to PS1, meter reference, 24 V to the board, 0 V bond"))
+     svg(5, [], ORDER + UPPER + ["RCM1"], "Control supply wiring: taps through F1/F2 to PS1 and M1, 24 V to the board, 0 V bond"))
 
 # Step 6
 r3 = P("J5.12"), P("J5.9")
@@ -379,13 +397,12 @@ s6_extra += (f'<rect x="{r(tt["x"]+33)}" y="258" width="7" height="8" fill="var(
 step(6, "Wire the control signals",
      """<ol>
 <li><strong>Weld detection:</strong> run PS1's second +V terminal to aux 21, and aux 22 to J5.12. Fit R3a and R3b (3.9 kΩ each) side by side across J5.12 and J5.9, crimping both resistor leads and the wire at J5.12 into one ferrule. Together they draw over 10 mA, the 022.65 contact's minimum load.</li>
-<li><strong>Meter:</strong> run the Belden 9841 pair from M1 terminals 5 (A) and 6 (B) to J4.8 (A) and J4.7 (B). Tie the shield to M1 terminal 7 at the meter end only.</li>
 <li><strong>Pilot:</strong> run the J1772 cable's CP conductor to J11.6. If the cable has a latch-sense conductor, land it on J11.7. Keep these runs away from the 8 AWG conductors.</li>
-<li><strong>Temperature:</strong> stick TT1 on K1's body beside terminals 2/4 and wire it to J11.2/J11.3. Stick TT2 on TB1-3's housing, the incoming L2 terminal, and wire it to J11.4/J11.5. Neither lead goes to ground.</li>
+<li><strong>Temperature:</strong> TT1 and TT2 are small probes, so tie them on rather than sticking them; nothing bonds to their fluorocarbon housing. Lay TT1 along the J1772 L1 conductor where it enters K1 terminal 2, tip against K1's body, and hold it with two cable ties; wire it to J11.2/J11.3. Lay TT2 along the cord's L2 conductor at TB1-3's bottom screw, tip against the terminal housing, tie it the same way, and wire it to J11.4/J11.5. The housings are rated 6 kV, so touching live conductors is fine. Neither lead goes to ground. The 397 mm leads reach J11 without a splice.</li>
 <li><strong>Stop button:</strong> wire S2's NO contact to J4.10 and J4.9.</li>
 <li><strong>Not used:</strong> leave J11.8 (ZC) and the HV inputs J1/J6 unconnected.</li>
 </ol>""",
-     svg(6, [], ORDER + UPPER + ["RCM1"], "Control signal wiring: feedback, RS-485, pilot, temperature sensors, stop button", s6_extra))
+     svg(6, [], ORDER + UPPER + ["RCM1"], "Control signal wiring: feedback, pilot, temperature sensors, stop button", s6_extra))
 
 # Step 7
 j411, j49 = P("J4.11"), P("J4.9")
@@ -412,9 +429,19 @@ step(7, "Wire the safety and status circuits",
 step(8, "Connect the PC and configure EVerest",
      """<ol>
 <li>Pass the Ethernet cable through the M20 gland, then crimp the RJ45 plug and plug it into the board.</li>
-<li>On the PC, give the cable's interface a static address and run a DHCP server on it, for example <code>dnsmasq --interface=eth1 --bind-interfaces --dhcp-range=192.168.50.100,192.168.50.150,12h</code>. Find the module with <code>avahi-browse _chargebridge._udp -tr</code>.</li>
+<li>Put M1 and the PC on the same network: M1 joins the Wi-Fi in <code>secrets.yaml</code>, and the PC needs a second interface on that network (its own Wi-Fi or another Ethernet port), since the first one serves the module.</li>
+<li>On the PC, give the module cable's interface a static address and run a DHCP server on it, for example <code>dnsmasq --interface=eth1 --bind-interfaces --dhcp-range=192.168.50.100,192.168.50.150,12h</code>. Find the module with <code>avahi-browse _chargebridge._udp -tr</code>.</li>
 <li>Start from EVerest's <code>applications/pionix_chargebridge/config/config-CB-EVAL-SIM.yaml</code>. Set the maximum current to 40 A, and under <code>safety.relay_1</code> set <code>feedback_enabled: true</code>. Leave <code>inverted_emergency_input: 0</code> (J4.11 low means emergency).</li>
-<li>Set up the SDM230 on <code>/dev/cbserial0</code> at Modbus address 1, 9600 8N1, and set PT1000 limits for both channels, well below the front end's 126 °C full scale.</li>
+<li>Add the meter (needs everest-core 2025.10.0 or later, which has the <code>powermeter_API</code> module):<pre><code>active_modules:
+  m1_powermeter:
+    module: powermeter_API
+  # in the existing EvseManager entry:
+    connections:
+      powermeter_grid_side:
+        - module_id: m1_powermeter
+          implementation_id: main</code></pre>The module id must match <code>everest_module</code> in the ESPHome file.</li>
+<li>Let M1 reach EVerest's MQTT broker. For example, in <code>mosquitto.conf</code>: <code>per_listener_settings true</code>, then <code>listener 1883 127.0.0.1</code> with <code>allow_anonymous true</code> for EVerest itself, and <code>listener 1883 &lt;PC address&gt;</code> with <code>allow_anonymous false</code> and a <code>password_file</code> holding M1's user.</li>
+<li>Set PT1000 limits for both channels, well below the front end's 126 °C full scale.</li>
 </ol>
 <p class="hint"><span class="verify">The example config ships with <code>feedback_inverted: true</code>. Confirm the polarity in step 10: feedback must report open while K1 is open. Flip the setting if it doesn't.</span></p>""",
      svg(8, [], ORDER + UPPER + ["RCM1"], "Ethernet cable routed from the RJ45 jack to the M20 gland"))
@@ -426,7 +453,7 @@ step(9, "Check it with the power off",
 <li>Check that N isn't connected to PE, and that TB1-5 shows no continuity to L1, L2 or PE.</li>
 <li>Check that only L1 and L2 pass through RCM1's hole.</li>
 <li>Tug-test every conductor, and check that no copper shows outside a terminal or ferrule.</li>
-<li>With F1/F2 off and K1 open, megger L1 and L2 to PE at 500 V DC. Expect well over 1 MΩ. The meter is still connected, so keep the test short.</li>
+<li>With F1/F2 off and K1 open, megger L1 and L2 to PE at 500 V DC. Expect well over 1 MΩ. F1/F2 off isolates PS1 and M1 from the test.</li>
 </ol>""")
 
 # Step 10
@@ -446,14 +473,15 @@ step(10, "Bring it up on 24 V only",
 step(11, "First run on 240 V",
      """<ol>
 <li>Close the cover. Plug into the 14-50 and press the receptacle breaker's GFCI test button. It must trip; reset it.</li>
-<li>Switch F1/F2 on. PS1 should come up, then the board and EVerest, and K2 should click on.</li>
+<li>Switch F1/F2 on. PS1 should come up, then the board and EVerest, and K2 should click on. M1 should join the network, and EVerest's log should show powermeter values from <code>m1_powermeter</code>.</li>
 <li>Repeat the simulator test. In state C, measure about 240 V between L1 and L2 at the simulator, and 0 V when it leaves state C.</li>
-<li>Charge a car. Watch K1 and TT1 temperatures and the meter's current for the first hour at 40 A.</li>
+<li>Calibrate M1: compare its voltage with a multimeter across L1–L2, and its current with a clamp meter on the same conductor, during a steady load. Scale <code>calibration_voltage_gain</code> and <code>calibration_current_gain_b</code> by reference ÷ reading (the IA input uses the chip's B gain), then re-flash over Wi-Fi. Power must read positive while charging; if not, turn the clamp round.</li>
+<li>Charge a car. Watch K1 and TT1 temperatures, the meter's current, and M1's own temperature (40 °C ambient limit) for the first hour at 40 A.</li>
 </ol>""")
 
 parts = ['<h2 id="assembly">Assembly</h2>',
          '<p class="hint">Drawings are to scale at 1 mm per unit, looking into the enclosure base with the cover open. '
-         'Part outlines come from manufacturer datasheets. Screw positions on K1, its aux module, the meter, PS2 and K2 are approximate, '
+         'Part outlines come from manufacturer datasheets. Screw positions on K1, its aux module, M1, PS2 and K2 are approximate, '
          'so check them against the labels on your parts. Parts and wires added in each step are drawn in colour; earlier ones are grey.</p>']
 for n, title, text_html, svg_html in STEPS:
     parts.append(f'<section class="as-step"><h3>Step {n}: {html.escape(title)}</h3><div class="as-body">{text_html}</div>')

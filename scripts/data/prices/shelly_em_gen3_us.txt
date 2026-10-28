@@ -1,0 +1,1045 @@
+# Shelly EM Gen3 50A Smart Energy Meter – WiFi/Bluetooth, 2-Channel, Contactor Control - | Shelly USA
+https://us.shelly.com/products/shelly-em-gen3-50a
+
+Skip to content
+🚚 Free US shipping on orders over $50.00
+Delivery country:
+United States
+Popular searches
+Smart lighting
+Shelly 1 Gen 3
+Heating & Climate control
+Relay Switches
+Energy monitoring
+Products
+Best sellers
+New products
+Shop by product type
+Smart Switches and Dimmers
+Sensors and Thermostats
+Professional Devices
+Smart Controllers
+Smart Lighting
+Accessories & Add-ons
+Shop by technology
+Wi-Fi
+Z-Wave
+Bluetooth
+LAN
+Matter
+KNXnet/IP
+ZigBee
+Shelly ecosystem
+Powered by Shelly
+Shop by solution
+Smart Lighting
+Monitoring & Saving Energy
+Smart Safety Security
+Smart doors, gates, roller covers & blinds
+Smart Heating & Climate Control
+Shop all products
+SHOP NOW
+Solutions
+Start your smart home
+Retrofit & Existing Home
+New smart home
+Outdoor
+Smart Building & Facilities
+Office
+Restaurants
+Hotels
+Use cases & Applications
+Energy efficient building
+Smart lighting
+Smart comfort & Automation
+Smart Safety & Security
+Seasonal Automation
+Case studies
+Smart home guide by GreatScott!
+Smart Energy Management
+Professional smart energy control & monitoring
+Optimize and track your energy usage with precision
+PV Solutions / Industrial
+For your solar solutions or other industrial applications
+Energy efficient home
+Create a sustainable and cost-effective smart home
+Automate Your Home for Any Forecast with Shelly
+Shelly App
+Shelly Smart Control
+Shelly Smart Control Premium
+Shelly Cloud Camera Storage
+Shelly AI Assistant
+Shelly X
+Partners
+Official resellers
+Verified installers
+Corporate
+Help & Resources
+Support
+Open a support ticket
+Shelly Community Forum
+Shelly Facebook Group
+FAQ
+Resources
+Blog
+Media center
+Media kit
+Knowledge Base
+Installation videos
+Product Catalog
+Developers API
+Scripts Knowledge Base
+Shelly Device Finder
+Customer projects
+Discover innovative ideas and get inspiration from other Shelly users
+Shelly Academy
+The ultimate academy to learn scripting basics
+Smart Home Guide
+Learn how and with which products you can transform your space into a Smart Home.
+Full compatibility
+
+Shelly devices are compatible with Alexa, Google Home, Android, and iOS, allowing voice control through your assistant!
+Learn more
+
+Contact us
+Open wishlist
+Cart
+Home All products  Shelly EM Gen3 50A
+Skip to product information
+Open media 1 in modal
+Open media 2 in modal
+Open media 3 in modal
+Open media 4 in modal
+Typically used for:
+Energy saving
+Contactor control
+Power monitoring
+ 16 reviews
+Shelly EM Gen3 50A
+Regular price
+$69.99
+Shipping calculated at checkout.
+In stock
+Gain real-time insights into the power consumption of your connected devices with Shelly EM Gen3. By monitoring the energy usage as it happens, you can uncover patterns that reveal opportunities for efficiency.
+*Shelly EM Gen3 comes with a 50 A clamp included in the pack
+3
+3 Years Warranty
+Get more, save more
+Unlock greater savings as you purchase more items
+Buy 1
+Standard
+$69.99/each
+Price $69.99
+Buy 2
+2% OFF
+$68.60/each
+Price $68.60
+Best Value
+Buy 4
+5% OFF
+$66.50/each
+Price $66.50
+Get Protection Plus
+$6.99
+Extended Coverage: Beyond the standard warranty
+Free Replacements
+Accidental Damage Protection
+All products are developed to strict security standards
+All orders are shipped from the US
+Free shipping on orders over $50.00 within the US
+Decrease quantity for Shelly EM Gen3 50A
+Increase quantity for Shelly EM Gen3 50A
+Add to cart
+Add to Wishlist
+Key Features
+Wi-Fi and Bluetooth connectivity
+Single phase, two channels measurment
+Up to 2 current transformers connection (contactless metering)
+Dry contact switch for contactor control
+Shelly chip with 8 MB memory
+Local data logs stored on device for up to 10 days in 1-minute intervals
+Smart schedules
+Real-time clock
+Supports scripting, webhooks, MQTT, WebSocket, HTTP, RPC protocols
+Wide integration into smart automation systems
+Technical details
+Wiring diagrams
+Specifications
+Device identification
+
+Device name: Shelly EM Gen3
+
+Device model: S3EM-002CXCEU
+
+Device SSID: ShellyEMG3-XXXXXXXXXXXX
+
+BLE Model ID: 0x1027
+
+Short description
+
+Shelly EM Gen3 (the Device) is a small form factor smart energy meter using up to 2 current transformers (contactless metering), which allows energy metering the consumption of electric appliances and reporting to a mobile phone, tablet, PC, or home automation system. It can work standalone in a local Wi-Fi network or it can also be operated through cloud home automation services. The Device has internal storage for data allowing for later retrieval. The Device has single dry contact switch for controlling external loads.
+
+Shelly EM Gen3 can be accessed, controlled, and monitored remotely from any place where the User has internet connectivity, as long as the device is connected to a Wi-Fi access point and the Internet.
+
+Shelly EM Gen3 can be retrofitted into standard electrical wall boxes, next to electrical appliances, power sockets, or in other places with limited installation space.
+
+Shelly EM Gen3 has an embedded Web Interface which can be used to monitor, configure, and control the device.
+
+Main features
+
+Compact form factor
+
+Single phase, two channels measurment
+
+Current transformer connection
+
+Dry contact relay for contactor control
+
+Real-time clock
+
+Data logs stored on device for up to 10 days of minute data records
+
+Use cases
+
+Power Consumption Monitoring: Monitor the power consumption of connected devices in real-time. This information can be valuable for understanding energy usage patterns and making informed decisions to reduce consumption.
+
+Energy Efficiency Optimization: Identify electrical energy consumption patterns and optimize electricity usage.
+
+Appliance Health Check: Keep track of the power usage of individual appliances to assess their health and performance over time. Sudden spikes or changes in power consumption may indicate issues with the appliance.
+
+Cost Management: With the knowledge of power consumption, you can estimate the cost of running specific devices and manage your electricity expenses more effectively.
+
+Space-Efficient Retrofitting: Integrate the device into standard electrical wall boxes, behind power sockets, light switches, or other locations with limited space.
+
+Remote Monitoring: Shelly EM Gen3 supports publishing data to Shelly cloud or other cloud based data collection and storage systems. This allows you to monitor power consumption even when you're away from home.
+
+Local Monitoring: Like the rest of the Shelly Wi-Fi line of devices Shelly EM Gen3 allows for local only monitoring and automations. Access stored energy consumption records directly from the device UI. Automate locally with rules based on instantaneous power consumption or energy consumer for a period of time.
+
+Main applications
+
+Residential
+
+MDU (Multi Dwelling Units - apartments, condominiums, hotels, etc.)
+
+Light commercial (small office buildings, small retail/restaurant/gas station, etc.)
+
+Government/municipal
+
+University/college
+
+Farming
+
+Simplified internal schematics
+Connectivity
+
+Wi-Fi
+
+Bluetooth
+
+Protocols
+
+MQTT
+
+HTTP
+
+WebSocket
+
+RPC
+
+Safety function
+
+Internal temperature sensing and reporting
+
+Supported load types
+
+Resistive (incandescent bulbs, heating devices)
+
+Capacitive (LED light drivers, capacitor banks, electronic equipment, motor start capacitors)
+
+Inductive (transformers, fans, refrigerators, air-conditioners)
+
+User interface
+Inputs
+
+
+
+
+
+
+
+Specifications
+
+Quantity
+
+	
+
+Value
+
+
+
+
+Physical
+
+
+
+
+Size (HxWxD):
+
+	
+
+37x42x16 mm / 1.46x1.65x0.63 inch
+
+
+
+
+Weight:
+
+	
+
+EM Gen3 - 23 g / 0.81 oz
+
+CT 50A - 50 g / 1.76 oz
+
+
+
+
+Screw terminals max torque:
+
+	
+
+0.4 Nm / 3.5 lbin
+
+
+
+
+Conductor cross section:
+
+	
+
+0.5 to 4 mm² / 20 to 11 AWG (solid, stranded, and bootlace ferrules)
+
+
+
+
+Conductor stripped length:
+
+	
+
+6 to 7 mm / 0.24 to 0.28 in
+
+
+
+
+Mounting:
+
+	
+
+Wall console, Electrical cabinet
+
+
+
+
+Shell material:
+
+	
+
+Plastic
+
+
+
+
+Shell color:
+
+	
+
+White
+
+Charcoal gray
+
+
+
+
+Connectors color:
+
+	
+
+Black
+
+
+
+
+Environmental
+
+
+
+
+Ambient working temperature:
+
+	
+
+-20 °C to 40 °C / -5 °F to 105 °F
+
+
+
+
+Humidity:
+
+	
+
+30 % to 70 % RH
+
+
+
+
+Max. altitude:
+
+	
+
+2000 m / 6562 ft
+
+
+
+
+Electrical
+
+
+
+
+Power supply:
+
+	
+
+110 - 240 V~ 50/60 Hz
+
+
+
+
+Power consumption:
+
+	
+
+< 1.2 W
+
+
+
+
+External protection:
+
+	
+
+2 A, tripping characteristic B or C,
+6 kA interrupting rating,
+Energy limiting class 3
+
+
+
+
+Output circuits ratings
+
+
+
+
+Max. switching voltage:
+
+	
+
+240 V~
+
+
+
+
+Max. switching current:
+
+	
+
+2 A/240 V~
+
+
+
+
+Sensors, meters
+
+
+
+
+Voltmeter (AC):
+
+	
+
+110-240 V~ 50/60 Hz
+
+
+
+
+Voltmeter accuracy:
+
+	
+
+±2%
+
+
+
+
+Ammeter (AC):
+
+	
+
+0 - 80A
+
+
+
+
+Ammeter accuracy:
+
+	
+
+±2 % (2 - 50 A), ±2 % (1 - 2 A), ±5 % (0 - 1 A)
+
+
+
+
+Compatible current transformers:
+
+	
+
+CT 50A (included in the package)
+
+CT 80A
+
+
+
+
+Power and energy meters:
+
+	
+
+Active and apparent power
+
+Active and apparent energy
+
+Power factor
+
+Fundamental active and fundamental reactive energy
+
+
+
+
+Channel-to-channel calibration minimum load:
+
+	
+
+500 W
+
+
+
+
+No load threshold:
+
+	
+
+30 VA per channel
+
+
+
+
+Measurement data storage:
+
+	
+
+At least 10 days of 1 min data resolution
+
+
+
+
+Data export:
+
+	
+
+CSV for PQ recorded values
+
+JSON format export through RPC
+
+
+
+
+Internal-temperature sensor:
+
+	
+
+Yes
+
+
+
+
+Radio
+
+
+
+
+Wi-Fi
+
+
+
+
+Protocol:
+
+	
+
+802.11 b/g/n
+
+
+
+
+RF band:
+
+	
+
+2412 - 2472 МHz
+
+
+
+
+Max. RF power:
+
+	
+
+< 20 dBm
+
+
+
+
+Range:
+
+	
+
+Up to 30 m / 100 ft indoors and 50 m / 160 ft outdoors
+(Depends on local conditions)
+
+
+
+
+Bluetooth
+
+
+
+
+Protocol:
+
+	
+
+4.2
+
+
+
+
+RF band:
+
+	
+
+2402 - 2480 MHz
+
+
+
+
+Max. RF power:
+
+	
+
+< 4 dBm
+
+
+
+
+Range:
+
+	
+
+Up to 10 m / 33 ft indoors and 30 m / 100 ft outdoors
+(Depends on local conditions)
+
+
+
+
+Microcontroller unit
+
+
+
+
+CPU:
+
+	
+
+ESP-Shelly-C38F
+
+
+
+
+Flash:
+
+	
+
+8 MB
+
+
+
+
+Firmware capabilities
+
+
+
+
+Schedules:
+
+	
+
+Yes
+
+
+
+
+Webhooks (URL actions):
+
+	
+
+20 with 5 URLs per hook
+
+
+
+
+Scripting:
+
+	
+
+Yes
+
+
+
+
+MQTT:
+
+	
+
+Yes
+
+
+
+
+Encryption:
+
+	
+
+Yes (Transport level)
+
+
+
+
+Authentication:
+
+	
+
+Yes (Application and transport level)
+
+Basic wiring diagrams
+
+
+Legend
+
+Terminals
+
+	
+
+Wires
+
+
+
+
+O
+
+	
+
+Load circuit output terminal
+
+	
+
+L
+
+	
+
+Live (100-260 V~) wire
+
+
+
+
+I
+
+	
+
+Load circuit input terminal
+
+	
+
+N
+
+	
+
+Neutral wire
+
+
+
+
+IA
+
+	
+
+First channel current transformer input
+
+	
+
+Current transformers
+
+
+
+
+IB
+
+	
+
+Second channel current transformer input
+
+	
+
+CTA
+
+	
+
+First channel current transformer
+
+
+
+
+L
+
+	
+
+Live (100-260 V~) terminal
+
+	
+
+CTB
+
+	
+
+Second channel current transformer
+
+
+
+
+N
+
+	
+
+Neutral terminal
+
+	
+
+
+
+
+	
+
+
+
+
+Shelly Smart Control
+
+Adding the device to the Shelly Smart Control
+
+Troubleshooting
+
+Check the correct installation of the CT:
+
+If negative readings on a measured circuit are read and are not expected, check the correct installation of the CT (K->L).
+
+Ensure that the device is properly powered:
+
+Check power cables, outlets, and any power indicators on the device.
+
+Inspect Connections:
+
+Verify that all connections, including cables and wiring, are secure and properly seated. Loose connections can lead to functionality issues.
+
+Review Device Settings:
+
+If applicable, check and review the device settings. Ensure that configurations are correct and match your intended use.
+
+Update Firmware/Software:
+
+Check if there are any available firmware or software updates for the device. Keeping the device up-to-date can resolve known issues and improve performance.
+
+Restart or Reboot:
+
+Sometimes, a simple restart can resolve temporary glitches. Turn off the device, wait a few seconds, and then power it back on.
+
+Check Network Connection:
+
+If the device is connected to a network, ensure that the network settings are correct. Test the network connection and consider restarting routers or switches if needed.
+
+Inspect Physical Components:
+
+Physically inspect the device for any signs of damage, overheating, or unusual behavior.
+
+Check Compatibility:
+
+Ensure that the device is compatible with other components in your system, including hardware and software. Incompatibility issues can lead to malfunctions.
+
+Monitor Environmental Factors:
+
+Consider environmental factors such as temperature and humidity.
+
+Inspect Power Supply Quality:
+
+Poor power quality, including voltage spikes or fluctuations, can affect device performance. Consider using a surge protector or voltage regulator if needed.
+
+*These are general troubleshooting steps, and the specific steps may vary based on the type of device or issue you are facing. If the issue persists and you are unable to resolve it, consider reaching out to our technical customer support.
+
+Components and APIs
+
+This device
+
+All Shelly devices and services
+
+Compliance
+
+Shelly EM Gen3 multilingual EU declaration of conformity 2025-07-22.pdf
+
+Shelly EM Gen3 UK PSTI ACT Statement of compliance.pdf
+
+
+
+
+Compliance archive
+Printed user guide
+
+Shelly EM Gen3 multilingual printed user and safety guide.pdf
+
+Ръководство за употреба и безопасност
+
+Knowledge Base
+Shelly EM Gen3 50A
+Features
+Gen3 Series features
+Solutions
+Add to cart - $69.99
+Why Shelly EM Gen3
+Monitor and save energy from anywhere
+
+Unlock the power of smart energy use with detailed insights into your appliances' power consumption patterns. Integrate Shelly EM Gen3 into standard electrical wall boxes, behind power sockets, light switches, or other places with limited space. By identifying how and when your connected appliances use energy, you can optimize usage for maximum efficiency and lower your electricity bills.
+
+Wi-Fi and Bluetooth connectivity
+Connect Shelly ЕМ Gen3 to your Wi-Fi network. No HUB required! Quick inclusion via Bluetooth or use it as a Bluetooth gateway.
+Current transformers connection
+Connect up to 2 current transformers. No need for extra wiring!
+Dry contact switch
+For contactor control of heavier loads
+Local data storage
+Data logs stored on device for up to 10 days in 1-minute intervals. When connected to the cloud, data logs go back to 365 days.
+Smart Scenes
+Set custom scenes by combining Shelly EM Gen3 with your other Shelly devices to control energy use.
+Scripting
+Fully supports scripting, allowing you local control and custom functionalities.
+Gen3 Series features
+On the Road to Matter
+
+Each Gen3 device is engineered to be upgradable to Matter. The doubled memory, compared to Plus series, guarantees a smooth update process, paving the way for new smart capabilities and integrations.  
+
+ *Dependent on the extent of Matter's functionalities support.
+
+More Memory, More Power
+
+The Gen3 series ensures the quality and reliability of our devices by using our own powerful Shelly chip. Boasting 8MB of memory, this dramatically improves device performance and efficiency.
+
+Unified Control with Virtual Components
+
+The Gen3 Series introduces “virtual components, transforming how you manage and control 3rd party devices. Within the Shelly Smart Control app, you can now create virtual devices, integrating non-Shelly products into a unified control system.
+
+Customer Reviews
+ 4.88 out of 5
+Based on 16 reviews
+ 
+ 14
+ 
+ 2
+ 
+ 0
+ 
+ 0
+ 
+ 0
+Customer photos & videos
+Sort by
+J.G. 
+Generator monitor works great so far.
+
+Works great so far. Easy to integrate into home assistant as it discovered it before I could go looking. Using it to monitor my generator interlock breaker such as not to overload it and monitor its health. The sensor reports voltage, current, frequency, power, power factor, energy, energy returned and apparent power. I set up some template sensors to combine the 2 legs of the breaker and monitor real time power output. No complaints so far. Use the app to set up and not the web browser, if you use a hidden IoT network.
+
+J.M. 
+Solid product, some set up required.
+
+All Shelly products are well engineered and durable. I have quite a number of them and nine have failed to date. The software is reasonably good too although the firmware updates are a little confusing (you can actually revert if not careful). The website needs some work (I wish I could have updated an order I just placed but can’t).
+
+S. 
+Keeping an eye on my compressor
+
+I spent considerable time trying to find a way to keep track of my 240v 24 amp air compressor and finally and fortunately came upon the Shelly EM Gen3. It is doing exactly what I needed, in keeping track of run times as well as power consumption.
+
+Anonymous 
+Gives me observability
+
+I finally have metrics for my circuits!
+
+D. 
+Good quality and easy to set up
+
+Good quality and easy to set up.
+
+123
+Sign up for our newsletter
+
+„By checking this box, I consent to receive newsletters and marketing information about Shelly products, services and joint campaigns with Shelly’s partners via email in accordance with the Privacy policy. I am aware that I can unsubscribe at any time.”
+
+X (Twitter)
+Instagram
+Facebook
+YouTube
+Company
+Shelly app
+Shelly certified Installers
+Where to buy
+Media center
+Investors relations
+Careers
+Contact Us
+Help
+Customer Support
+Open a support ticket
+Shelly Community Forum
+Shelly FB Community
+FAQs
+Learn
+Shelly X
+Knowledge base
+Shelly Compatibility
+Shelly Academy
+How to install your Shelly devices
+Scenes Directory
+Developers API
+Information
+Become a reseller
+Return and Refund Policy
+General Terms & Conditions
+Privacy policy
+Cookie Policy
+Security Information and Vulnerability Reporting
+Accessibility
+Your Privacy Choices
+© Copyright Shelly 2026.

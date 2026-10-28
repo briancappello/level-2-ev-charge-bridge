@@ -1,0 +1,204 @@
+# M1: Shelly EM Gen3 (S3EM-002CXCEU50) running ESPHome, reporting to EVerest.
+#
+# The meter talks to EVerest's powermeter_API module over MQTT (EVerest's own
+# broker on the PC), so EVerest needs no Shelly-specific driver:
+#   m2e/powermeter_values      every second: energy (Wh), power, voltage, current, frequency
+#   m2e/communication_check    "true" every 2 s (EVerest's default check timeout is 5 s)
+#   e2m/start_transaction      answered {"status":"OK"} on the request's replyTo topic
+#   e2m/stop_transaction       answered {"status":"OK"}; this meter doesn't sign readings
+# Topic base: everest_api/1/powermeter/<module id in the EVerest config>.
+#
+# Hardware definitions come from https://devices.esphome.io/devices/shelly-em-gen3/
+# On this device the ADE7953's channels A and B are swapped relative to the case
+# labels, so the chip's current_b / power_b are the "IA" input.
+#
+# Wiring in this design: L to F1/F2 terminal 2 (L1), N to F1/F2 terminal 4 (L2),
+# so the meter measures the 240 V L1-L2 voltage. The CT on IA is clipped around
+# the TB1-1 to K1 L1 conductor, arrow (K->L) pointing toward K1. With no neutral
+# in the load, the L1 current is the whole load current.
+#
+# Copy secrets.example.yaml to secrets.yaml and fill it in, then flash with
+#   esphome run m1-shelly-em-gen3.yaml
+
+substitutions:
+  # EVerest module id of the powermeter_API instance (see the EVerest config in step 8).
+  everest_module: m1_powermeter
+  api_base: everest_api/1/powermeter/${everest_module}
+
+  # Factory example values, measured at 120 V with the 50 A CT. Recalibrate at
+  # 240 V (step 11): new_gain = old_gain * reference_reading / meter_reading.
+  calibration_voltage_gain: "0x32c78f"
+  calibration_current_gain_a: "0x490bb5"
+  calibration_current_gain_b: "0x498c15"
+
+esphome:
+  name: m1-meter
+  friendly_name: M1 energy meter
+  min_version: 2025.11.3    # ade7953 bugfix #12180
+
+esp32:
+  variant: esp32c3
+  flash_size: 8MB
+  framework:
+    type: esp-idf
+
+logger:
+  level: INFO
+  hardware_uart: uart0
+
+# No Home Assistant API: with MQTT only, api: must be absent or the device
+# reboots every 15 minutes looking for a client.
+ota:
+  - platform: esphome
+    password: !secret ota_password
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+  min_auth_mode: WPA2
+  ap:
+    password: !secret ap_password
+
+captive_portal:
+
+preferences:
+  flash_write_interval: 5min
+
+safe_mode:
+  reboot_timeout: 10min
+
+time:
+  - platform: sntp
+    id: sntp_time
+    servers:
+      - !secret sntp_server
+
+mqtt:
+  id: mqtt_client
+  broker: !secret mqtt_broker
+  port: 1883
+  username: !secret mqtt_username
+  password: !secret mqtt_password
+  discovery: false
+  topic_prefix: m1-meter
+  log_topic: null
+  on_json_message:
+    - topic: ${api_base}/e2m/start_transaction
+      then:
+        - lambda: |-
+            if (!x["headers"]["replyTo"].is<const char *>()) return;
+            std::string reply = x["headers"]["replyTo"].as<std::string>();
+            id(mqtt_client).publish_json(reply, [](JsonObject root) { root["status"] = "OK"; });
+    - topic: ${api_base}/e2m/stop_transaction
+      then:
+        - lambda: |-
+            if (!x["headers"]["replyTo"].is<const char *>()) return;
+            std::string reply = x["headers"]["replyTo"].as<std::string>();
+            id(mqtt_client).publish_json(reply, [](JsonObject root) { root["status"] = "OK"; });
+
+interval:
+  - interval: 1s
+    then:
+      - lambda: |-
+          auto now = id(sntp_time).utcnow();
+          if (!now.is_valid() || !id(mqtt_client).is_connected()) return;
+          if (std::isnan(id(energy_import_wh).state)) return;
+          std::string ts = now.strftime("%Y-%m-%dT%H:%M:%SZ");
+          id(mqtt_client).publish_json("${api_base}/m2e/powermeter_values", [=](JsonObject root) {
+            root["timestamp"] = ts;
+            root["meter_id"] = "M1";
+            root["energy_Wh_import"]["total"] = id(energy_import_wh).state;
+            if (!std::isnan(id(power_ia).state)) root["power_W"]["total"] = id(power_ia).state;
+            if (!std::isnan(id(line_voltage).state)) root["voltage_V"]["L1"] = id(line_voltage).state;
+            if (!std::isnan(id(current_ia).state)) root["current_A"]["L1"] = id(current_ia).state;
+            if (!std::isnan(id(line_frequency).state)) root["frequency_Hz"]["L1"] = id(line_frequency).state;
+          });
+  - interval: 2s
+    then:
+      - if:
+          condition:
+            mqtt.connected:
+          then:
+            - mqtt.publish:
+                topic: ${api_base}/m2e/communication_check
+                payload: "true"
+
+i2c:
+  scl: GPIO6
+  sda: GPIO7
+
+switch:
+  # Built-in dry-contact relay (O/I terminals). Not wired in this design; held off.
+  - platform: gpio
+    id: relay_id
+    name: Relay
+    pin: GPIO0
+    restore_mode: ALWAYS_OFF
+
+sensor:
+  # Board temperature. The meter is rated for -20 to 40 °C ambient.
+  - platform: ntc
+    id: ntc_temperature
+    name: NTC temperature
+    unit_of_measurement: "°C"
+    accuracy_decimals: 1
+    sensor: temp_resistance_reading
+    calibration:
+      b_constant: 3350
+      reference_resistance: 10kOhm
+      reference_temperature: 298.15K
+  - platform: resistance
+    id: temp_resistance_reading
+    sensor: temp_analog_reading
+    configuration: DOWNSTREAM
+    resistor: 10kOhm
+  - platform: adc
+    id: temp_analog_reading
+    pin: GPIO3
+    attenuation: 12db
+
+  - platform: ade7953_i2c
+    id: ade7953_id
+    irq_pin: GPIO4
+    update_interval: 1s
+    use_accumulated_energy_registers: true
+    voltage_gain: ${calibration_voltage_gain}
+    current_gain_a: ${calibration_current_gain_a}
+    current_gain_b: ${calibration_current_gain_b}
+    voltage:
+      id: line_voltage
+      name: Voltage
+    frequency:
+      id: line_frequency
+      name: Frequency
+    current_b:
+      id: current_ia
+      name: Current
+      accuracy_decimals: 3
+    active_power_b:
+      id: power_ia
+      name: Power
+    power_factor_b:
+      id: power_factor_ia
+      name: Power factor
+      filters:
+        - multiply: -1
+
+  # Import energy in Wh. Negative power (CT fitted backwards) is not counted.
+  - platform: copy
+    id: power_import
+    source_id: power_ia
+    internal: true
+    filters:
+      - lambda: "return x > 0 ? x : 0.0f;"
+  - platform: integration
+    id: energy_import_wh
+    name: Energy import
+    sensor: power_import
+    time_unit: h
+    integration_method: trapezoid
+    restore: true
+    unit_of_measurement: Wh
+    device_class: energy
+    state_class: total_increasing
+    accuracy_decimals: 1

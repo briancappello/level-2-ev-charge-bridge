@@ -1,0 +1,273 @@
+# 5016951 Yageo Nexensos | RTD (Resistance Temperature Detector) | DigiKey
+https://www.digikey.com/en/products/detail/yageo-nexensos/5016951/13583145
+
+		
+Upload a List
+Login or
+REGISTER
+0 item(s)
+ATTENTION: Due to high order volume, orders may require an additional business day to process.
+Products
+ 
+Manufacturers
+ 
+Resources
+ 
+Request a Quote
+Tariff Resource Updates
+Product Index
+Sensors, Transducers
+Temperature Sensors
+RTD (Resistance Temperature Detector)
+
+Yageo Nexensos 5016951
+
+Dark Mode
+Share
+Image shown is a representation only. Exact specifications should be obtained from the product data sheet.
+5016951
+
+
+DigiKey Part Number
+	
+1759-5016951-ND
+
+
+Manufacturer
+	
+Yageo Nexensos
+
+
+Manufacturer Product Number
+	
+5016951
+
+
+Description
+	
+SENSOR RTD 1000OHM PROBE
+
+
+Manufacturer Standard Lead Time
+	
+6 Weeks
+
+
+Customer Reference
+	
+
+
+Detailed Description
+	
+RTD Platinum (Pt) 3850ppm/°C Probe
+
+
+Datasheet
+	 Datasheet
+Product Attributes
+Filter Similar Products
+Show Empty Attributes
+Category
+Sensors, Transducers
+Temperature Sensors
+RTD (Resistance Temperature Detector)
+Operating Temperature
+-50°C ~ 200°C
+Manufacturer
+Yageo Nexensos
+Termination
+Wire Leads
+Series
+EC3032-C
+Accuracy
+±0.3°C
+Packaging
+Bulk
+Temperature Coefficient
+3850ppm/°C
+Part Status
+Active
+Mounting Type
+Free Hanging
+Resistance @ 0°C
+1 kOhms
+Package / Case
+Probe
+RTD Material
+Platinum (Pt)
+Report Product Information Error
+Documents & Media
+Datasheets
+5016951 Spec Sheet
+Product Training Modules
+Introduction to Thin-Film Platinum RTDs
+Environmental & Export Classifications
+RoHS Status
+ROHS3 Compliant
+ECCN
+EAR99
+Moisture Sensitivity Level (MSL)
+Not Applicable
+HTSUS
+8533.40.8070
+REACH Status
+REACH Unaffected
+California Prop 65
+ Warning Information
+Product Questions and Answers
+Additional Resources
+Part Number Alias
+1759-5016951
+Manufacturer Standard Package
+100
+In-Stock: 284
+Check for Additional Incoming Stock
+QUANTITY
+Add to Cart
+Add to List
+All prices are in USD
+Bulk
+QUANTITY
+UNIT PRICE	EXT PRICE
+
+1
+$11.70000	$11.70
+
+5
+$10.60800	$53.04
+
+10
+$10.20200	$102.02
+
+25
+$9.71560	$242.89
+
+50
+$9.38340	$469.17
+
+100
+$9.07860	$907.86
+
+500
+$8.46452	$4,232.26
+
+1,000
+$8.23560	$8,235.60
+
+Manufacturers Standard Package
+Tariff Status: Tariff may apply if shipping to the United States. Tariff costs are calculated and will be displayed in the shopping cart.
+You May Also Be Interested InSee All
+10 Items
+
+5157679
+
+SENSOR RTD RADIAL
+
+Yageo Nexensos
+
+$7.00000
+Details
+
+3984
+
+SENSOR RTD PROBE
+
+Adafruit Industries LLC
+
+$14.95000
+Details
+
+3648
+
+EVAL BOARD FOR MAX31865
+
+Adafruit Industries LLC
+
+$14.95000
+Details
+
+TT-PT-1000B-2050-11-AUNI
+
+SENSOR RTD 1000OHM PROBE
+
+TEWA Sensors LLC
+
+$3.65000
+Details
+
+3328
+
+EVAL BOARD FOR MAX31865
+
+Adafruit Industries LLC
+
+$14.95000
+Details
+
+TC-NTC-1
+
+THERMOELECT MOD NTC SENSOR
+
+Tark Thermal Solutions
+
+$15.45000
+Details
+
+5157701
+
+SENSOR RTD RADIAL
+
+Yageo Nexensos
+
+$7.47000
+Details
+
+30200145
+
+SENSOR RTD RADIAL
+
+Yageo Nexensos
+
+$3.94000
+Details
+
+32208548
+
+SENSOR RTD 100OHM 0.3% 2SIP
+
+Yageo Nexensos
+
+$2.61000
+Details
+
+HEL-705-U-1-12-00
+
+SENSOR RTD 1KOHM 0.1% PROBE
+
+Honeywell Sensing and Productivity Solutions
+
+$47.72000
+Details
+ Need Help?  Feedback
+Get the latest tech insights
+I agree to receive marketing emails from DigiKey. I understand that I can withdraw consent at any time. Please review our Privacy Notice.
+SUBSCRIBE
+    
+ 
+INFORMATION
+About DigiKey
+Careers
+Newsroom
+Sell on DigiKey.com
+Site map
+Tariff information
+CONTACT AND SUPPORT
+Contact us
+Help and support
+Order status
+Returns and order issues
+Shipping rates/options
+Terms & Conditions Privacy Notice Trade Compliance Accessibility Statement Cookie Settings Do Not Sell / Do Not Share My Personal Information
+Local Support: 701 Brooks Avenue South, Thief River Falls, MN 56701 USA
+Copyright © 1995-2026, DigiKey.
+All Rights Reserved.

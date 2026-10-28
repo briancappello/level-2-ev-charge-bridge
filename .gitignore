@@ -10,3 +10,7 @@
 /.venv/
 __pycache__/
 *.pyc
+
+# ESPHome build output and secrets
+/esphome/.esphome/
+/esphome/secrets.yaml

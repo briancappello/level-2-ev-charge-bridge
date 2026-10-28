@@ -36,9 +36,10 @@ r("—", 1, "End cover for UT 16", "Phoenix D-UT 16 (3047206)", "Digi-Key", DK +
 r("—", 4, "End clamp", "Phoenix E/UK (1201442)", "Digi-Key", DK + "1201442", 1.53)
 r("PE1–PE3", 3, "Ground terminal, green-yellow", "Phoenix UT 16-PE (3044212)", "Digi-Key", "https://www.digikey.com/en/products/detail/phoenix-contact/3044212/2435394", None,
   notes="Cord G, J1772 PE, and the 0 V bond. Correct part number is 3044212. Price not shown when fetched.")
-r("M1", 1, "Single-phase Modbus energy meter, 100 A", "Eastron SDM230-Modbus", "Radwell (NJ)", "https://www.radwell.com/Buy/EASTRON/EASTRON/SDM230%20", 135.34,
-  notes="New, genuine Eastron, US warehouse; listed as 'call for availability'. EVerest has a built-in SDM230 profile (GenericPowermeter). No US-located eBay or Amazon seller found; the $41 Amazon listing ships from overseas.",
-  alt=[("Amazon (overseas)", "https://www.amazon.com/SDM230-Single-Energy-Bi-Directional-Function/dp/B0DKFF2Z83")])
+r("M1", 1, "Wi-Fi energy meter, 2 CT channels, no display, 50 A clamp included", "Shelly EM Gen3 50A (S3EM-002CXCEU50), flashed with ESPHome", "Shelly USA",
+  "https://us.shelly.com/products/shelly-em-gen3-50a", 69.99,
+  notes="In stock. Runs open-source ESPHome after flashing (step 0) and reports to EVerest's powermeter_API over MQTT. ±2 % V and I. 37 × 42 × 16 mm, not DIN-mount. Rated −20 to 40 °C ambient. Needs 2 A upstream protection (F1/F2). Clamp: 60 cm lead; resellers give an 11 mm opening. No US listing (UL) found.",
+  alt=[("SupplyHouse (NY)", "https://www.supplyhouse.com/Shelly-EM-GEN3-Gen3-Energy-Monitor-with-50A-Current-Transformer")])
 r("K1", 1, "Modular contactor, 4 NO, 63 A, 24 V AC/DC coil (2 poles used)", "Finder 22.64.0.024.4310", "Digi-Key",
   "https://www.digikey.com/en/products/detail/finder-relays-inc/22-64-0-024-4310/10055799", 97.08,
   notes="53.5 mm wide. Coil 250 mA (6 W), operating range 20.4–26.4 V. Out of stock; Digi-Key expects it on 9 Nov. US alternative: ABB ESB63-20N-01 at Radwell, $266.85 new.",
@@ -49,8 +50,9 @@ r("X1", 1, "J1772 tethered cable, 48 A, 25 ft", "Inteset 48 A replacement cable"
   notes="Only 2 left. Listing doesn't say whether it has a latch sense wire. Alternative: Phoenix Contact cable at OpenEVSE, $229.00, 3–4 week backorder.",
   alt=[("OpenEVSE", "https://store.openevse.com/products/j1772-cable-48a-ultra-flexible")])
 r("—", 1, "J1772 wall holster", "", "EVSE Adapters", "https://www.evseadapters.com/products/j1772-plug-holder", 9.95)
-r("—", "15 ft", "8 AWG stranded THHN, black / red / green", "THN8 cut to length", "Wire & Cable Your Way", "https://www.wireandcableyourway.com/8-awg-thhn-building-wire", 0.87, n=15,
-  notes="Price per ft; $20 minimum order. Red not confirmed in stock.")
+r("—", "15 ft", "8 AWG stranded THHN, black / red / green", "THN8 or equal", "Buy local", "", None,
+  notes="Buy locally by the foot. For reference, Wire & Cable Your Way lists $0.87/ft but has a $20 minimum order.",
+  alt=[("Wire & Cable Your Way", "https://www.wireandcableyourway.com/8-awg-thhn-building-wire")])
 r("—", 1, "Ferrule kit to 10 mm² with ratchet crimper", "LUNEY 1250 pc", "Amazon", "https://www.amazon.com/dp/B0B23V7ZQJ", 13.98,
   notes="Fulfilled from Amazon's US warehouses.")
 
@@ -70,21 +72,33 @@ r("—", 4, "Pre-crimped JST XH lead, 22 AWG", "JST ASXHSXH22K (length to suit)"
   notes="Price shown for the shortest length in the search; longer leads cost slightly more.")
 r("S3", 1, "22 mm momentary pushbutton, black, 1 NO (RCM1 test)", "AutomationDirect GCX1100", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/pushbuttons/gcx1100", 9.00,
   notes="693 available. Puts 12 V on RCM1's test input.")
-r("—", 2, "Adhesive cable-tie mounts with ties", "any", "", "", None,
-  notes="Fix RCM1 to the enclosure base beside the J1772 gland. Not priced.")
+r("—", 4, "Adhesive cable-tie mounts with ties", "any", "", "", None,
+  notes="Two fix RCM1 to the enclosure base beside the J1772 gland, two fix M1 below the lower rail. Spare ties hold TT1 and TT2. Not priced.")
+
+g("Meter flashing (one-off, on the bench)")
+r("—", 1, "USB-to-serial adapter, 3.3 V logic and 3.3 V / 600 mA supply output", "SparkFun Serial Basic Breakout, CH340C, USB-C (DEV-15096)", "SparkFun (CO)",
+  "https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340c-and-usb-c.html", 10.50,
+  notes="In stock. Ships set to 3.3 V. Its regulator sources 600 mA, enough to run M1's ESP32-C3 on the bench. Pins: DTR, RXI, TXO, VCC, CTS, GND.")
+r("—", 1, "7-position 1.27 mm male header, straight", "Sullins GRPB071VWVN-RC", "Digi-Key", "https://www.digikey.com/en/products/detail/sullins-connector-solutions/GRPB071VWVN-RC/1786443", 0.55,
+  notes="5,668 in stock. Plugs into M1's 7-pin programming socket. The 1.27 mm pitch is what larger Shelly Gen2/Gen3 units use; check it against your unit before soldering.")
+r("—", 1, "Female/female jumper wires, 6 in (pack of 10)", "SparkFun PRT-08430", "SparkFun (CO)", "https://www.sparkfun.com/jumper-wires-premium-6-f-f-pack-of-10.html", 4.95,
+  notes="In stock. Cut five in half; solder the cut ends to the header pins for TX, RX, 3.3 V, GPIO0 and GND.")
+r("—", 1, "USB cable, USB-C at the adapter end", "any", "", "", None,
+  notes="To suit the PC's port. Not priced.")
 
 g("Sensors and operator")
-r("TT1, TT2", 2, "PT1000 2-wire adhesive patch sensor, 2 ft PFA leads", "P2A-TAPE-REC-PK-1-PFXX-24-STWL", "Evolution Sensors",
-  "https://evosensors.com/products/2-wire-rtd-pt1000-surface-temperature-sensor-with-self-adhesive-patch-and-with-2-4-or-8ft-of-lead-wire", 50.00,
-  notes="TT1 on K1's body, TT2 on TB1-3. Insulated, so the − leads float as the board requires.")
+r("TT1, TT2", 2, "PT1000 2-wire probe, Ø3.2 × 30 mm fluorocarbon housing, 397 mm PTFE leads", "Yageo Nexensos 5016951 (EC3032-C)", "Digi-Key",
+  "https://www.digikey.com/en/products/detail/yageo-nexensos/5016951/13583145", 11.70,
+  notes="284 in stock. Class B (F 0.3), −50 to +200 °C. Housing rated 6 kV AC for 60 s, so the − leads float as the board requires, even on TB1-3. Held on with cable ties; no adhesive bonds to the housing.",
+  alt=[("Newark", "https://www.newark.com/nexsensos/5016951/rtd-sensor-platinum-1-kohm-200deg/dp/31AM2566")])
 r("S1", 1, "22 mm E-stop, 40 mm mushroom, twist to release, 1 NC", "AutomationDirect GCX3131", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 12.00,
   notes="455 available. Positive-opening contacts. Mounts in the right wall, 80 mm below S2.")
 r("S1", 1, "Extra NC contact block for S1-a (2-pack)", "AutomationDirect ECX1030-2", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 8.75,
   notes="Second NC block for S1-a; clips beside the first. 607 available.")
 r("R1, R2a, R2b", 3, "2.2 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-2K2", "Digi-Key", DK + "MFR50SFTE52-2K2", 0.10,
   notes="R1 in series to J4.11; R2a and R2b are parallel pull-downs, so either alone still trips.")
-r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "Schneider XB5AA31", "Digi-Key", DK + "XB5AA31", 28.30,
-  notes="Replaces the key switch; the stop input needs a momentary contact.")
+r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "AutomationDirect GCX1100", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/pushbuttons/gcx1100", 9.00,
+  notes="Same part as S3. Replaces the key switch; the stop input needs a momentary contact.")
 r("R3a, R3b", 2, "3.9 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K9", "Digi-Key", DK + "MFR50SFTE52-3K9", 0.10,
   notes="In parallel across J5.12 and J5.9: 11.8 mA minimum through the aux contact, above the 022.65's 10 mA minimum. 0.18 W each at 26.4 V.")
 r("H1", 1, "22 mm LED pilot light, 24 V AC/DC, green", "AutomationDirect ECX2052-24L", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/indicating_lights/ecx2052-24l", 6.25,
@@ -101,11 +115,9 @@ r("—", 1, "M40 nylon gland, 19–28 mm, with locknut (2-pack)", "Bimed BM-ENX-
 r("—", 1, "M20 nylon gland, 6–12 mm, with locknut (5-pack)", "Bimed BM-ENX-12-W", "AutomationDirect", AD + "wire_-a-_cable_management/cable_glands/metric_thread", 4.50,
   notes="For the Ethernet cable. An RJ45 plug won't pass through, so fit the plug after routing. 370 available.")
 r("—", "~1 m each", "18 AWG MTW, black, red and green", "", "any", "", None,
-  notes="For the 240 V taps to F1/F2 and PS1, the meter reference, and the 0 V bond. Offcuts are fine; not priced.")
+  notes="For the 240 V taps to F1/F2 and PS1, M1's L and N supply, and the 0 V bond. Offcuts are fine; not priced.")
 r("—", "500 ft", "18 AWG MTW, blue", "Atlas MTW18BL", "AutomationDirect", AD + "bulk_wire_-a-_cable/single_conductor_wire_-a-_cable/mtw18bl", 49.00, n=1,
   notes="Price per spool. Backordered until Nov 12.")
-r("—", "6 ft", "RS-485 shielded twisted pair, 120 Ω", "Belden 9841", "Wire & Cable Your Way", "https://www.wireandcableyourway.com/belden-9841-24-awg-1-pair-shielded-low-capacitance-computer-cable", 3.55, n=6,
-  notes="Price per ft. Combine with the 8 AWG order to meet the $20 minimum.")
 
 def money(v): return f"${v:,.2f}"
 rows, req, opt_total, unpriced = [], 0.0, 0.0, 0
@@ -123,15 +135,16 @@ for kind, d in G:
         ext = d["unit"] * d["n"]; unit_s = money(d["unit"]); ext_s = money(ext)
     if d["opt"]: opt_total += ext
     else: req += ext
-    links = "Owned" if d["owned"] else (f'<a href="{html.escape(d["url"])}">{html.escape(d["vendor"])}</a>' if d["url"] else "Any supplier")
+    links = "Owned" if d["owned"] else (f'<a href="{html.escape(d["url"])}" target="_blank" rel="noopener">{html.escape(d["vendor"])}</a>' if d["url"]
+                                         else html.escape(d["vendor"]) if d["vendor"] not in ("", "any") else "Any supplier")
     for name, u in d["alt"]:
-        links += f'<br><a class="alt" href="{html.escape(u)}">{html.escape(name)}</a>'
+        links += f'<br><a class="alt" href="{html.escape(u)}" target="_blank" rel="noopener">{html.escape(name)}</a>'
     part = html.escape(d["part"]) + (' <span class="opt">optional</span>' if d["opt"] else "")
     if d["mpn"]: part += f'<br><span class="mpn">{html.escape(d["mpn"])}</span>'
     rows.append(f'<tr><td>{html.escape(d["ref"])}</td><td>{d["qty"]}</td><td>{part}</td><td>{links}</td>'
                 f'<td class="num">{unit_s}</td><td class="num">{ext_s}</td><td>{html.escape(d["notes"])}</td></tr>')
 ship = 200 * FX
-rows.append(f'<tr class="total"><td colspan="5">Total</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the board housing (quote), the PE terminals, the DR-62 rail kits, the 18 AWG offcuts and the tie mounts.</td></tr>')
+rows.append(f'<tr class="total"><td colspan="5">Total</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the board housing (quote), the PE terminals, the DR-62 rail kits, the 8 AWG wire (bought locally), the 18 AWG offcuts, the tie mounts and the USB cable.</td></tr>')
 if opt_total:
     rows.append(f'<tr class="total"><td colspan="5">Optional parts</td><td class="num">{money(opt_total)}</td><td></td></tr>')
 table = ('<div class="tablewrap">\n<table class="bom">\n<thead><tr><th>Ref</th><th>Qty</th><th>Part</th><th>Buy at</th>'

@@ -1,0 +1,276 @@
+# SparkFun Serial Basic CH340C Hookup Guide - SparkFun Learn
+https://learn.sparkfun.com/tutorials/sparkfun-serial-basic-ch340c-hookup-guide/all
+
+ 
+Professional
+EDU
+Distributor
+Customer Support
+SHOP
+DOCUMENTATION
+NEWS
+Today's Deals
+Community
+SparkPNT (Position, Navigation & Timing)
+SPARKFUN ELECTRONICS - SPARKFUN.COM
+SEARCH DOCUMENTATION
+ BACK TO WEBSTORE
+MY ACCOUNT
+Featured
+Products
+GPS/GNSS
+Sensors
+Development Boards
+IoT & Wireless
+Components
+Kits
+All 
+Product
+Categories
+HOME TUTORIALS SPARKFUN SERIAL BASIC CH340C HOOKUP GUIDE
+SparkFun Serial Basic CH340C Hookup Guide
+CONTRIBUTORS:  ELIAS THE SPARKIEST
+ SHARE
+Share on Twitter
+Share on Facebook
+Pin It
+Introduction
+
+The latest iteration of the SparkFun Serial Basic Breakout takes advantage of USB-C and is an easy-to-use USB-to-Serial adapter based on the CH340C IC from WCH. With USB-C you can get up to three times the power delivery over the previous USB generation and has the convenient feature of being reversible. The product works with 5V and 3.3V systems and should auto install on most operating systems without the need for additional drivers. The Serial Basic uses the CH340C IC to quickly and easily convert serial signals to USB. It’s a great lower-cost alternative to the extremely popular FTDI Basic.
+
+SparkFun Serial Basic Breakout - CH340C and USB-C
+DEV-15096
+$10.50
+Required Materials
+
+At a minimum, you will need the following materials to follow along with the tutorial. You may not need everything though depending on what you have and your setup. Add it to your cart, read through the guide, and adjust the cart as necessary.
+
+Jumper Wires - Connected 6" (M/M, 20 pack)
+PRT-12795
+$2.95
+USB 3.1 Cable A to C - 3 Foot
+CAB-14743
+$7.95
+Suggested Reading
+
+Before you begin it may be worth looking at the basics of Serial Communication. Do you have a favorite terminal program yet? No? Take a look at the Serial Terminal Basics tutorial which will give you a brief introduction to popular Terminal programs.
+
+Serial Communication
+Asynchronous serial communication concepts: packets, signal levels, baud rates, UARTs and more!
+Serial Terminal Basics
+This tutorial will show you how to communicate with your serial devices using a variety of terminal emulator applications.
+How to Work with Jumper Pads and PCB Traces
+Handling PCB jumper pads and traces is an essential skill. Learn how to cut a PCB trace, add a solder jumper between pads to reroute connections, and repair a trace with the green wire method if a trace is damaged.
+Serial Basic Overview
+
+The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout found on hundreds of FTDI-to-USB derivatives.
+
+Pin Label	Input/Output	Description
+DTR	Output	Data Terminal Ready, Active Low
+RXI	Input	Serial Receive
+TXO	Output	Serial Transmit
+VCC	Supply Output	Power supply 3.3V (Default) or 5V
+CTS	Input	Clear To Send, Active Low
+GND	Supply Output	Ground (0V) supply
+USB-C
+
+USB-C gives you the potential of more power than the previous generation of USB. USB-C is used to power everything from laptops to low powered micro controllers and has the amazing capability of being reversible.
+
+LEDs
+
+The two LEDs on the board are connected to TX (Green) and RX (Yellow) and are correctly aligned to the silk header labels: RXI and TXO . This is a quick and handy way to see the serial traffic.
+
+Alignment Markers
+
+The GRN and BLK silk in the corners opposite of the USB-C connector, is there to help you align the board properly with products that use these same orientation indicators.
+
+The Serial Basic mates seamlessly with products that use the standard serial connection. If you see a board with the BLK and GRN labels, then you know it will be compatible with the Serial Basic.
+
+See the GRN and BLK labels on this nRF52832 Breakout?
+
+Where did GRN and BLK come from? Way back in 2008, when we created the Arduino Pro Mini, we needed to have a pinout to allow serial bootloading. At the time, the best USB to TTL Serial device was the FT232 Cable. Its unpolarized connector could be flipped either way so we added the words GRN and BLK to the PCB to let folks know how to line up the colored wires. The practice stuck! Now, many boards use this standard.
+
+
+
+
+The cable with colored wires
+Voltage Selection Jumper
+
+There is a jumper on the underside of the board that controls the output voltage on the VCC pin. By default, the board outputs 3.3V and has 3.3V signals.
+
+There is a small trace connecting the middle pad and the top pad labeled 3.3V.
+
+When the jumper is set to 3.3V, the board uses an on board 3.3V regulator capable of sourcing 600mA. If you attempt to pull more than 600mA, the regulator will go into short-circuit shutdown where it will only output 150mA.
+
+You can change the board's output and signal to 5V by cutting the trace between the center and 3.3V labeled pad and putting solder on the center and 5V labeled pad. This will change the board's output to 5V on the VCC pin with 5V signals.
+
+When the jumper is set to 5V, the board will source as much power as your USB port will provide. With USB-C this can be up to 1.5Amps but depending on what is providing the power and the capabilities of your cable, you can get up to 3 Amps.
+
+Hardware Test
+
+To connect the board to a computer, you will need a USB-C cable. Plug the USB-C cable into a USB port on your computer and the other end into the Serial Basic. Your computer should automatically install the necessary drivers and create a COM port on your computer. If you are prompted for drivers, please see the Drivers section.
+
+The quickest and easiest way to make sure everything is working is to do a TX/RX loop-back. To do this, insert a jumper wire between TX and RX as shown below. Anything that is transmitted from the TX pin will be echoed back to the RX pin.
+
+Now that you've got that plugged in, open your favorite terminal program. Select the COM port that the Serial Basic is assigned to, and connect. When you type a character, you should see each character you type echoed back in the terminal and the RX and TX LEDs will flash as you type.
+
+Success!
+
+Which COM Port Do I Need?
+
+Most programs will show you a description of the USB device that created the port. To verify that your driver is working, you can use a serial terminal, Arduino IDE, device manager, or command line.
+
+Serial Terminal
+
+Look for the port associated with CH340C. The image below shows the Serial Basic enumerating on a COM port within a serial terminal.
+
+Arduino IDE Ports
+
+If you're using the Arduino IDE, figuring out which COM port is the one you want is more difficult. Here's the quick way to figure it out: attach the Serial Basic to your computer, and check which COM ports are listed. In the image below, we have two ports. Now close the Tools menu by clicking on the main Arduino IDE window.
+
+Which COM port should I select?
+
+Unplug the Serial Basic, and re-open the Tools -> Ports submenu. You will see one of the serial ports is missing. That's the one you want! Plug your Serial Basic back in, and use that COM port.
+
+Note: You need to close and re-open the tools menu before Arduino will refresh the port list. If you have the tool menu open simply click on the main window, then click back on Tools -> Port.
+WINDOWS: DEVICE MANAGER
+
+You can also verify that the board is installed if it shows up in your device manager. You can click the Start or ⊞ (Windows) button and type "device" to quickly search for the application. (*On Windows 10, the quick search function is picky on the spelling of the application you are searching for. For example, you may get results using "_devi_" and none for "_device_".)
+
+
+Screenshot of Window 10 Device Manager with Serial Basic on COM42. Click to enlarge.
+
+MAC OSX: COMMAND LINE
+
+To verify on a Mac via the command line. To open a command line window, head to your Applications folder, Utilities folder, then double-click on Terminal. Otherwise, press ⌘ (Command) + space bar (Space Bar) to launch Spotlight and type "Terminal," then double-click the search result.
+
+Run the following command "ls /dev/cu*" in a Terminal and check for the following changes (your board may show up under a different device name).
+
+Copy Code
+ls /dev/cu*
+
+
+You should get something similar as shown in the image below.
+
+
+Screenshot of Mac OSX terminal with Serial Basic on cu.wchusbserialfd1410. Click to enlarge.
+
+Note: If you are still unsure of how to access the Terminal, watch this video or read this Apple support article.
+RASPBIAN: COMMAND LINE
+
+Run the following command "ls /dev/ttyUSB*" in the CLI/Terminal and check for the following changes (your board may show up under a different device name).
+
+Copy Code
+ls /dev/ttyUSB*
+
+
+You should get something similar as shown in the image below.
+
+
+Screenshot of Raspberry Pi CLI with Serial Basic on ttyUSB0. Click to enlarge
+
+
+
+Drivers (If You Need Them)
+
+The driver should automatically install on most operating systems. However, there is a wide range of operating systems out there. You may need to install drivers the first time you connect the chip to your computer's USB port or when there are operating system updates. For more information, check out our How to Install CH340 Drivers Tutorial.
+
+How to Install CH340 Drivers
+AUGUST 6, 2019
+How to install CH340 drivers (if you need them) on Windows, Mac OS X, and Linux.
+Resources and Going Further
+
+Once you've got serial communication working, you're ready to start playing with serial projects. Consider connecting to a GPS module like the GP-20U7, taking a look at our tutorial on GPS and watching the serial strings roll by. Or, you can use the Serial Basic to program and debug devices like the Arduino Pro Mini. There are tons of devices that use serial to communicate, so go explore!
+
+The Serial Basic programming an Arduino Pro Mini
+
+Heads up! The image shows the Serial Basic connected to an Arduino Pro Mini 3.3V/8MHz. If you are using an Arduino Pro Mini 5V/16MHz, make sure to adjust the jumper pad for the voltage selection on the back of the Serial Basic.
+
+Check out these other resources for the Serial Basic.
+
+Schematic (PDF)
+Eagle Files (ZIP)
+Datasheet (PDF) (CH340C)
+Fritzing Part (FZPZ)
+WCH: CH340 Drivers - Latest drivers can be found from the manufacturer
+Windows (EXE) -- Driver executable
+Windows (ZIP) -- Driver version 3.4 (2016-09-27)
+Linux (ZIP) -- Driver v1.5 (2018-03-18)
+Mac (ZIP) -- Driver v1.5 (2018-07-04)
+GitHub
+
+Check out these other great SparkFun tutorials.
+
+Bi-Directional Logic Level Converter Hookup Guide
+An overview of the Bi-Directional Logic Level Converter, and some example circuits to show how it works.
+SparkFun USB UART Breakout (CY7C65213) Hookup Guide
+How to use SparkFun's advanced USB UART breakout, based on the Cypress CY7C65213.
+AST-CAN485 Hookup Guide
+The AST CAN485 is a miniature Arduino in the compact form factor of the ProMini. In addition to all the usual features it has on-board CAN and RS485 ports enabling quick and easy interfacing to a multitude of industrial devices.
+Roshamglo Project: TV-B-Gone
+Turn your Roshamglo board into a (nearly) universal TV power button.
+
+Need some inspiration for your next project? Check out some of these related tutorials:
+
+Serial Communication
+Asynchronous serial communication concepts: packets, signal levels, baud rates, UARTs and more!
+GPS Basics
+The Global Positioning System (GPS) is an engineering marvel that we all have access to for a relatively low cost and no subscription fee. With the correct hardware and minimal effort, you can determine your position and time almost anywhere on the globe.
+Using the Arduino Pro Mini 3.3V
+This tutorial is your guide to all things Arduino Pro Mini. It explains what it is, what it's not, and how to get started using it.
+Serial Terminal Basics
+This tutorial will show you how to communicate with your serial devices using a variety of terminal emulator applications.
+ SHARE
+Share on Twitter
+Share on Facebook
+Pin It
+Sections
+Introduction
+Serial Basic Overview
+Hardware Test
+Which COM Port Do I Need?
+Drivers (If You Need Them)
+Resources and Going Further
+Comments
+2
+View Paginated
+Print
+Tags
+ARDUINO
+COMMUNICATION
+HOOKUP
+License
+ 
+Creative Commons
+tutorials are CC BY-SA 4.0
+ABOUT SPARKFUN
+Read Our Story
+Press & Media
+SparkFun Education 
+Job Openings
+PARTNER WITH US
+See Our Partners
+View Our Services
+Become a Distributor/Reseller
+Receive Volume Discounts
+SUPPORT
+Customer Support
+Purchase Order & Payment Terms
+Technical Assistance
+FAQs
+SITE INFORMATION
+Terms Of Service
+Privacy Policy
+Compliance
+Site Map
+SUBSCRIBE
+VIEW OUR SOCIAL CHANNELS
+YouTube
+Instagram
+GitHub
+Facebook
+Twitter
+RSS
+TikTok
+
+SparkFun Electronics ® / 6333 Dry Creek Parkway, Niwot, CO 80503

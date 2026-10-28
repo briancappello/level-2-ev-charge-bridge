@@ -14,16 +14,18 @@ The eval board's KiCad files are in `../cb-eval-board/`.
 | ABB ESB63-20N-01 contactor | K1 | `ABB_ESB63-20N-01_product_sheet.pdf` |
 | ABB ESB/EN installation contactor catalog (dimensions, terminal layout) | K1 | `ABB_ESB-EN_installation_contactors_catalog.pdf` |
 | ABB EH04-11N auxiliary contact | K1 aux | `ABB_EH04-11N_aux_contact.pdf` |
-| Eastron SDM230-Modbus manual V1.9 | M1 | `Eastron_SDM230-Modbus_manual_V1.9.pdf` |
+| Shelly EM Gen3 user and safety guide | M1 | `Shelly_EM_Gen3_user_guide.pdf` |
+| Eastron SDM230-Modbus manual V1.9 (earlier M1, replaced) | — | `Eastron_SDM230-Modbus_manual_V1.9.pdf` |
+| Yageo Nexensos EC3032 (5016951) and EC series PT1000 probes | TT1, TT2 | `Yageo_Nexensos_EC3032_5016951.pdf`, `Yageo_Nexensos_EC-series_PT1000.pdf` |
 | Mean Well HDR-60 series | PS1 | `MeanWell_HDR-60_spec.pdf` |
 | Eaton FAZ-C2/2 MCB (two revisions) | F1, F2 | `Eaton_FAZ-C2-2_datasheet.pdf`, `Eaton_FAZ-C2-2_datasheet_alt-rev.pdf` |
 | Eaton FAZ family spec (AutomationDirect) | F1, F2 | `AutomationDirect_Eaton_FAZ_spec.pdf` |
-| Schneider XB5AA31 pushbutton | S2 | `Schneider_XB5AA31_pushbutton.pdf` |
+| Schneider XB5AA31 pushbutton (earlier S2, replaced by GCX1100) | — | `Schneider_XB5AA31_pushbutton.pdf` |
 | Schneider XB5AVB3 pilot light | H1 | `Schneider_XB5AVB3_pilot_light.pdf` |
-| AutomationDirect GCX 22 mm operators (GCX3131 E-stop) | S1 | `AutomationDirect_GCX_22mm_operators_spec.pdf` |
+| AutomationDirect GCX 22 mm operators (GCX3131 E-stop, GCX1100 pushbuttons) | S1, S2, S3 | `AutomationDirect_GCX_22mm_operators_spec.pdf` |
 | Bimed cable glands catalog | glands | `Bimed_cable_glands_catalog.pdf` |
 | Bimed glands spec (AutomationDirect) | glands | `AutomationDirect_Bimed_glands_spec.pdf` |
 | Bimed BM-ENX-15-W M40 gland, spec and drawing | glands | `Bimed_BM-ENX-15-W_M40.pdf`, `Bimed_BM-ENX-15-W_M40_drawing.pdf` |
 | Bimed BM-ENX-12-W M20 gland, spec and drawing | glands | `Bimed_BM-ENX-12-W_M20.pdf`, `Bimed_BM-ENX-12-W_M20_drawing.pdf` |
 
-Not included: Polycase ZH-161407 and DR-62 (the site blocks automated downloads; the saved product page is in `../polycase/`), Phoenix D-UT 16, E/UK and FBS 2-12 accessories, Inteset J1772 cable, and the PT1000 sensors.
+Not included: Polycase ZH-161407 and DR-62 (the site blocks automated downloads; the saved product page is in `../polycase/`), Phoenix D-UT 16, E/UK and FBS 2-12 accessories and the Inteset J1772 cable.
