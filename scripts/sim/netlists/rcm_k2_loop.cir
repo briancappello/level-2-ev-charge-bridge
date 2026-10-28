@@ -1,0 +1,23 @@
+* E-stop loop with K2 (driven by RCM1) in series with S1-b
+V24 vp 0 29.0
+Rs1b vp a 1000000000000.0
+Wk2 a b Vam CSWK2
+R1 b emg 2200
+R2a emg 0 2200
+R2b emg 0 2200
+R9 vp emg 100k
+R43 emg x 20k
+R76 x 0 1Meg
+D22 0 x DZ
+* 12 V side: PS2 -> K2 coil (A1 +, A2 -) -> RCM1 pin 4 open drain -> 0 V
+V12 v12 0 12.24
+Vam v12 c2p 0
+Rcoil c2p c2n 789.4736842105264
+Rfet c2n 0 2.0
+.model CSWK2 CSW(IT=0.00684 IH=0.005319999999999999 RON=0.05 ROFF=1e12)
+.model DZ D(IS=1e-14 N=1 RS=20 BV=5.1 IBV=1m)
+.control
+op
+print v(x) v(c2p) v(c2n) i(vam)
+.endc
+.end

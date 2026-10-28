@@ -26,6 +26,9 @@ This repository is the design for a 9.6 kW (240 V / 40 A) Level 2 J1772 EV charg
 - EMG IN (J4.11) has a 100 kΩ pull-up to 24 V. Any NC safety contact needs R1 (2.2 kΩ) with two parallel 2.2 kΩ pull-downs, R2a and R2b, so either pull-down alone still trips. The Pionix board must not be modified (R9 stays fitted). The E-stop S1 is fitted in the right wall: S1-a in K1's coil circuit, S1-b in the J4.11 loop.
 - Relay 1 (J5.10 / J5.9) drives K1 through a TPS27S100, limited to about 5.2 A. Keep the coil under 2 A continuous and relay PWM off. K1 aux NC 21-22 goes from +24 V to J5.12, with R3 3.3 kΩ to 0 V for wetting current.
 - The meter's N reference comes from F1/F2 terminal 4. L2 doesn't pass through the meter.
+- RCM1 (RCM14-04, 20 mA AC / 56 mA DC) sits on the J1772 cable's L1 and L2 only. It runs from PS2 (12 V) and holds K2 energised; K2's 11–14 contact is in series with S1-b, so a fault, S3 test press, lost 12 V or open K2 coil trips J4.11.
+- H1 is wired through K1's aux NO 33-34, not a GPIO, so it shows real contactor state.
+- The design has no optional parts. Every BOM row is required.
 
 ## Session history
 

@@ -43,7 +43,7 @@ r("K1", 1, "Installation contactor, 2 NO, 63 A AC-1, 24 V AC/DC coil", "ABB ESB6
   notes="4 in stock; customs and tariffs included. Ships from Poland.")
 r("K1 aux", 1, "Aux contact, 1 NO + 1 NC", "ABB EH04-11N (1SAE901901R1011)", "TME (US site)",
   "https://www.tme.com/us/en-us/details/eh04-11n/contactors-installation-modular/abb/1sae901901r1011/", 26.12,
-  notes="105 in stock. Minimum load 17 V / 5 mA (reseller data).")
+  notes="NC 21-22 for weld detection, NO 33-34 for H1. 105 in stock. Minimum load 17 V / 5 mA (reseller data).")
 r("X1", 1, "J1772 tethered cable, 48 A, 25 ft", "Inteset 48 A replacement cable", "Amazon", "https://www.amazon.com/Inteset-Charger-Replacement-Original-Chargers/dp/B0FV116C88", 219.95,
   notes="Only 2 left. Listing doesn't say whether it has a latch sense wire. Alternative: Phoenix Contact cable at OpenEVSE, $229.00, 3–4 week backorder.",
   alt=[("OpenEVSE", "https://store.openevse.com/products/j1772-cable-48a-ultra-flexible")])
@@ -57,15 +57,24 @@ r("PS1", 1, "24 V DC DIN supply, 60 W", "Mean Well HDR-60-24", "Digi-Key", "http
   notes="No earth terminal (class II input). 2,367 in stock.")
 r("F1, F2", 1, "2-pole 2 A C-curve supplementary protector", "Eaton FAZ-C2/2", "AutomationDirect", AD + "circuit_protection_-z-_fuses_-z-_disconnects/circuit_breakers_-a-_circuit_protectors/miniature_supplementary_protectors/faz-c2-2", 46.00,
   notes="94 available. UL 489 version FAZ-C2/2-NA costs $86.00.")
-r("RCM1", 1, "6 mA DC residual current monitor, relay output", "Littelfuse / Western Automation RCM14-03", "Digi-Key", "https://www.digikey.com/en/products/detail/littelfuse-western-automation/RCM14-03/19183160", 36.38,
-  opt=True, notes="Not a drop-in part: it needs a 12 V supply and an interface circuit to J4.11, since its output is an open-drain signal, not a relay contact. 97 in stock.")
-r("—", 1, "Whole-home Type 2 surge protector", "Eaton CHSPT2ULTRA", "Amazon", "https://www.amazon.com/EATON-CHSPT2ULTRA-SURGE-PROTECTOR-108KA/dp/B00DJS8MGY", 180.00,
-  opt=True, notes="Mounts in the CH panel, not the enclosure. Third-party seller.")
+r("RCM1", 1, "Residual current monitor, UL 2231 CCID20 (20 mA AC / 56 mA DC), 14 mm aperture", "Western Automation / Littelfuse RCM14-04", "Digi-Key", DK + "RCM14-04", 36.38,
+  notes="12 V supply, JST XH connector, open-drain output that holds K2 on. L1 and L2 of the J1772 cable pass through it.")
+r("PS2", 1, "DIN DC-DC converter, 9–36 V in, 12 V 1.25 A", "Mean Well DDR-15G-12", "TRC Electronics", "https://www.trcelectronics.com/products/mean-well-ddr-15g-12", 26.27,
+  notes="Powers RCM1 and K2's coil from PS1. 139 in stock.")
+r("K2", 1, "DIN relay module, 12 V DC coil, 1 CO, gold-plated contacts", "Finder 38.51.7.012.5050", "Digi-Key", "https://www.digikey.com/en/products/detail/finder-relays-inc/38-51-7-012-5050/10822227", 21.36,
+  notes="Contact 11–14 sits in the E-stop loop. 30 in stock (not normally stocked). Phoenix PLC-RSC-12DC/21AU is equivalent but backordered.")
+r("—", 1, "JST XH 4-position housing for RCM1", "JST XHP-4", "Digi-Key", DK + "XHP-4", 0.10)
+r("—", 4, "Pre-crimped JST XH lead, 22 AWG", "JST ASXHSXH22K (length to suit)", "Digi-Key", DK + "ASXHSXH22K", 0.76,
+  notes="Price shown for the shortest length in the search; longer leads cost slightly more.")
+r("S3", 1, "22 mm momentary pushbutton, black, 1 NO (RCM1 test)", "AutomationDirect GCX1100", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/pushbuttons/gcx1100", 9.00,
+  notes="693 available. Puts 12 V on RCM1's test input.")
+r("—", 2, "Adhesive cable-tie mounts with ties", "any", "", "", None,
+  notes="Fix RCM1 to the enclosure base beside the J1772 gland. Not priced.")
 
 g("Sensors and operator")
 r("TT1, TT2", 2, "PT1000 2-wire adhesive patch sensor, 2 ft PFA leads", "P2A-TAPE-REC-PK-1-PFXX-24-STWL", "Evolution Sensors",
   "https://evosensors.com/products/2-wire-rtd-pt1000-surface-temperature-sensor-with-self-adhesive-patch-and-with-2-4-or-8ft-of-lead-wire", 50.00,
-  notes="Insulated, so the − leads float as the board requires.")
+  notes="TT1 on K1's body, TT2 on TB1-3. Insulated, so the − leads float as the board requires.")
 r("S1", 1, "22 mm E-stop, 40 mm mushroom, twist to release, 1 NC", "AutomationDirect GCX3131", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 12.00,
   notes="455 available. Positive-opening contacts. Mounts in the right wall, 80 mm below S2.")
 r("S1", 1, "Extra NC contact block for S1-a (2-pack)", "AutomationDirect ECX1030-2", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 8.75,
@@ -77,7 +86,7 @@ r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "Schneider XB5AA31", "Digi
 r("R3", 1, "3.3 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K3", "Digi-Key", DK + "MFR50SFTE52-3K3", 0.10,
   notes="7.3 mA through the aux contact, above its 5 mA minimum.")
 r("H1", 1, "22 mm LED pilot light, 24 V AC/DC, green", "AutomationDirect ECX2052-24L", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/indicating_lights/ecx2052-24l", 6.25,
-  opt=True, notes="1,230 available. Replaces the $52.92 Schneider XB5AVB3. Needs a GPIO output and EVerest configuration to show charging state.")
+  notes="1,230 available. Wired through K1's aux NO 33-34, so it lights whenever K1 is closed. No software needed.")
 
 g("Mechanical")
 r("—", 1, "NEMA 4X polycarbonate enclosure, 16 × 14 × 8.2 in, stainless latch", "Polycase ZH-161407-90", "Polycase", "https://www.polycase.com/zh-161407", 117.35,
@@ -120,8 +129,9 @@ for kind, d in G:
     rows.append(f'<tr><td>{html.escape(d["ref"])}</td><td>{d["qty"]}</td><td>{part}</td><td>{links}</td>'
                 f'<td class="num">{unit_s}</td><td class="num">{ext_s}</td><td>{html.escape(d["notes"])}</td></tr>')
 ship = 200 * FX
-rows.append(f'<tr class="total"><td colspan="5">Required parts</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the PE terminals, the DR-62 rail kits and the 18 AWG offcuts.</td></tr>')
-rows.append(f'<tr class="total"><td colspan="5">Optional parts</td><td class="num">{money(opt_total)}</td><td>E-stop, RCM1, surge protector, H1.</td></tr>')
+rows.append(f'<tr class="total"><td colspan="5">Total</td><td class="num">{money(req)}</td><td>Excludes tax, shipping, and items with no qty-1 price: the PE terminals, the DR-62 rail kits, the 18 AWG offcuts and the tie mounts.</td></tr>')
+if opt_total:
+    rows.append(f'<tr class="total"><td colspan="5">Optional parts</td><td class="num">{money(opt_total)}</td><td></td></tr>')
 table = ('<div class="tablewrap">\n<table class="bom">\n<thead><tr><th>Ref</th><th>Qty</th><th>Part</th><th>Buy at</th>'
          '<th>Unit</th><th>Ext.</th><th>Notes</th></tr></thead>\n<tbody>\n' + "\n".join(rows) + '\n</tbody>\n</table>\n</div>')
 

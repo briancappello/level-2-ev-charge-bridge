@@ -132,6 +132,69 @@ def sim_emg():
     return rows
 
 # ----------------------------------------------------------------------------------------
+# 1b. RCM1 (RCM14-04) and K2 in the E-stop loop: K2 11-14 is in series with S1-b
+# ----------------------------------------------------------------------------------------
+K2_COIL = 12 / 15.2e-3      # Finder 38.51.7.012: 15.2 mA at 12 V
+K2_PICKUP, K2_DROPOUT = 9.6, 1.2   # operating range minimum, must drop-out voltage (0.1 UN)
+RCM_RON = 2.0               # assumed on-resistance of RCM14-04's open-drain output (not published)
+
+def rcm_deck(vs, v12, fet_on, coil_ok=True, s1b=CLOSED):
+    # K2's contact follows coil current: pick-up and drop-out voltages divided by the coil resistance
+    i_on, i_off = K2_PICKUP / K2_COIL, K2_DROPOUT / K2_COIL
+    it = (i_on + i_off) / 2; ih = (i_on - i_off) / 2
+    return f"""* E-stop loop with K2 (driven by RCM1) in series with S1-b
+V24 vp 0 {vs}
+Rs1b vp a {s1b}
+Wk2 a b Vam CSWK2
+R1 b emg 2200
+R2a emg 0 2200
+R2b emg 0 2200
+R9 vp emg 100k
+R43 emg x 20k
+R76 x 0 1Meg
+D22 0 x DZ
+* 12 V side: PS2 -> K2 coil (A1 +, A2 -) -> RCM1 pin 4 open drain -> 0 V
+V12 v12 0 {v12}
+Vam v12 c2p 0
+Rcoil c2p c2n {K2_COIL if coil_ok else OPEN}
+Rfet c2n 0 {RCM_RON if fet_on else OPEN}
+.model CSWK2 CSW(IT={it} IH={ih} RON=0.05 ROFF=1e12)
+{ZENER}
+.control
+op
+print v(x) v(c2p) v(c2n) i(vam)
+.endc
+.end
+"""
+
+def sim_rcm():
+    rows = []
+    cases = [("Normal: RCM1 healthy, S1 closed", dict(v12=12, fet_on=True), "high"),
+             ("Residual-current fault or S3 pressed (RCM1 output off)", dict(v12=12, fet_on=False), "low"),
+             ("PS2 12 V supply lost", dict(v12=0, fet_on=False), "low"),
+             ("K2 coil open circuit", dict(v12=12, fet_on=True, coil_ok=False), "low"),
+             ("S1 pressed, RCM1 healthy", dict(v12=12, fet_on=True, s1b=OPEN), "low")]
+    worst = {}
+    for label, kw, want in cases:
+        xs = []
+        for vs in SUPPLY:
+            for v12 in ((11.76, 12.24) if kw.get("v12") else (0,)):
+                k = dict(kw); k["v12"] = v12
+                v, *_ = ngspice("rcm_k2_loop", rcm_deck(vs, **k))
+                xs.append(v["v(x)"])
+                if label.startswith("Normal"):
+                    worst["coil_v"] = min(worst.get("coil_v", 99), v["v(c2p)"] - v["v(c2n)"])
+                    worst["i_fet"] = max(worst.get("i_fet", 0), v["i(vam)"])
+        lo, hi = min(xs), max(xs)
+        ok = lo >= VT_HI if want == "high" else hi <= VT_LO
+        rows.append((label, hi if want == "low" else lo, want, ok))
+        check("RCM1 / K2", f"{label}: reads {want}", f"worst {(hi if want == 'low' else lo):.2f} V at the Schmitt input", ok)
+    check("RCM1 / K2", "K2 coil voltage stays above its 9.6 V pick-up at the PS2 tolerance limit (±2 %)",
+          f"{worst['coil_v']:.2f} V minimum", worst["coil_v"] >= K2_PICKUP)
+    check("RCM1 / K2", "RCM1 output current within its 100 mA rating", f"{worst['i_fet']*1e3:.1f} mA", worst["i_fet"] <= 0.1)
+    return rows
+
+# ----------------------------------------------------------------------------------------
 # 2. Relay 1 feedback (J5.12): board R68/R97/D32, our R3 and K1 aux NC 21-22
 # ----------------------------------------------------------------------------------------
 def fb_deck(src_v, src_r, aux, r3, r68=20e3, r97=1e6):
@@ -322,7 +385,7 @@ def decimate(pts, n=1500):
     step = max(1, len(pts) // n)
     return pts[::step]
 
-def build_section(emg_rows, fb_rows, cp, pt1000):
+def build_section(emg_rows, rcm_rows, fb_rows, cp, pt1000):
     cp_res, waves = cp
     curve, clip, worst = pt1000
     out = ['<h2 id="simulations">Circuit simulations</h2>',
@@ -341,7 +404,14 @@ def build_section(emg_rows, fb_rows, cp, pt1000):
     for lab, ve, vx, reads in emg_rows:
         out.append(f'<tr><td>{html.escape(lab)}</td><td>{ve:.2f} V</td><td>{vx:.2f} V</td><td>{html.escape(reads)}</td></tr>')
     out.append('</tbody></table></div>')
-    out.append('<p>R2a and R2b are in parallel so that either one alone still trips the input. With a single pull-down, its failing open would leave the board\'s 100 kΩ pull-up in control: an open loop would read normal, and nothing would show it while the loop is closed. Now it takes both failing. The step 9 trip test checks both are working.</p>')
+    out.append('<p>R2a and R2b are in parallel so that either one alone still trips the input. With a single pull-down, its failing open would leave the board\'s 100 kΩ pull-up in control: an open loop would read normal, and nothing would show it while the loop is closed. Now it takes both failing. The step 10 trip test checks both are working.</p>')
+
+    out.append('<h3>RCM1 and K2 (E-stop loop)</h3><p>RCM1 holds K2 energised through its open-drain output, and K2\'s 11–14 contact sits in series with S1-b. '
+               'Checked at 21.6–29 V on the 24 V side and 11.76–12.24 V from PS2. RCM1\'s output on-resistance isn\'t published; 2 Ω is assumed.</p>')
+    out.append('<div class="tablewrap"><table class="sim-t"><thead><tr><th>Condition</th><th>Schmitt input (worst)</th><th>Reads</th></tr></thead><tbody>')
+    for lab, vx, want, ok in rcm_rows:
+        out.append(f'<tr><td>{html.escape(lab)}</td><td>{vx:.2f} V</td><td>{want}</td></tr>')
+    out.append('</tbody></table></div><p>Every RCM1 failure that removes its hold on K2 trips the loop. The failure it can\'t catch on its own is RCM1\'s output stuck on; the S3 test in step 10 finds that, because K2 then won\'t drop.</p>')
 
     out.append('<h3>Relay 1 feedback (J5.12)</h3><div class="tablewrap"><table class="sim-t"><thead><tr><th>Wiring</th><th>Aux contact current</th><th>Input, K1 open</th><th>Input, K1 closed</th></tr></thead><tbody>')
     for lab, ima, vhi, vlo in fb_rows:
@@ -395,7 +465,7 @@ def main():
     args = ap.parse_args()
     if not NGSPICE:
         sys.exit("ngspice not found. Install it (Fedora: sudo dnf install ngspice; Debian/Ubuntu: sudo apt install ngspice).")
-    emg = sim_emg(); fb = sim_fb(); cp = sim_cp(); ptr = sim_pt1000()
+    emg = sim_emg(); rcm = sim_rcm(); fb = sim_fb(); cp = sim_cp(); ptr = sim_pt1000()
     w = max(len(c[1]) for c in CHECKS)
     for g, desc, val, ok in CHECKS:
         print(f"{'PASS' if ok else 'FAIL'}  {g:15} {desc:{w}}  {val}")
@@ -404,14 +474,19 @@ def main():
     if not args.check:
         p = ROOT / "cb-l2-evse.html"
         s = p.read_text()
-        sec = build_section(emg, fb, cp, ptr)
+        sec = build_section(emg, rcm, fb, cp, ptr)
         if '<h2 id="simulations">' in s:
             a = s.index('<h2 id="simulations">'); b = s.index('<h2 id="assembly">')
             s = s[:a] + sec + "\n\n" + s[b:]
         else:
             b = s.index('<h2 id="assembly">'); s = s[:b] + sec + "\n\n" + s[b:]
-        if ".sim-svg{" not in s:
-            s = s.replace("</style>", CSS + "</style>", 1)
+        start, end = "/* sim-css */", "/* /sim-css */"
+        block = f"{start}{CSS}{end}\n"
+        if start in s:
+            i = s.index(start); j = s.index(end, i) + len(end) + 1
+            s = s[:i] + block + s[j:]
+        else:
+            s = s.replace("</style>", block + "</style>", 1)
         p.write_text(s)
         print(f"updated {p.relative_to(ROOT)}")
     sys.exit(1 if failed else 0)
