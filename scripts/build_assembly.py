@@ -84,6 +84,10 @@ T["RJ45"] = (BX + 120, BY + 46)
 GL = {"G1": (85.0, "M40", 40.0, "14-50 cord"), "G2": (226.0, "M40", 40.0, "J1772 cable"),
       "G3": (350.0, "M20", 20.0, "Ethernet")}
 S2_POS = (W, RAIL["U"])
+S1_POS = (W, 175.0)        # E-stop, 80 mm below S2 on the right wall
+S2_BODY = (43, 30)          # depth behind wall, width (Schneider XB5AA31: 43 mm behind panel, 30 mm body)
+S1_BODY = (45, 30)          # AutomationDirect GCX3131 with two contact blocks side by side: 45 mm behind panel
+S1T = {"a.1": (W - 41, S1_POS[1] - 11), "a.2": (W - 41, S1_POS[1] - 4), "b.1": (W - 41, S1_POS[1] + 4), "b.2": (W - 41, S1_POS[1] + 11)}
 
 # ---- wires ------------------------------------------------------------------
 # (step, colour-class, width, label, points)
@@ -118,7 +122,10 @@ wire(5, "z", AWG18, [P("PS1.-V1"), (P("PS1.-V1")[0], 40), (129.5, 40), (129.5, 1
 wire(5, "pe", AWG18, [P("PS1.-V2"), (P("PS1.-V2")[0], 48), (67, 48), (67, 210), (P("PE3.t")[0], 210), P("PE3.t")], "0 V–PE bond")
 
 # step 6: control signals
-wire(6, "dc", AWG18, [P("J5.10"), (P("J5.10")[0], 28), (270, 28), (270, 197), (P("K1.A1")[0], 197), P("K1.A1")])
+wire(6, "dc", AWG18, [P("J5.10"), (P("J5.10")[0], 28), (340, 28), (340, S1T["a.1"][1]), S1T["a.1"]])
+wire(6, "dc", AWG18, [S1T["a.2"], (330, S1T["a.2"][1]), (330, 197), (P("K1.A1")[0], 197), P("K1.A1")])
+wire(6, "dc", AWG18, [P("PS1.+V2"), (P("PS1.+V2")[0], 50), (107, 50), (107, 4), (346, 4), (346, S1T["b.1"][1]), S1T["b.1"]])
+wire(6, "sig", AWG18, [S1T["b.2"], (336, S1T["b.2"][1]), (336, 8), (P("J4.11")[0], 8), (P("J4.11")[0], 20)], "S1-b to R1", (300, 7))
 wire(6, "z", AWG18, [P("K1.A2"), (P("K1.A2")[0], 296), (274, 296), (274, 24), (P("J5.9")[0], 24), P("J5.9")])
 wire(6, "dc", AWG18, [P("PS1.+V2"), (P("PS1.+V2")[0], 32), (278, 32), (278, 201), (P("AUX.21")[0], 201), P("AUX.21")])
 wire(6, "sig", AWG18, [P("AUX.22"), (P("AUX.22")[0], 300), (282, 300), (282, 20), (P("J5.12")[0], 20), P("J5.12")])
@@ -129,7 +136,7 @@ wire(6, "sig", AWG18, [(C["K1"]["x"] + 36, 262), (262, 262), (262, 156), ((P("J1
                        ((P("J11.2")[0] + P("J11.3")[0]) / 2, P("J11.2")[1])])
 wire(6, "sig", AWG18, [(g2 - 6, H - 14), (g2 - 6, 332), (266, 332), (266, 152), ((P("J11.4")[0] + P("J11.5")[0]) / 2, 152),
                        ((P("J11.4")[0] + P("J11.5")[0]) / 2, P("J11.4")[1])])
-wire(6, "sig", AWG18, [S2_POS, (300, S2_POS[1]), (300, 12), ((P("J4.10")[0] + P("J4.9")[0]) / 2, 12),
+wire(6, "sig", AWG18, [(W - S2_BODY[0], S2_POS[1]), (300, S2_POS[1]), (300, 12), ((P("J4.10")[0] + P("J4.9")[0]) / 2, 12),
                        ((P("J4.10")[0] + P("J4.9")[0]) / 2, P("J4.10")[1])], "S2 pair", (330, 93))
 wire(7, "com", 2.4, [T["RJ45"], (GL["G3"][0], T["RJ45"][1]), (GL["G3"][0], H)], "Ethernet")
 
@@ -218,8 +225,13 @@ def frame(extra_h=0):
     for gid, (gx, size, dia, lab) in GL.items():
         s.append(f'<rect class="as-gland" x="{r(gx-dia/2-3)}" y="{H}" width="{r(dia+6)}" height="12" rx="2"/>')
         s.append(f'<text class="as-t" x="{r(gx)}" y="{H+20}" text-anchor="middle">{size}: {lab}</text>')
-    s.append(f'<rect class="as-gland" x="{W}" y="{r(S2_POS[1]-11.25)}" width="9" height="22.5" rx="2"/>'
-             f'<text class="as-t" x="{W+12}" y="{r(S2_POS[1]+2)}">S2</text>')
+    for lab, (px, py), (dep, wid), head in (("S2", S2_POS, S2_BODY, 22.5), ("S1", S1_POS, S1_BODY, 40)):
+        s.append(f'<rect class="as-old" x="{r(px-dep)}" y="{r(py-wid/2)}" width="{dep}" height="{wid}" rx="1.5"/>'
+                 f'<rect class="as-gland" x="{W}" y="{r(py-head/2)}" width="9" height="{head}" rx="3"/>'
+                 f'<text class="as-t" x="{W+12}" y="{r(py+2)}">{lab}</text>')
+    s.append(f'<path class="as-scale" d="M{r(W-41)} {r(S1_POS[1])} H{W}"/>'
+             f'<text class="as-t" x="{r(W-24)}" y="{r(S1_POS[1]-6.5)}" text-anchor="middle">a</text>'
+             f'<text class="as-t" x="{r(W-24)}" y="{r(S1_POS[1]+10)}" text-anchor="middle">b</text>')
     # scale bar
     s.append(f'<path class="as-scale" d="M10 {H+42} h100 M10 {H+38} v8 M60 {H+40} v4 M110 {H+38} v8"/>'
              f'<text class="as-t" x="115" y="{H+45}">100 mm</text>')
@@ -266,8 +278,8 @@ step(1, "Prepare the enclosure",
      """<ol>
 <li>Hold a DR-62 rail across the base on the mounting bosses. Rail centre lines are drawn 150 mm apart, at 95 mm and 245 mm from the top inside wall. <span class="verify">Check that the ZH-161407 base has bosses for both rails before drilling anything. If it only has centred bosses, use the ZX-1614K internal panel and screw both rails to it.</span></li>
 <li>Drill the bottom wall for the glands: two M40 holes (about 40.5 mm) and one M20 hole (about 20.5 mm). Put the centres 40 mm out from the base and at 85 mm, 226 mm and 350 mm from the left inside wall. The M40 lock nuts are 50 mm across, so keep the centres at least 55 mm apart.</li>
-<li>Drill a 22.5 mm hole in the right wall for S2, level with the upper rail and 100 mm out from the base. The button needs 43 mm of depth behind the wall.</li>
-<li>Fit the glands and S2, then fit both rails. The drill sizes are the usual thread size plus 0.5 mm; Bimed doesn't publish a clearance hole size.</li>
+<li>Drill two 22.5 mm holes in the right wall, both 100 mm out from the base. S2 goes level with the upper rail (95 mm from the top inside wall) and needs 43 mm behind the wall. S1, the E-stop, goes 80 mm below it (175 mm from the top) and needs 45 mm behind the wall with its two contact blocks side by side. Mirror both onto the left wall if that's the side that will face you.</li>
+<li>Fit the glands, S2 and S1, then fit both rails. Clip S1's second NC block (ECX1030) beside the first, not behind it. The drill sizes are the usual thread size plus 0.5 mm; Bimed doesn't publish a clearance hole size.</li>
 </ol>""",
      svg(1, [], [], "Enclosure interior with rails, gland holes and S2 hole", s1_extra))
 
@@ -314,7 +326,14 @@ step(5, "Wire the 24 V supply (18 AWG)",
 
 # Step 6
 r3 = P("J5.12"), P("J5.9")
-s6_extra = (f'<rect class="as-res" x="{r(r3[0][0])}" y="{r(r3[0][1]-11)}" width="{r(r3[1][0]-r3[0][0])}" height="4" rx="1"/>'
+j411, j49 = P("J4.11"), P("J4.9")
+s6_extra_estop = (f'<rect class="as-res" x="{r(j411[0]-2)}" y="20" width="4" height="14" rx="1"/>'
+                  f'<path class="as-wire" stroke="var(--sig)" stroke-width="1.3" d="M{r(j411[0])} 34 V{r(j411[1])}"/>'
+                  f'<text class="as-t" x="{r(j411[0]-3)}" y="28" text-anchor="end">R1</text>'
+                  f'<rect class="as-res" x="{r(j411[0])}" y="{r(j411[1]-6)}" width="{r(j49[0]-j411[0])}" height="2.2" rx=".6"/>'
+                  f'<rect class="as-res" x="{r(j411[0])}" y="{r(j411[1]-10)}" width="{r(j49[0]-j411[0])}" height="2.2" rx=".6"/>'
+                  f'<text class="as-t" x="{r(j49[0]+2)}" y="{r(j411[1]-6)}">R2a, R2b</text>')
+s6_extra = s6_extra_estop + (f'<rect class="as-res" x="{r(r3[0][0])}" y="{r(r3[0][1]-11)}" width="{r(r3[1][0]-r3[0][0])}" height="4" rx="1"/>'
             f'<text class="as-t" x="{r((r3[0][0]+r3[1][0])/2)}" y="{r(r3[0][1]-13)}" text-anchor="middle">R3</text>')
 tt = C["K1"]
 s6_extra += (f'<rect x="{r(tt["x"]+33)}" y="258" width="7" height="8" fill="var(--sheet)" stroke="var(--sig)" stroke-width="1"/>'
@@ -323,14 +342,14 @@ s6_extra += (f'<rect x="{r(tt["x"]+33)}" y="258" width="7" height="8" fill="var(
              f'<text class="as-t" x="{r(GL["G2"][0]-33)}" y="{H-12}">TT2</text>')
 step(6, "Wire the control signals",
      """<ol>
-<li><strong>Contactor coil:</strong> run J5.10 to K1 A1, and K1 A2 to J5.9.</li>
+<li><strong>Contactor coil through the E-stop:</strong> run J5.10 to S1-a (S1's upper contact block), S1-a on to K1 A1, and K1 A2 back to J5.9. Pressing S1 cuts the coil directly.</li>
+<li><strong>E-stop signal:</strong> run a second wire from PS1's second +V terminal (sharing a twin ferrule with the aux feed) to S1-b, S1's lower contact block. Run S1-b's other side to R1 at J4.11. Fit R2a and R2b separately, each from J4.11 to J4.9. Put each terminal's leads and wire into one ferrule (at most 1.5 mm²). Keep R2a and R2b as two separate resistors; don't solder them together into one part, or a single bad joint could take out both.</li>
 <li><strong>Weld detection:</strong> run PS1's second +V terminal to aux 21, and aux 22 to J5.12. Put R3 (3.3 kΩ) across J5.12 and J5.9, sharing each screw with the wire in a twin ferrule.</li>
 <li><strong>Meter:</strong> run the Belden 9841 pair from M1 terminals 5 (A) and 6 (B) to J4.8 (A) and J4.7 (B). Tie the shield to M1 terminal 7 at the meter end only.</li>
 <li><strong>Pilot:</strong> run the J1772 cable's CP conductor to J11.6. If the cable has a latch-sense conductor, land it on J11.7. Keep these runs away from the 8 AWG conductors.</li>
 <li><strong>Temperature:</strong> stick TT1 on K1's body beside terminals 2/4 and wire it to J11.2/J11.3. Stick TT2 on the J1772 cable jacket just inside the gland and wire it to J11.4/J11.5. Neither lead goes to ground.</li>
 <li><strong>Stop button:</strong> wire S2's NO contact to J4.10 and J4.9.</li>
-<li><strong>Not used:</strong> leave J4.11 (EMG IN), J11.8 (ZC) and the HV inputs J1/J6 unconnected.</li>
-<li><strong>Optional E-stop or RCM1:</strong> wire it as Sheet 2 shows. Fit R1 between the NC loop wire and J4.11, and R2a and R2b separately, each from J4.11 to J4.9. Put each terminal's leads and wire into one ferrule (at most 1.5 mm²). Keep R2a and R2b as two separate resistors; don't solder them together into one part, or a single bad joint could take out both.</li>
+<li><strong>Not used:</strong> leave J11.8 (ZC) and the HV inputs J1/J6 unconnected.</li>
 </ol>""",
      svg(6, [], ORDER + UPPER, "Control signal wiring: coil, feedback, RS-485, pilot, temperature sensors, stop button", s6_extra))
 
@@ -359,7 +378,7 @@ step(9, "Bring it up on 24 V only",
 <li>Check that the PC finds the module and that EVerest starts.</li>
 <li>Plug the J1772 handle into an EV simulator. In state B (2.74 kΩ + diode), the pilot should read +9 V and then show a 66.7% duty cycle. In state C (with 1.3 kΩ added), K1 should pull in with an audible click, feedback 1 should read closed, and TT1/TT2 should read room temperature.</li>
 <li>Press S2: K1 should drop out. Pull the handle out: the session should end.</li>
-<li>If S1 or RCM1 is fitted: start a session, then press S1. K1 should drop out, and EVerest should report an emergency stop that stays latched until you unplug. Reset S1 and repeat with RCM1's test button. This trip test is what shows the pull-downs work; repeat it after moving the unit and every few months.</li>
+<li>Start a session, then press S1. K1 should drop out, and EVerest should report an emergency stop that stays latched until you unplug. Twist S1 to reset it, unplug and replug the handle, and confirm charging resumes. This trip test is what shows the pull-downs work; repeat it after moving the unit and every few months.</li>
 <li>Unplug the J10 supply.</li>
 </ol>""")
 

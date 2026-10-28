@@ -58,7 +58,7 @@ r("PS1", 1, "24 V DC DIN supply, 60 W", "Mean Well HDR-60-24", "Digi-Key", "http
 r("F1, F2", 1, "2-pole 2 A C-curve supplementary protector", "Eaton FAZ-C2/2", "AutomationDirect", AD + "circuit_protection_-z-_fuses_-z-_disconnects/circuit_breakers_-a-_circuit_protectors/miniature_supplementary_protectors/faz-c2-2", 46.00,
   notes="94 available. UL 489 version FAZ-C2/2-NA costs $86.00.")
 r("RCM1", 1, "6 mA DC residual current monitor, relay output", "Littelfuse / Western Automation RCM14-03", "Digi-Key", "https://www.digikey.com/en/products/detail/littelfuse-western-automation/RCM14-03/19183160", 36.38,
-  opt=True, notes="97 in stock. RCM14-01 is the same price.")
+  opt=True, notes="Not a drop-in part: it needs a 12 V supply and an interface circuit to J4.11, since its output is an open-drain signal, not a relay contact. 97 in stock.")
 r("—", 1, "Whole-home Type 2 surge protector", "Eaton CHSPT2ULTRA", "Amazon", "https://www.amazon.com/EATON-CHSPT2ULTRA-SURGE-PROTECTOR-108KA/dp/B00DJS8MGY", 180.00,
   opt=True, notes="Mounts in the CH panel, not the enclosure. Third-party seller.")
 
@@ -67,16 +67,17 @@ r("TT1, TT2", 2, "PT1000 2-wire adhesive patch sensor, 2 ft PFA leads", "P2A-TAP
   "https://evosensors.com/products/2-wire-rtd-pt1000-surface-temperature-sensor-with-self-adhesive-patch-and-with-2-4-or-8ft-of-lead-wire", 50.00,
   notes="Insulated, so the − leads float as the board requires.")
 r("S1", 1, "22 mm E-stop, 40 mm mushroom, twist to release, 1 NC", "AutomationDirect GCX3131", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 12.00,
-  opt=True, notes="455 available. Replaces the $121 Schneider. Omit it and unplug the 14-50 instead if you prefer.")
+  notes="455 available. Positive-opening contacts. Mounts in the right wall, 80 mm below S2.")
 r("S1", 1, "Extra NC contact block for S1-a (2-pack)", "AutomationDirect ECX1030-2", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/emergency_stop_pushbuttons/gcx3131", 8.75,
-  opt=True, notes="Fits GCX. 607 available.")
+  notes="Second NC block for S1-a; clips beside the first. 607 available.")
 r("R1, R2a, R2b", 3, "2.2 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-2K2", "Digi-Key", DK + "MFR50SFTE52-2K2", 0.10,
-  opt=True, notes="Only needed if S1 or RCM1 is fitted. R2a and R2b are parallel pull-downs, so either alone still trips.")
+  notes="R1 in series to J4.11; R2a and R2b are parallel pull-downs, so either alone still trips.")
 r("S2", 1, "22 mm momentary pushbutton, black, 1 NO", "Schneider XB5AA31", "Digi-Key", DK + "XB5AA31", 28.30,
   notes="Replaces the key switch; the stop input needs a momentary contact.")
 r("R3", 1, "3.3 kΩ 1% 0.5 W metal film", "Yageo MFR50SFTE52-3K3", "Digi-Key", DK + "MFR50SFTE52-3K3", 0.10,
   notes="7.3 mA through the aux contact, above its 5 mA minimum.")
-r("H1", 1, "22 mm LED pilot light, 24 V, green", "Schneider XB5AVB3", "Digi-Key", DK + "XB5AVB3", 52.92, opt=True)
+r("H1", 1, "22 mm LED pilot light, 24 V AC/DC, green", "AutomationDirect ECX2052-24L", "AutomationDirect", AD + "pushbuttons_-z-_switches_-z-_indicators/indicating_lights/ecx2052-24l", 6.25,
+  opt=True, notes="1,230 available. Replaces the $52.92 Schneider XB5AVB3. Needs a GPIO output and EVerest configuration to show charging state.")
 
 g("Mechanical")
 r("—", 1, "NEMA 4X polycarbonate enclosure, 16 × 14 × 8.2 in, stainless latch", "Polycase ZH-161407-90", "Polycase", "https://www.polycase.com/zh-161407", 117.35,
